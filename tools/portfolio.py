@@ -117,7 +117,7 @@ def main():
                 avg_txt = f"{avg_w:.2f}" + (" *" if a["partial"] else "")
                 pnl_txt = f"{(a['price'] / avg_w - 1) * 100:+.1f} %"
             elif a["qty_known"]:
-                avg_txt, pnl_txt = "0 (spin-off)", "–"
+                avg_txt, pnl_txt = "0 (spin-off)", "celé zisk"
             else:
                 avg_txt, pnl_txt = "?", "–"
             if t.startswith("CASH_"):
@@ -125,12 +125,14 @@ def main():
             out.append(f"| {t} | {a['name']} | {a['price']:.2f} {a['ccy']} | {avg_txt} | "
                        f"{czk(a['value_czk'])} | {a['value_czk'] / total * 100:.1f} % | "
                        f"{', '.join(sorted(set(a['accounts'])))} | {pnl_txt} |")
-        known = [r for r in orows if r["avg_main"] and not r["ticker"].startswith("CASH_")]
+        # spin-offy (nákupka 0) se počítají celou hodnotou jako zisk
+        known = [r for r in orows if r["avg_main"] is not None and not r["ticker"].startswith("CASH_")]
         if known:
             cost_czk = sum(r["qty"] * r["avg_main"] * fx[r["ccy"]] for r in known)
             val_czk = sum(r["value_czk"] for r in known)
             out.append(f"\n**Nerealizovaný P&L (pozice se známou nákupkou, při dnešních kurzech):** "
-                       f"{czk(val_czk - cost_czk)} CZK ({(val_czk / cost_czk - 1) * 100:+.1f} %)")
+                       f"{czk(val_czk - cost_czk)} CZK ({(val_czk / cost_czk - 1) * 100:+.1f} % na vloženou částku "
+                       f"{czk(cost_czk)} CZK; spin-offy celou hodnotou jako zisk)")
 
         sect = defaultdict(float)
         for r in orows:

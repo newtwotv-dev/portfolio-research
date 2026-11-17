@@ -57,13 +57,13 @@ accounts:
       - { ticker: TKA,  qty: 68.29396789, avg_price: 7.65 }
       - { ticker: RHM,  qty: 0.73386841,  avg_price: 808.22 }
       - { ticker: INTR, qty: 6.26802189,  avg_price: 5.65 }
-      - { ticker: TKMS, qty: 2.75732783,  avg_price: 0, note: "spin-off z thyssenkrupp, T212 vede nulovou nákupku" }
+      - { ticker: TKMS, qty: 2.75732783,  avg_price: 0, note: "spin-off z thyssenkrupp, nákupka 0 = celá hodnota je zisk" }
       - { ticker: AQST, qty: 154.90497572, avg_price: 3.13 }
       - { ticker: CSG,  qty: 49.13090246, avg_price: 14.51 }
-      - { ticker: GUTS, qty: 3.67107195,  avg_price: null, note: "nákupka uříznutá na screenshotu ($2,xx) – doplnit" }
+      - { ticker: GUTS, qty: 3.67107195,  avg_price: null, note: "přesná nákupka neznámá; podle Tomáše cca −90 % (pozice zanedbatelná)" }
       - { ticker: LIME, qty: 25.00767543, avg_price: 21.91 }
       - { ticker: NU,   qty: 28.28745092, avg_price: 11.35 }
-      - { ticker: TKCC, qty: 1.75732783,  avg_price: 0, note: "spin-off z thyssenkrupp, T212 vede nulovou nákupku" }
+      - { ticker: TKCC, qty: 1.75732783,  avg_price: 0, note: "spin-off z thyssenkrupp, nákupka 0 = celá hodnota je zisk" }
 
   - id: t212_michal
     broker: Trading 212
