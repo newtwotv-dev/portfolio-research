@@ -1,0 +1,47 @@
+# Zdroje dat a jejich priorita.
+
+gmail:
+  account: reports@klubinvestoru.com
+  note: >
+    Většina reportů chodí jako přeposlané maily (FW:) od martinec@jtfg.com.
+    Skutečný autor je v těle mailu v řádku "From:" – ten uváděj jako zdroj.
+    Hlavní obsah bývá v PDF příloze.
+  forwarders:
+    - martinec@jtfg.com
+  # Priorita podle původního autora (z řádku From: v těle FW mailu)
+  priority:
+    high:
+      - "Goldman Sachs (alerts.publishing.gs.com)"
+      - "Morgan Stanley (morganstanley.com)"
+      - "J.P. Morgan (jpmorgan.com)"
+      - "Société Générale (sgmarkets.com) – vč. Albert Edwards, SG Commodities, SG Global Economics"
+      - "Gavekal (gavekal.com)"
+      - "BCA Research (bcaresearch.com)"
+    medium:
+      - "Alpine Macro (alpinemacro.com)"
+      - "ING Economics (ingthink.com)"
+      - "HSBC (hsbc.com)"
+      - "UBP (ubp.com)"
+      - "Fidelity (fil.com)"
+    company_alerts:
+      - "Simply Wall St (simplywall.st) – firemní alerty, filtrovat na portfolio"
+    newsletters_low:
+      - "Fiscal.ai, Buyside Digest, Substack (Asian Century Stocks aj.) – číst jen když zmiňují portfolio nebo watchlist"
+  ignore:
+    - "pozvánky na webcasty/konference bez obsahu (registrace, 'Registration Open') – zalogovat jen titulek"
+    - "marketingové maily, potvrzení odběru"
+
+quartr:
+  use_for:
+    - "výsledky, prezentace, výroční zprávy (list_documents, read_document, get_document_summary)"
+    - "transcripty earnings callů (read_transcript, get_event_summary)"
+    - "kalendář událostí (list_events)"
+    - "standardizované finance (get_financials)"
+  note: "Firmu vždy nejdřív dohledej přes search_companies nebo použij quartr_id z universe.yaml. Odkazy z Quartru uváděj jako zdroj."
+
+web:
+  use_for:
+    - "ceny akcií, indexů, FX, výnosů dluhopisů, komodit, BTC"
+    - "zprávy a oznámení k firmám mimo Quartr (SMSH, TNEK)"
+    - "makro kalendář (Fed, ECB, CPI, NFP, PMI)"
+  note: "Preferuj primární zdroje (IR stránky, burzovní oznámení, regulátory), pak Reuters/Bloomberg/FT/CNBC."

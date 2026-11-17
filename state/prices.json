@@ -1,0 +1,11 @@
+{
+  "as_of": "2026-11-16 (počáteční hodnoty z výpisů brokerů; USD/EUR odvozené z celkových hodnot T212, ILS a KRW orientační – první běh přepíše)",
+  "fx_to_czk": { "USD": 22.18, "EUR": 24.43, "DKK": 3.274, "ILS": 6.3, "KRW": 0.0158 },
+  "prices": {
+    "BABA": 90.92, "SOFI": 14.83, "PFE": 28.9, "VTS": 15.08, "MC": 404, "TKA": 11.815,
+    "RHM": 769.7, "INTR": 3.96, "TKMS": 76, "AQST": 3.78, "CSG": 10.044, "GUTS": 0.9748,
+    "LIME": 19.9, "NU": 12.59, "TKCC": 25.42, "SPYY": 288, "CSPX": 808.41, "COIN": 119.26,
+    "TUI1": 7.466, "IOVA": 7.48, "MU": 721.04, "VST": 129.07, "SMSH": 16.04, "IBKR": 76.04,
+    "NOVO": 272.4
+  }
+}

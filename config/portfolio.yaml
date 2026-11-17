@@ -1,0 +1,83 @@
+# Pozice po účtech. Zdroj pravdy pro množství a nákupní ceny.
+# Aktualizuj při každém "koupil jsem / prodal jsem" povelu nebo novém výpisu od brokera.
+# avg_price = průměrná nákupní cena v měně instrumentu (null = neznámá, doplnit).
+# Tickery odpovídají klíčům v config/universe.yaml.
+
+as_of: 2026-11-16
+base_currency: CZK
+
+owners:
+  tomas:
+    name: Tomáš
+    note: Vlastní portfolio.
+  michal:
+    name: Michal (bratr)
+    note: Bratrovo portfolio, spravuje Tomáš. Reportovat zvlášť.
+
+accounts:
+  - id: ibkr
+    broker: Interactive Brokers
+    owner: tomas
+    as_of: 2026-11-17
+    cash: { USD: 7.63 }
+    positions:
+      - { ticker: SMSH, qty: 28, avg_price: 1721.57, price_unit: ILA, note: "TASE kotuje v agorotech (ILA = 1/100 ILS)" }
+      - { ticker: SOFI, qty: 12, avg_price: 18.71 }
+      - { ticker: IBKR, qty: 0.0177, avg_price: 72.88, note: "frakce, zanedbatelná" }
+
+  - id: xtb
+    broker: XTB
+    owner: tomas
+    as_of: 2026-11-17
+    positions:
+      - { ticker: CSG,  qty: 17.3381, avg_price: 14.174 }
+      - { ticker: IOVA, qty: 48,      avg_price: 12.40 }
+      - { ticker: MU,   qty: 0.282,   avg_price: 752.86 }
+      - { ticker: NOVO, qty: 3.1048,  avg_price: 336.35 }
+
+  - id: etoro
+    broker: eToro
+    owner: tomas
+    as_of: 2026-11-17
+    positions:
+      - { ticker: AQST, qty: 36.650485, avg_price: 4.12, opened: 2026-10-21 }
+
+  - id: t212_tomas
+    broker: Trading 212
+    owner: tomas
+    as_of: 2026-11-16
+    note: "Výpis neobsahuje nákupní ceny – avg_price doplnit z aplikace."
+    positions:
+      - { ticker: BABA, qty: 3.2453468,   avg_price: null }
+      - { ticker: SOFI, qty: 52.91986128, avg_price: null }
+      - { ticker: PFE,  qty: 1.867551,    avg_price: null }
+      - { ticker: VTS,  qty: 9.427203,    avg_price: null }
+      - { ticker: MC,   qty: 0.5149949,   avg_price: null }
+      - { ticker: TKA,  qty: 68.29396789, avg_price: null }
+      - { ticker: RHM,  qty: 0.73386841,  avg_price: null }
+      - { ticker: INTR, qty: 6.26802189,  avg_price: null }
+      - { ticker: TKMS, qty: 2.75732783,  avg_price: null }
+      - { ticker: AQST, qty: 154.90497572, avg_price: null }
+      - { ticker: CSG,  qty: 49.13090246, avg_price: null }
+      - { ticker: GUTS, qty: 3.67107195,  avg_price: null }
+      - { ticker: LIME, qty: 25.00767543, avg_price: null }
+      - { ticker: NU,   qty: 28.28745092, avg_price: null }
+      - { ticker: TKCC, qty: 1.75732783,  avg_price: null }
+
+  - id: t212_michal
+    broker: Trading 212
+    owner: michal
+    as_of: 2026-11-16
+    note: "Výpis neobsahuje nákupní ceny."
+    positions:
+      - { ticker: SPYY, qty: 0.96569186, avg_price: null }
+      - { ticker: SOFI, qty: 2.80059032, avg_price: null }
+      - { ticker: CSPX, qty: 0.19182358, avg_price: null }
+      - { ticker: COIN, qty: 0.12578467, avg_price: null }
+      - { ticker: TUI1, qty: 3.23203856, avg_price: null }
+      - { ticker: RHM,  qty: 0.0851247,  avg_price: null }
+      - { ticker: CSG,  qty: 3.57470683, avg_price: null }
+      - { ticker: NU,   qty: 2.04878811, avg_price: null }
+      - { ticker: IOVA, qty: 2.04169382, avg_price: null }
+      - { ticker: MU,   qty: 0.0328449,  avg_price: null }
+      - { ticker: VST,  qty: 0.17997611, avg_price: null }

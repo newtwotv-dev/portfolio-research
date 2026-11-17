@@ -1,0 +1,6 @@
+# Stažené reporty a jejich text do repa nepatří (copyright, velikost)
+*.pdf
+/tmp/
+reports_raw/
+__pycache__/
+.DS_Store

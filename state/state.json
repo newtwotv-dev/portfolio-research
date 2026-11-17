@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "research_inbox": {
+    "last_processed_at": null,
+    "last_run": null,
+    "last_run_stats": null,
+    "processed_thread_ids": []
+  },
+  "portfolio_tracker": { "last_run": null },
+  "market_brief": { "last_run": null, "last_period_end": null },
+  "weekly": { "last_run": null, "last_totals": null },
+  "watchlist_snapshot": {
+    "as_of": "2026-11-17",
+    "quartr_ids": [3875, 4189, 13633, 22606, 11343, 4196, 25241, 4144, 14225, 12480, 12753, 3609, 5065, 5770, 21594, 21954, 5199, 3840]
+  },
+  "onboarding_queue": ["TNEK", "SOFI", "TKA", "CSG", "AQST", "RHM", "LIME", "IOVA", "NU", "BABA", "TKMS", "MC", "MU", "VTS", "SMSH", "NOVO", "PFE", "TKCC", "INTR", "GUTS", "VST", "TUI1", "COIN"],
+  "deep_dive_queue": ["TNEK", "SOFI", "TKA", "CSG", "AQST", "RHM", "LIME", "IOVA", "NU", "BABA", "TKMS", "MC", "MU", "VTS", "SMSH", "NOVO", "PFE", "TKCC", "INTR", "GUTS", "VST", "TUI1", "COIN"],
+  "pending_mentions": [],
+  "notes": "Fronty seřazené podle váhy v Tomášově portfoliu k 16. 11. 2026. TNEK první, protože jde o plánovaný nákup. VST, TUI1 a COIN drží jen Michal."
+}
