@@ -70,21 +70,19 @@ def main():
             price = px[t]
             value_czk = pos["qty"] * price * fx[ccy]
             avg = pos.get("avg_price")
-            pnl_pct = None
-            if avg:
-                avg_main = to_main_unit(avg, pos.get("price_unit") or meta.get("price_unit"))
-                pnl_pct = (price / avg_main - 1) * 100
+            avg_main = None if avg is None else to_main_unit(avg, pos.get("price_unit") or meta.get("price_unit"))
+            pnl_pct = (price / avg_main - 1) * 100 if avg_main else None
             rows.append({
                 "owner": acc["owner"], "account": acc["id"], "ticker": t,
                 "name": meta.get("name", t), "sector": meta.get("group") or meta.get("sector", "?"),
                 "qty": pos["qty"], "price": price, "ccy": ccy,
-                "value_czk": value_czk, "pnl_pct": pnl_pct,
+                "value_czk": value_czk, "pnl_pct": pnl_pct, "avg_main": avg_main,
             })
         for ccy, amt in (acc.get("cash") or {}).items():
             if ccy in fx:
                 rows.append({"owner": acc["owner"], "account": acc["id"], "ticker": f"CASH_{ccy}",
                              "name": f"Hotovost {ccy}", "sector": "Hotovost", "qty": amt, "price": 1,
-                             "ccy": ccy, "value_czk": amt * fx[ccy], "pnl_pct": None})
+                             "ccy": ccy, "value_czk": amt * fx[ccy], "pnl_pct": None, "avg_main": None})
 
     out = [f"_Ocenění k {prices.get('as_of', '?')}, kurzy: " +
            ", ".join(f"{k}/CZK {v}" for k, v in fx.items()) + "_\n"]
@@ -97,20 +95,42 @@ def main():
         out.append(f"\n### {owner['name']} – celkem {czk(total)} CZK\n")
 
         # agregace po tickeru napříč účty
-        agg = defaultdict(lambda: {"value_czk": 0.0, "accounts": [], "pnl": []})
+        # agregace po tickeru napříč účty; vážená průměrná nákupka z účtů se známou cenou
+        agg = defaultdict(lambda: {"value_czk": 0.0, "accounts": [], "qty": 0.0,
+                                   "cost": 0.0, "qty_known": 0.0, "partial": False})
         for r in orows:
             a = agg[r["ticker"]]
             a["value_czk"] += r["value_czk"]
             a["accounts"].append(r["account"])
+            a["qty"] += r["qty"]
             a.update(name=r["name"], price=r["price"], ccy=r["ccy"], sector=r["sector"])
-            if r["pnl_pct"] is not None:
-                a["pnl"].append(f"{r['account']}: {r['pnl_pct']:+.1f} %")
-        out.append("| Ticker | Název | Cena | Hodnota CZK | Váha | Účty | Nerealiz. P&L |")
-        out.append("|---|---|---|---:|---:|---|---|")
+            if r["avg_main"] is None:
+                a["partial"] = not r["ticker"].startswith("CASH_")
+            else:
+                a["cost"] += r["qty"] * r["avg_main"]
+                a["qty_known"] += r["qty"]
+        out.append("| Ticker | Název | Cena | Prům. nákupka | Hodnota CZK | Váha | Účty | Nerealiz. P&L |")
+        out.append("|---|---|---|---|---:|---:|---|---:|")
         for t, a in sorted(agg.items(), key=lambda kv: -kv[1]["value_czk"]):
-            out.append(f"| {t} | {a['name']} | {a['price']:.2f} {a['ccy']} | "
+            if a["qty_known"] and a["cost"]:
+                avg_w = a["cost"] / a["qty_known"]
+                avg_txt = f"{avg_w:.2f}" + (" *" if a["partial"] else "")
+                pnl_txt = f"{(a['price'] / avg_w - 1) * 100:+.1f} %"
+            elif a["qty_known"]:
+                avg_txt, pnl_txt = "0 (spin-off)", "–"
+            else:
+                avg_txt, pnl_txt = "?", "–"
+            if t.startswith("CASH_"):
+                avg_txt = "–"
+            out.append(f"| {t} | {a['name']} | {a['price']:.2f} {a['ccy']} | {avg_txt} | "
                        f"{czk(a['value_czk'])} | {a['value_czk'] / total * 100:.1f} % | "
-                       f"{', '.join(sorted(set(a['accounts'])))} | {'; '.join(a['pnl']) or '–'} |")
+                       f"{', '.join(sorted(set(a['accounts'])))} | {pnl_txt} |")
+        known = [r for r in orows if r["avg_main"] and not r["ticker"].startswith("CASH_")]
+        if known:
+            cost_czk = sum(r["qty"] * r["avg_main"] * fx[r["ccy"]] for r in known)
+            val_czk = sum(r["value_czk"] for r in known)
+            out.append(f"\n**Nerealizovaný P&L (pozice se známou nákupkou, při dnešních kurzech):** "
+                       f"{czk(val_czk - cost_czk)} CZK ({(val_czk / cost_czk - 1) * 100:+.1f} %)")
 
         sect = defaultdict(float)
         for r in orows:
@@ -124,6 +144,7 @@ def main():
         out.append("\n**Po účtech:** " + ", ".join(
             f"{a} {czk(v)} CZK" for a, v in sorted(accs.items(), key=lambda kv: -kv[1])))
 
+    out.append("\n_* průměr jen z účtů se známou nákupkou_")
     if missing:
         out.append(f"\n⚠️ Chybí cena nebo kurz pro: {', '.join(sorted(missing))}")
 

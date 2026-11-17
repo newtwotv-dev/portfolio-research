@@ -1,6 +1,7 @@
 # Pozice po účtech. Zdroj pravdy pro množství a nákupní ceny.
 # Aktualizuj při každém "koupil jsem / prodal jsem" povelu nebo novém výpisu od brokera.
-# avg_price = průměrná nákupní cena v měně instrumentu (null = neznámá, doplnit).
+# avg_price = průměrná nákupní cena v měně instrumentu za daný účet (null = neznámá, doplnit,
+#             0 = nulová nákupka, např. spin-off). Vážený průměr napříč účty počítá tools/portfolio.py.
 # Tickery odpovídají klíčům v config/universe.yaml.
 
 as_of: 2026-11-16
@@ -46,38 +47,38 @@ accounts:
     broker: Trading 212
     owner: tomas
     as_of: 2026-11-16
-    note: "Výpis neobsahuje nákupní ceny – avg_price doplnit z aplikace."
+    note: "Nákupky doplněny ze screenshotu aplikace 17. 11. 2026."
     positions:
-      - { ticker: BABA, qty: 3.2453468,   avg_price: null }
-      - { ticker: SOFI, qty: 52.91986128, avg_price: null }
-      - { ticker: PFE,  qty: 1.867551,    avg_price: null }
-      - { ticker: VTS,  qty: 9.427203,    avg_price: null }
-      - { ticker: MC,   qty: 0.5149949,   avg_price: null }
-      - { ticker: TKA,  qty: 68.29396789, avg_price: null }
-      - { ticker: RHM,  qty: 0.73386841,  avg_price: null }
-      - { ticker: INTR, qty: 6.26802189,  avg_price: null }
-      - { ticker: TKMS, qty: 2.75732783,  avg_price: null }
-      - { ticker: AQST, qty: 154.90497572, avg_price: null }
-      - { ticker: CSG,  qty: 49.13090246, avg_price: null }
-      - { ticker: GUTS, qty: 3.67107195,  avg_price: null }
-      - { ticker: LIME, qty: 25.00767543, avg_price: null }
-      - { ticker: NU,   qty: 28.28745092, avg_price: null }
-      - { ticker: TKCC, qty: 1.75732783,  avg_price: null }
+      - { ticker: BABA, qty: 3.2453468,   avg_price: 86.47 }
+      - { ticker: SOFI, qty: 52.91986128, avg_price: 9.59 }
+      - { ticker: PFE,  qty: 1.867551,    avg_price: 39.86 }
+      - { ticker: VTS,  qty: 9.427203,    avg_price: 21.56 }
+      - { ticker: MC,   qty: 0.5149949,   avg_price: 614.49 }
+      - { ticker: TKA,  qty: 68.29396789, avg_price: 7.65 }
+      - { ticker: RHM,  qty: 0.73386841,  avg_price: 808.22 }
+      - { ticker: INTR, qty: 6.26802189,  avg_price: 5.65 }
+      - { ticker: TKMS, qty: 2.75732783,  avg_price: 0, note: "spin-off z thyssenkrupp, T212 vede nulovou nákupku" }
+      - { ticker: AQST, qty: 154.90497572, avg_price: 3.13 }
+      - { ticker: CSG,  qty: 49.13090246, avg_price: 14.51 }
+      - { ticker: GUTS, qty: 3.67107195,  avg_price: null, note: "nákupka uříznutá na screenshotu ($2,xx) – doplnit" }
+      - { ticker: LIME, qty: 25.00767543, avg_price: 21.91 }
+      - { ticker: NU,   qty: 28.28745092, avg_price: 11.35 }
+      - { ticker: TKCC, qty: 1.75732783,  avg_price: 0, note: "spin-off z thyssenkrupp, T212 vede nulovou nákupku" }
 
   - id: t212_michal
     broker: Trading 212
     owner: michal
     as_of: 2026-11-16
-    note: "Výpis neobsahuje nákupní ceny."
+    note: "Nákupky doplněny ze screenshotu aplikace 17. 11. 2026."
     positions:
-      - { ticker: SPYY, qty: 0.96569186, avg_price: null }
-      - { ticker: SOFI, qty: 2.80059032, avg_price: null }
-      - { ticker: CSPX, qty: 0.19182358, avg_price: null }
-      - { ticker: COIN, qty: 0.12578467, avg_price: null }
-      - { ticker: TUI1, qty: 3.23203856, avg_price: null }
-      - { ticker: RHM,  qty: 0.0851247,  avg_price: null }
-      - { ticker: CSG,  qty: 3.57470683, avg_price: null }
-      - { ticker: NU,   qty: 2.04878811, avg_price: null }
-      - { ticker: IOVA, qty: 2.04169382, avg_price: null }
-      - { ticker: MU,   qty: 0.0328449,  avg_price: null }
-      - { ticker: VST,  qty: 0.17997611, avg_price: null }
+      - { ticker: SPYY, qty: 0.96569186, avg_price: 272.20 }
+      - { ticker: SOFI, qty: 2.80059032, avg_price: 17.05 }
+      - { ticker: CSPX, qty: 0.19182358, avg_price: 785.50 }
+      - { ticker: COIN, qty: 0.12578467, avg_price: 166.21 }
+      - { ticker: TUI1, qty: 3.23203856, avg_price: 6.41 }
+      - { ticker: RHM,  qty: 0.0851247,  avg_price: 1064.05 }
+      - { ticker: CSG,  qty: 3.57470683, avg_price: 14.91 }
+      - { ticker: NU,   qty: 2.04878811, avg_price: 11.20 }
+      - { ticker: IOVA, qty: 2.04169382, avg_price: 8.53 }
+      - { ticker: MU,   qty: 0.0328449,  avg_price: 698.89 }
+      - { ticker: VST,  qty: 0.17997611, avg_price: 127.50 }
