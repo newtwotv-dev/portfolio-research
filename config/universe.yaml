@@ -21,7 +21,7 @@ instruments:
           sector: "Fintech / digitální banka", themes: [us-rates, us-consumer-credit, fintech] }
   NU:   { name: Nu Holdings, isin: KYG6683N1034, exchange: NYSE, ccy: USD, quartr_id: 11343, tier: A, group: "Fintech", source: quartr_watchlist,
           sector: "Fintech / digitální banka LatAm", themes: [latam, em-fx, fintech] }
-  INTR: { name: Inter & Co, isin: KYG4R20B1074, exchange: NASDAQ, ccy: USD, quartr_id: null, tier: A, group: "Fintech", source: holding,
+  INTR: { name: Inter & Co, isin: KYG4R20B1074, exchange: NASDAQ, ccy: USD, quartr_id: 14505, tier: A, group: "Fintech", source: quartr_watchlist,
           sector: "Digitální banka Brazílie", themes: [latam, em-fx, fintech] }
   COIN: { name: Coinbase Global, isin: US19260Q1076, exchange: NASDAQ, ccy: USD, quartr_id: 4189, tier: A, group: "Fintech", source: quartr_watchlist,
           sector: "Krypto burza", themes: [btc, crypto-regulation, fintech] }
@@ -41,8 +41,8 @@ instruments:
   SMSH: { name: Smart Shooter, isin: null, exchange: TASE, ccy: ILS, price_unit: ILA, quartr_id: null, tier: A, group: "Obrana", source: manual,
           sector: "Obrana – systémy řízení palby", themes: [israel, eu-defense, nato-spending],
           data_hint: "Není v Quartru. Zdroje: TASE/MAYA oznámení, web firmy, izraelský tisk (Globes, Calcalist), Gmail." }
-  TNEK: { name: TNE Korea, isin: null, exchange: KOSDAQ, local_code: "0053F0", ccy: KRW, quartr_id: null, tier: B, group: "Korea – doplnit", source: manual,
-          sector: "doplnit při onboardingu", themes: [korea],
+  TNEK: { name: TNE Korea, isin: null, exchange: KOSDAQ, local_code: "0053F0", ccy: KRW, quartr_id: null, tier: B, group: "Energie", source: manual,
+          sector: "Energetické vybavení – vysokootáčkové turbostroje (blowery/kompresory) pro SOFC a vodík; KOSDAQ od 29. 10. 2026", themes: [korea, ai-capex, us-power-demand],
           status: planned, data_hint: "Není v Quartru. Zdroje: DART (dart.fss.or.kr), KRX/KIND, korejský tisk, Gmail." }
 
   MU:   { name: Micron Technology, isin: US5951121038, exchange: NASDAQ, ccy: USD, quartr_id: 5199, tier: A, group: "Polovodiče", source: quartr_watchlist,
@@ -60,7 +60,7 @@ instruments:
           sector: "Biotech – buněčná terapie (TIL), komerční fáze", themes: [biotech-funding, fda] }
   AQST: { name: Aquestive Therapeutics, isin: US03843E1047, exchange: NASDAQ, ccy: USD, quartr_id: 12753, tier: A, group: "Farmacie & biotech", source: quartr_watchlist,
           sector: "Specialty pharma / biotech", themes: [biotech-funding, fda] }
-  GUTS: { name: Fractyl Health, isin: US35168W2026, exchange: NASDAQ, ccy: USD, quartr_id: null, tier: A, group: "Farmacie & biotech", source: holding,
+  GUTS: { name: Fractyl Health, isin: US35168W2026, exchange: NASDAQ, ccy: USD, quartr_id: 16403, tier: A, group: "Farmacie & biotech", source: quartr_watchlist,
           sector: "Biotech – metabolické nemoci", themes: [biotech-funding, fda, glp1] }
 
   BABA: { name: Alibaba Group, isin: US01609W1027, exchange: NYSE, ccy: USD, quartr_id: 3609, tier: A, group: "Čína", source: quartr_watchlist,
@@ -69,7 +69,7 @@ instruments:
           sector: "Luxus", themes: [china, luxury-demand, us-consumer] }
   LIME: { name: Neutron Holdings (Lime), isin: US64125S1042, exchange: NASDAQ, ccy: USD, quartr_id: 22606, tier: A, group: "Spotřeba & cestování", source: quartr_watchlist,
           sector: "Mikromobilita (sdílené koloběžky/kola)", themes: [us-consumer, eu-consumer] }
-  TUI1: { name: TUI AG, isin: DE000TUAG505, exchange: XETRA, ccy: EUR, quartr_id: null, tier: A, group: "Spotřeba & cestování", source: holding,
+  TUI1: { name: TUI AG, isin: DE000TUAG505, exchange: XETRA, ccy: EUR, quartr_id: 4071, tier: A, group: "Spotřeba & cestování", source: holding,
           sector: "Cestovní ruch", themes: [eu-consumer, oil] }
 
   SPYY: { name: SPDR MSCI ACWI UCITS ETF, isin: IE00B44Z5B48, exchange: XETRA, ccy: EUR, quartr_id: null, tier: C, group: "ETF", source: holding,

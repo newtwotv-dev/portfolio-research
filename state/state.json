@@ -1,20 +1,814 @@
 {
   "schema_version": 1,
   "research_inbox": {
-    "last_processed_at": null,
+    "last_processed_at": "2026-11-18T01:14:44Z",
+    "last_run": "2026-11-18",
+    "last_run_stats": {
+      "plne_extrakty": 20,
+      "jen_titulek_backlog": 80,
+      "bez_extraktu_zalogovano": 23,
+      "zahozeno": 14,
+      "okno": "2026-11-04 až 2026-11-18 (první běh, 14 dní)"
+    },
+    "processed_thread_ids": [
+      "1a1a41b7420a1187",
+      "1a1a4b7e2c2651e9",
+      "1a1a52497bdd0798",
+      "1a1a5265511535e3",
+      "1a1a59bcee8a3cf7",
+      "1a1a5d002cd02729",
+      "1a1a62b7923dce52",
+      "1a1a671b3415bf13",
+      "1a1ab83be544ae22",
+      "1a1ac9ee00b64062",
+      "1a1b11a5c1269465",
+      "1a1b7be356cbd7a6",
+      "1a1b979e1b58578d",
+      "1a1ba4830776253a",
+      "1a1bc5a387622608",
+      "1a1bf5809c6be2c5",
+      "1a1c06d4a0ae525d",
+      "1a1c3d2eb3adda82",
+      "1a1c4ad05136eb31",
+      "1a1c828fff92ba19",
+      "1a1ca9f2b43f2612",
+      "1a1cd00c75d5a76d",
+      "1a1cf516f4184cb3",
+      "1a1cf5c806c7fedc",
+      "1a1cfc2d888eaaf9",
+      "1a1d052dae085d16",
+      "1a1d418cbc8bb57e",
+      "1a1d41b2cf98886e",
+      "1a1d41cf6b4066e9",
+      "1a1d51f73656c7c2",
+      "1a1d546888422488",
+      "1a1d590e0b1213e8",
+      "1a1d5ae9a54f57f4",
+      "1a1d9a25833c16dd",
+      "1a1d9a434b29e28a",
+      "1a1d9a5670f6ce31",
+      "1a1d9a8341ad4635",
+      "1a1ddbcdeb3156cc",
+      "1a1de8c73b224486",
+      "1a1e15b114d8035b",
+      "1a1e45e357dcbd23",
+      "1a1e48c0977718e9",
+      "1a1e96102ca7470b",
+      "1a1ea25a7435b4fd",
+      "1a1ea6a0cd58d4d1",
+      "1a1ea963e87b4a51",
+      "1a1ea9adca170f03",
+      "1a1eaa2518fe8048",
+      "1a1eaa4d4221b0c5",
+      "1a1eaae0f1d38f01",
+      "1a1eaae7b078d70f",
+      "1a1eac0e05401ec3",
+      "1a1eac1453d575a4",
+      "1a1eac9926525617",
+      "1a1ebbe409454500",
+      "1a1ebf641ef10095",
+      "1a1ec3879c60061c"
+    ],
+    "processed_note": "Mazat ID starší 21 dní podle data mailu; všechna ID z běhu 18. 11. jsou z maily 4.–18. 11. 2026 (smazat nejpozději 9. 12. 2026).",
+    "backlog": [
+      {
+        "id": "1a1a5ed5f2c1a3ee",
+        "mail_date": "2026-11-04",
+        "source": "BCA",
+        "title": "Israel: An Upside Risk To Oil (Kuri, Gertken)"
+      },
+      {
+        "id": "1a1a5d2c15211dcc",
+        "mail_date": "2026-11-04",
+        "source": "MS",
+        "title": "Quant Driven Earnings Ideas – Stocks Poised for Earnings Surprises in November 2026"
+      },
+      {
+        "id": "1a1c06cf6fe1b778",
+        "mail_date": "2026-11-09",
+        "source": "MS",
+        "title": "Global Thematics: Buy the Drop: AI Investment Opportunities Post the US Midterms"
+      },
+      {
+        "id": "1a1ea662665f1549",
+        "mail_date": "2026-11-17",
+        "source": "MS",
+        "title": "2027 Global Year-Ahead Outlooks: Economics and Strategy"
+      },
+      {
+        "id": "1a1ea9a75d9b3d40",
+        "mail_date": "2026-11-17",
+        "source": "MS",
+        "title": "Bluepaper: Asia's Industrial and Capex Super-Cycle"
+      },
+      {
+        "id": "1a1cf0cb9db754bc",
+        "mail_date": "2026-11-12",
+        "source": "GS",
+        "title": "US Economics Analyst: 2027 Capex Outlook: How Much of an AI Boost?"
+      },
+      {
+        "id": "1a1cd2bd9636de26",
+        "mail_date": "2026-11-12",
+        "source": "Alpine Macro",
+        "title": "Equity Strategy: There Will Be Data…Centers: Buy Electrical Equipment"
+      },
+      {
+        "id": "1a1ac2426471aeee",
+        "mail_date": "2026-11-05",
+        "source": "ING",
+        "title": "How the blue wave could reshape US energy and data centres"
+      },
+      {
+        "id": "1a1ea67a5b44f33f",
+        "mail_date": "2026-11-17",
+        "source": "MS",
+        "title": "The Oil Manual – Chartbook: Physical Softening vs Lingering Supply Uncertainty"
+      },
+      {
+        "id": "1a1eab526902f93e",
+        "mail_date": "2026-11-17",
+        "source": "GS",
+        "title": "Precious Analyst: 2027 Outlook: It Is 2022 Again"
+      },
+      {
+        "id": "1a1cf681081d7ba1",
+        "mail_date": "2026-11-12",
+        "source": "SG (Albert Edwards)",
+        "title": "Global Strategy Weekly – Red screens: Why is (almost) no-one talking about liquidity?"
+      },
+      {
+        "id": "1a1cfd6780cff863",
+        "mail_date": "2026-11-12",
+        "source": "UBP",
+        "title": "UBP House View 11. 11. 2026"
+      },
+      {
+        "id": "1a1d3f40497b62ec",
+        "mail_date": "2026-11-13",
+        "source": "ING",
+        "title": "FX Outlook 2027: Fat tails, slim ranges"
+      },
+      {
+        "id": "1a1a5cc144749e1b",
+        "mail_date": "2026-11-04",
+        "source": "MS",
+        "title": "US Public Policy: Midterm Election Results: Decisive for Democrats"
+      },
+      {
+        "id": "1a1a66ab94ff3279",
+        "mail_date": "2026-11-04",
+        "source": "ING",
+        "title": "Democratic victories to constrain President Trump and increase tech scrutiny"
+      },
+      {
+        "id": "1a1bfda0488d1b93",
+        "mail_date": "2026-11-09",
+        "source": "SG",
+        "title": "Earnings Season Pulse – Strong deliveries don't offset pipeline risk"
+      },
+      {
+        "id": "1a1bf79354758a74",
+        "mail_date": "2026-11-09",
+        "source": "MS",
+        "title": "US Equity Strategy Weekly Warm-up: Buy the Rumor, Sell the News"
+      },
+      {
+        "id": "1a1bf77eee095bd6",
+        "mail_date": "2026-11-09",
+        "source": "MS",
+        "title": "European Equity Strategy: From Pilot to Payoff (AI adoption ROI)"
+      },
+      {
+        "id": "1a1ea9b5f62d4819",
+        "mail_date": "2026-11-17",
+        "source": "Alpine Macro",
+        "title": "Global Asset Allocation: The Plot Thickens"
+      },
+      {
+        "id": "1a1e3a51fe6751f2",
+        "mail_date": "2026-11-16",
+        "source": "Alpine Macro",
+        "title": "US Themes & Strategy: Entry Point For 2027?"
+      },
+      {
+        "id": "1a1eaaa5ae130f5e",
+        "mail_date": "2026-11-17",
+        "source": "MS",
+        "title": "Cross-Asset Spotlight: Yields Rise, Gold Falls"
+      },
+      {
+        "id": "1a1ea66b185f338f",
+        "mail_date": "2026-11-17",
+        "source": "MS",
+        "title": "Global Macro Strategy – November 16, 2026"
+      },
+      {
+        "id": "1a1ea7215a31de59",
+        "mail_date": "2026-11-17",
+        "source": "Gavekal",
+        "title": "Gavekal Ideas – Why Nvidia Matters"
+      },
+      {
+        "id": "1a1e4844aa17161e",
+        "mail_date": "2026-11-16",
+        "source": "Gavekal",
+        "title": "Gavekal Ideas – Energy And The Jensen Tail Risk"
+      },
+      {
+        "id": "1a1e39d641578906",
+        "mail_date": "2026-11-16",
+        "source": "Gavekal",
+        "title": "Gavekal Daily – A Big Week For Markets"
+      },
+      {
+        "id": "1a1d5addbcff652e",
+        "mail_date": "2026-11-13",
+        "source": "Gavekal",
+        "title": "Dragonomics – How China Is Regulating AI"
+      },
+      {
+        "id": "1a1d5b7267999822",
+        "mail_date": "2026-11-13",
+        "source": "Gavekal",
+        "title": "Gavekal Daily – Back To The Men Of The Trees"
+      },
+      {
+        "id": "1a1cf0b86562b3a4",
+        "mail_date": "2026-11-12",
+        "source": "Gavekal",
+        "title": "Gavekal Daily – Two Huangs Don't Make A Right"
+      },
+      {
+        "id": "1a1cf09e1015ee14",
+        "mail_date": "2026-11-12",
+        "source": "Gavekal",
+        "title": "Gavekal-IS – Equity Risk-Off: What Next?"
+      },
+      {
+        "id": "1a1c4b3fc9a287f2",
+        "mail_date": "2026-11-10",
+        "source": "Gavekal",
+        "title": "Gavekal Daily – Christmas Comes Early For The US Consumer"
+      },
+      {
+        "id": "1a1bf7c4b8c8099b",
+        "mail_date": "2026-11-09",
+        "source": "Gavekal",
+        "title": "Gavekal Ideas – Markets Anticipate End Of Iran War"
+      },
+      {
+        "id": "1a1bf5b9145b7522",
+        "mail_date": "2026-11-09",
+        "source": "Gavekal",
+        "title": "Gavekal Daily – Mounting Headwinds For US Assets"
+      },
+      {
+        "id": "1a1b0a23d8f0d8fa",
+        "mail_date": "2026-11-06",
+        "source": "Gavekal",
+        "title": "Gavekal Daily – As The Clouds Part"
+      },
+      {
+        "id": "1a1b09241c9ed50b",
+        "mail_date": "2026-11-06",
+        "source": "Gavekal",
+        "title": "Gavekal Ideas – Is Japan's Repatriation Wave Starting?"
+      },
+      {
+        "id": "1a1a65a16413cb26",
+        "mail_date": "2026-11-04",
+        "source": "Gavekal",
+        "title": "Gavekal Ideas – A Blue Congress, Mr. Veto And A Treasury Twist"
+      },
+      {
+        "id": "1a1a5d0c34603ec6",
+        "mail_date": "2026-11-04",
+        "source": "Gavekal",
+        "title": "Gavekal Daily – More Binary Risks In A World Of Binary Choices"
+      },
+      {
+        "id": "1a1cd1c4f20231d8",
+        "mail_date": "2026-11-12",
+        "source": "BCA",
+        "title": "Buy The Dip Or Sell The Dip? (Budaghyan, EM)"
+      },
+      {
+        "id": "1a1cd1a3281d4cce",
+        "mail_date": "2026-11-12",
+        "source": "BCA",
+        "title": "Stick With Hawkish Fed Trades (Swift)"
+      },
+      {
+        "id": "1a1cd18789744c5c",
+        "mail_date": "2026-11-12",
+        "source": "BCA",
+        "title": "AI Regulatory Onslaught? Overrated (Gertken, Dyson)"
+      },
+      {
+        "id": "1a1cb473c0bf3c65",
+        "mail_date": "2026-11-11",
+        "source": "BCA",
+        "title": "Here, There, and Everywhere Report – November 2026 (Papic)"
+      },
+      {
+        "id": "1a1cf493c9b56496",
+        "mail_date": "2026-11-12",
+        "source": "BCA",
+        "title": "G10 FX Scorecard: Carry Holds, Divergences Grow"
+      },
+      {
+        "id": "1a1b1b9534fadf52",
+        "mail_date": "2026-11-06",
+        "source": "BCA",
+        "title": "European Equities Ain't So Bad After All (Peloso)"
+      },
+      {
+        "id": "1a1a5ee5179eac08",
+        "mail_date": "2026-11-04",
+        "source": "BCA",
+        "title": "Bet On Higher US Treasury Yields Into Early 2027"
+      },
+      {
+        "id": "1a1b585227fcbce0",
+        "mail_date": "2026-11-07",
+        "source": "BCA",
+        "title": "The Total Portfolio Approach: From Whiteboard To Execution"
+      },
+      {
+        "id": "1a1d9a5e9139ac1e",
+        "mail_date": "2026-11-14",
+        "source": "GS",
+        "title": "Weekly Fund Flows: Strong Equities, Softer Money Markets"
+      },
+      {
+        "id": "1a1b2727f1122a67",
+        "mail_date": "2026-11-06",
+        "source": "GS",
+        "title": "Weekly Fund Flows: Before the Wave"
+      },
+      {
+        "id": "1a1cb445f540d264",
+        "mail_date": "2026-11-11",
+        "source": "GS",
+        "title": "Global Economics Comment: Should We Expect More Upside Inflation Surprises?"
+      },
+      {
+        "id": "1a1b573a9d54d950",
+        "mail_date": "2026-11-07",
+        "source": "GS",
+        "title": "Global FX Trader: After the Wave"
+      },
+      {
+        "id": "1a1b323a752e7830",
+        "mail_date": "2026-11-06",
+        "source": "GS",
+        "title": "Global Rates Trader: Bonds' Redemption"
+      },
+      {
+        "id": "1a1b32345c224484",
+        "mail_date": "2026-11-06",
+        "source": "GS",
+        "title": "Energy, Utilities & Mining Pulse: Impacts of Recent Elections on Natural Resources Equities"
+      },
+      {
+        "id": "1a1b3214f0d0e506",
+        "mail_date": "2026-11-06",
+        "source": "GS",
+        "title": "US Weekly Kickstart: The equity index impact of SpaceX inclusion so far"
+      },
+      {
+        "id": "1a1a5dd8075cb281",
+        "mail_date": "2026-11-04",
+        "source": "GS",
+        "title": "Strategy Matters: Why Europe's Earnings Defy Its Economy"
+      },
+      {
+        "id": "1a1b0a7f796c8cdd",
+        "mail_date": "2026-11-06",
+        "source": "GS",
+        "title": "Precious Analyst: Long-Term Constructive Gold, But Just Not Today"
+      },
+      {
+        "id": "1a1cd1c8cac3269a",
+        "mail_date": "2026-11-12",
+        "source": "GS",
+        "title": "Carbonomics: 7th Annual Carbonomics Conference – Key Takeaways"
+      },
+      {
+        "id": "1a1b360f653c5b27",
+        "mail_date": "2026-11-07",
+        "source": "GS",
+        "title": "GS SUSTAIN Tracker: sustainable fund flows 3Q26"
+      },
+      {
+        "id": "1a1e3a47c3120e1b",
+        "mail_date": "2026-11-16",
+        "source": "SG",
+        "title": "Europe Macro Radar – Spanish or Dutch leader"
+      },
+      {
+        "id": "1a1c4b4e93811d42",
+        "mail_date": "2026-11-10",
+        "source": "SG",
+        "title": "On Our Minds: France 2027 Election Tracker no.4"
+      },
+      {
+        "id": "1a1cf48cd60e60ac",
+        "mail_date": "2026-11-12",
+        "source": "SG",
+        "title": "Commodity Compass – 2027 commodity index rebalancing"
+      },
+      {
+        "id": "1a1d41b046fd2550",
+        "mail_date": "2026-11-13",
+        "source": "SG",
+        "title": "ESG Flash – November 2026"
+      },
+      {
+        "id": "1a1d419c77e8c3e0",
+        "mail_date": "2026-11-13",
+        "source": "Alpine Macro",
+        "title": "Global Fixed Income & FX Strategy: What Could The Blue Wave Bring?"
+      },
+      {
+        "id": "1a1cd19dd7a88249",
+        "mail_date": "2026-11-12",
+        "source": "Alpine Macro",
+        "title": "US Bond Strategy: U.S. Fiscal Imbalance: Bond Vigilantes On The Hunt? (Part II)"
+      },
+      {
+        "id": "1a1c07b632e90726",
+        "mail_date": "2026-11-09",
+        "source": "Alpine Macro",
+        "title": "Global Strategy: From Productivity To Treasury Bonds"
+      },
+      {
+        "id": "1a1a5db83723261e",
+        "mail_date": "2026-11-04",
+        "source": "Alpine Macro",
+        "title": "Equity Strategy: Search and Destroy?"
+      },
+      {
+        "id": "1a1a5eefbb9e538d",
+        "mail_date": "2026-11-04",
+        "source": "Alpine Macro",
+        "title": "Global Strategy: The Market Atlas – Reference Charts"
+      },
+      {
+        "id": "1a1eab6c0b34cdc5",
+        "mail_date": "2026-11-17",
+        "source": "MS",
+        "title": "Software: Slow Drip Cyber Attacks, Agents At Endpoints, US-China Model Gap"
+      },
+      {
+        "id": "1a1ea6a82789ad90",
+        "mail_date": "2026-11-17",
+        "source": "MS",
+        "title": "From the Global Director of Research: Charts That Caught My Eye (17. 11.)"
+      },
+      {
+        "id": "1a1a5e76ca864537",
+        "mail_date": "2026-11-04",
+        "source": "MS",
+        "title": "From the Global Director of Research: Charts That Caught My Eye (3. 11.)"
+      },
+      {
+        "id": "1a1ea6884dbe29e4",
+        "mail_date": "2026-11-17",
+        "source": "MS",
+        "title": "2027 UK Economics Outlook: Tipping Point(s)"
+      },
+      {
+        "id": "1a1ba83aad4ce157",
+        "mail_date": "2026-11-08",
+        "source": "MS",
+        "title": "Sunday Start: Who's Afraid of the Big Blue Wave?"
+      },
+      {
+        "id": "1a1b35816d1a0788",
+        "mail_date": "2026-11-07",
+        "source": "MS",
+        "title": "Taking Stock of the Round Trip in US Treasuries"
+      },
+      {
+        "id": "1a1b32a6d8b51994",
+        "mail_date": "2026-11-06",
+        "source": "MS",
+        "title": "US Economics Weekly: AI's growth contribution is rising, but so are political risks"
+      },
+      {
+        "id": "1a1b3634f0072173",
+        "mail_date": "2026-11-07",
+        "source": "MS",
+        "title": "Regulated & Diversified Utilities: EEI Conference – Key Questions"
+      },
+      {
+        "id": "1a1b1916986ef4cb",
+        "mail_date": "2026-11-06",
+        "source": "MS",
+        "title": "US Credit Strategy: 3Q26 Fundamentals Check-in"
+      },
+      {
+        "id": "1a1a5ebd4eb1160f",
+        "mail_date": "2026-11-04",
+        "source": "MS",
+        "title": "Cross-Asset Strategy: Global In the Flow – October Recap"
+      },
+      {
+        "id": "1a1a5dc262a40824",
+        "mail_date": "2026-11-04",
+        "source": "MS",
+        "title": "Equity & Fixed Income Strategy: Pulse Survey: Tempered Optimism"
+      },
+      {
+        "id": "1a1c077b4788d6a3",
+        "mail_date": "2026-11-09",
+        "source": "MS",
+        "title": "Space Technology: NASA's $10bn Lunar Expansion"
+      },
+      {
+        "id": "1a1d98a8614f31bd",
+        "mail_date": "2026-11-14",
+        "source": "MS (sales)",
+        "title": "Global Reflections (sales commentary)"
+      },
+      {
+        "id": "1a1b571c61f1b2c2",
+        "mail_date": "2026-11-07",
+        "source": "MS (sales)",
+        "title": "Global Reflections (sales commentary)"
+      },
+      {
+        "id": "1a1d5a9be60d2fd2",
+        "mail_date": "2026-11-13",
+        "source": "Fidelity",
+        "title": "Názory výzkumného týmu na volatilitu technologií"
+      },
+      {
+        "id": "1a1eabc5a315db8e",
+        "mail_date": "2026-11-17",
+        "source": "Robeco",
+        "title": "Rhapsody in blue for stock pickers after Democratic sweep"
+      }
+    ],
+    "backlog_note": "Nezpracované reporty z okna 4.–18. 11. (limit 20 extraktů na běh). Další běh je zpracuje přednostně v tomto pořadí (prvních ~10 je nejrelevantnějších pro portfolio), max. 20 včetně nových mailů. last_processed_at se na backlog nevztahuje.",
+    "licence_flag": "GS a JPM v patičkách/PDF zakazují použití obsahu jako vstupu pro AI bez písemného souhlasu. Extrakty jsou parafráze; čeká na rozhodnutí Tomáše, zda GS/JPM zpracovávat dál (u JPM se PDF nestahovalo)."
+  },
+  "portfolio_tracker": {
+    "last_run": "2026-11-18",
+    "last_window": "2026-11-11 až 2026-11-18",
+    "alert": "briefs/alerts/2026-11-18.md",
+    "alert_doc": "https://claude.ai/artifact/7svqUREnRjb68T9DSxFRbN",
+    "onboarded": [
+      "GUTS",
+      "INTR",
+      "TNEK",
+      "SOFI",
+      "TKA",
+      "CSG"
+    ],
+    "deep_dive": "neproběhl (vznikl alert)"
+  },
+  "market_brief": {
     "last_run": null,
-    "last_run_stats": null,
-    "processed_thread_ids": []
+    "last_period_end": null
   },
-  "portfolio_tracker": { "last_run": null },
-  "market_brief": { "last_run": null, "last_period_end": null },
-  "weekly": { "last_run": null, "last_totals": null },
+  "weekly": {
+    "last_run": null,
+    "last_totals": null
+  },
   "watchlist_snapshot": {
-    "as_of": "2026-11-17",
-    "quartr_ids": [3875, 4189, 13633, 22606, 11343, 4196, 25241, 4144, 14225, 12480, 12753, 3609, 5065, 5770, 21594, 21954, 5199, 3840]
+    "as_of": "2026-11-18",
+    "quartr_ids": [
+      16403,
+      14505,
+      3875,
+      4189,
+      13633,
+      22606,
+      11343,
+      4196,
+      25241,
+      4144,
+      14225,
+      12480,
+      12753,
+      3609,
+      5065,
+      5770,
+      21594,
+      21954,
+      5199,
+      3840
+    ]
   },
-  "onboarding_queue": ["TNEK", "SOFI", "TKA", "CSG", "AQST", "RHM", "LIME", "IOVA", "NU", "BABA", "TKMS", "MC", "MU", "VTS", "SMSH", "NOVO", "PFE", "TKCC", "INTR", "GUTS", "VST", "TUI1", "COIN"],
-  "deep_dive_queue": ["TNEK", "SOFI", "TKA", "CSG", "AQST", "RHM", "LIME", "IOVA", "NU", "BABA", "TKMS", "MC", "MU", "VTS", "SMSH", "NOVO", "PFE", "TKCC", "INTR", "GUTS", "VST", "TUI1", "COIN"],
-  "pending_mentions": [],
-  "notes": "Fronty seřazené podle váhy v Tomášově portfoliu k 16. 11. 2026. TNEK první, protože jde o plánovaný nákup. VST, TUI1 a COIN drží jen Michal."
+  "onboarding_queue": [
+    "AQST",
+    "RHM",
+    "LIME",
+    "IOVA",
+    "NU",
+    "BABA",
+    "TKMS",
+    "MC",
+    "MU",
+    "VTS",
+    "SMSH",
+    "NOVO",
+    "PFE",
+    "TKCC",
+    "VST",
+    "TUI1",
+    "COIN"
+  ],
+  "deep_dive_queue": [
+    "GUTS",
+    "INTR",
+    "TNEK",
+    "SOFI",
+    "TKA",
+    "CSG",
+    "AQST",
+    "RHM",
+    "LIME",
+    "IOVA",
+    "NU",
+    "BABA",
+    "TKMS",
+    "MC",
+    "MU",
+    "VTS",
+    "SMSH",
+    "NOVO",
+    "PFE",
+    "TKCC",
+    "VST",
+    "TUI1",
+    "COIN"
+  ],
+  "pending_mentions": [
+    {
+      "ticker": "BABA",
+      "date": "2026-11-16",
+      "source": "GS",
+      "text": "China Strategy 2027: H-shares MW → OW, MSCI China cíl 85; online retailing OW; Alibaba v koši AI aplikací",
+      "ref": "log 2026-11 · GS 16. 11."
+    },
+    {
+      "ticker": "BABA",
+      "date": "2026-11-13",
+      "source": "GS",
+      "text": "EM Kickstart: Čína ↑ OW; Alibaba největší čistý nákup přes Southbound (+461 mil. USD za týden)",
+      "ref": "log 2026-11 · GS 13. 11."
+    },
+    {
+      "ticker": "BABA",
+      "date": "2026-11-12",
+      "source": "Gavekal",
+      "text": "Nvidia Blast Zone: Alibaba investor a kotevní klient Megaspeedu v JV Asii; tvrdší pravidla remote access zhorší přístup k computu",
+      "ref": "log 2026-11 · Gavekal 12. 11."
+    },
+    {
+      "ticker": "BABA",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "12. 11. −6,6 % (zprávy o zákazu čipů v zahraničních DC), BIS pravidlo 16. 11. (účinné 19. 11.), výsledky FQ2 19. 11.",
+      "ref": "briefs/alerts/2026-11-18.md"
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-17",
+      "source": "GS",
+      "text": "US Equity Outlook 2027: MU 2. největší přispěvatel k růstu EPS S&P 500 (16 % 2026, 14 % 2027, 3 % 2028); riziko marží 2028",
+      "ref": "log 2026-11 · GS 17. 11."
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-17",
+      "source": "Gavekal",
+      "text": "Omezení vendor financingu Nvidie = bearish pro výrobce pamětí",
+      "ref": "log 2026-11 · Gavekal 17. 11."
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-16",
+      "source": "BCA",
+      "text": "MU 6. největší investor S&P 500 podle capexu (31 mld. USD TTM)",
+      "ref": "log 2026-11 · BCA 16. 11."
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "11. 11. +11,9 % (CoreWeave), 16. 11. −7,6 % (exportní kontroly), 14. 11. prohraný návrh na zamítnutí DRAM class action; FQ1 výsledky ~16. 12.; 1 mld. USD do Anthropic IPO",
+      "ref": "briefs/alerts/2026-11-18.md"
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-11-04",
+      "source": "MS",
+      "text": "Powered Shell Providers: VST Overweight, hodnota aktiv ~180 USD vs. ~140; krátkodobý tlak kvůli Texasu",
+      "ref": "log 2026-11 · MS 4. 11."
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "BMO cíl 188 → 196 USD (17. 11.); lock-up 5 mil. akcií Q-Generation do 30. 1. 2027; Hinojosa nastupuje 19. 1. 2027",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "NU",
+      "date": "2026-11-13",
+      "source": "GS",
+      "text": "EM Kickstart: Brazílie OW → MW (HDP 2027 0,6 %, Selic 12,5 %), Mexiko ↑ OW, EM banky OW (makro kontext)",
+      "ref": "log 2026-11 · GS 13. 11."
+    },
+    {
+      "ticker": "NU",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "Q3 2026 (12. 11.): tržby 6,26 mld. USD, zisk 1,09 mld., ROE 32 %, efficiency guidance 19–19,5 %, NPL 90+ 7,3 %; 13. 11. +11,75 %; Investor Day 8. 12.",
+      "ref": "briefs/alerts/2026-11-18.md"
+    },
+    {
+      "ticker": "RHM",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "GS cíl 2 100 → 1 350 EUR (Buy, 16. 11.), Citi 1 099, Bernstein MP 1 000, BofA Neutral 900 (9. 11.); 11. 11. −6,9 % kvůli CSG; CMD 27. 11.",
+      "ref": "briefs/alerts/2026-11-18.md"
+    },
+    {
+      "ticker": "TKMS",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "2. tranše MEKO A-200 DEU, 4 fregaty ~5,3 mld. EUR (16.–17. 11.); Indie P75(I) interní schválení; Bernstein OP 115 EUR; FY výsledky 7. 12.",
+      "ref": "briefs/alerts/2026-11-18.md"
+    },
+    {
+      "ticker": "PFE",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "Tilrekimig fáze 2 AD: EASI-75 61 % vs. 9,1 % (12. 11.); Blackstone až 1,5 mld. USD na berobenatide (11. 11.)",
+      "ref": "briefs/alerts/2026-11-18.md"
+    },
+    {
+      "ticker": "AQST",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "PDUFA Anaphylm 16. 3. 2027; ~200 mil. USD na launch (RTW 75 mil. podmíněno schválením do 30. 6. 2027); ATM ~73 mil. USD",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "IOVA",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "Jefferies 16. 11.: guidance FY26 410–420 mil. USD potvrzena, GM Q3 60 %, cash 382 mil. USD, zdražení Amtagvi +9 % od 1. 1. 2027",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "NOVO",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "ObesityWeek 17. 11.: FDA k CagriSema čeká v Q4 2026; Lilly Foundayo schválen v Austrálii",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "LIME",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "10-Q Q3 (12. 11.); lock-up upisovatelů ~27. 12. 2026 [Odhad]",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "TUI1",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "Výsledky FY 9. 12.; Fly 4 Airlines (JV 49 %) v likvidaci; 8 nových hotelů TUI Blue; quartr_id 4071",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "COIN",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "16. 11. −6,1 % (BTC nejníž od srpna, ~62–64 tis. USD); B. Riley cíl 203 → 150 Neutral",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "SMSH",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "16. 11. −5,5 % bez zprávy; výsledky Q3 do 30. 11. [Odhad]; GS: USD/ILS 3,35 (slabší šekel)",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "TKCC",
+      "date": "2026-11-18",
+      "source": "Tracker",
+      "text": "Jen EQS-DD (přidělení akcií ve spin-offu); DB Buy 40, Berenberg Buy 37 (29. 10.); termín prvních výsledků dohledat",
+      "ref": "state/calendar.md"
+    }
+  ],
+  "notes": "Fronty seřazené podle váhy v Tomášově portfoliu (tools/portfolio.py k 17. 11. 2026). GUTS a INTR jsou na začátku deep dive fronty, protože byly 18. 11. nově přidány do Quartr watchlistu (pravidlo CLAUDE.md). Doporučení: CSG deep dive prioritně (alert 18. 11.) – dotaz na Tomáše v komentáři Claude Docu alertu. VST, TUI1 a COIN drží jen Michal."
 }

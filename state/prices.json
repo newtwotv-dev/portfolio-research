@@ -1,11 +1,16 @@
 {
-  "as_of": "2026-11-16 (počáteční hodnoty z výpisů brokerů; USD/EUR odvozené z celkových hodnot T212, ILS a KRW orientační – první běh přepíše)",
-  "fx_to_czk": { "USD": 22.18, "EUR": 24.43, "DKK": 3.274, "ILS": 6.3, "KRW": 0.0158 },
+  "as_of": "2026-11-17 (závěr 17. 11., u části titulů poslední/vnitrodenní kotace – viz notes); kurzy ČNB platné pro 16. 11. 2026 (17. 11. svátek)",
+  "fx_to_czk": { "USD": 22.182, "EUR": 24.43, "DKK": 3.268, "ILS": 6.876, "KRW": 0.01661 },
   "prices": {
-    "BABA": 90.92, "SOFI": 14.83, "PFE": 28.9, "VTS": 15.08, "MC": 404, "TKA": 11.815,
-    "RHM": 769.7, "INTR": 3.96, "TKMS": 76, "AQST": 3.78, "CSG": 10.044, "GUTS": 0.9748,
-    "LIME": 19.9, "NU": 12.59, "TKCC": 25.42, "SPYY": 288, "CSPX": 808.41, "COIN": 119.26,
-    "TUI1": 7.466, "IOVA": 7.48, "MU": 721.04, "VST": 129.07, "SMSH": 16.04, "IBKR": 76.04,
-    "NOVO": 272.4
+    "BABA": 87.8, "SOFI": 14.28, "PFE": 28.38, "VTS": 14.84, "MC": 393.1, "TKA": 11.62,
+    "RHM": 754.9, "INTR": 3.92, "TKMS": 75.3, "AQST": 3.7, "CSG": 9.18, "GUTS": 0.9654,
+    "LIME": 20.73, "NU": 12.33, "TKCC": 24.34, "SPYY": 289.85, "CSPX": 808.41, "COIN": 115.02,
+    "TUI1": 7.392, "IOVA": 7.53, "MU": 712.42, "VST": 127.41, "SMSH": 15.92, "IBKR": 77.5,
+    "NOVO": 275.5, "TNEK": 15440
+  },
+  "notes": {
+    "zavery_17_11": "TKA (Xetra), CSG (Euronext Amsterdam), NOVO (Kodaň), TUI1 (Xetra), TKCC (Xetra), COIN, MU (Yahoo – ověřit), NU (poslední obchod), VTS, SMSH (TASE 1 592 ILA), GUTS, INTR, TNEK (KRX)",
+    "vnitrodenni_nebo_odhad": "BABA (17. 11. −3,1 % proti 90,62 → ~87,8), MC (17. 11. −2,7 % → ~393,1), RHM (pozdní kotace 23:00), TKMS (Stuttgart 21:55), VST (13:55 ET), SOFI (15:59 ET), PFE/IOVA/LIME/IBKR (Robinhood poslední cena), AQST (18. 11. vnitrodenně)",
+    "neoverene": "SPYY 289,85 (L&S 13.–15. 11.), CSPX 808,41 (převzato z 16. 11., neověřeno)"
   }
 }
