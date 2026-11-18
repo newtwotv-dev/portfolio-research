@@ -568,7 +568,7 @@
       "TKA",
       "CSG"
     ],
-    "deep_dive": "SOFI v1 (https://claude.ai/artifact/CiXe7b25dgUESk5MQPzM3J) a TKA v1 (https://claude.ai/artifact/GkBaGCzmLvqSAAWNLD4KtE) hotové 18. 11. 2026 na povel"
+    "deep_dive": "SOFI v1, TKA v1, AQST v1 (https://claude.ai/artifact/NaAfpAtZTFi5dfKvkKobL8) hotové 18. 11. 2026 na povel"
   },
   "market_brief": {
     "last_run": null,
@@ -604,7 +604,6 @@
     ]
   },
   "onboarding_queue": [
-    "AQST",
     "RHM",
     "LIME",
     "IOVA",
@@ -623,7 +622,6 @@
     "COIN"
   ],
   "deep_dive_queue": [
-    "AQST",
     "CSG",
     "RHM",
     "LIME",
@@ -820,6 +818,12 @@
       "ticker": "SOFI",
       "reason": "výsledky Q4 2026 + guidance 2027 (spouštěče v dossieru)",
       "trigger_date": "2027-01-29",
+      "since": "deep-dive-v1"
+    },
+    {
+      "ticker": "AQST",
+      "reason": "PDUFA Anaphylm (binární rozhodnutí FDA)",
+      "trigger_date": "2027-03-16",
       "since": "deep-dive-v1"
     }
   ]

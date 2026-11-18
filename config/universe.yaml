@@ -60,7 +60,7 @@ instruments:
   IOVA: { name: Iovance Biotherapeutics, isin: US4622601007, exchange: NASDAQ, ccy: USD, quartr_id: 13633, tier: A, group: "Farmacie & biotech", source: quartr_watchlist,
           sector: "Biotech – buněčná terapie (TIL), komerční fáze", themes: [biotech-funding, fda] }
   AQST: { name: Aquestive Therapeutics, isin: US03843E1047, exchange: NASDAQ, ccy: USD, quartr_id: 12753, tier: A, group: "Farmacie & biotech", source: quartr_watchlist,
-          sector: "Specialty pharma / biotech", themes: [biotech-funding, fda] }
+          sector: "Specialty pharma / biotech", themes: [biotech-funding, fda], last_deep_dive: 2026-11-18 }
   GUTS: { name: Fractyl Health, isin: US35168W2026, exchange: NASDAQ, ccy: USD, quartr_id: 16403, tier: A, group: "Farmacie & biotech", source: quartr_watchlist,
           sector: "Biotech – metabolické nemoci", themes: [biotech-funding, fda, glp1] }
 
