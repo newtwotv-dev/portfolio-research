@@ -31,6 +31,16 @@ gmail:
     - "pozvánky na webcasty/konference bez obsahu (registrace, 'Registration Open') – zalogovat jen titulek"
     - "marketingové maily, potvrzení odběru"
 
+outlook:
+  account: "Tomášův osobní Outlook (konektor Microsoft 365, připojen 18. 11. 2026)"
+  read_only: true
+  use_for:
+    - "maily z terminálu (odesílatel zatím neurčen – doplnit, až první maily dorazí nebo Tomáš upřesní)"
+    - "Trading 212: account activity statements → kontrola změn pozic proti config/portfolio.yaml (jen upozornit, needitovat bez povelu)"
+  ignore:
+    - "marketing T212, Microsoft Rewards, bezpečnostní a systémové maily"
+  note: "Jen čtení. Nic neposílat, nepřesouvat, neoznačovat, nemazat."
+
 quartr:
   use_for:
     - "výsledky, prezentace, výroční zprávy (list_documents, read_document, get_document_summary)"

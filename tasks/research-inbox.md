@@ -10,6 +10,11 @@ ze kterých čtou všechny ostatní úlohy. Tomášovi nic neposílá.
 - Gmail dotaz: `after:YYYY/MM/DD -in:sent` (datum o den dřív než `last_processed_at`,
   kvůli překryvu). Stránkuj, dokud nejsou všechny výsledky.
 - Přeskoč vlákna, jejichž id je v `state.json → research_inbox.processed_thread_ids`.
+- **Outlook** (pokud jsou dostupné nástroje `mcp__Microsoft_365__*`): `outlook_email_search` od stejného data,
+  zpracuj maily z terminálu stejně jako reporty z Gmailu (priorita high) podle `config/sources.yaml → outlook`.
+  Zpracovaná id ukládej do `state.json → research_inbox.processed_outlook_ids`. Výpisy Trading 212 jen porovnej
+  s `config/portfolio.yaml` a nesoulad zapiš do state (`portfolio_mismatch`) – Tracker ho zmíní v alertu/weekly.
+  Nástroje nedostupné → přeskoč a zapiš do `last_run_stats`, že Outlook nebyl zpracován. Outlook je jen ke čtení.
 
 ## 2. Roztřiď
 
