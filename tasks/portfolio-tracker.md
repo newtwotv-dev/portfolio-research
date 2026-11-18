@@ -48,6 +48,19 @@ Pro každou firmu s novinkou:
 
 Firmám bez novinek nic nepřepisuj.
 
+## 3b. Zařazení na aktualizaci deep dive
+
+Firma s hotovým deep dive (`last_deep_dive` v `universe.yaml`) jde do `state.json → refresh_queue`,
+když nastane aspoň jedno:
+- zveřejnila výsledky nebo změnila guidance,
+- nastal některý bod z „Potvrdí“ nebo „Vyvrátí“ v dossieru,
+- signál se změnil na 🔴 nebo ⚡ z jiného důvodu, než byl v posledním deep dive,
+- cena se od data posledního deep dive pohnula o 25 % a víc.
+
+Záznam: `{"ticker", "reason", "trigger_date", "since": "deep-dive-vN"}`. Plánované spouštěče
+(např. výsledky v kalendáři) zapiš s `trigger_date` v budoucnu, aktivují se až po něm.
+V alertu nebo týdenním souhrnu uveď „zařazeno na aktualizaci deep dive“.
+
 ## 4. Alert, jen když je důvod
 
 Vytvoř alert (Claude Doc + `briefs/alerts/YYYY-MM-DD.md`, šablona `templates/alert.md`),
@@ -71,7 +84,9 @@ Jinak žádný dokument nevytvářej. Novinky půjdou do týdenního souhrnu.
 
 ## 5b. Fronta deep dive
 
-Pokud v tomto běhu nevznikl alert a zbývá kapacita, udělej **jeden** deep dive z
-`state.json → deep_dive_queue` (první položka) podle `tasks/company-deep-dive.md`
+Pokud v tomto běhu nevznikl alert a zbývá kapacita, udělej **jeden** deep dive. Přednost má
+aktivní položka z `state.json → refresh_queue` (trigger_date ≤ dnes, aktualizace vN+1 podle sekce
+„Aktualizace“ v `tasks/company-deep-dive.md`), jinak první položka z
+`state.json → deep_dive_queue` podle `tasks/company-deep-dive.md`
 a vytvoř k němu Claude Doc. Frontu řaď podle váhy v portfoliu (výstup
 `tools/portfolio.py`). Nové firmy z watchlistu se řadí podle váhy stejně jako ostatní (nedržené na konec).

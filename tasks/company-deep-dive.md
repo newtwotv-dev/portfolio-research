@@ -43,8 +43,32 @@ Výstup: `companies/<TICKER>/deep-dive-vN.md` (N = další číslo verze) + Clau
 s názvem `Deep dive: <Název> (<TICKER>) – <D. M. YYYY>`. Poté aktualizuj dossier: tezi,
 KPI, scénáře, katalyzátory, signál a odkaz na verzi.
 
-Při aktualizaci existující analýzy začni rozdílem oproti předchozí verzi: co se změnilo
-a proč.
+### Aktualizace (v2, v3 …)
+
+Spouští se z `state.json → refresh_queue` (plní ho Tracker, viz `tasks/portfolio-tracker.md`
+krok 3b) nebo na povel. Nedělej celý rozbor znovu od nuly: přečti předchozí verzi, kroky
+s novými daty přepracuj a ostatní převezmi (s poznámkou „beze změny od vN-1“).
+
+**Povinně jako první sekce `## Co se změnilo od vN-1`** (v markdownu i v Claude Docu):
+
+1. **Spouštěč:** co aktualizaci vyvolalo (výsledky, guidance, bod z „Vyvrátí/Potvrdí“), datum, zdroj.
+2. **Tabulka změn** – jen řádky, které se změnily, se šipkou a směrem:
+
+   | Co | vN-1 (datum) | vN (datum) | Změna | Proč |
+   |---|---|---|---|---|
+   | Signál | 🟡 Sledovat | 🟢 Teze posílena | ⬆️ | … |
+   | Pravděpodobnosti bear/base/bull | 25/50/25 | 15/50/35 | ⬆️ | … |
+   | Cíle bear/base/bull | 5,10/12,00/20,40 | … | ⬆️/⬇️ | … |
+   | Vážený výnos p. a. vs. požadovaný | 4 % vs. 12–15 % | … | ⬆️ | … |
+   | Doporučená velikost pozice | 5–8 % | … | = | … |
+
+   Značky: ⬆️ zlepšení pro tezi, ⬇️ zhoršení, = beze změny, 🆕 nový bod, ❌ vypuštěný bod.
+3. **Teze:** původní věta (vN-1) a nová věta (vN) pod sebou. Změněná slova **tučně**, k tomu jedna věta proč.
+4. **Body „Potvrdí / Vyvrátí“:** u každého ✅ splněno / ❌ nesplněno / ⏳ čeká, s čísly.
+5. **Co zůstává stejné:** max. 3 odrážky.
+
+Pak pokračuj kroky 0–15 (aktualizované). V dossieru přidej do historie signálu a Deníku změn
+řádek s odkazem na vN a krátkým shrnutím z tabulky změn.
 
 ### Krok 0 – snapshot firmy
 Tabulka: sektor a subsektor, země HQ, listingy, ticker, market cap, EV, cena akcie, 52W

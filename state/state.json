@@ -808,5 +808,19 @@
       "ref": "state/calendar.md"
     }
   ],
-  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně."
+  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně.",
+  "refresh_queue": [
+    {
+      "ticker": "TKA",
+      "reason": "výsledky FY 2025/26 + výhled 26/27, rozhodnutí o struktuře oceli",
+      "trigger_date": "2026-12-08",
+      "since": "deep-dive-v1"
+    },
+    {
+      "ticker": "SOFI",
+      "reason": "výsledky Q4 2026 + guidance 2027 (spouštěče v dossieru)",
+      "trigger_date": "2027-01-29",
+      "since": "deep-dive-v1"
+    }
+  ]
 }
