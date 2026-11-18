@@ -35,7 +35,8 @@ instruments:
   TKMS: { name: TKMS (ThyssenKrupp Marine Systems), isin: DE000TKMS001, exchange: XETRA, ccy: EUR, quartr_id: 21594, tier: A, group: "Obrana", source: quartr_watchlist,
           sector: "Obrana – ponorky, lodě", themes: [eu-defense, nato-spending] }
   TKA:  { name: thyssenkrupp, isin: DE0007500001, exchange: XETRA, ccy: EUR, quartr_id: 5770, tier: A, group: "Průmysl", source: quartr_watchlist,
-          sector: "Ocel, průmysl, restrukturalizace/spin-offy", themes: [eu-industry, eu-energy, eu-defense] }
+          sector: "Ocel, průmysl, restrukturalizace/spin-offy", themes: [eu-industry, eu-energy, eu-defense],
+          last_deep_dive: 2026-11-18 }
   TKCC: { name: tk accelis, isin: DE000TKCC1S8, exchange: XETRA, ccy: EUR, quartr_id: 25241, tier: A, group: "Průmysl", source: quartr_watchlist,
           sector: "Spin-off z thyssenkrupp", themes: [eu-industry] }
   SMSH: { name: Smart Shooter, isin: null, exchange: TASE, ccy: ILS, price_unit: ILA, quartr_id: null, tier: A, group: "Obrana", source: manual,

@@ -568,7 +568,7 @@
       "TKA",
       "CSG"
     ],
-    "deep_dive": "SOFI deep dive v1 hotový 18. 11. 2026 na povel (Claude Doc https://claude.ai/artifact/CiXe7b25dgUESk5MQPzM3J)"
+    "deep_dive": "SOFI v1 (https://claude.ai/artifact/CiXe7b25dgUESk5MQPzM3J) a TKA v1 (https://claude.ai/artifact/GkBaGCzmLvqSAAWNLD4KtE) hotové 18. 11. 2026 na povel"
   },
   "market_brief": {
     "last_run": null,
@@ -623,7 +623,6 @@
     "COIN"
   ],
   "deep_dive_queue": [
-    "TKA",
     "AQST",
     "CSG",
     "RHM",
