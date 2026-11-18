@@ -74,4 +74,4 @@ Jinak žádný dokument nevytvářej. Novinky půjdou do týdenního souhrnu.
 Pokud v tomto běhu nevznikl alert a zbývá kapacita, udělej **jeden** deep dive z
 `state.json → deep_dive_queue` (první položka) podle `tasks/company-deep-dive.md`
 a vytvoř k němu Claude Doc. Frontu řaď podle váhy v portfoliu (výstup
-`tools/portfolio.py`). Nové firmy z watchlistu jdou na začátek fronty.
+`tools/portfolio.py`). Nové firmy z watchlistu se řadí podle váhy stejně jako ostatní (nedržené na konec).

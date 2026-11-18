@@ -5,7 +5,7 @@ gmail:
   note: >
     Většina reportů chodí jako přeposlané maily (FW:) od martinec@jtfg.com.
     Skutečný autor je v těle mailu v řádku "From:" – ten uváděj jako zdroj.
-    Hlavní obsah bývá v PDF příloze.
+    Hlavní obsah bývá v PDF příloze. Zpracovávat i GS a JPM včetně PDF příloh (rozhodnutí Tomáše 18. 11. 2026).
   forwarders:
     - martinec@jtfg.com
   # Priorita podle původního autora (z řádku From: v těle FW mailu)

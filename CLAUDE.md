@@ -53,7 +53,7 @@ firem a `themes.md` kvůli makro kontextu podle pole `themes` v `universe.yaml` 
    `state.json → watchlist_snapshot`.
    - **Nová firma** → přidej ji do `universe.yaml` (tier B, nebo A pokud je v `portfolio.yaml`),
      založ `companies/<TICKER>/dossier.md` ze šablony (rychlý onboarding podle
-     `tasks/company-deep-dive.md`, sekce „Onboarding“) a zařaď ji na začátek fronty deep dive.
+     `tasks/company-deep-dive.md`, sekce „Onboarding“) a zařaď ji do fronty deep dive podle velikosti pozice (nedržené firmy na konec).
    - **Odebraná firma**, která není v `portfolio.yaml` → přesuň dossier do `companies/_archive/`
      a označ v `universe.yaml` `status: archived`.
    - Ulož nový snapshot.
@@ -114,7 +114,8 @@ Pravidla:
 ## Pokrytí podle tieru
 
 - **A** (držené akcie): plný dossier, denní kontrola událostí, deep dive ve frontě
-  (pořadí podle váhy v portfoliu, nejvyšší první).
+  (pořadí podle velikosti pozice od největší po nejmenší: nejdřív Tomášovy pozice podle váhy,
+  pak pozice jen u Michala, nakonec nedržené firmy; pokyn Tomáše 18. 11. 2026).
 - **B** (watchlist, plánované nákupy): dossier v rozsahu onboardingu, týdenní kontrola novinek.
 - **C** (ETF, zanedbatelné pozice): jen ocenění v týdenním souhrnu.
 

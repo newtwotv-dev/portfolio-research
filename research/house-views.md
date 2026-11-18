@@ -15,6 +15,8 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | US akcie – riziko AI capexu | BCA | Zpomalení capexu hyperscalerů ≈ recese a bear market; obrat výdajů cca za rok, zatím brzy na de-risking | 16. 11. 2026 | log 2026-11 · BCA 16. 11. |
 | Evropa (STOXX 600) | GS | Cíl 700 za 12 M (+6 % cenově); long DAX vs. SXXP | 13. 11. 2026 | log 2026-11 · GS 13. 11. |
 | Evropa – styl | JPM | Value OW (drží 2 roky) | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
+| Evropa (STOXX 600 / EURO STOXX 50) | JPM | Cíle prosinec 2026: 680 (+5 %) / 6 800 (+11 %); Eurozóna OW | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
+| Regiony | JPM | EM OW, DM UW (US Neutral, Japonsko Neutral, UK Neutral); akcie OW 65 % | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
 | EM (MSCI EM) | GS | Cíl 1 850 konec 2027 (+17 % v USD), rozšíření mimo AI | 13. 11. 2026 | log 2026-11 · GS 13. 11. |
 | EM celkově | SG | Konstruktivní 2027, protivětry na vrcholu | 16. 11. 2026 | log 2026-11 · SG 16. 11. |
 | Čína – H-shares (MSCI China) | GS | **OW** (z MW), cíl 85 (+23 %); EPS 2027 +15 % | 16. 11. 2026 | log 2026-11 · GS 16. 11. |
@@ -45,7 +47,9 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Paměti (MU, Samsung, SK Hynix) | Gavekal | Bearish: Nvidia omezuje vendor financing → riziko zpomalení computu | 17. 11. 2026 | log 2026-11 · Gavekal 17. 11. |
 | US Powered Shell Providers | MS | Attractive; IPP krátkodobě pod tlakem (Texas) | 4. 11. 2026 | log 2026-11 · MS 4. 11. |
 | US síť / energetické vybavení / jádro | Alpine Macro | Velká příležitost; jádro dlouhodobě pozitivní (restarty, uprate) | 16. 11. 2026 | log 2026-11 · Alpine 16. 11. |
-| Tech/AI globálně | JPM | „Není na prodej“, výprodej extrémní = příležitost | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
+| Tech/AI globálně | JPM | „Není na prodej“, výprodej extrémní = příležitost; hyperscalery nejlevnější od 2012 | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
+| Sektory (Evropa/Global) | JPM | OW: Mining, Cap Goods, **Semis**, Construction Materials, **Luxury**; N: Utilities, Healthcare, Autos, Banks, Tech HW; UW: Energy, Media, Staples, Insurance, Software | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
+| Obrana | JPM | Od léta 2025 opatrný, před 2 měsíci obrat pozitivněji (preferuje modernizační tituly) | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
 
 ### Sazby, FX, komodity, krypto
 

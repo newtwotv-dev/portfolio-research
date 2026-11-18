@@ -39,6 +39,7 @@ Dotčené: MU, VST, BABA.
 
 ### #semis-cycle: Cyklus polovodičů a pamětí
 Dotčené: MU.
+- 18. 11. 2026: JPM (9. 11.) preferuje v rámci AI polovodiče (Semis OW); MU −44 % od maxima roku (1 214 → 678 USD), SK Hynix −61 %. **Rozpor:** JPM OW vs. Gavekal bearish na paměti.
 - 18. 11. 2026: MU je 2. největší přispěvatel k růstu EPS S&P 500 (16 % v 2026, 14 % v 2027, jen 3 % v 2028; GS 17. 11.); riziko nové nabídky a marží v 2028. Gavekal (17. 11.): omezení vendor financingu Nvidie je bearish pro paměti. GS Top of Mind: „hyperinflace cen pamětí“ jako nákladový šok pro hyperscalery (pozitivní cenový signál).
 
 ### 🔥 #us-power-demand: Poptávka po elektřině v US (datacentra)
@@ -96,6 +97,7 @@ Dotčené: BABA, MC.
 
 ### #luxury-demand: Poptávka po luxusu
 Dotčené: MC.
+- 18. 11. 2026: JPM (9. 11.) má Luxury OW, sektor +10,1 % za měsíc do 9. 11.; 17. 11. ale výprodej luxusu (Hermès −5 %, LVMH ~−2,7 %).
 - 18. 11. 2026: GS: EU Consumer Products & Services ↑ Neutral (13. 11.), čínské Consumer Services ↑ OW (16. 11.).
 
 ### #us-consumer / #eu-consumer: Spotřebitel

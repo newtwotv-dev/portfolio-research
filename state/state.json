@@ -553,7 +553,7 @@
       }
     ],
     "backlog_note": "Nezpracované reporty z okna 4.–18. 11. (limit 20 extraktů na běh). Další běh je zpracuje přednostně v tomto pořadí (prvních ~10 je nejrelevantnějších pro portfolio), max. 20 včetně nových mailů. last_processed_at se na backlog nevztahuje.",
-    "licence_flag": "GS a JPM v patičkách/PDF zakazují použití obsahu jako vstupu pro AI bez písemného souhlasu. Extrakty jsou parafráze; čeká na rozhodnutí Tomáše, zda GS/JPM zpracovávat dál (u JPM se PDF nestahovalo)."
+    "licence_decision": "18. 11. 2026 Tomáš: zpracovávat i GS a JPM reporty včetně PDF příloh (JPM příloha je důležitá)."
   },
   "portfolio_tracker": {
     "last_run": "2026-11-18",
@@ -623,13 +623,10 @@
     "COIN"
   ],
   "deep_dive_queue": [
-    "GUTS",
-    "INTR",
-    "TNEK",
     "SOFI",
     "TKA",
-    "CSG",
     "AQST",
+    "CSG",
     "RHM",
     "LIME",
     "IOVA",
@@ -643,9 +640,12 @@
     "NOVO",
     "PFE",
     "TKCC",
-    "VST",
+    "INTR",
+    "GUTS",
     "TUI1",
-    "COIN"
+    "VST",
+    "COIN",
+    "TNEK"
   ],
   "pending_mentions": [
     {
@@ -810,5 +810,5 @@
       "ref": "state/calendar.md"
     }
   ],
-  "notes": "Fronty seřazené podle váhy v Tomášově portfoliu (tools/portfolio.py k 17. 11. 2026). GUTS a INTR jsou na začátku deep dive fronty, protože byly 18. 11. nově přidány do Quartr watchlistu (pravidlo CLAUDE.md). Doporučení: CSG deep dive prioritně (alert 18. 11.) – dotaz na Tomáše v komentáři Claude Docu alertu. VST, TUI1 a COIN drží jen Michal."
+  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně."
 }
