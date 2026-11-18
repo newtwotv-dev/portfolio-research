@@ -1,16 +1,17 @@
 # SoFi Technologies (SOFI) – dossier
 
 _Poslední aktualizace: 18. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [SoFi Technologies (5065)](https://web.quartr.com/m/companies/5065) · IR: [investors.sofi.com](https://investors.sofi.com)_
-_Poslední deep dive: zatím ne_
+_Poslední deep dive: companies/SOFI/deep-dive-v1.md (18. 11. 2026)_
 
 ## Signál
 
-**Aktuální:** 🟡 **Sledovat** (do deep dive): Q3 2026 byl provozně silný a guidance šla nahoru, ale akcie od 10. 11. ztratila ~13 % bez firemní zprávy a je blízko 52W minima. Teze zatím není zformulovaná ani otestovaná valuací a scénáři. [Názor] · _od 18. 11. 2026_
-**Co by ho zvrátilo:** 🟢 deep dive ukáže, že dnešní cena nezapočítává guidance na 2027 (P/E ~16× FY27 adj. EPS) a úvěrová kvalita drží. 🔴 zhoršení NCO osobních úvěrů nad ~4 %, slabší poptávka investorů po úvěrech přes Loan Platform Business nebo škrt guidance.
+**Aktuální:** ⚡ **Ke zvážení: redukovat** (velikost pozice u Tomáše, 14,3 % → ~7–8 %); teze sama 🟡 **Sledovat**. Vážený výnos ze scénářů +26 % za 2 roky (~12 % p. a.) je pod požadovaným 14–17 % p. a. a rozptyl scénářů je velmi široký (−42 % až +102 %). Při 1,91× TBV trh už počítá s udržitelným ROTCE ~15–18 % (dnes 9,9 %). Zisk 2027 stojí na rychle rostoucí nezajištěné rozvaze (UPB osobních úvěrů +18 % q/q) s rostoucím předpokladem defaultů (5,10 %) a tenčí diskontní přirážkou. Michal (5,4 %): mírně převážená, nepřikupovat. Viz scénáře v deep-dive-v1. [Názor] · _od 18. 11. 2026_
+**Co by ho zvrátilo:** 🟢 / přikoupit: Q4 (29. 1. 2027) potvrdí EPS 0,90 na 2027, předpoklad defaultů ≤5,1 %, all-in NCO ≤3,5 %, total capital ratio nad ~14 % bez emise (pak pravděpodobnosti 20/50/30, ~17 % p. a.), nebo cena pod ~13 USD při stejných fundamentech. 🔴 předpoklad defaultů >5,5 % nebo all-in NCO >4 %, marky osobních úvěrů <101 % par, škrt guidance, emise akcií, propad LPB.
 
 | Datum | Signál | Důvod | Zdroj |
 |---|---|---|---|
 | 18. 11. 2026 | 🟡 Sledovat | Onboarding dossieru. Silné Q3 a zvýšená guidance vs. slabá cena, čeká se na deep dive. [Názor] | Quartr Q3 2026, tento dossier |
+| 18. 11. 2026 | ⚡ Ke zvážení: redukovat (Tomáš) / teze 🟡 | Deep dive v1: vážený výnos ~12 % p. a. < požadovaný 14–17 % p. a., conviction nízká–střední → rámec 5–8 % vs. 14,3 % u Tomáše; Michal 5,4 % vs. rámec 2–3 %. [Názor] | companies/SOFI/deep-dive-v1.md |
 
 ## Pozice
 
@@ -48,17 +49,19 @@ SoFi je americká digitální banka s licencí national bank: nabízí osobní, 
 
 **Tomášova teze:** (doplnit)
 
-**Pracovní teze / variant perception:** Trh SoFi oceňuje jako cyklického spotřebitelského věřitele s rizikem úvěrových ztrát (konsenzus Hold, akcie −46 % YTD). Pracovní varianta je, že jde o rostoucí franšízu: členové +35 %, produkty +44 %, roste podíl poplatkových příjmů a obrat ROTCE z ~10 % směrem k 15 %+ by obhájil vyšší P/TBV. Při ~16× FY27 adj. EPS z guidance (0,90 USD) není potřeba velký re-rating, stačí, aby management splnil plán. Ověřit v deep dive, zejména kvalitu zisku (fair-value marže úvěrů, gain-on-sale) a citlivost na sazby. [Názor]
+**Pracovní teze / variant perception (deep dive v1):** SoFi je skutečná rostoucí franšíza (vklady 90 % fundingu, cross-sell, hotovostní NII 927 mil. USD/Q), takže riziko „účetního podvodu“ podle Muddy Waters je menší, než naznačuje cena. Akcie ale není tak levná, jak vypadá na P/E z guidance (~16× FY27): správná kotva je P/TBV vs. ROTCE a 1,91× TBV už implikuje udržitelné ROTCE ~15–18 % (dnes 9,9 %, z guidance 2027 ~12 %). Trh podle mě podceňuje citlivost TBV na úvěr a sazby: UPB osobních úvěrů +18 % q/q, předpoklad defaultů 4,5 → 5,1 % za 9 měsíců, diskontní přirážka nad 2Y SOFR jen 0,81 p. b., marky 103,3 %. Výnos nad laťku vyžaduje cestu ROTCE k 18–20 %, kterou musí SoFi teprve prokázat v cyklu vyšších sazeb. Edge je slabý až střední (interpretace veřejných dat). [Názor]
 
-**Scénáře** (z posledního deep dive): zatím žádné
+**Scénáře** (deep dive v1, 18. 11. 2026; horizont ~2 roky, cíl k 11/2028 = forward P/E × EPS FY2029E) [Odhad]
 
 | Scénář | Pravděpodobnost | Cílová cena | Klíčový předpoklad |
 |---|---|---|---|
-| Bear | | | |
-| Base | | | |
-| Bull | | | |
+| Bear | 30 % | 8,25 USD (−42 %) | EPS 27/28/29 0,60/0,62/0,75, 11×; all-in NCO 5–6 %, přecenění úvěrů dolů, slabší LPB, škrt guidance, ~1,0× TBV |
+| Base | 45 % | 18,50 USD (+29 %) | EPS 0,84/1,08/1,32, 14×; lehce pod guidance 2027, NCO ~3,5–4 %, bez emise, ~1,9× TBV |
+| Bull | 25 % | 28,90 USD (+102 %) | EPS 0,95/1,30/1,70, 17×; guidance překonána, fee mix k 50 %, ROTCE k 18–20 %, Fed škrtá ve 2H27 |
 
-**Potvrdí:** splnění FY26 guidance (Q4) a potvrzení FY27 cílů v lednu, stabilní NCO, rostoucí fee-based podíl · **Vyvrátí:** škrt guidance, NCO osobních úvěrů výrazně nad ~3,5 %, výpadek poptávky po úvěrech v LPB, nutnost navýšit kapitál
+Vážená cena 18,02 USD → +26 % za 2 roky (~12,3 % p. a.) vs. požadovaný výnos 14–17 % p. a. Vážený výnos 14 % / 17 % p. a. by vyšel při ceně 13,86 / 13,16 USD. [Odhad, výpočet]
+
+**Potvrdí:** Q4 2026 (adj. EPS 0,19) a potvrzení EPS 0,90 na 2027 · předpoklad defaultů osobních úvěrů ≤5,1 % a all-in NCO ≤3,5 % · total capital ratio nad ~14 % bez emise · fee-based podíl ≥45 % · ROTCE nad 12 % do 2H27 · **Vyvrátí:** předpoklad defaultů >5,5 % nebo all-in NCO >4 % · marky osobních úvěrů <101 % par · škrt guidance · emise akcií · originace LPB pod ~3 mld./Q · brokered/wholesale funding nad 15 % fundingu
 
 ## KPI ke sledování
 
@@ -69,7 +72,10 @@ SoFi je americká digitální banka s licencí national bank: nabízí osobní, 
 | NIM | 6,14 % (+16 bp q/q), mgmt čeká >5 % i dál | 5,98 % (Q2, dopočet), 5,94 % (Q1) | ↑ | [Quartr Q3](https://web.quartr.com/m/sources/s55434191519) |
 | Fee-based revenue | 570,6 mil. USD (+40 % r/r, +21 % q/q), 42 % adj. tržeb; LPB 153,4 mil. USD | – | ↑ | [Quartr Q3](https://web.quartr.com/m/sources/s80690534719) |
 | Úvěrová kvalita: NCO osobních úvěrů | ~3,4 % (upravené: bez prodejů late-stage a vč. recoveries) · vykázaných 2,26 % · delikvence osobních úvěrů 42 bp | – | → (podle mgmt v souladu s očekáváním) | [Quartr Q3](https://web.quartr.com/m/sources/s56977026663) |
-| Kapitál a TBV | CET1 16,9 % · TBVPS 7,48 USD (vs. 5,97 r/r) · ROTCE 9,9 % | TBVPS 5,97 USD (Q3 25) | ↑ | [Quartr Q3](https://web.quartr.com/m/sources/s55434191519) |
+| Kapitál a TBV | CET1 16,9 % · total capital 17,0 % (−180 bp q/q, cíl „low to mid-teens“) · TBVPS 7,48 USD (vs. 5,97 r/r, část z emise 12/2025) · ROTCE 9,9 % | total capital ~18,8 % (Q2) · TBVPS 5,97 USD (Q3 25) | kapitál ↓, TBV ↑ | [Quartr Q3](https://web.quartr.com/m/sources/s55434191519), [transcript](https://web.quartr.com/m/sources/s69005017082604098814350) |
+| FV model osobních úvěrů | default 5,10 % · diskont 5,56 % vs. benchmark 4,75 % (přirážka 0,81 p. b.) · marka 103,3 % · UPB 30,9 mld. USD (+18 % q/q) | default 4,77 % · přirážka 0,98 p. b. · marka ~104,7 % · UPB 26,1 mld. (Q2) | default ↑, přirážka ↓ | [10-Q](https://web.quartr.com/m/sources/s45899898916), [ER](https://web.quartr.com/m/sources/s69558816355) |
+| Originace LPB | 3,8 mld. USD (Q3), dva noví partneři | ~3,1 mld. (Q2, dopočet +704 mil.) | ↑ | [transcript](https://web.quartr.com/m/sources/s57464075286015431828880) |
+| Zředěný počet akcií | 1 357,8 mil. (vážené, Q3); basic 1 296,6 mil. (+17 % od 1Q25) | basic 1 104 mil. (1Q25) | ↑ (emise + SBC) | [Quartr 10-Q](https://web.quartr.com/m/documents/3912143) |
 
 ## Poslední výsledky
 
@@ -94,7 +100,10 @@ SoFi je americká digitální banka s licencí national bank: nabízí osobní, 
 |---|---|---|
 | prosinec 2026 | Zasedání Fedu (GS čeká hike) | FY27 guidance stojí na dvou hikech. Citlivost NIM a gain-on-sale marží |
 | 18. 1. 2027 | Účinnost požadavků GENIUS Act / OCC pro stablecoiny | Bez schválení nebo výjimky by SoFi musela přerušit vydávání SoFiUSD ([Quartr](https://web.quartr.com/m/sources/s70760725130)) |
-| 29. 1. 2027 | Výsledky Q4 2026 + oficiální guidance 2027 ([Quartr](https://web.quartr.com/m/events/782073)) | Potvrzení předběžných cílů 2027 (6,4 mld. USD, EPS 0,90) |
+| 29. 1. 2027 | Výsledky Q4 2026 + oficiální guidance 2027 ([Quartr](https://web.quartr.com/m/events/782073)) | Potvrzení předběžných cílů 2027 (6,4 mld. USD, EPS 0,90), předpoklad defaultů, kapitálový poměr, mix LPB vs. rozvaha. Klíčový bod pro rozhodnutí o velikosti pozice |
+| 24. 11. 2026 | FINRA short interest (settlement 13. 11.) | Short interest 223,7 mil. akcií (~17 %) k 30. 10., roste ([Equibles](https://equibles.com/stocks/sofi/shortinterest)) |
+| konec 4/2027 | Q1 2027 | První čtvrtletí s vintage 2026 v plné splácecí fázi |
+| konec 1/2028 | Q4 2027 | Splnění 2027 = potvrzení / vyvrácení teze (konec horizontu ~11/2028) |
 
 ## Rizika
 
@@ -103,6 +112,8 @@ SoFi je americká digitální banka s licencí national bank: nabízí osobní, 
 3. **Závislost na prodeji úvěrů (LPB):** pro rezidua osobních úvěrů je omezený okruh kupců. Slabší poptávka by zvýšila potřebu vkladů nebo kapitálu. [Fakt, [Quartr](https://web.quartr.com/m/sources/s45877629022)]
 4. **Regulace a krypto:** SoFiUSD a krypto aktivity (GENIUS Act, OCC), nejistá účetní a regulatorní úprava stablecoinů, kybernetická a provozní rizika. [Fakt, [Quartr](https://web.quartr.com/m/sources/s65546354994)]
 5. **Kvalita zisku a sentiment:** část zisku je z přecenění (swapy vs. fair value úvěrů). Konsenzus je Hold s vysokým rozptylem cílů (12–30 USD) a akcie je vysoce volatilní (−46 % YTD). [Fakt/Názor]
+6. **Kapitál a ředění (deep dive v1):** při tempu RWA z Q3 (~5 mld./Q) vydrží kapitálová kapacita (15 mld. volné + ~14 mld. z organické tvorby) zhruba do ~1Q28. Pak přijde zpomalení rozvahy, nebo emise. Počet akcií +17 % od 1Q25, SBC ~1–2 % ročně. [Odhad, [transcript](https://web.quartr.com/m/sources/s65333407541804400762656)]
+7. **Citlivost TBV na fair value:** kumulativní FV úpravy 1,40 mld. USD = 14 % TBV (−628 mil. q/q). Osobní úvěry na par znamenají TBV −8 %, všechny úvěry na par −11 %. Zajištění kryje jen benchmarkové sazby, ne spready a defaulty. Muddy Waters (3/2026) tvrdí, že skutečná NCO je ~6 %. [Odhad/Fakt, [ER](https://web.quartr.com/m/sources/s69558816355), [Fool](https://www.fool.com/investing/2026/03/24/sofi-the-short-thesis/)]
 
 ## Broker views a zmínky
 
@@ -125,6 +136,7 @@ _Rozpor [Fakt]: sell-side je rozdělený zhruba na třetiny (Buy 24–30 USD vs.
 |---|---|---|
 | 18. 11. 2026 | Založen dossier (onboarding): snapshot, KPI, Q3 2026, guidance FY26/FY27, katalyzátory, broker views. Signál 🟡 Sledovat do deep dive | Quartr, web, research/log |
 | 18. 11. 2026 | Novinky 11.–18. 11.: bez firemních zpráv a bez nových dokumentů na Quartru. Akcie 12.–17. 11. čtyřikrát v řadě dolů (−3,9 / −1,3 / −3,7 / −3,8 %), z 16,27 na ~14,28 USD | StockAnalysis, Simply Wall St/Yahoo, TokenPost |
+| 18. 11. 2026 | Deep dive v1: pracovní teze a variant perception, scénáře (bear 8,25 / base 18,50 / bull 28,90 USD; 30/45/25 %, vážená 18,02 USD, ~12 % p. a. vs. požadovaných 14–17 %), signál ⚡ Ke zvážení: redukovat (Tomáš, rámec 5–8 % vs. 14,3 %; Michal rámec 2–3 % vs. 5,4 %), nové KPI (FV model, LPB, zředění), katalyzátory a rizika (kapitál, FV citlivost) | companies/SOFI/deep-dive-v1.md |
 
 ## Zdroje
 
@@ -134,3 +146,4 @@ _Rozpor [Fakt]: sell-side je rozdělený zhruba na třetiny (Buy 24–30 USD vs.
 - Analytici: [Beinsure, 28. 10. 2026](https://beinsure.com/news/sofi-stock-price-forecast-wall-street-analysts-target-15-30/) · [Yahoo Finance](https://finance.yahoo.com/quote/SOFI/)
 - Insideři: [TS2 (6/2026)](https://ts2.tech/en/sofi-technologies-stock-nasdaqsofi-falls-as-insider-buying-meets-a-funding-cost-test/) · [Quiver Quant, 28. 9. 2026](https://www.quiverquant.com/news/SoFi+slips+as+recent+rally+cools+and+insider-sale+filings+weigh+on+sentiment)
 - Repo: research/log/2026-11.md (GS 16. 11., JPM 13. 11., JPM 9. 11.), research/themes.md (#fed/#us-rates, #fintech)
+- Deep dive: companies/SOFI/deep-dive-v1.md (18. 11. 2026; úplný seznam zdrojů v sekci „Zdroje“). Navíc: [10-Q Q3 – FV vstupy](https://web.quartr.com/m/sources/s45899898916) · [Transcript Q3 2026](https://web.quartr.com/m/documents/4364866) · [Equibles short interest](https://equibles.com/stocks/sofi/shortinterest) · [Insiderset](https://www.insiderset.com/stocks/SOFI/insider-transactions) · [Motley Fool – short thesis](https://www.fool.com/investing/2026/03/24/sofi-the-short-thesis/)
