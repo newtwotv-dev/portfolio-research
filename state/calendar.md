@@ -7,21 +7,25 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 |---|---|---|---|---|
 | 18. 11. 2026 | konference | MU – TomorrowX Summit | | [Quartr](https://web.quartr.com/m/events/801555) |
 | 18. 11. 2026 | konference | VTS – Southwest IDEAS Conference | | [Quartr](https://web.quartr.com/m/events/789981) |
-| 18.–19. 11. 2026 | IPO | MU – první den obchodování Anthropicu; MU vstupuje za 1 mld. USD | | Fool, 10. 11. 2026 |
-| 19. 11. 2026 | earnings | BABA – výsledky FQ2 FY27 (zářijové Q) | před otevřením US; konsenzus upr. EPS ~1,63–1,65 USD, tržby ~40,5 mld. USD | [Quartr](https://web.quartr.com/m/events/736903) |
+| 19. 11. 2026 | IPO | MU – první den obchodování Anthropicu (Nasdaq: ANT), IPO naceněno 18. 11. na 83 USD (nad pásmem 70–78) | MU kupuje za 1 mld. USD v privátním umístění za cenu IPO | [StockAnalysis](https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/) |
+| 19. 11. 2026 | earnings | BABA – výsledky FQ2 FY27 (zářijové Q) | před otevřením US, call 12:00 UTC; konsenzus upr. EPS ~1,63–1,71 USD (Zacks 1,71), tržby ~40,4–40,5 mld. USD | [Quartr](https://web.quartr.com/m/events/736903) |
 | 19. 11. 2026 | regulace | BABA – účinnost pravidla BIS o AI čipech v zahraničních DC (zveřejnění ve Federal Register) | stávající DC mají 90 dní na povolení | thecryptobasic, 17. 11. 2026 |
 | 26. 11. 2026 | makro | TNEK – Bank of Korea, rozhodnutí o sazbách | SG čeká hike na 3,25 % | SG, 16. 11. 2026 |
 | 27. 11. 2026 | CMD | RHM – Capital Markets Day | nové střednědobé cíle; Citi čeká jejich snížení | [Quartr](https://web.quartr.com/m/events/683576) |
 | ~29. 11. 2026 | lock-up | TNEK – uvolnění 1M lock-upů | free float 31 % → 47 % [Odhad] | Eugene IPO report, 7. 10. 2026 |
 | do 30. 11. 2026 | earnings | SMSH – výsledky Q3 2026 | [Odhad] izraelská lhůta; Q2 vyšly 25. 8. | MAYA – ověřit |
 | 1. 12. 2026 | konference | MU – UBS Global Technology and AI Conference | | [Quartr](https://web.quartr.com/m/events/801563) |
-| 1. 12. 2026 | dividenda | MC – ex-dividenda 5,50 EUR | ověřit | MarketScreener |
+| 1. 12. 2026 | dividenda | MC – ex-dividenda 5,50 EUR | potvrzeno i Zonebourse | MarketScreener, Zonebourse |
+| 2. 12. 2026 | konference | AQST – Piper Sandler Healthcare Conference (prezentace CEO) | 10:30 ET | [Quartr](https://web.quartr.com/m/events/805506) |
 | 7. 12. 2026 | earnings | TKMS – výsledky FY 2025/26 | ráno | [Quartr](https://web.quartr.com/m/events/401365) |
+| 7. 12. 2026 | earnings | TKCC – předběžné výsledky FY 2025/26 (první po spin-offu) | quiet period 23. 11.–6. 12.; v Quartru zatím není | [IR tk accelis](https://www.investors.tkaccelis.com/) |
 | 8. 12. 2026 | earnings | TKA – výsledky FY 2025/26 + výhled 2026/27 | 06:30 CET; FCF, plán pro ocel, dividenda | [Quartr](https://web.quartr.com/m/events/722119) |
 | 8. 12. 2026 | investor day | NU – první Investor Day | dlouhodobá strategie | [Quartr](https://web.quartr.com/m/events/744463) |
+| 9. 12. 2026 | kapitál | MU – konec omezení z CHIPS Act | vedení chce přebytečnou hotovost vracet akcionářům (možný buyback) | [Quartr](https://web.quartr.com/m/sources/s329493047807869614976) |
 | 9. 12. 2026 | earnings | TUI1 – výsledky FY 2026 + výhled FY27 | guidance upr. EBIT 1,2–1,3 mld. EUR | Quartr event 691155 |
 | 16. 12. 2026 | earnings | MU – výsledky FQ1 FY27 | guidance tržby 61,5 ± 1,5 mld. USD; termín zatím neoficiální (Yahoo uvádí 23. 12.) | [Quartr](https://web.quartr.com/m/events/760934) |
 | prosinec 2026 / leden 2027 | guidance | CSG – guidance 2027 | CFO: „at the year end“ | Quartr, 9M call |
+| do 31. 12. 2026 | kontrakt | TKMS – podpis Kanady (až 12 ponorek) | management cílí do konce 2026, zatím preferovaný dodavatel | [Quartr Q3](https://web.quartr.com/m/sources/s253149721886117355060) |
 | do 31. 12. 2026 | FDA | NOVO – rozhodnutí FDA k CagriSema | uvedení v US začátkem 2027 | ad-hoc-news, 17. 11. 2026 |
 | do 31. 12. 2026 | FDA | GUTS – zahájení De Novo podání (Revita) | plné podání závisí na 12M datech | [Quartr](https://web.quartr.com/m/events/729202) |
 | do 31. 12. 2026 | regulace | AQST – podání Anaphylm v Kanadě | | Quartr (Jefferies, 16. 11. 2026) |
@@ -38,6 +42,7 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 29. 1. 2027 | earnings | SOFI – výsledky Q4 2026 + guidance 2027 | cíle 2027: 6,4 mld. USD, EPS 0,90 | [Quartr](https://web.quartr.com/m/events/782073) |
 | ~29. 1. 2027 | lock-up | TNEK – uvolnění 3M lock-upů | free float → 69 % [Odhad] | Eugene IPO report |
 | 30. 1. 2027 | lock-up | VST – konec lock-upu 5 mil. akcií Q-Generation | možný převis nabídky | SEC 424B7, 9. 11. 2026 |
+| 1Q 2027 | zakázka | RHM – podpis Arminius (Boxer) | posunuto z 2026 kvůli cenovým auditům | [Quartr Q3](https://web.quartr.com/m/events/535888) |
 | 2. 2. 2027 | earnings | PFE – výsledky Q4 2026 | | Quartr event 791903 |
 | 3. 2. 2027 | earnings | NOVO – výsledky FY 2026 + guidance 2027 | | Quartr event 728062 |
 | 5. 2. 2027 | AGM | TKA – valná hromada | dividenda | IR kalendář |
@@ -50,7 +55,16 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 24. 2. 2027 | earnings | NU – výsledky Q4 2026 | po zavření trhu | [Quartr](https://web.quartr.com/m/events/800028) |
 | 25. 2. 2027 | earnings | VST – výsledky Q4 2026 | | [Quartr](https://web.quartr.com/m/events/795456) |
 | 1. 3. 2027 | earnings | VTS – výsledky Q4 2026 | po zavření | [Quartr](https://web.quartr.com/m/events/772987) |
+| 3. 3. 2027 | earnings | GUTS – výsledky Q4 2026 | | [Quartr](https://web.quartr.com/m/events/763805) |
+| 5. 3. 2027 | earnings | AQST – výsledky Q4 2026 | | [Quartr](https://web.quartr.com/m/events/784036) |
+| 11. 3. 2027 | earnings | RHM – výsledky Q4/FY 2026 | | [Quartr](https://web.quartr.com/m/events/763869) |
 | 16. 3. 2027 | FDA | AQST – PDUFA Anaphylm | 75 mil. USD od RTW podmíněno schválením do 30. 6. 2027 | Quartr (Jefferies, 16. 11. 2026) |
 | 1Q 2027 | klinika | GUTS – topline 12M data REMAIN-1 | hlavní binární událost; zároveň riziko porušení covenantu min. likvidity | Quartr, study update 774177 |
 | 1Q 2027 | regulace | IOVA – schválení Amtagvi ve Švýcarsku a UK | | Quartr (Jefferies, 16. 11. 2026) |
 | 1Q 2027 | launch | AQST – Libervant na trh (Eton), podání Anaphylm v EU | | Quartr (Jefferies, 16. 11. 2026) |
+| 18. 3. 2027 | earnings | BABA – výsledky FQ3 FY27 | 11:30 UTC | [Quartr](https://web.quartr.com/m/events/805283) |
+| 23. 3. 2027 | earnings | LIME – výsledky Q4/FY 2026 | pravděpodobně guidance 2027 | [Quartr](https://web.quartr.com/m/events/770046) |
+| 25. 3. 2027 | earnings | CSG – výsledky Q4/FY 2026 | | [Quartr](https://web.quartr.com/m/events/796107) |
+| 1H 2027 | klinika | IOVA – finální data IOV-LUN-202 (kongres), podklad pro sBLA v plicích | | [Quartr](https://web.quartr.com/m/events/786311) |
+| 12. 5. 2027 | earnings | TUI1 – výsledky Q2 FY27 | | [Quartr](https://web.quartr.com/m/events/801304) |
+| 13. 5. 2027 | earnings | TKA – Q2 2026/27 | | [Quartr](https://web.quartr.com/m/events/802167) |

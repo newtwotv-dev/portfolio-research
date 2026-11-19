@@ -1,14 +1,18 @@
 {
   "schema_version": 1,
   "research_inbox": {
-    "last_processed_at": "2026-11-18T01:14:44Z",
-    "last_run": "2026-11-18",
+    "last_processed_at": "2026-11-18T13:15:13Z",
+    "last_run": "2026-11-19",
     "last_run_stats": {
       "plne_extrakty": 20,
-      "jen_titulek_backlog": 80,
-      "bez_extraktu_zalogovano": 23,
-      "zahozeno": 14,
-      "okno": "2026-11-04 až 2026-11-18 (první běh, 14 dní)"
+      "z_toho_novych_mailu": 8,
+      "z_toho_z_backlogu": 12,
+      "jen_titulek_backlog": 68,
+      "bez_extraktu_zalogovano": 0,
+      "zahozeno": 0,
+      "outlook": "zpracován: 2 maily (Hawkeye Terminal welcome – kandidát na terminál, Microsoft security – zahozen); výpisy T212 žádné",
+      "okno": "2026-11-17 až 2026-11-19 05:30 UTC (nové maily jen do 18. 11. 13:15 UTC)",
+      "poznamka": "MS Oil Manual jen z těla mailu (PDF 14 MB nad limitem 12 MB)"
     },
     "processed_thread_ids": [
       "1a1a41b7420a1187",
@@ -67,82 +71,30 @@
       "1a1eac9926525617",
       "1a1ebbe409454500",
       "1a1ebf641ef10095",
-      "1a1ec3879c60061c"
+      "1a1ec3879c60061c",
+      "1a1eecc81013416c",
+      "1a1ee07d87b27bbf",
+      "1a1ee07527043868",
+      "1a1edf82051c45ed",
+      "1a1edf6fcdbebf76",
+      "1a1edf68f1619514",
+      "1a1edf61afca9ca6",
+      "1a1edf09c3362e70",
+      "1a1a5ed5f2c1a3ee",
+      "1a1a5d2c15211dcc",
+      "1a1c06cf6fe1b778",
+      "1a1ea662665f1549",
+      "1a1ea9a75d9b3d40",
+      "1a1cf0cb9db754bc",
+      "1a1cd2bd9636de26",
+      "1a1ac2426471aeee",
+      "1a1ea67a5b44f33f",
+      "1a1eab526902f93e",
+      "1a1cf681081d7ba1",
+      "1a1cfd6780cff863"
     ],
-    "processed_note": "Mazat ID starší 21 dní podle data mailu; všechna ID z běhu 18. 11. jsou z maily 4.–18. 11. 2026 (smazat nejpozději 9. 12. 2026).",
+    "processed_note": "Mazat ID starší 21 dní podle data mailu; ID z běhů 18. a 19. 11. jsou z mailů 4.–18. 11. 2026 (smazat nejpozději 9. 12. 2026).",
     "backlog": [
-      {
-        "id": "1a1a5ed5f2c1a3ee",
-        "mail_date": "2026-11-04",
-        "source": "BCA",
-        "title": "Israel: An Upside Risk To Oil (Kuri, Gertken)"
-      },
-      {
-        "id": "1a1a5d2c15211dcc",
-        "mail_date": "2026-11-04",
-        "source": "MS",
-        "title": "Quant Driven Earnings Ideas – Stocks Poised for Earnings Surprises in November 2026"
-      },
-      {
-        "id": "1a1c06cf6fe1b778",
-        "mail_date": "2026-11-09",
-        "source": "MS",
-        "title": "Global Thematics: Buy the Drop: AI Investment Opportunities Post the US Midterms"
-      },
-      {
-        "id": "1a1ea662665f1549",
-        "mail_date": "2026-11-17",
-        "source": "MS",
-        "title": "2027 Global Year-Ahead Outlooks: Economics and Strategy"
-      },
-      {
-        "id": "1a1ea9a75d9b3d40",
-        "mail_date": "2026-11-17",
-        "source": "MS",
-        "title": "Bluepaper: Asia's Industrial and Capex Super-Cycle"
-      },
-      {
-        "id": "1a1cf0cb9db754bc",
-        "mail_date": "2026-11-12",
-        "source": "GS",
-        "title": "US Economics Analyst: 2027 Capex Outlook: How Much of an AI Boost?"
-      },
-      {
-        "id": "1a1cd2bd9636de26",
-        "mail_date": "2026-11-12",
-        "source": "Alpine Macro",
-        "title": "Equity Strategy: There Will Be Data…Centers: Buy Electrical Equipment"
-      },
-      {
-        "id": "1a1ac2426471aeee",
-        "mail_date": "2026-11-05",
-        "source": "ING",
-        "title": "How the blue wave could reshape US energy and data centres"
-      },
-      {
-        "id": "1a1ea67a5b44f33f",
-        "mail_date": "2026-11-17",
-        "source": "MS",
-        "title": "The Oil Manual – Chartbook: Physical Softening vs Lingering Supply Uncertainty"
-      },
-      {
-        "id": "1a1eab526902f93e",
-        "mail_date": "2026-11-17",
-        "source": "GS",
-        "title": "Precious Analyst: 2027 Outlook: It Is 2022 Again"
-      },
-      {
-        "id": "1a1cf681081d7ba1",
-        "mail_date": "2026-11-12",
-        "source": "SG (Albert Edwards)",
-        "title": "Global Strategy Weekly – Red screens: Why is (almost) no-one talking about liquidity?"
-      },
-      {
-        "id": "1a1cfd6780cff863",
-        "mail_date": "2026-11-12",
-        "source": "UBP",
-        "title": "UBP House View 11. 11. 2026"
-      },
       {
         "id": "1a1d3f40497b62ec",
         "mail_date": "2026-11-13",
@@ -552,23 +504,36 @@
         "title": "Rhapsody in blue for stock pickers after Democratic sweep"
       }
     ],
-    "backlog_note": "Nezpracované reporty z okna 4.–18. 11. (limit 20 extraktů na běh). Další běh je zpracuje přednostně v tomto pořadí (prvních ~10 je nejrelevantnějších pro portfolio), max. 20 včetně nových mailů. last_processed_at se na backlog nevztahuje.",
-    "licence_decision": "18. 11. 2026 Tomáš: zpracovávat i GS a JPM reporty včetně PDF příloh (JPM příloha je důležitá)."
+    "backlog_note": "Nezpracované reporty z okna 4.–18. 11. (limit 20 extraktů na běh). Další běh je zpracuje přednostně v tomto pořadí, max. 20 včetně nových mailů.",
+    "licence_decision": "18. 11. 2026 Tomáš: zpracovávat i GS a JPM reporty včetně PDF příloh (JPM příloha je důležitá).",
+    "processed_outlook_ids": [
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SwVwAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SU9gAAAA=="
+    ],
+    "outlook_note": "18. 11. přišel uvítací mail od Hawkeye Terminal (newsletter@hawkeyeterminal.com) – pravděpodobně budoucí 'maily z terminálu'; ověřit u Tomáše a doplnit do config/sources.yaml.",
+    "portfolio_mismatch": null
   },
   "portfolio_tracker": {
-    "last_run": "2026-11-18",
-    "last_window": "2026-11-11 až 2026-11-18",
-    "alert": "briefs/alerts/2026-11-18.md",
-    "alert_doc": "https://claude.ai/artifact/7svqUREnRjb68T9DSxFRbN",
+    "last_run": "2026-11-19",
+    "last_window": "2026-11-18 až 2026-11-19",
+    "alert": "briefs/alerts/2026-11-19.md",
+    "alert_doc": "https://claude.ai/artifact/5nCVKV9NQHKz4oWaWVjGAo",
     "onboarded": [
       "GUTS",
       "INTR",
       "TNEK",
       "SOFI",
       "TKA",
-      "CSG"
+      "CSG",
+      "RHM",
+      "LIME",
+      "IOVA",
+      "NU",
+      "BABA",
+      "TKMS"
     ],
-    "deep_dive": "SOFI v1, TKA v1, AQST v1 (https://claude.ai/artifact/NaAfpAtZTFi5dfKvkKobL8) hotové 18. 11. 2026 na povel"
+    "deep_dive": "SOFI v1, TKA v1, AQST v1 (https://claude.ai/artifact/NaAfpAtZTFi5dfKvkKobL8) hotové 18. 11. 2026 na povel",
+    "last_run_note": "Alert kvůli GUTS +11,9 % (≥8 %/den); deep dive tento běh neproběhl (vznikl alert). BABA výsledky FQ2 vyšly až po běhu (19. 11. pre-market) – zpracovat příště. Ceny k 18. 11. v state/prices.json."
   },
   "market_brief": {
     "last_run": null,
@@ -579,7 +544,7 @@
     "last_totals": null
   },
   "watchlist_snapshot": {
-    "as_of": "2026-11-18",
+    "as_of": "2026-11-19",
     "quartr_ids": [
       16403,
       14505,
@@ -604,12 +569,6 @@
     ]
   },
   "onboarding_queue": [
-    "RHM",
-    "LIME",
-    "IOVA",
-    "NU",
-    "BABA",
-    "TKMS",
     "MC",
     "MU",
     "VTS",
@@ -644,34 +603,6 @@
     "TNEK"
   ],
   "pending_mentions": [
-    {
-      "ticker": "BABA",
-      "date": "2026-11-16",
-      "source": "GS",
-      "text": "China Strategy 2027: H-shares MW → OW, MSCI China cíl 85; online retailing OW; Alibaba v koši AI aplikací",
-      "ref": "log 2026-11 · GS 16. 11."
-    },
-    {
-      "ticker": "BABA",
-      "date": "2026-11-13",
-      "source": "GS",
-      "text": "EM Kickstart: Čína ↑ OW; Alibaba největší čistý nákup přes Southbound (+461 mil. USD za týden)",
-      "ref": "log 2026-11 · GS 13. 11."
-    },
-    {
-      "ticker": "BABA",
-      "date": "2026-11-12",
-      "source": "Gavekal",
-      "text": "Nvidia Blast Zone: Alibaba investor a kotevní klient Megaspeedu v JV Asii; tvrdší pravidla remote access zhorší přístup k computu",
-      "ref": "log 2026-11 · Gavekal 12. 11."
-    },
-    {
-      "ticker": "BABA",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "12. 11. −6,6 % (zprávy o zákazu čipů v zahraničních DC), BIS pravidlo 16. 11. (účinné 19. 11.), výsledky FQ2 19. 11.",
-      "ref": "briefs/alerts/2026-11-18.md"
-    },
     {
       "ticker": "MU",
       "date": "2026-11-17",
@@ -715,34 +646,6 @@
       "ref": "state/calendar.md"
     },
     {
-      "ticker": "NU",
-      "date": "2026-11-13",
-      "source": "GS",
-      "text": "EM Kickstart: Brazílie OW → MW (HDP 2027 0,6 %, Selic 12,5 %), Mexiko ↑ OW, EM banky OW (makro kontext)",
-      "ref": "log 2026-11 · GS 13. 11."
-    },
-    {
-      "ticker": "NU",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "Q3 2026 (12. 11.): tržby 6,26 mld. USD, zisk 1,09 mld., ROE 32 %, efficiency guidance 19–19,5 %, NPL 90+ 7,3 %; 13. 11. +11,75 %; Investor Day 8. 12.",
-      "ref": "briefs/alerts/2026-11-18.md"
-    },
-    {
-      "ticker": "RHM",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "GS cíl 2 100 → 1 350 EUR (Buy, 16. 11.), Citi 1 099, Bernstein MP 1 000, BofA Neutral 900 (9. 11.); 11. 11. −6,9 % kvůli CSG; CMD 27. 11.",
-      "ref": "briefs/alerts/2026-11-18.md"
-    },
-    {
-      "ticker": "TKMS",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "2. tranše MEKO A-200 DEU, 4 fregaty ~5,3 mld. EUR (16.–17. 11.); Indie P75(I) interní schválení; Bernstein OP 115 EUR; FY výsledky 7. 12.",
-      "ref": "briefs/alerts/2026-11-18.md"
-    },
-    {
       "ticker": "PFE",
       "date": "2026-11-18",
       "source": "Tracker",
@@ -757,24 +660,10 @@
       "ref": "state/calendar.md"
     },
     {
-      "ticker": "IOVA",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "Jefferies 16. 11.: guidance FY26 410–420 mil. USD potvrzena, GM Q3 60 %, cash 382 mil. USD, zdražení Amtagvi +9 % od 1. 1. 2027",
-      "ref": "state/calendar.md"
-    },
-    {
       "ticker": "NOVO",
       "date": "2026-11-18",
       "source": "Tracker",
       "text": "ObesityWeek 17. 11.: FDA k CagriSema čeká v Q4 2026; Lilly Foundayo schválen v Austrálii",
-      "ref": "state/calendar.md"
-    },
-    {
-      "ticker": "LIME",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "10-Q Q3 (12. 11.); lock-up upisovatelů ~27. 12. 2026 [Odhad]",
       "ref": "state/calendar.md"
     },
     {
@@ -804,9 +693,128 @@
       "source": "Tracker",
       "text": "Jen EQS-DD (přidělení akcií ve spin-offu); DB Buy 40, Berenberg Buy 37 (29. 10.); termín prvních výsledků dohledat",
       "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-08",
+      "source": "MS",
+      "text": "Global Thematics 'Buy the Drop': MU OW, PT 1 200 USD (při 690), paměti taktický nákup po propadu",
+      "ref": "log 2026-11 · MS 8. 11."
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-12",
+      "source": "MS",
+      "text": "Bluepaper Asia capex: Micron staví montážní a testovací závod v Indii (Gujarat, ~225 mld. INR)",
+      "ref": "log 2026-11 · MS 12. 11."
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-15",
+      "source": "MS",
+      "text": "Year-Ahead: MU ve screenu Quality Cyclicals + zlepšující se revize EPS (OW)",
+      "ref": "log 2026-11 · MS 15. 11. (Year-Ahead)"
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-17",
+      "source": "GS",
+      "text": "US Inflation Monitor: ceny pamětí 2027 +5–10 % vs. konsenzus +10–15 % (letos +250–300 %)",
+      "ref": "log 2026-11 · GS 17. 11."
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "TomorrowX 18. 11.: 75 % výroby 2027 prodáno, 26 SCA s 32 mld. USD závazků, konec omezení CHIPS Act 9. 12. (buyback); Anthropic IPO 83 USD, MU 1 mld. USD; RBC Buy 1 500 (17. 11.); close 18. 11. 705,27 (−1,0 %)",
+      "ref": "briefs/alerts/2026-11-19.md"
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-11-08",
+      "source": "MS",
+      "text": "Buy the Drop: VST high-conviction OW, PT 224 USD (při 124,80), hodnota aktiv ~180",
+      "ref": "log 2026-11 · MS 8. 11."
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "Bernstein cíl 181 → 182 USD Outperform (17. 11.); starší: Scotiabank 189 → 169 (9. 11.), Wells Fargo 212 → 198 OW (28. 10.); close 18. 11. 125,58",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "NOVO",
+      "date": "2026-11-15",
+      "source": "MS",
+      "text": "Year-Ahead: NOVO UW, ve screenu titulů zaostávajících při otočení rotace",
+      "ref": "log 2026-11 · MS 15. 11. (Year-Ahead)"
+    },
+    {
+      "ticker": "NOVO",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "ObesityWeek 15. 11. post hoc REDEFINE 1 (early respondeři −25,4 %); Novocare 17. 11.; nový CFO Luigi La Corte od konce roku a guidance 2026 zvýšena na −2 až +2 % CER (4. 11.); ADR 18. 11. −3,1 %; CagriSema FDA stále Q4 2026",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "MC",
+      "date": "2026-11-15",
+      "source": "MS",
+      "text": "Year-Ahead: LVMH EW, ~22 % tržeb od čínských spotřebitelů, luxus klíčový UW",
+      "ref": "log 2026-11 · MS 15. 11. (Year-Ahead)"
+    },
+    {
+      "ticker": "MC",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "Close 18. 11. 388,10 (−1,25 %); konsenzus 27 analytiků 'Accumuler', cíl 491 EUR (Zonebourse); ex-div 5,50 EUR 1. 12. potvrzena",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "PFE",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "Licence in vivo CAR-T od Starna (18. 11.): 330 mil. USD předem, až 2,3 mld. milníky, preklinika",
+      "ref": "briefs/alerts/2026-11-19.md"
+    },
+    {
+      "ticker": "COIN",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "18. 11. −3,9 % na 110,51; spuštěn spot margin trading v US (až 10x); BTC ~62,7–63 tis. po jestřábím zápisu FOMC",
+      "ref": "briefs/alerts/2026-11-19.md"
+    },
+    {
+      "ticker": "VTS",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "Southwest IDEAS 18. 11.: produkce ~17 MBOE/d, dividenda 1,75 USD, capex 80–90 mil.; hedging ropy ~70 % 2026, >50 % 2027, >40 % 2028",
+      "ref": "https://web.quartr.com/m/events/789981"
+    },
+    {
+      "ticker": "TKCC",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "První výsledky po spin-offu 7. 12. 2026 (předběžné FY 25/26), quiet period 23. 11.–6. 12.; close 18. 11. 23,60",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "SMSH",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "Bez novinek; close 18. 11. 15,44 ILS (TradingView; Bizportal 15,85 – rozpor); Q3 zatím nevyšly",
+      "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "TUI1",
+      "date": "2026-11-19",
+      "source": "Tracker",
+      "text": "Zprávy o sloučení národních aerolinek do jednoho evropského provozu (17. 11.); ČR růst až 30 % v 2026/27; close 18. 11. 7,29",
+      "ref": "state/calendar.md"
     }
   ],
-  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně.",
+  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny.",
   "refresh_queue": [
     {
       "ticker": "TKA",

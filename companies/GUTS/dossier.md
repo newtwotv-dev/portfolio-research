@@ -1,6 +1,6 @@
 # Fractyl Health (GUTS) – dossier
 
-_Poslední aktualizace: 18. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [16403](https://web.quartr.com/m/companies/16403) · IR: [ir.fractyl.com](https://ir.fractyl.com/)_
+_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [16403](https://web.quartr.com/m/companies/16403) · IR: [ir.fractyl.com](https://ir.fractyl.com/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -86,6 +86,7 @@ Fractyl vyvíjí Revita – jednorázový ambulantní endoskopický zákrok, kte
 | konec 4Q 2026 | Zahájení De Novo podání u FDA | Regulační milník; plné podání závisí na 12M datech |
 | 1. 1. 2027 | Účinnost CPT kódu 1122T pro Revitu | Kódování pro budoucí úhrady |
 | začátek 1Q 2027 | Rozhodnutí CMS o on-rampu v RAPID | Pokud ano, výrazně lepší pozice v úhradách Medicare než base case |
+| 3. 3. 2027 | Výsledky Q4 2026 | Hotovost, runway, stav financování a De Novo |
 | 1Q 2027 | Topline 12M data REMAIN-1 (druhý co-primary + key secondaries) | Hlavní binární událost; pak formální testování sekundárních cílů |
 | do konce 1Q 2027 | Riziko porušení covenantu min. likvidity 10 mil. USD | Tlačí na financování (emise / partner / prodej Rejuvy) |
 | 2Q 2027 | Konec runway | Bez financování konec provozu |
@@ -111,6 +112,7 @@ Fractyl vyvíjí Revita – jednorázový ambulantní endoskopický zákrok, kte
 |---|---|---|
 | 18. 11. 2026 | Založen dossier (onboarding), signál 🟡 Sledovat, quartr_id 16403 ověřen | [Quartr](https://web.quartr.com/m/companies/16403) |
 | 18. 11. 2026 | Novinky 11.–18. 11.: výsledky 3Q26 + 10-Q (going concern, panel Nasdaq bez rozhodnutí, covenant), +11,27 % 13. 11. 2026 | [Quartr Q3 2026](https://web.quartr.com/m/events/729202), [Gotrade](https://www.heygotrade.com/en/us-stock/guts/) |
+| 19. 11. 2026 | 18. 11. close 1,08 USD (+11,9 %), první close nad 1 USD od 27. 10.; bez zprávy či filingu. Pro obnovení compliance obvykle ≥ 10 seancí s bidem ≥ 1 USD, panel má ale vlastní diskreci [Odhad]; rozhodnutí panelu zatím nepadlo. Q4 2026 výsledky 3. 3. 2027 (Quartr). Signál beze změny | [Seeking Alpha](https://seekingalpha.com/symbol/GUTS), [StockTitan](https://www.stocktitan.net/overview/GUTS/), [Quartr](https://web.quartr.com/m/events/763805) |
 
 ## Zdroje
 

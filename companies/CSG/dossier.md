@@ -1,6 +1,6 @@
 # CSG (Czechoslovak Group) (CSG) – dossier
 
-_Poslední aktualizace: 18. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [CSG (id 21954)](https://web.quartr.com/m/companies/21954) · IR: [investors.csg.com](https://investors.csg.com/case)_
+_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [CSG (id 21954)](https://web.quartr.com/m/companies/21954) · IR: [investors.csg.com](https://investors.csg.com/case)_
 _Poslední deep dive: zatím ne (ve frontě)_
 
 ## Signál
@@ -84,7 +84,7 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 |---|---|---|
 | prosinec 2026 – leden 2027 | Guidance 2027 („at the year end“) | Test, jestli je pokles marže přechodný |
 | cca 18. 1. 2027 [Odhad] | Konec 360denního lock-upu Strnada a velkých akcionářů | Riziko převisu nabídky. Free float jen cca 15 % |
-| cca konec března 2027 [Odhad, loni 26. 3.] | Výsledky FY 2026 | Uvolnění NWC, leverage, dividenda |
+| 25. 3. 2027 ([Quartr](https://web.quartr.com/m/events/796107)) | Výsledky FY 2026 | Uvolnění NWC, leverage, dividenda |
 | průběžně | Ukrajina (příměří/mír), české návrhy sektorové daně, spor s Kratochvílem, Hunterbrook, kauza FMG/NSPA | Sentiment a governance diskont |
 | do konce 2027 | 1,1 mil. ks 155 mm a vlastní energetika (Gnaschwitz, Walsrode) | Klíčový předpoklad návratu marží k 26–28 % |
 
@@ -100,6 +100,7 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 18. 11. 2026 | E15 (souhrn) | Za týden −31 %; průměrný cíl dle Bloombergu mírně nad 20 EUR, Patria 22,16 EUR; Cyrrus čeká snižování cílů, Direct Investments vidí slábnoucí prioritu zbrojení po midterms | web: [E15](https://www.e15.cz/byznys/burzy-a-trhy/strnadova-csg-za-tyden-ztratila-103-miliard-proc-analytici-stale-veri-ve-zdvojnasobeni-ceny-1437393) |
 | 13. 11. 2026 | GS | EU obrana OW beze změny (~20% růst EPS, PEG pod 1, 50% diskont vůči US obraně) | research/log/2026-11.md · GS 13. 11. 2026 |
 | 13. 11. 2026 | Deutsche Bank | Downgrade na Hold, cíl 14 EUR | web: [investing.com](https://uk.investing.com/equities/csg-nv) |
 | 12. 11. 2026 | JPMorgan | Downgrade na Neutral, cíl 12 EUR | web: [investing.com](https://uk.investing.com/equities/csg-nv) |
@@ -114,6 +115,7 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 |---|---|---|
 | 18. 11. 2026 | Založen dossier (onboarding). Signál 🟡 s negativním sklonem | Quartr, web |
 | 18. 11. 2026 | Novinky 11.–18. 11.: 9M výsledky a snížení výhledu marže a NWC (11. 11., −20,6 %). Downgrady JPM (12. 11.) a DB (13. 11.). Kontrakt Speer pro kanadské DND (12. 11.). Nové minimum 8,92, close 9,18 (−8,66 %, 17. 11.) | Quartr, Euronext, investing.com, echo24 |
+| 19. 11. 2026 | 18. 11.: Praha close 233,20 Kč (−9,26 %, 52W minimum) = dorovnání amsterdamského propadu 17. 11. (PSE 17. 11. zavřená); Amsterdam/Xetra vnitrodenně ~+2,6 % (9,42 EUR, close nedohledán). Bez firemní zprávy. E15: za týden −31 %, průměrný cíl (Bloomberg) mírně nad 20 EUR, Patria 22,16 EUR; analytici čekají snižování cílů [Fakt/Názor]. Výsledky FY 2026 25. 3. 2027 (Quartr). MS (15. 11.): EU obrana nedosáhla OW kvůli slabému momentu RHM. Signál beze změny | [ČTK](https://ceskenoviny.cz/zpravy/prazska-burza-odepsala-vice-nez-procento-vyrazne-ztracely-akcie-csg/2903588), [E15](https://www.e15.cz/byznys/burzy-a-trhy/strnadova-csg-za-tyden-ztratila-103-miliard-proc-analytici-stale-veri-ve-zdvojnasobeni-ceny-1437393), [Quartr](https://web.quartr.com/m/events/796107) |
 
 ## Zdroje
 

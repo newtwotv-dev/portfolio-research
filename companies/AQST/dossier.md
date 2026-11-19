@@ -1,6 +1,6 @@
 # Aquestive Therapeutics (AQST) – dossier
 
-_Poslední aktualizace: 18. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [12753](https://web.quartr.com/m/companies/12753) · IR: [investors.aquestive.com](https://investors.aquestive.com)_
+_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [12753](https://web.quartr.com/m/companies/12753) · IR: [investors.aquestive.com](https://investors.aquestive.com)_
 _Poslední deep dive: companies/AQST/deep-dive-v1.md (18. 11. 2026, [Claude Doc](https://claude.ai/artifact/NaAfpAtZTFi5dfKvkKobL8))_
 
 ## Signál
@@ -86,9 +86,10 @@ Guidance 2026 beze změny: tržby 46–50 mil. USD, adj. EBITDA −30 až −35 
 
 | Datum | Událost | Proč na tom záleží |
 |---|---|---|
+| 2. 12. 2026 | Piper Sandler Healthcare Conference (prezentace CEO, 10:30 ET) | komentář k launchi Anaphylmu a financování |
 | do 31. 12. 2026 | Podání Anaphylmu v Kanadě | první ex-US krok |
 | 10. 1. 2027 | Konec exkluzivity Valtoca | cesta k finálnímu schválení Libervantu |
-| ~3/2027 | Výsledky Q4 2026 | hotovost >70 mil.? ATM? |
+| 5. 3. 2027 (Quartr) | Výsledky Q4 2026 | hotovost >70 mil.? ATM? |
 | Q1 2027 | Podání v EU, klinika AQST-108 | ex-US hodnota, pipeline |
 | **16. 3. 2027** | **PDUFA Anaphylm** | **binární událost, podmínka RTW 75 mil.** |
 | 23. 3. / 29. 3. 2027 | PDUFA Libervant (12+ / 6–11 let) | milníky od Etonu |
@@ -121,6 +122,7 @@ Guidance 2026 beze změny: tržby 46–50 mil. USD, adj. EBITDA −30 až −35 
 | Datum | Změna | Zdroj |
 |---|---|---|
 | 18. 11. 2026 | Založen dossier + deep dive v1 | companies/AQST/deep-dive-v1.md |
+| 19. 11. 2026 | 18. 11. close 3,78 USD (+2,2 %). Firma oznámila prezentaci CEO na Piper Sandler Healthcare Conference 2. 12. (10:30 ET); výsledky Q4 2026 5. 3. 2027 (Quartr). Žádné FDA ani financování. Signál beze změny | [GlobeNewswire](https://www.globenewswire.com/news-release/2026/11/18/3405512/0/en/aquestive-therapeutics-to-present-at-the-piper-sandler-38th-annual-healthcare-conference.html), [Quartr](https://web.quartr.com/m/events/784036) |
 
 ## Zdroje
 

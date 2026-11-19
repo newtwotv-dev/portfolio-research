@@ -1,6 +1,6 @@
 # SoFi Technologies (SOFI) – dossier
 
-_Poslední aktualizace: 18. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [SoFi Technologies (5065)](https://web.quartr.com/m/companies/5065) · IR: [investors.sofi.com](https://investors.sofi.com)_
+_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [SoFi Technologies (5065)](https://web.quartr.com/m/companies/5065) · IR: [investors.sofi.com](https://investors.sofi.com)_
 _Poslední deep dive: companies/SOFI/deep-dive-v1.md (18. 11. 2026)_
 
 ## Signál
@@ -119,6 +119,7 @@ Vážená cena 18,02 USD → +26 % za 2 roky (~12,3 % p. a.) vs. požadovaný v�
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 3. 11. 2026 | Truist | Hold, cíl 16 → 17 USD (aktualizace zápisu z 23. 10.) | web: [FinanceFeeds](https://financefeeds.com/sofi-stock-15-42-sunday-anthropic-ipo-week-retail-allocation-bull-16-75-bear-13-86/) |
 | 28. 10. 2026 | Citi / StoneX / Scotiabank / Needham | Buy, cíle 30 / 27 / 26 / 24 USD (po Q3) | web: [Beinsure](https://beinsure.com/news/sofi-stock-price-forecast-wall-street-analysts-target-15-30/) |
 | 28. 10. 2026 | GS / Wells Fargo / Barclays / TD Cowen | Neutral/Hold, cíl 18 USD (GS zvýšil z 15) | web: [Beinsure](https://beinsure.com/news/sofi-stock-price-forecast-wall-street-analysts-target-15-30/) |
 | 28. 10. 2026 | BofA / KBW / Morgan Stanley | Underperform 16,50 / Underperform 16 / Underweight 15 USD | web: [Beinsure](https://beinsure.com/news/sofi-stock-price-forecast-wall-street-analysts-target-15-30/) |
@@ -137,6 +138,7 @@ _Rozpor [Fakt]: sell-side je rozdělený zhruba na třetiny (Buy 24–30 USD vs.
 | 18. 11. 2026 | Založen dossier (onboarding): snapshot, KPI, Q3 2026, guidance FY26/FY27, katalyzátory, broker views. Signál 🟡 Sledovat do deep dive | Quartr, web, research/log |
 | 18. 11. 2026 | Novinky 11.–18. 11.: bez firemních zpráv a bez nových dokumentů na Quartru. Akcie 12.–17. 11. čtyřikrát v řadě dolů (−3,9 / −1,3 / −3,7 / −3,8 %), z 16,27 na ~14,28 USD | StockAnalysis, Simply Wall St/Yahoo, TokenPost |
 | 18. 11. 2026 | Deep dive v1: pracovní teze a variant perception, scénáře (bear 8,25 / base 18,50 / bull 28,90 USD; 30/45/25 %, vážená 18,02 USD, ~12 % p. a. vs. požadovaných 14–17 %), signál ⚡ Ke zvážení: redukovat (Tomáš, rámec 5–8 % vs. 14,3 %; Michal rámec 2–3 % vs. 5,4 %), nové KPI (FV model, LPB, zředění), katalyzátory a rizika (kapitál, FV citlivost) | companies/SOFI/deep-dive-v1.md |
+| 19. 11. 2026 | 18. 11. close 14,10 USD (−1,3 %, 7. pokles v řadě, blízko 52W minima 13,86). Bez firemní zprávy. Doplněno: Truist 3. 11. cíl 16 → 17 USD, Hold; SoFi je jedním ze 6 retail brokerů IPO Anthropicu (cena 83 USD, obchodování od 19. 11.). Zápis FOMC (18. 11.): téměř všichni pro další hike. MS (18. 11.): v consumer ABS preferuje auto před unsecured, riziko uvolňování standardů 2H27 (nepřímo). Signál beze změny | [Seeking Alpha](https://seekingalpha.com/news/4674282-sofi-technologies-shares-fell-for-seven-consecutive-sessions), [FinanceFeeds](https://financefeeds.com/sofi-stock-15-42-sunday-anthropic-ipo-week-retail-allocation-bull-16-75-bear-13-86/), log 2026-11 · MS 18. 11. |
 
 ## Zdroje
 

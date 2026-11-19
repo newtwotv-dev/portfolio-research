@@ -1,16 +1,43 @@
 {
-  "as_of": "2026-11-17 (závěr 17. 11., u části titulů poslední/vnitrodenní kotace – viz notes); kurzy ČNB platné pro 16. 11. 2026 (17. 11. svátek)",
-  "fx_to_czk": { "USD": 22.182, "EUR": 24.43, "DKK": 3.268, "ILS": 6.876, "KRW": 0.01661 },
+  "as_of": "2026-11-18 (závěry 18. 11.; výjimky viz notes); kurzy ČNB platné pro 18. 11. 2026",
+  "fx_to_czk": {
+    "USD": 22.23,
+    "EUR": 24.385,
+    "DKK": 3.262,
+    "ILS": 6.814,
+    "KRW": 0.01669
+  },
   "prices": {
-    "BABA": 87.8, "SOFI": 14.28, "PFE": 28.38, "VTS": 14.84, "MC": 393.1, "TKA": 11.62,
-    "RHM": 754.9, "INTR": 3.92, "TKMS": 75.3, "AQST": 3.7, "CSG": 9.18, "GUTS": 0.9654,
-    "LIME": 20.73, "NU": 12.33, "TKCC": 24.34, "SPYY": 289.85, "CSPX": 808.41, "COIN": 115.02,
-    "TUI1": 7.392, "IOVA": 7.53, "MU": 712.42, "VST": 127.41, "SMSH": 15.92, "IBKR": 77.5,
-    "NOVO": 275.5, "TNEK": 15440
+    "BABA": 84.37,
+    "SOFI": 14.1,
+    "PFE": 28.06,
+    "VTS": 14.61,
+    "MC": 388.1,
+    "TKA": 11.28,
+    "RHM": 744.2,
+    "INTR": 3.81,
+    "TKMS": 73.6,
+    "AQST": 3.78,
+    "CSG": 9.417,
+    "GUTS": 1.08,
+    "LIME": 19.05,
+    "NU": 12.08,
+    "TKCC": 23.6,
+    "SPYY": 281.45,
+    "CSPX": 789.92,
+    "COIN": 110.51,
+    "TUI1": 7.29,
+    "IOVA": 7.48,
+    "MU": 705.27,
+    "VST": 125.58,
+    "SMSH": 15.44,
+    "IBKR": 76.45,
+    "NOVO": 271.45,
+    "TNEK": 16850
   },
   "notes": {
-    "zavery_17_11": "TKA (Xetra), CSG (Euronext Amsterdam), NOVO (Kodaň), TUI1 (Xetra), TKCC (Xetra), COIN, MU (Yahoo – ověřit), NU (poslední obchod), VTS, SMSH (TASE 1 592 ILA), GUTS, INTR, TNEK (KRX)",
-    "vnitrodenni_nebo_odhad": "BABA (17. 11. −3,1 % proti 90,62 → ~87,8), MC (17. 11. −2,7 % → ~393,1), RHM (pozdní kotace 23:00), TKMS (Stuttgart 21:55), VST (13:55 ET), SOFI (15:59 ET), PFE/IOVA/LIME/IBKR (Robinhood poslední cena), AQST (18. 11. vnitrodenně)",
-    "neoverene": "SPYY 289,85 (L&S 13.–15. 11.), CSPX 808,41 (převzato z 16. 11., neověřeno)"
+    "zdroje_close_18_11": "US tituly Seeking Alpha 'At close' (BABA, SOFI, PFE, VTS, INTR, AQST, GUTS, LIME, NU, COIN, IOVA, MU, VST, IBKR); MC Fortuneo 17:35; TKMS/TKCC finanznachrichten (Xetra aukce); TUI1 finanzen.ch Xetra 17:35; RHM MarketScreener Xetra; NOVO MarketScreener/npinvestor; SPYY SSGA oficiální closing price; CSPX debelegger LSE; SMSH TradingView 1 544 ILA (Bizportal uvádí 1 585 – rozpor, ověřit); TNEK kokstock close 18. 11. (+9,13 %); FX ČNB 18. 11. přes kurzy.cz",
+    "vnitrodenni_nebo_neoverene": "CSG 9,417 = Baader vnitrodenně 16:35 (Amsterdam close nedohledán; Praha close 233,20 Kč, −9,26 % = dorovnání svátku 17. 11.); TKA 11,28 = Xetra poslední obchod 19:17 (ne aukce)",
+    "opravy": "Ceny k 17. 11. v předchozí verzi u BABA (87,8 → close 86,65), RHM (754,9 → 760,90), SPYY a CSPX byly vnitrodenní/chybné."
   }
 }

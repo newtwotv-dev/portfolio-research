@@ -1,6 +1,6 @@
 # thyssenkrupp (TKA) – dossier
 
-_Poslední aktualizace: 18. 11. 2026 · Tier: A · Skupina: Průmysl · Quartr: [thyssenkrupp (id 5770)](https://web.quartr.com/m/companies/5770) · IR: [thyssenkrupp.com/en/investors](https://www.thyssenkrupp.com/en/investors/calendar)_
+_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Průmysl · Quartr: [thyssenkrupp (id 5770)](https://web.quartr.com/m/companies/5770) · IR: [thyssenkrupp.com/en/investors](https://www.thyssenkrupp.com/en/investors/calendar)_
 _Poslední deep dive: companies/TKA/deep-dive-v1.md (18. 11. 2026)_
 
 ## Signál
@@ -116,6 +116,7 @@ Steel CMD (28. 9. 2026): střednědobě 1,2 mld.+ EUR adj. EBITDA, většinou ze
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 18. 11. 2026 | Deutsche Bank | Buy potvrzen, cíl 17 EUR; čeká solidní Q4 a opatrný výhled 26/27 | web: [Börse Express](https://www.boerse-express.com/news/articles/thyssenkrupp-aktie-synagowitz-sieht-kurstreiber-bei-tk-accelis-964248) |
 | 13. 11. 2026 | GS | EU Industrial Goods & Services Neutral (sektorově se dotýká TKA/TKCC). EU obrana OW (nepřímo přes podíl v TKMS) | research/log/2026-11.md · GS 13. 11. 2026 |
 | kolem 9. 11. 2026 | LBBW | Kaufen, cílová cena 19 → 18 EUR | web: [Finanztrends](https://www.finanztrends.de/news/thyssenkrupp-aktie-duisburger-anlage-rutscht-auf-2029/) |
 | 29. 10. 2026 | DB | Buy, cíl 18 → 17 EUR (úprava po spin-offu tk accelis) | web: [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/thyssenkrupp-aktie-deutsche-bank-senkt-kursziel-auf-17-euro/70433800) |
@@ -130,6 +131,7 @@ Steel CMD (28. 9. 2026): střednědobě 1,2 mld.+ EUR adj. EBITDA, většinou ze
 | 18. 11. 2026 | Založen dossier (onboarding). Signál 🟡. Ověřeno, že FY 2025/26 ještě nevyšlo (termín 8. 12. 2026) | Quartr, IR kalendář, web |
 | 18. 11. 2026 | Novinky 11.–18. 11.: varování SSAB a odklad DRI na 2029 → −2,5 % (13. 11.). GS pod 5 % (16. 11.). Za týden −8 %, žádný jednodenní pohyb ≥ 8 % | ad-hoc-news, MarketScreener |
 | 18. 11. 2026 | Deep dive v1: signál 🟡 → ⚡ Ke zvážení: redukovat (teze 🟡). Doplněny scénáře (5,10 / 12,00 / 20,40 EUR, 25/50/25), SOTP, pracovní teze, Potvrdí/Vyvrátí, KPI (ocel CMD báze, holdingová net cash, KONE, ceny podílů), katalyzátory, rizika, broker views, Krupp-Stiftung 21 %, likvidita | companies/TKA/deep-dive-v1.md |
+| 19. 11. 2026 | 18. 11.: −2,9 % na ~11,28 EUR (Xetra, ~−10 % za 7 seancí). DB (Synagowitz) potvrdila Buy, cíl 17 EUR (beze změny od 29. 10.); hnací síly tk accelis, zakázky TKMS, možné IPO oceli. Hlasovací práva: BlackRock 5,74 % (↑), Morgan Stanley 3,9 % (↓), práh 6. 11. Q2 26/27 13. 5. 2027 (Quartr). Signál beze změny | [Börse Express](https://www.boerse-express.com/news/articles/thyssenkrupp-aktie-synagowitz-sieht-kurstreiber-bei-tk-accelis-964248), [Quartr](https://web.quartr.com/m/events/802167) |
 
 ## Zdroje
 
