@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "research_inbox": {
-    "last_processed_at": "2026-11-18T13:15:13Z",
+    "last_processed_at": "2026-11-19T14:02:51Z",
     "last_run": "2026-11-19",
     "last_run_stats": {
       "plne_extrakty": 20,
@@ -91,63 +91,46 @@
       "1a1ea67a5b44f33f",
       "1a1eab526902f93e",
       "1a1cf681081d7ba1",
-      "1a1cfd6780cff863"
+      "1a1cfd6780cff863",
+      "1a1f41e30e13dc74",
+      "1a1f41d8ccfa4140",
+      "1a1f36a9517d4167",
+      "1a1f369c04994c51",
+      "1a1f35f94e7741e9",
+      "1a1f35c71fc804e5",
+      "1a1f3443dc64e80a",
+      "1a1d9a5e9139ac1e",
+      "1a1eaaa5ae130f5e",
+      "1a1bf7c4b8c8099b",
+      "1a1bfda0488d1b93",
+      "1a1b1b9534fadf52",
+      "1a1a5dd8075cb281",
+      "1a1ea7215a31de59",
+      "1a1e4844aa17161e",
+      "1a1cf0b86562b3a4",
+      "1a1d5addbcff652e",
+      "1a1cd18789744c5c",
+      "1a1bf77eee095bd6",
+      "1a1bf79354758a74",
+      "1a1a5cc144749e1b",
+      "1a1b3634f0072173",
+      "1a1b32345c224484",
+      "1a1d3f40497b62ec",
+      "1a1cd1a3281d4cce",
+      "1a1cd1c4f20231d8",
+      "1a1c4b4e93811d42",
+      "1a1ea9b5f62d4819",
+      "1a1e3a51fe6751f2",
+      "1a1c4b3fc9a287f2",
+      "1a1cf09e1015ee14"
     ],
-    "processed_note": "Mazat ID starší 21 dní podle data mailu; ID z běhů 18. a 19. 11. jsou z mailů 4.–18. 11. 2026 (smazat nejpozději 9. 12. 2026).",
+    "processed_note": "Mazat ID starší 21 dní podle data mailu; ID z běhů 18.–19. 11. jsou z mailů 4.–19. 11. 2026 (nejstarší smazat nejpozději 25. 11., zbytek do 10. 12. 2026).",
     "backlog": [
-      {
-        "id": "1a1d3f40497b62ec",
-        "mail_date": "2026-11-13",
-        "source": "ING",
-        "title": "FX Outlook 2027: Fat tails, slim ranges"
-      },
-      {
-        "id": "1a1a5cc144749e1b",
-        "mail_date": "2026-11-04",
-        "source": "MS",
-        "title": "US Public Policy: Midterm Election Results: Decisive for Democrats"
-      },
       {
         "id": "1a1a66ab94ff3279",
         "mail_date": "2026-11-04",
         "source": "ING",
         "title": "Democratic victories to constrain President Trump and increase tech scrutiny"
-      },
-      {
-        "id": "1a1bfda0488d1b93",
-        "mail_date": "2026-11-09",
-        "source": "SG",
-        "title": "Earnings Season Pulse – Strong deliveries don't offset pipeline risk"
-      },
-      {
-        "id": "1a1bf79354758a74",
-        "mail_date": "2026-11-09",
-        "source": "MS",
-        "title": "US Equity Strategy Weekly Warm-up: Buy the Rumor, Sell the News"
-      },
-      {
-        "id": "1a1bf77eee095bd6",
-        "mail_date": "2026-11-09",
-        "source": "MS",
-        "title": "European Equity Strategy: From Pilot to Payoff (AI adoption ROI)"
-      },
-      {
-        "id": "1a1ea9b5f62d4819",
-        "mail_date": "2026-11-17",
-        "source": "Alpine Macro",
-        "title": "Global Asset Allocation: The Plot Thickens"
-      },
-      {
-        "id": "1a1e3a51fe6751f2",
-        "mail_date": "2026-11-16",
-        "source": "Alpine Macro",
-        "title": "US Themes & Strategy: Entry Point For 2027?"
-      },
-      {
-        "id": "1a1eaaa5ae130f5e",
-        "mail_date": "2026-11-17",
-        "source": "MS",
-        "title": "Cross-Asset Spotlight: Yields Rise, Gold Falls"
       },
       {
         "id": "1a1ea66b185f338f",
@@ -156,58 +139,16 @@
         "title": "Global Macro Strategy – November 16, 2026"
       },
       {
-        "id": "1a1ea7215a31de59",
-        "mail_date": "2026-11-17",
-        "source": "Gavekal",
-        "title": "Gavekal Ideas – Why Nvidia Matters"
-      },
-      {
-        "id": "1a1e4844aa17161e",
-        "mail_date": "2026-11-16",
-        "source": "Gavekal",
-        "title": "Gavekal Ideas – Energy And The Jensen Tail Risk"
-      },
-      {
         "id": "1a1e39d641578906",
         "mail_date": "2026-11-16",
         "source": "Gavekal",
         "title": "Gavekal Daily – A Big Week For Markets"
       },
       {
-        "id": "1a1d5addbcff652e",
-        "mail_date": "2026-11-13",
-        "source": "Gavekal",
-        "title": "Dragonomics – How China Is Regulating AI"
-      },
-      {
         "id": "1a1d5b7267999822",
         "mail_date": "2026-11-13",
         "source": "Gavekal",
         "title": "Gavekal Daily – Back To The Men Of The Trees"
-      },
-      {
-        "id": "1a1cf0b86562b3a4",
-        "mail_date": "2026-11-12",
-        "source": "Gavekal",
-        "title": "Gavekal Daily – Two Huangs Don't Make A Right"
-      },
-      {
-        "id": "1a1cf09e1015ee14",
-        "mail_date": "2026-11-12",
-        "source": "Gavekal",
-        "title": "Gavekal-IS – Equity Risk-Off: What Next?"
-      },
-      {
-        "id": "1a1c4b3fc9a287f2",
-        "mail_date": "2026-11-10",
-        "source": "Gavekal",
-        "title": "Gavekal Daily – Christmas Comes Early For The US Consumer"
-      },
-      {
-        "id": "1a1bf7c4b8c8099b",
-        "mail_date": "2026-11-09",
-        "source": "Gavekal",
-        "title": "Gavekal Ideas – Markets Anticipate End Of Iran War"
       },
       {
         "id": "1a1bf5b9145b7522",
@@ -240,24 +181,6 @@
         "title": "Gavekal Daily – More Binary Risks In A World Of Binary Choices"
       },
       {
-        "id": "1a1cd1c4f20231d8",
-        "mail_date": "2026-11-12",
-        "source": "BCA",
-        "title": "Buy The Dip Or Sell The Dip? (Budaghyan, EM)"
-      },
-      {
-        "id": "1a1cd1a3281d4cce",
-        "mail_date": "2026-11-12",
-        "source": "BCA",
-        "title": "Stick With Hawkish Fed Trades (Swift)"
-      },
-      {
-        "id": "1a1cd18789744c5c",
-        "mail_date": "2026-11-12",
-        "source": "BCA",
-        "title": "AI Regulatory Onslaught? Overrated (Gertken, Dyson)"
-      },
-      {
         "id": "1a1cb473c0bf3c65",
         "mail_date": "2026-11-11",
         "source": "BCA",
@@ -270,12 +193,6 @@
         "title": "G10 FX Scorecard: Carry Holds, Divergences Grow"
       },
       {
-        "id": "1a1b1b9534fadf52",
-        "mail_date": "2026-11-06",
-        "source": "BCA",
-        "title": "European Equities Ain't So Bad After All (Peloso)"
-      },
-      {
         "id": "1a1a5ee5179eac08",
         "mail_date": "2026-11-04",
         "source": "BCA",
@@ -286,12 +203,6 @@
         "mail_date": "2026-11-07",
         "source": "BCA",
         "title": "The Total Portfolio Approach: From Whiteboard To Execution"
-      },
-      {
-        "id": "1a1d9a5e9139ac1e",
-        "mail_date": "2026-11-14",
-        "source": "GS",
-        "title": "Weekly Fund Flows: Strong Equities, Softer Money Markets"
       },
       {
         "id": "1a1b2727f1122a67",
@@ -318,22 +229,10 @@
         "title": "Global Rates Trader: Bonds' Redemption"
       },
       {
-        "id": "1a1b32345c224484",
-        "mail_date": "2026-11-06",
-        "source": "GS",
-        "title": "Energy, Utilities & Mining Pulse: Impacts of Recent Elections on Natural Resources Equities"
-      },
-      {
         "id": "1a1b3214f0d0e506",
         "mail_date": "2026-11-06",
         "source": "GS",
         "title": "US Weekly Kickstart: The equity index impact of SpaceX inclusion so far"
-      },
-      {
-        "id": "1a1a5dd8075cb281",
-        "mail_date": "2026-11-04",
-        "source": "GS",
-        "title": "Strategy Matters: Why Europe's Earnings Defy Its Economy"
       },
       {
         "id": "1a1b0a7f796c8cdd",
@@ -358,12 +257,6 @@
         "mail_date": "2026-11-16",
         "source": "SG",
         "title": "Europe Macro Radar – Spanish or Dutch leader"
-      },
-      {
-        "id": "1a1c4b4e93811d42",
-        "mail_date": "2026-11-10",
-        "source": "SG",
-        "title": "On Our Minds: France 2027 Election Tracker no.4"
       },
       {
         "id": "1a1cf48cd60e60ac",
@@ -450,12 +343,6 @@
         "title": "US Economics Weekly: AI's growth contribution is rising, but so are political risks"
       },
       {
-        "id": "1a1b3634f0072173",
-        "mail_date": "2026-11-07",
-        "source": "MS",
-        "title": "Regulated & Diversified Utilities: EEI Conference – Key Questions"
-      },
-      {
         "id": "1a1b1916986ef4cb",
         "mail_date": "2026-11-06",
         "source": "MS",
@@ -510,8 +397,15 @@
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SwVwAAAA==",
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SU9gAAAA=="
     ],
-    "outlook_note": "18. 11. přišel uvítací mail od Hawkeye Terminal (newsletter@hawkeyeterminal.com) – pravděpodobně budoucí 'maily z terminálu'; ověřit u Tomáše a doplnit do config/sources.yaml.",
-    "portfolio_mismatch": null
+    "outlook_note": "Hawkeye Terminal (newsletter@hawkeyeterminal.com) potvrzen Tomášem 19. 11. jako zdroj 'mailů z terminálu', zapsáno v config/sources.yaml.",
+    "portfolio_mismatch": null,
+    "last_run_stats_2": {
+      "beh": "19. 11. 2026 odpoledne na povel Tomáše (cíl ~30 reportů)",
+      "plne_extrakty": 31,
+      "z_toho_novych_mailu": 7,
+      "z_toho_z_backlogu": 24,
+      "jen_titulek_backlog": 44
+    }
   },
   "portfolio_tracker": {
     "last_run": "2026-11-19",
@@ -812,9 +706,65 @@
       "source": "Tracker",
       "text": "Zprávy o sloučení národních aerolinek do jednoho evropského provozu (17. 11.); ČR růst až 30 % v 2026/27; close 18. 11. 7,29",
       "ref": "state/calendar.md"
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-04",
+      "source": "GS",
+      "text": "Strategy Matters: Micron tvoří 6 % zisků S&P 500, 2. největší přispěvatel po Nvidii (10 %)",
+      "ref": "log 2026-11 · GS 4. 11."
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-06",
+      "source": "MS",
+      "text": "EEI Key Questions: Micron Fab 2 jako velký odběr u IDACORP (výstavba v Idahu)",
+      "ref": "log 2026-11 · MS 6. 11."
+    },
+    {
+      "ticker": "MU",
+      "date": "2026-11-17",
+      "source": "Gavekal",
+      "text": "Why Nvidia Matters: MU −26,8 % za 6. 10.–13. 11. (778,31 USD), 2. největší brzda Bloomberg 500; utahování financování AI („AI QT“)",
+      "ref": "log 2026-11 · Gavekal 17. 11."
+    },
+    {
+      "ticker": "NOVO",
+      "date": "2026-11-04",
+      "source": "GS",
+      "text": "Strategy Matters: Novo mezi 10 největšími přispěvateli k ziskům STOXX 600 (1 %)",
+      "ref": "log 2026-11 · GS 4. 11."
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-11-04",
+      "source": "MS",
+      "text": "Midterm Results: pokles IPP vede VST (Texas, BTM DC), hodnota aktiv ~180 USD vs. 140",
+      "ref": "log 2026-11 · MS 4. 11."
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-11-06",
+      "source": "GS",
+      "text": "EUM Pulse: Buy, PT 200 USD (10× EV/EBITDA, 7% FCF yield) při 112,89; investoři texaské IPP do pol. 2027 nekupují",
+      "ref": "log 2026-11 · GS 6. 11."
+    },
+    {
+      "ticker": "VST",
+      "date": "2026-11-06",
+      "source": "MS",
+      "text": "EEI Key Questions: OW (od 3/2019) při 112,89 USD, IPP Attractive",
+      "ref": "log 2026-11 · MS 6. 11."
+    },
+    {
+      "ticker": "PFE",
+      "date": "2026-11-09",
+      "source": "SG",
+      "text": "Earnings Pulse: Pfizer zvýšil výhled tržeb i zisku, tržby mimo covid +7 %; farma defenzivní zdroj upgradů",
+      "ref": "log 2026-11 · SG 9. 11."
     }
   ],
-  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny.",
+  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.).",
   "refresh_queue": [
     {
       "ticker": "TKA",

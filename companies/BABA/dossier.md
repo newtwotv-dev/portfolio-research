@@ -100,6 +100,9 @@ Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má d�
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 12. 11. 2026 | Gavekal (Gave) | Většinu čipů Nvidie pro Megaspeed podle Gavea koupily půjčky od Alibaby, která je pak využívala – obcházení zákazů, regulační riziko | log 2026-11 · Gavekal 12. 11. |
+| 13. 11. 2026 | Gavekal (Dragonomics) | Alibaba je mezi vývojáři modelů registrovaných u CAC a spoluvytváří čínské standardy pro AI; regulace v Číně je praktická, ne brzda | log 2026-11 · Gavekal 13. 11. |
+| 17. 11. 2026 | Gavekal (Gave) | „Why Nvidia Matters“: Alibaba podle autora pomohla založit Megaspeed a získala přes něj GPU; zmiňuje možné US sankce na Alibabu jako výslovně spekulativní tail risk (nucené prodeje US investorů), základní scénář je, že aféra vyšumí | log 2026-11 · Gavekal 17. 11. |
 | 18. 11. 2026 | SG | Asia Strategy: čínské AI platformy včetně Alibaby jsou závislé na US dodavatelích, ze zpřísnění exportních kontrol těží onshore čínský tech | log 2026-11 · SG 18. 11. |
 | 18. 11. 2026 | Tracker | 12. 11. −6,6 % (zprávy o zákazu čipů v zahraničních DC), BIS pravidlo 16. 11. (účinné 19. 11.), výsledky FQ2 19. 11. | briefs/alerts/2026-11-18.md |
 | 18. 11. 2026 | Aletheia / GS / BofA | Aletheia Buy, cíl zvýšen na 190 USD. GS Buy 177 USD, BofA Buy 178 USD | web: [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/alibaba-stock-aletheia-raises-target-to-190-us-dollars-before-results/70530716) |
@@ -123,6 +126,7 @@ Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má d�
 |---|---|---|
 | 19. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
 | 19. 11. 2026 | Novinky od 18. 11.: nové 52W minimum 81,81, close 81,90 USD (−2,93 %, 18. 11.). Aletheia zvedla cíl na 190 USD (Buy). Výsledky FQ2 FY27 19. 11. v době zpracování ještě nebyly zveřejněné | [eToro](https://www.etoro.com/markets/baba), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/alibaba-stock-aletheia-raises-target-to-190-us-dollars-before-results/70530716), [Quartr](https://web.quartr.com/m/events/736903) |
+| 19. 11. 2026 | Research Inbox: Gavekal (12., 13. a 17. 11.) – role Alibaby v kauze Megaspeed a spekulativní riziko US sankcí; BCA 18. 11.: kontroly čipů se 3–6 měsíců zpřísní, pak obnova příměří US–Čína | log 2026-11 · Gavekal 12./13./17. 11., BCA 18. 11. |
 
 ## Zdroje
 

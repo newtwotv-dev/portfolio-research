@@ -35,7 +35,7 @@ outlook:
   account: "Tomášův osobní Outlook (konektor Microsoft 365, připojen 18. 11. 2026)"
   read_only: true
   use_for:
-    - "maily z terminálu (odesílatel zatím neurčen – doplnit, až první maily dorazí nebo Tomáš upřesní)"
+    - "maily z terminálu: Hawkeye Terminal (newsletter@hawkeyeterminal.com), potvrzeno Tomášem 19. 11. 2026 – priorita high, plný extrakt jako u broker reportů"
     - "Trading 212: account activity statements → kontrola změn pozic proti config/portfolio.yaml (jen upozornit, needitovat bez povelu)"
   ignore:
     - "marketing T212, Microsoft Rewards, bezpečnostní a systémové maily"

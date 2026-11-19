@@ -40,6 +40,16 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Čína – akcie | UBP | **UW** (ze 3 na 2 z 5), nejslabší růst zisků od pandemie | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | US / Evropa akcie | UBP | US OW (4), Tech OW (4); Evropa UW (2), Francie „nemocný muž“ | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | US akcie / AI tech | SG (A. Edwards) | Medvědí: AI bublina, odliv likvidity, revize EPS v tech se otáčejí dolů | 12. 11. 2026 | log 2026-11 · SG 12. 11. |
+| Globální alokace (12M) | GS (GOAL) | Akcie OW, dluhopisy OW, kredit UW; US a Japonsko OW, Asie ex JP a EM N, **Evropa UW** | 19. 11. 2026 | log 2026-11 · GS 19. 11. |
+| US akcie – velikost | Alpine Macro | Large caps **OW** (z UW), small caps **UW** (z OW); akcie OW, US OW, EAFE UW, EM N | 17. 11. 2026 | log 2026-11 · Alpine Macro 17. 11. |
+| Globální akcie | Gavekal-IS | **Risk-off**, akcie ≤ 20 % (asymetrie +9 % / −20 %) | 12. 11. 2026 | log 2026-11 · Gavekal 12. 11. |
+| Globální akcie | BCA (Budaghyan) | **Avoid/UW**, propady nenakupovat; UW US, Evropa mírně OW, Japonsko výrazně OW | 11. 11. 2026 | log 2026-11 · BCA 11. 11. (Budaghyan) |
+| Evropa vs. US | BCA (Peloso) | Rotovat z US do Evropy, preferovat defenzivy; celkově akcie UW vs. dluhopisy | 6. 11. 2026 | log 2026-11 · BCA 6. 11. |
+| Styl / regiony | Gavekal (Kaletsky) | Value nad AI growth, ne-US nad US; mír s Íránem rotaci zrychlí | 9. 11. 2026 | log 2026-11 · Gavekal 9. 11. |
+| US akcie | Alpine Macro (US) | Takticky opatrně, strategicky býčí; vstupní bod se blíží | 15. 11. 2026 | log 2026-11 · Alpine Macro 15. 11. |
+| Evropa – zisky | GS | Růst EPS STOXX 600 18 % / 7 % / 5 % (2026/27/28), pod konsenzem (ploché marže) | 4. 11. 2026 | log 2026-11 · GS 4. 11. |
+| Dlouhodobé výnosy (10Y CMA) | Alpine Macro | Globální akcie 5,1 % vs. státní dluhopisy 5,4 % p. a.; US 4,2 %, EM 8,9 %, Brazílie 10,3 % | 19. 11. 2026 | log 2026-11 · Alpine Macro 19. 11. |
+| Indie – makro | SG (ekonom) | Odolná, ale bez zrychlení (~6,3 % reálně); RBI hiky na 6,00 % | 19. 11. 2026 | log 2026-11 · SG 19. 11. |
 
 ### Sektory a styly
 
@@ -73,6 +83,18 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Energie / Healthcare | UBP | Energie **OW** (3 → 4), Healthcare **UW** (3 → 2) | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | US consumer ABS | MS | Spready ploché 2027; auto > unsecured, riziko uvolňování standardů ve 2H27 | 18. 11. 2026 | log 2026-11 · MS 18. 11. |
 | Polovodiče – geopolitika | SG | US–Čína restrikce přešly z uvolňování do eskalace | 18. 11. 2026 | log 2026-11 · SG 18. 11. |
+| Sektory US | GS | OW Health Care a Consumer Staples jako vyvážení AI; tech kredit UW | 18. 11. 2026 | log 2026-11 · GS 18. 11. |
+| AI ekosystém – financování | Gavekal (Gave) | „AI QE → AI QT“, 2. fáze AI bear marketu | 17. 11. 2026 | log 2026-11 · Gavekal 17. 11. |
+| US AI regulace | BCA (Gertken, Dyson) | Strach přehnaný, 2027 okno bez agresivní regulace (Trumpovo veto) | 11. 11. 2026 | log 2026-11 · BCA 11. 11. |
+| US sektory | MS | OW Cons. Disc. Goods, Financials, Industrials; UW Staples, Real Estate; Semis blízko dna (SOX −40 %) | 9. 11. 2026 | log 2026-11 · MS 9. 11. |
+| AI adopce – Evropa | MS | Evropa = čistá AI adopční sázka; lídři ROI o 4 p. b. rychlejší růst EPS | 8. 11. 2026 | log 2026-11 · MS 8. 11. |
+| EU obrana – převod backlogu | SG | Backlogy se nepřetavují spolehlivě do marží a cash (RHM, Alstom) | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
+| EU obrana / NATO | BCA (Gertken) | I při příměří na Ukrajině nová vlna evropských zbrojních výdajů | 18. 11. 2026 | log 2026-11 · BCA 18. 11. |
+| Farma | SG | Defenzivní zdroj upgradů (PFE zvýšil výhled) | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
+| US utility / IPP | MS | Regulated In-Line, Diversified/IPP Attractive | 6. 11. 2026 | log 2026-11 · MS 6. 11. |
+| US utility po midterms | GS | Regulované utility místo texaských IPP; dodavatelé DC (PWR, MTZ) výprodej přehnaný | 6. 11. 2026 | log 2026-11 · GS 6. 11. |
+| US spotřebitel | Gavekal (Tan) | Pozitivní: trh práce, levnější paliva, „K-shape“ se narovnává | 10. 11. 2026 | log 2026-11 · Gavekal 10. 11. |
+| Energie / ropné akcie | Gavekal (Gave) | Snížení OW (6. 11.) možná předčasné; taktické nákupy rafinérů, MLP atraktivní | 16. 11. 2026 | log 2026-11 · Gavekal 16. 11. |
 
 ### Sazby, FX, komodity, krypto
 
@@ -121,15 +143,41 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Zlato | MS | Top pick v kovech, 5 250 USD ve 4Q27 | 15. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | Zlato | UBP | Strategicky OW, takticky neutrál, podpora ~4 000 USD | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | AT1 / cash | UBP | AT1 **UW** (4 → 2) kvůli Francii; cash **OW** (3 → 4) | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
+| Fed | GS | Hiky 25 bp v prosinci a březnu; konec 2027 4,13 % vs. trh 4,68 % | 18. 11. 2026 | log 2026-11 · GS 18. 11. |
+| Fed | ING | Poslední hike v prosinci na 4,25 %, škrt 4Q27 (nejholubičější) | 12. 11. 2026 | log 2026-11 · ING 12. 11. |
+| Fed / UST | BCA (Swift) | Hiky v prosinci a březnu; 2s10s flattenery, durace neutrální, 10Y FV 5,10 %; IG OW | 11. 11. 2026 | log 2026-11 · BCA 11. 11. (Swift) |
+| US 10Y | GS (GOAL) | OW dluhopisy, 4,6 % YE27, preference belly a TIPS | 19. 11. 2026 | log 2026-11 · GS 19. 11. |
+| US 10Y / durace | Alpine Macro | Durace OW, klidový bod ~4,4–4,5 % | 17. 11. 2026 | log 2026-11 · Alpine Macro 15. a 17. 11. |
+| ECB | ING | Hike na 2,75 % v prosinci, škrt 4Q27 | 12. 11. 2026 | log 2026-11 · ING 12. 11. |
+| EUR/USD, DXY | ING | 1,18 a DXY 97 konec 2027 (USD posiluje do 1Q27, pak slábne) | 12. 11. 2026 | log 2026-11 · ING 12. 11. |
+| EUR/CZK, ČNB | ING | Neutrální, 24,17 konec 2027; ČNB 4 % stabilní | 12. 11. 2026 | log 2026-11 · ING 12. 11. |
+| USD/BRL, USD/KRW, USD/ILS | ING | 5,00 (od 2Q27) / 1 275 / 3,05 | 12. 11. 2026 | log 2026-11 · ING 12. 11. |
+| USD | GS (GOAL) | Slabší v 2027: EUR/USD 1,15, USD/JPY 150 za 12 M | 19. 11. 2026 | log 2026-11 · GS 19. 11. |
+| USD / USD/JPY | MS | Mírně silnější USD, USD/JPY 162 ve 4Q27; BRL nejlepší risk/reward (5,25) | 16. 11. 2026 | log 2026-11 · MS 16. 11. |
+| USD | BCA (Budaghyan) | Short USD na síle | 11. 11. 2026 | log 2026-11 · BCA 11. 11. (Budaghyan) |
+| Brent / Írán | BCA (Gertken) | Írán bude držet Brent kolem 90 USD po 2 roky; příměří do 24 M sníží ropu, UST i USD | 18. 11. 2026 | log 2026-11 · BCA 18. 11. |
+| Brent | Alpine Macro | **UW**, usadí se kolem 70 USD | 17. 11. 2026 | log 2026-11 · Alpine Macro 17. 11. |
+| Brent / E&P | GS (equity) | Mid-cycle 73/68 USD Brent/WTI, oily E&P ~14% FCF yield | 6. 11. 2026 | log 2026-11 · GS 6. 11. |
+| Brent / TTF | GS (GOAL) | Brent ⌀ 2027 88 USD (12M 80), TTF ⌀ 45 EUR/MWh | 19. 11. 2026 | log 2026-11 · GS 19. 11. |
+| Zlato | ING | Nejníž z bank: ⌀ 2027 4 375 USD, 4Q27 ~4 550 | 12. 11. 2026 | log 2026-11 · ING 12. 11. |
+| Zlato | Alpine Macro | Neutrál, raději těžaři; průmyslové kovy OW | 17. 11. 2026 | log 2026-11 · Alpine Macro 17. 11. |
+| Bitcoin | JPM | Retail prodává ETF, těžaři pod tlakem (BTC ~65k vs. náklady 86k), instituce drží | 18. 11. 2026 | log 2026-11 · JPM 18. 11. |
+| Nabídka akcií / IPO | JPM | Čistá emise ~270 mld. USD v 2026, protivítr jen ~4,5 % pro ACWI | 18. 11. 2026 | log 2026-11 · JPM 18. 11. |
+| Francie – volby | SG | Le Pen favoritka (RN 66 %), stres po volbách 66 %, zpřísnění 2–3 p. b. HDP do 2030 | 10. 11. 2026 | log 2026-11 · SG 10. 11. |
+| Francie – OAT | ING | OAT–Bund 125–150 bp do 2Q27, pak ~100 bp | 12. 11. 2026 | log 2026-11 · ING 12. 11. |
 
 ### Firmy z portfolia a watchlistu
 
 | Firma | Instituce | Rating / cílová cena | Od | Zdroj (log) |
 |---|---|---|---|---|
+| VST | GS | **Buy**, PT 200 USD (cena v reportu 112,89); investoři texaské IPP do pol. 2027 nekupují | 6. 11. 2026 | log 2026-11 · GS 6. 11. |
 | VST | MS | High-conviction OW, PT 224 USD (cena v reportu 124,80); hodnota stávajících aktiv ~180 USD | 8. 11. 2026 | log 2026-11 · MS 8. 11. (dříve MS 4. 11.) |
 | MU | MS | OW, PT 1 200 USD (cena v reportu 690); ve screenu Quality Cyclicals | 8. 11. 2026 | log 2026-11 · MS 8. 11., MS 15. 11. |
 | BABA | MS | OW, PT 180 USD (cena v reportu 108,07) | 8. 11. 2026 | log 2026-11 · MS 8. 11. |
 | RHM | MS | OW (analytik), ale slabé momentum brzdí sektor | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
+| RHM | SG | Podruhé v 2026 snížil cíl tržeb; exekuční riziko backlogu | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
+| BABA | Gavekal (Gave) | Tail risk US sankcí kvůli Megaspeedu (výslovně spekulativní, základ = vyšumí) | 17. 11. 2026 | log 2026-11 · Gavekal 12. a 17. 11. |
+| PFE | SG | Zvýšil výhled, tržby mimo covid +7 % | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | NOVO | MS | UW | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | MC | MS | EW; ~22 % tržeb od čínských spotřebitelů | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 
@@ -137,6 +185,13 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
+| 19. 11. 2026 | GS | Zlato – cíl konec 2027 | → 4 650 USD (sníženo, předchozí neuvedeno) | log 2026-11 · GS 19. 11. |
+| 18. 11. 2026 | GS | Project finance emise 2027 | 300 → 545 mld. USD | log 2026-11 · GS 18. 11. |
+| 17. 11. 2026 | Alpine Macro | US large caps / small caps | UW → OW / OW → UW | log 2026-11 · Alpine Macro 17. 11. |
+| 16. 11. 2026 | Gavekal (Gave) | Energie | „ubírat OW“ (6. 11.) → „možná předčasné, taktické nákupy“ | log 2026-11 · Gavekal 16. 11. |
+| 12. 11. 2026 | Gavekal-IS | Globální akcie | → risk-off, akcie ≤ 20 % | log 2026-11 · Gavekal 12. 11. |
+| 12. 11. 2026 | ING | PLN | → mírně negativní | log 2026-11 · ING 12. 11. |
+| 4. 11. 2026 | GS | Růst EPS STOXX 600 2026 / 2027 | 15 % → 18 % / 5 % → 7 % (nově 2028 5 %) | log 2026-11 · GS 4. 11. |
 | 18. 11. 2026 | GS | Asie: Indie, China H (potvrzení 13./16. 11.) | → OW; Tchaj-wan, China A → MW | log 2026-11 · GS 18. 11. |
 | 16. 11. 2026 | MS (LatAm) | Brazílie akcie | EW → UW | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | 15. 11. 2026 | MS | Globální akcie | OW → max OW | log 2026-11 · MS 15. 11. (Year-Ahead) |

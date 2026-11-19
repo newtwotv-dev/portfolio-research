@@ -99,6 +99,7 @@ FY2026: tržby **~13,2 mld. EUR (dřív 13,7–14,2 mld.)**, operating marže **
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 9. 11. 2026 | SG (Earnings Pulse) | RHM v 2026 podruhé snížil cíl tržeb kvůli zpožděním programů; obranné backlogy se podle SG spolehlivě nepřetavují do marží a cash flow | log 2026-11 · SG 9. 11. |
 | 16. 11. 2026 | GS | Buy a Conviction List, cíl 2 100 → 1 350 EUR (nižší předpoklady tržeb, 2030 ~35 mld. EUR) | state.json pending_mentions (Tracker 18. 11.) · briefs/alerts/2026-11-18.md |
 | 15. 11. 2026 | MS | Year-Ahead: RHM přímo zmíněn. Analytik má OW, ale slabé momentum RHM brzdí sektor v modelu MS. Výprodej v obraně bere MS jako vstupní příležitost | log 2026-11 · MS 15. 11. (Year-Ahead), house-views.md |
 | 13. 11. 2026 | Citi | Buy, cíl 1 374 → 1 099 EUR, tržby −15 %, čeká snížení cílů na CMD | pending_mentions · web: [aktiencheck](https://aktiencheck.de/artikel/rheinmetall-aktie-prognose-14-analysten-kappen-die-ziele-doch-der-schnitt-liegt) |
@@ -120,6 +121,7 @@ FY2026: tržby **~13,2 mld. EUR (dřív 13,7–14,2 mld.)**, operating marže **
 | Datum | Změna | Zdroj |
 |---|---|---|
 | 19. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
+| 19. 11. 2026 | Research Inbox: zmínka SG 9. 11. (exekuční riziko backlogu); BCA 18. 11. čeká i při příměří na Ukrajině další vlnu evropských zbrojních výdajů (sektorově) | log 2026-11 · SG 9. 11., BCA 18. 11. |
 
 ## Zdroje
 
