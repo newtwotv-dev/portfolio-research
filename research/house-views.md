@@ -212,6 +212,12 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Francie – OAT | Alpine Macro (Huang) | UW OAT, dokud ECB nevynutí reformy (spread k Bundům 165 bp) | 2. 11. 2026 | log 2026-11 · Alpine Macro 2. 11. |
 | TTF | GS (Carbonomics) | Riziko 2027 nahoru: 1Q27 92 EUR/MWh, stres ~150, příznivý 45 | 11. 11. 2026 | log 2026-11 · GS 11. 11. |
 | Komoditní indexy | SG | Lednový rebalancing: odtok z energií, přítok do drahých kovů (BCOM zlato >3,3 mld. USD) | 12. 11. 2026 | log 2026-11 · SG 12. 11. |
+| Fed / UST | SG (GEO) | +25 bp v prosinci a březnu, terminál 4,375 %; 10Y 5,02 → 4,25 % do konce 2027 | 20. 11. 2026 | log 2026-11 · SG 20. 11. |
+| ECB / BoJ / BoE | SG (GEO) | ECB 2,75 % v prosinci a pauza (riziko dalších hiků, CPI EA 2027 3,4 %); BoJ 3 hiky na 2 %; BoE konec 2027 4,25 % (z 3,00) | 20. 11. 2026 | log 2026-11 · SG 20. 11. |
+| ČNB / EUR/CZK | SG (GEO) | ČNB 4,00 % celý 2027 (dříve 3,75 %), EUR/CZK 24,1 konec 2027 | 20. 11. 2026 | log 2026-11 · SG 20. 11. |
+| FX 2027 | SG (GEO) | EUR/USD 1,16, USD/JPY 140, USD/KRW 1 410, USD/BRL 5,25, USD/CNY 6,90 (konec 2027) | 20. 11. 2026 | log 2026-11 · SG 20. 11. |
+| Brazílie | SG (GEO) | Selic 12,75 % konec 2027 (z 12,25), HDP 2027 snížen na 1,2 % | 20. 11. 2026 | log 2026-11 · SG 20. 11. |
+| Brent | SG (GEO) | ~100 USD, pozvolna k ~85 USD do konce 2027 | 20. 11. 2026 | log 2026-11 · SG 20. 11. |
 
 ### Firmy z portfolia a watchlistu
 
@@ -233,6 +239,8 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
+| 20. 11. 2026 | SG (GEO) | ČNB konec 2027 / BoE konec 2027 | 3,75 → 4,00 % / 3,00 → 4,25 % | log 2026-11 · SG 20. 11. |
+| 20. 11. 2026 | SG (GEO) | Selic konec 2027 / HDP Brazílie 2027 | 12,25 → 12,75 % / ↓ 1,2 % | log 2026-11 · SG 20. 11. |
 | 17. 11. 2026 | MS | Hannover Re | → UW | log 2026-11 · MS 17. 11. |
 | 15. 11. 2026 | MS (Skarica) | BoE | nově hiky v prosinci a únoru na 4,50 % | log 2026-11 · MS 15. 11. |
 | 14. 11. 2026 | MS | Samsung | → Top Pick | log 2026-11 · MS (sales) 14. 11. |

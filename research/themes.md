@@ -10,6 +10,7 @@ _Žhavá témata týdne do 20. 11. 2026: #ai-capex, #fed/#us-rates, #oil, #2027-
 
 ### 🔥 #fed / #us-rates: Fed a americké sazby
 Dotčené: SOFI, IBKR, VTS a nepřímo všechny růstové tituly.
+- 20. 11. 2026 (SG Global Economic Outlook): Fed +25 bp v prosinci a březnu na 4,375 % (nad trhem), 10Y 4,25 % konec 2027.
 - 20. 11. 2026 (backlog, 2. dávka): MS Gapen (6. a 14. 11.): hiky v prosinci a březnu na 4,25–4,50 %, po horkém CPI (+0,4 %/+0,3 % core) i riziko ledna; US 2Y +37 bp za týden. Robeco (5. 11.): 4,50 % v 1Q27 a škrty od konce 2027. Alpine Kalirai (12. 11.): další hike v prosinci, durace OW; McClellan (11. 11.): term premium strukturálně k 100–150 bp, krize ne; Wu (9. 11.): výnosy nakloněné dolů. MS Hornbach (6. 11.): sazby se usadí trvale výš, 10Y 4,80 % konec roku. **Posun:** MS 7. 11. psal o <2 hicích naceněných do konce 2027, 14. 11. už o ~3,5 do září 2027.
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): Waller (18. 11., Hawkeye) chce v prosinci +50 bp nebo guidance na rychlejší utahování v 2027. Gavekal Denyer (16. 11.): trh má jisté +25 bp 9. 12., pravděpodobně i leden; 10Y nepřidávat, dokud neotestuje ~5,3 %. MS Hornbach (11. 11.): 10Y 4,80 % konec roku a dva hiky. GS Rates (6. 11.): pásmo 4,75–5,0 %, long TIPS. BCA Swift (2. 11.): 3M short UST, trh podceňuje utažení. ING (4. 11.): bias 5,25 %. **Rozpor:** cíl 10Y na konec roku 4,80 % (MS) vs. 5,25 % (ING); 10Y 18. 11. 5,07 % (Hawkeye).
 - 19. 11. 2026 (2. dávka): Hiky v prosinci i březnu čekají GS (18. 11., Waller zmínil i 50 bp), BCA Swift (11. 11.); ING (12. 11.) jen poslední prosincový hike na 4,25 % a škrt ve 4Q27; Alpine US (15. 11.) prosinec a pak posun ke škrtům. 10Y: GS GOAL (19. 11.) OW dluhopisy, 4,6 % YE27; Alpine (17. 11.) durace OW, klidový bod ~4,5 %; BCA Swift bear-flattening, fair value 5,10 %; BCA Budaghyan výnosy mohou přestřelit nad 5 %. **Rozpor:** GS/Alpine (býčí durace) vs. MS/BCA Swift (5,0–5,1 %).
@@ -17,6 +18,7 @@ Dotčené: SOFI, IBKR, VTS a nepřímo všechny růstové tituly.
 - 18. 11. 2026: GS (13. a 16. 11.) čeká hike v prosinci i v březnu, pak škrty koncem 2027 (4,13 % vs. trh 4,72 %); 10Y 4,6 % koncem 2027 z ~5,1 %. MS (15. 11.) jen krátký cyklus utahování. JPM (9. 11.): výnosy mají vrchol za sebou. **Rozpor:** jak dlouho Fed ještě zvedá (GS do 1Q27 vs. MS/JPM kratší).
 
 ### #ecb / #boe: ECB, BoE a evropské sazby
+- 20. 11. 2026 (SG Global Economic Outlook): ECB 2,75 % v prosinci a pauza s rizikem dalších hiků, Bund 10Y 3,80–3,85 %; BoE konec 2027 zvýšen na 4,25 %; ČNB 4,00 % celý 2027.
 - 20. 11. 2026 (backlog, 2. dávka): Robeco (5. 11.): depo 2,75 % v prosinci a 3,00 % v březnu, Francie může utahování zastavit. SG (16. 11.): hike v prosinci pravděpodobný, inflace vrcholí nad 4 %; kandidáti na šéfa ECB Knot a de Cos. MS UK (15. 11., #boe): BoE nově hike v prosinci a únoru na 4,50 %, hold do 2028.
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): GS Rates (6. 11.): trh vymazal ~40 bp rizika hiků, baseline jeden hike v prosinci, preferuje 5Y. BCA (2. 11.): utahování ECB a drahé energie brzdí eurozónu, preferuje Bundy před UST.
 - 19. 11. 2026 (2. dávka): ING (12. 11.): hike na 2,75 % v prosinci, škrt 4Q27; BCA Peloso (6. 11.): levnější energie zpochybní ~50 bp hiků naceněných na 2027. Lagardeová končí 7. 2. 2027 (SG).
@@ -46,6 +48,7 @@ Dotčené: celé EU akcie, EUR/CZK, MC (francouzský titul).
 
 ### #usd / #em-fx / #boj: Dolar, měny EM a jen (BoJ)
 Dotčené: NU, INTR (BRL), SMSH (ILS), TNEK (KRW), celé portfolio přes USD/CZK.
+- 20. 11. 2026 (SG Global Economic Outlook): EUR/USD 1,16, USD/JPY 140 (BoJ 3 hiky na 2 %), USD/KRW 1 410 (slabší won → **TNEK**), USD/BRL 5,25, EUR/CZK 24,1.
 - 20. 11. 2026 (backlog, 2. dávka): Robeco (11. 11.) přidal USD na úkor EUR; Alpine Kalirai (12. 11.) EUR/USD 1–3M dolů, short USD/JPY; McClellan: status rezervní měny neohrožen. MS (6. 11.): silný USD = hlavní utažení finančních podmínek od září. MS Sheets (8. 11.): nižší ropa pomáhá EM.
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): GS FX (6. 11.): USD krátkodobě spíš silnější, midtermy jsou pro dolar riziko jen dlouhodobě; USD/CZK 21,6 za 12M (novější GS 13. 11.: 21,0), USD/ILS 3,35, USD/KRW 1 350, opatrněji na MXN. ING (4. 11.) a Gavekal L. Gave (6. a 9. 11.): slabší USD, dolar při poklesu Nasdaqu nefungoval jako bezpečný přístav. MS (9. 11.): USD/BRL k 6,00 bez fiskálního plánu. BCA (11. 11.): G10 carry vede, obrat se blíží. Gavekal Sikand (6. 11.): BoJ může zrychlit (#boj), podpora jenu.
 - 19. 11. 2026 (2. dávka): ING (12. 11.): EUR/USD 1,18 a DXY 97 koncem 2027, EUR/CZK 24,17 (neutrální), USD/BRL 5,00 od 2Q27, USD/KRW 1 275, USD/ILS 3,05. GS GOAL (19. 11.): slabší USD v 2027 (EUR/USD 1,15). BCA Budaghyan: short USD na síle. **Rozpor:** MS (EUR/USD 1,08, USD/JPY 162) a JPM (býčí USD) vs. ING/GS/BCA (slabší USD). KRW: ING a GS silnější vs. SG 1 410. ILS: ING 3,05 vs. GS 3,35.
@@ -60,6 +63,7 @@ Dotčené: NU, INTR (BRL), SMSH (ILS), TNEK (KRW), celé portfolio přes USD/CZK
 - 18. 11. 2026: Demokraté ovládli obě komory nad očekávání (GS 4. 11.). Budou tlačit na omezení války s Íránem, zrušení části cel a zdravotní výdaje (+0,25 % HDP v 2027). Státní volby (Texas, Ohio) jsou pro datacentra důležitější než federální výsledek (MS 4. 11.). JPM: blue wave podporuje pohled, že eskalace bude krátká.
 
 ### 🔥 #2027-outlook: Výhledy bank na rok 2027
+- 20. 11. 2026 (SG Global Economic Outlook): zpomalení bez recese (US 1,7 %, EA 1,2 %, Čína 4,5 %), větší riziko stagflace než recese, „konec utahování, ne začátek uvolňování“.
 - 20. 11. 2026 (backlog, 2. dávka): MS Huberty (17. 11.): max OW akcií, globální růst 3,3 % (2027), sazby DM vrcholí v 1Q27. Robeco (5. 11.): vrchol sazeb Fedu i ECB v 1Q27, mírná recese 15 %. Alpine Giorgi (3. 11.): S&P 8 000 do konce roku, Tech a Industrials.
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): GS US strategie (6. 11.): S&P 500 8 000 konec 2026 a 8 700 za 12M, EPS 2027 415 USD, OW Health Care a Materials; SpaceX do S&P 500 nejdřív v H2 2027 (váha v MSCI ACWI 0,1 %, pro forma 0,5 %; ETF **CSPX**, **SPYY**).
 - 19. 11. 2026 (2. dávka): GS GOAL (19. 11.): akcie OW, dluhopisy OW, kredit UW; regiony US a Japonsko OW, Evropa **UW**. Alpine (17. 11.): US large caps UW → OW, small caps OW → UW, EAFE a value UW. Alpine CMA (19. 11.): 10letý výhled globálních akcií 5,1 % vs. dluhopisy 5,4 % (záporná ERP), US 4,2 %, EM 8,9 %. **Proti proudu:** Gavekal-IS (12. 11.) risk-off s akciemi ≤20 %, BCA Budaghyan (11. 11.) Avoid/UW akcií. **Rozpor u Evropy:** MS OW a BCA Peloso (rotace do Evropy) vs. GS, UBP, Alpine UW.
@@ -117,6 +121,7 @@ Dotčené: SMSH.
 
 ### #korea: Korea
 Dotčené: TNEK.
+- 20. 11. 2026 (SG Global Economic Outlook): Future Response Fund 162,3 bil. KRW přidá 0,5–0,7 p. b. k HDP 2027, BoK na 3,5 %, HDP 2027 zvýšen na 3,0 %.
 - 20. 11. 2026 (backlog, 2. dávka): MS (14. a 17. 11.): „Korea Renaissance“, ROE 8 → 14 %+ do 2030, OW SK Hynix, Samsung, Hyundai, KB. KOSPI 200 6. 11. −6,5 % s circuit breakerem (MS 7. 11.). Korejský export předbíhá US capital goods (MS 3. 11.).
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): GS (6. 11.): odliv z korejských akciových fondů −0,65 mld. USD za týden po silném říjnu; KOSPI po midtermech −12 % za týden (podle titulku GS Korea Kickstart, nečteno).
 - 19. 11. 2026 (2. dávka): ING (12. 11.): Korea jeden z největších vítězů AI boomu, USD/KRW 1 275. GS fund flows (13. 11.): korejské fondy +4,0 mld. USD za týden. BCA Budaghyan: korejské akcie mimo hardware klesaly už před výprodejem. GS GOAL: Korea/Tchaj-wan neutrál kvůli koncentraci volatility.
@@ -142,6 +147,7 @@ Dotčené: nepřímo všechny (financování, spready); IBKR, SOFI.
 
 ### #latam: Latinská Amerika (Brazílie, Mexiko)
 Dotčené: NU, INTR.
+- 20. 11. 2026 (SG Global Economic Outlook): Selic 12,75 % konec 2027, HDP Brazílie 2027 snížen na 1,2 %, 10Y 15,2 % a BRL −12 % po Lulově vítězství (**NU**, **INTR**).
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): Gavekal L. Gave (6. 11.): EM financials mezi favority při slabším USD (nepřímo **NU**, **INTR**), nejistota kolem Brazílie je riziko. Banxico −25 bp na 6,25 % (GS, Gavekal 6. 11.). MS (9. 11.): USD/BRL k 6,00 do konce roku. GS (6. 11.): USD/BRL 5,25 za 12M. Gavekal C. Gave (13. 11.): preferovat LatAm dluhopisy.
 - 19. 11. 2026 (2. dávka): ING (12. 11.): USD/BRL 5,00 od 2Q27 (nejbýčejší na BRL), trh čeká Selic 15 %. BCA Gertken (18. 11.): Bílý dům může uvalit cla na Brazílii. Alpine CMA: Brazílie má nejvyšší 10letý výhled akcií (10,3 %), takticky ale GS MW a MS UW. GS fund flows: brazilské fondy −412 mil. USD za týden.
 - 19. 11. 2026: MS LatAm (16. 11.): Brazílie EW → UW (fiskál). UBP: Lulovo znovuzvolení zasáhlo EM fondy. **Rozpor:** SG BRL mírně konstruktivní vs. GS MW a MS UW.
@@ -196,6 +202,7 @@ Dotčené: LIME, TUI1, MC.
 
 ### 🔥 #oil / #natgas: Ropa a plyn
 Dotčené: VTS, VST, TUI1 (náklady na palivo).
+- 20. 11. 2026 (SG Global Economic Outlook): Brent ~100 USD, pozvolna k ~85 USD do konce 2027; zamrzlé konflikty Írán a Ukrajina v základním scénáři.
 - 20. 11. 2026 (backlog, 2. dávka): MS Rats (7. 11.): Brent 100 USD v 1Q27, 75 ve 4Q27, Equinor a OMV → UW. MS Gapen (6. 11.): SPR nejníž od 1984, trvalá riziková prémie. GS Carbonomics (11. 11.): strukturální capex cyklus v ropě a plynu od 2027, riziko plynu nahoru. SG (12. 11.): lednový technický odtok z energií (rebalancing indexů). Robeco: TTF +70 % od březnového vrcholu.
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): Hawkeye (18. 11.): WTI −4,8 % na 81,89 USD po nečekaném růstu US zásob; útoky na tankery v Hormuzu pokračují. Gavekal (16. 11.): WTI od začátku listopadu −14 %. Gavekal L. Gave (6. 11.): riziko skoku k 150 USD ustoupilo, rovnováha ~100 USD. BCA Papic (10. 11.): short ropa. **Rozpor:** BCA Swift (2. 11.) viděl po midtermech riziko eskalace US úderů a vyšší ropy.
 - 19. 11. 2026 (2. dávka): **Rozpor se prohlubuje:** BCA Gertken (18. 11.) – Írán bude Brent držet kolem 90 USD po dva roky; Gavekal Gave (16. 11.) – snížení energie bylo možná předčasné, tail risk obratu nahoru. Proti: Alpine (17. 11.) Brent UW kolem 70 USD, Gavekal Kaletsky (9. 11.) mír a pokles ropy, GS equity (6. 11.) mid-cycle 73/68 USD Brent/WTI, ING 70–80 USD. GS GOAL (19. 11.): Brent ⌀ 2027 88 USD, TTF 45 EUR/MWh; export LNG z Perského zálivu přes 60 % předválečné úrovně.
