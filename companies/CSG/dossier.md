@@ -1,15 +1,16 @@
 # CSG (Czechoslovak Group) (CSG) – dossier
 
 _Poslední aktualizace: 20. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [CSG (id 21954)](https://web.quartr.com/m/companies/21954) · IR: [investors.csg.com](https://investors.csg.com/case)_
-_Poslední deep dive: zatím ne (ve frontě)_
+_Poslední deep dive: [companies/CSG/deep-dive-v1.md](deep-dive-v1.md), 20. 11. 2026 ([Claude Doc](https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K))_
 
 ## Signál
 
-**Aktuální:** 🟡 **Sledovat (s negativním sklonem):** Výsledky za 9M 2026 přinesly snížení výhledu marže z 24–25 % na cca 21 % a horší výhled pracovního kapitálu. Akcie padá na nová minima (9,18 EUR, −63 % od IPO) a následovaly downgrady od JPM i DB. Ještě před deep dive je tohle nejblíž 🔴 ze všech pozic. [Názor] · _od 18. 11. 2026_
-**Co by ho zvrátilo:** 🔴 další snížení výhledu nebo propad marže pod cca 20 % i v 2027, guidance 2027 bez návratu k 24 %+, prodeje Strnada nebo velkých akcionářů po skončení lock-upu (kolem 18. 1. 2027), eskalace sporu s Kratochvílem nebo kauzy kolem prospektu, zavedení české sektorové daně na zbrojaře. 🟢 Q4 s uvolněním pracovního kapitálu (leverage pod 2,0x/1,5x adj.), potvrzení střednědobé marže 26–28 % s výhledem 2027 a růst backlogu M/L munice.
+**Aktuální:** 🟡 **Sledovat (držet, nepřikupovat):** Za 9,32 EUR je CSG levná (~7,8× upr. EV/EBIT 2026E, ~10× P/E, zhruba polovina násobků peers), reverse DCF implikuje trvalou marži ~18 %. Původní IPO teze (marže 26–28 %, mid-teens růst) je ale 🔴 oslabená a nová „levná, ale nedokázaná“ teze čeká na důkaz: Q3 book-to-bill 0,6, od dubna žádná velká objednávka M/L munice, Bernstein zpochybňuje délku cyklu. Vážený výnos ~21 % p. a. splňuje požadovaných 14–18 % jen těsně. [Názor] · _od 20. 11. 2026 (deep dive v1)_
+**Co by ho zvrátilo:** 🟢 guidance 2027 s marží ≥21 % a tržbami ≥8 mld. EUR, net debt k 31. 12. 2026 ≤3,5 mld., NWC ≤35 % tržeb, Q4 book-to-bill ≥1, potvrzená dividenda a lock-up bez prodejů Strnada. 🔴 → ⚡ ke zvážení redukovat (Tomáš k ~6 %, Michal k 2–3 %): guidance 2027 s marží pod 19 % nebo tržbami pod 7,5 mld., další revize FY2026, net debt nad 3,9 mld. (leverage nad 2,2×), Q4 book-to-bill pod 0,8 nebo backlog M/L munice pod 5 mld., zrušená dividenda, prodej či placement Strnada, schválená sektorová daň. [Názor]
 
 | Datum | Signál | Důvod | Zdroj |
 |---|---|---|---|
+| 20. 11. 2026 | 🟡 Sledovat (držet, nepřikupovat) | Deep dive v1: scénáře 35/45/20 % → 5,43 / 12,59 / 22,26 EUR, vážený výnos ~21 % p. a. vs. požadovaných 14–18 %; IPO teze 🔴, nová teze levná, ale nedokázaná; pozice převážená (Tomáš 10,8 % vs. rámec 6–8 %, Michal 5,1 % vs. 2–3 %), rozhodnout po guidance 2027 | [deep-dive-v1](deep-dive-v1.md), [Claude Doc](https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K) |
 | 18. 11. 2026 | 🟡 Sledovat | Onboarding. Snížený výhled marže a NWC (11. 11.), akcie −20,6 % (11. 11.) a −8,7 % (17. 11.), downgrady JPM a DB. Výchozí stav do deep dive | [Quartr 9M 2026](https://web.quartr.com/m/events/729445), investing.com |
 
 ## Pozice
@@ -47,24 +48,26 @@ CSG je česká zbrojařská skupina Michala Strnada. Jádrem je Defence Systems 
 
 **Tomášova teze:** (doplnit)
 
-**Pracovní teze / variant perception:** Trh dnes oceňuje CSG jako firmu s trvale nižší marží, problémovou kvalitou zisku a governance diskontem. Při 9,18 EUR je to zhruba třetina IPO ceny, zatímco GS drží EU obranu OW s fwd P/E sektoru cca 20x (GS, 13. 11. 2026). Pokud je pokles marže opravdu přechodný (výprodej zásob standardní munice, mix s Land Systems), vertikální integrace vrátí marže ke střednědobým 26–28 % a pracovní kapitál se v 2027 uvolní, je dnešní cena hluboko pod hodnotou. Protiargument: management výsledky ani výhled předem nevaroval (analytici to na callu vytkli), cash conversion je slabá, backlog munice mohl klesnout a za akcií visí governance kauzy a lock-up v lednu 2027. Edge existuje jen tehdy, pokud v deep dive rozlišíme vlastní výrobu od přeprodeje a ověříme kvalitu backlogu. [Názor]
+**Pracovní teze / variant perception (deep dive v1):** Trh za CSG platí, jako by trvalá marže byla ~18 % (reverse DCF), tedy pod letošními ~21 %. Cíl managementu 26–28 % ale nevychází ani při nejlepší vůli: Land Systems tvoří 57 % backlogu s marží 15–18 %, munice by musela mít ~39 %. Base počítá s ~21 % v roce 2028 a bez re-ratingu. Cena je pesimistická, ale hrozbu (slabé objednávky munice, kratší cyklus podle Bernsteinu, NWC a páka) zatím nikdo nevyvrátil. [Odhad/Názor]
 
 **Scénáře** (z posledního deep dive):
 
 | Scénář | Pravděpodobnost | Cílová cena | Klíčový předpoklad |
 |---|---|---|---|
-| Bear | – | – | doplní deep dive |
-| Base | – | – | doplní deep dive |
-| Bull | – | – | doplní deep dive |
+| Bear | 35 % | 5,43 EUR (−42 %) | marže 17 % (2027) / 15,5 % (2028), EV/EBIT 7,5×, kratší muniční cyklus |
+| Base | 45 % | 12,59 EUR (+35 % vč. dividendy 0,30) | marže 19,5 % / 21 %, EV/EBIT 8×, bez re-ratingu |
+| Bull | 20 % | 22,26 EUR (+139 % vč. dividendy 0,35) | marže 22 % / 24 %, EV/EBIT 10,5×, nové velké objednávky munice |
 
-**Potvrdí:** Q4 2026 s marží v souladu s ~21 %, uvolnění NWC a leverage pod cílem. Guidance 2027 s návratem k 24 %+. Nové objednávky M/L munice. · **Vyvrátí:** další revize výhledu, pokles backlogu, prodeje insiderů po lock-upu, nové kauzy kolem prospektu. [Názor]
+Vážená hodnota 12,02 EUR (+29 % za horizont do 31. 3. 2028, ~21 % p. a.) vs. požadovaný výnos 14–18 % p. a. Při 45/40/15 jen ~12 % p. a. Buy (+50 % váženě) by vycházel až při ceně ~8,0 EUR. [Odhad, výpočet v Pythonu]
+
+**Potvrdí:** guidance 2027 s marží ≥21 % a tržbami ≥8,0 mld. EUR; FY2026 marže ≥21 % (Q4 ≥17 %); NWC ≤35 %; net debt ≤3,5 mld.; FCF 2026 bez půjček a podílů ≥0; Q4 book-to-bill ≥1,0 a backlog M/L ≥6 mld.; potvrzená dividenda; lock-up bez prodejů; stabilní ceny extended-range munice. · **Vyvrátí:** guidance 2027 s marží <19 % nebo tržbami <7,5 mld.; další revize FY2026; net debt >3,9 mld. nebo leverage >2,2×; NWC >35 %; Q4 book-to-bill <0,8 nebo backlog M/L <5 mld.; zrušená dividenda; placement nebo prodej Strnada; pokles cen extended-range munice; schválená sektorová daň; nové právní kroky kolem prospektu nebo NSPA. [Názor]
 
 ## KPI ke sledování
 
 | KPI | Poslední hodnota | Předchozí | Trend | Zdroj |
 |---|---|---|---|---|
 | Backlog / pipeline | 18 mld. EUR (30. 9. 2026), pipeline v jednání 29 mld. EUR | cca 14,5 mld. EUR (12/2025, +24 %) [dopočet] | ↑ [Fakt] | [Quartr 9M](https://web.quartr.com/m/events/729445) |
-| Book-to-bill / backlog M/L munice | B2B firma nezveřejnila (doplnit). Analytik (Ross Law) na callu tvrdil, že backlog munice klesl o cca 0,7 mld. na cca 5,8 mld. EUR. CFO to odmítl | – | ? [Fakt, sporné] | [Quartr 9M call Q&A](https://web.quartr.com/m/sources/s90155175150176116775786) |
+| Book-to-bill / backlog M/L munice | Q3 2026: objednávky 0,9 mld. EUR, book-to-bill 0,6 (deep dive v1, Quartr 9M). Backlog 18 mld. = fixed 7 / frame 8 / soft 3 mld. (pozn.: z H1 17 mld. + 0,9 − 1,5 by vycházelo ~16,4 mld., rozpor neobjasněn). B2B dříve nezveřejnila. Analytik (Ross Law) na callu tvrdil, že backlog munice klesl o cca 0,7 mld. na cca 5,8 mld. EUR. CFO to odmítl | – | ? [Fakt, sporné] | [Quartr 9M call Q&A](https://web.quartr.com/m/sources/s90155175150176116775786) |
 | Tržby a adj. operating EBIT marže | 9M: 4,761 mld. EUR (+6,1 %), marže 23,1 %. Q3: 1,51 mld. (−11,7 %), marže 21,0 %. FY guidance: tržby 7,4–7,6 mld., marže cca 21 % | 9M25 marže 24,5 %. FY guidance dřív 24–25 % | ↓ [Fakt] | [Quartr 9M](https://web.quartr.com/m/events/729445) |
 | Kapacita 155mm munice | cca 850 tis. ks (2026). Cíl cca 1,1 mil. ks do konce 2027, v Q3 téměř vše extended-range | – | ↑ [Fakt] | [Quartr 9M call](https://web.quartr.com/m/sources/s85647159102198059117813) |
 | Net debt / EBITDA a NWC | 2,4x reportovaně / 1,6x adjusted. NWC 42 % LTM tržeb, guidance FY pod 35 % (dřív pod 20 %) | – | ↓ (zhoršení) [Fakt] | [Quartr 9M](https://web.quartr.com/m/sources/s73755099160), [call](https://web.quartr.com/m/sources/s57893535319740164087809) |
@@ -87,6 +90,9 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 | 25. 3. 2027 ([Quartr](https://web.quartr.com/m/events/796107)) | Výsledky FY 2026 | Uvolnění NWC, leverage, dividenda |
 | průběžně | Ukrajina (příměří/mír), české návrhy sektorové daně, spor s Kratochvílem, Hunterbrook, kauza FMG/NSPA | Sentiment a governance diskont |
 | do konce 2027 | 1,1 mil. ks 155 mm a vlastní energetika (Gnaschwitz, Walsrode) | Klíčový předpoklad návratu marží k 26–28 % |
+| září 2027 | Splatnost půjček subdodavatelům (~700 mil. EUR) | Vrácení = uvolnění cash, prodloužení/odpis = kvalita zisku |
+| Q2 2028 | Náběh JV EURENCO (energetika) | Vlastní výbušniny a prach pro marže munice |
+| ~březen 2028 | Výsledky FY2027 (konec horizontu deep dive v1) | Base: marže ≥19,5 % |
 
 ## Rizika
 
@@ -108,6 +114,9 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 | 12. 11. 2026 | JPMorgan | Downgrade na Neutral, cíl 12 EUR | web: [investing.com](https://uk.investing.com/equities/csg-nv) |
 | 11. 11. 2026 | J&T Banka | Výsledky a výhled pod očekáváním, hodnotí negativně, efekt možná jednorázový | web: [CC.cz](https://cc.cz/akcie-csg-po-vysledcich-spadly-o-petinu-na-nove-minimum-strnadova-zbrojovka-zhorsila-vyhled-marze/) |
 | 1. 10. 2026 | BofA | Zahájení pokrytí: Underperform, cíl 13 EUR | web: [investing.com](https://uk.investing.com/equities/csg-nv) |
+| 22. 5. 2026 | Jefferies | Buy, cíl 35 → 30 EUR | web: [boerse.de](https://www.boerse.de/aktien/CSG-NV-Aktie/NL0015073TS8) (deep dive v1) |
+| 11.–12. 8. 2026 | JPM / Berenberg / RBC / Barclays | po H1: Buy 27,50 / Buy 25 / zahájení Hold 18 / zahájení Sell 19 | web: investing.com (deep dive v1) |
+| 1. 10. 2026 | BofA | zahájení Underperform, cíl 13 EUR | web: [investing.com](https://uk.investing.com/equities/csg-nv) (deep dive v1) |
 
 **Rozpor:** GS drží celý sektor EU obrany OW. JPM, DB a BofA jsou u CSG konkrétně neutrální až negativní a konsenzuální cíl 25 EUR z doby před výsledky je zastaralý. [Fakt]
 
@@ -119,6 +128,7 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 | 18. 11. 2026 | Novinky 11.–18. 11.: 9M výsledky a snížení výhledu marže a NWC (11. 11., −20,6 %). Downgrady JPM (12. 11.) a DB (13. 11.). Kontrakt Speer pro kanadské DND (12. 11.). Nové minimum 8,92, close 9,18 (−8,66 %, 17. 11.) | Quartr, Euronext, investing.com, echo24 |
 | 19. 11. 2026 | 18. 11.: Praha close 233,20 Kč (−9,26 %, 52W minimum) = dorovnání amsterdamského propadu 17. 11. (PSE 17. 11. zavřená); Amsterdam/Xetra vnitrodenně ~+2,6 % (9,42 EUR, close nedohledán). Bez firemní zprávy. E15: za týden −31 %, průměrný cíl (Bloomberg) mírně nad 20 EUR, Patria 22,16 EUR; analytici čekají snižování cílů [Fakt/Názor]. Výsledky FY 2026 25. 3. 2027 (Quartr). MS (15. 11.): EU obrana nedosáhla OW kvůli slabému momentu RHM. Signál beze změny | [ČTK](https://ceskenoviny.cz/zpravy/prazska-burza-odepsala-vice-nez-procento-vyrazne-ztracely-akcie-csg/2903588), [E15](https://www.e15.cz/byznys/burzy-a-trhy/strnadova-csg-za-tyden-ztratila-103-miliard-proc-analytici-stale-veri-ve-zdvojnasobeni-ceny-1437393), [Quartr](https://web.quartr.com/m/events/796107) |
 | 20. 11. 2026 | Close 19. 11. ~9,32 EUR (−1 %, Amsterdam, nepotvrzený close; Praha 231,20 Kč). Nová zmínka Bernstein: zpochybňuje délku muničního cyklu (3 vs. 10+ let) → přidáno do rizik. Signál beze změny (🟡 s negativním sklonem) | patria.cz, aktiencheck |
+| 20. 11. 2026 | **Deep dive v1**: signál 🟡 (držet, nepřikupovat), IPO teze 🔴; scénáře 35/45/20 → 5,43/12,59/22,26 EUR, vážený výnos ~21 % p. a. vs. 14–18 %; pozice převážená; doplněny teze, scénáře, Potvrdí/Vyvrátí, KPI (book-to-bill Q3 0,6, struktura backlogu), katalyzátory, broker views. Close 20. 11. vnitrodenně ~8,86 EUR (−4,9 %, nové minimum) | [deep-dive-v1](deep-dive-v1.md), [Claude Doc](https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K) |
 
 ## Zdroje
 

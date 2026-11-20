@@ -29,7 +29,7 @@ instruments:
           sector: "Broker", themes: [us-rates] }
 
   CSG:  { name: CSG (Czechoslovak Group), isin: NL0015073TS8, exchange: Euronext Amsterdam, ccy: EUR, quartr_id: 21954, tier: A, group: "Obrana", source: quartr_watchlist,
-          sector: "Obrana – munice, vozidla", themes: [eu-defense, ukraine, nato-spending] }
+          sector: "Obrana – munice, vozidla", themes: [eu-defense, ukraine, nato-spending], last_deep_dive: 2026-11-20 }
   RHM:  { name: Rheinmetall, isin: DE0007030009, exchange: XETRA, ccy: EUR, quartr_id: 12480, tier: A, group: "Obrana", source: quartr_watchlist,
           sector: "Obrana – munice, vozidla, systémy", themes: [eu-defense, ukraine, nato-spending] }
   TKMS: { name: TKMS (ThyssenKrupp Marine Systems), isin: DE000TKMS001, exchange: XETRA, ccy: EUR, quartr_id: 21594, tier: A, group: "Obrana", source: quartr_watchlist,

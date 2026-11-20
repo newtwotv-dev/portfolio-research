@@ -84,3 +84,5 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 13. 5. 2027 | earnings | TKA – Q2 2026/27 | | [Quartr](https://web.quartr.com/m/events/802167) |
 | polovina 2027 | kapacita | MU – první wafery z ID1 (Idaho) a dodávky z Tongluo | růst nabídky MU | [Quartr](https://web.quartr.com/m/sources/s66732233835527500060703) |
 | 2H 2027 | klinika | PFE – SOLIS-1 (fáze 2b amylin ± berobenatide, obezita) | klíčová data účinnosti | [Quartr](https://web.quartr.com/m/sources/s83111558095401528579359) |
+| září 2027 | splatnost | CSG – půjčky subdodavatelům (~700 mil. EUR) | vrácení = uvolnění cash | deep dive v1 (Quartr 9M) |
+| Q2 2028 | kapacita | CSG – náběh JV EURENCO (energetika) | | deep dive v1 (Quartr) |

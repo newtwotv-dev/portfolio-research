@@ -219,7 +219,7 @@
       "NOVO",
       "PFE"
     ],
-    "deep_dive": "SOFI v1, TKA v1, AQST v1 (https://claude.ai/artifact/NaAfpAtZTFi5dfKvkKobL8) hotové 18. 11. 2026 na povel",
+    "deep_dive": "SOFI v1, TKA v1, AQST v1 (18. 11.), CSG v1 (20. 11., https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K) na povel",
     "last_run_note": "Alert kvůli výsledkům BABA FQ2 FY27 (19. 11.; výhled cloudu 2027 30–45 %, možné snížení cíle 20 GW, EPS miss), signál 🟡 beze změny. TNEK (tier B) −5 % 19. 11. a ~−15 % 20. 11. vnitrodenně, pod IPO cenou. Bernstein 19. 11. medvědí na munici (RHM, CSG). Onboarding MC, MU, VTS, SMSH, NOVO, PFE hotový (všechny 🟡). Deep dive tento běh neproběhl (vznikl alert). Ceny k 19. 11. v state/prices.json (TKA, TKCC, GUTS, SPYY, CSPX k 18. 11.). GUTS možná ~−10 % (Robinhood, neověřeno) – ověřit příště. Tier B (TNEK) plná kontrola v pondělí."
   },
   "market_brief": {
@@ -262,7 +262,6 @@
     "COIN"
   ],
   "deep_dive_queue": [
-    "CSG",
     "RHM",
     "LIME",
     "IOVA",
@@ -399,6 +398,12 @@
   ],
   "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny. 20. 11.: Tomáš nahrál PDF k BCA HTE, BCA G10 FX, MS Oil Manual a SG (Curve & Carry Monitors) – extrakty nahrazeny plnými verzemi vč. grafů. Nové pokyny: řádek „Z grafů“ v extraktech, krok 9b deep dive (co píšou analytici), dotaz na téma v tasks/on-demand.md, seznam needs_pdf.",
   "refresh_queue": [
+    {
+      "ticker": "CSG",
+      "reason": "guidance 2027 (prosinec 2026 – leden 2027) a konec lock-upu Strnada (~18. 1. 2027); spouštěče Potvrdí/Vyvrátí v dossieru",
+      "trigger_date": "2027-01-20",
+      "since": "deep-dive-v1"
+    },
     {
       "ticker": "TKA",
       "reason": "výsledky FY 2025/26 + výhled 26/27, rozhodnutí o struktuře oceli",
