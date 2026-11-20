@@ -131,6 +131,19 @@ dnešní cenu. **Tři scénáře** (bear, base, bull) s pravděpodobnostmi a cí
 Pravděpodobnostně vážený výnos porovnej s požadovaným výnosem z kroku 8. Výpočty
 (DCF, vážený výnos) dělej v Pythonu, ne z hlavy.
 
+### Krok 9b – co píšou analytici (research reporty)
+Povinná sekce (pokyn Tomáše 20. 11. 2026). Projdi všechny měsíce v `research/log/`,
+`research/house-views.md`, `research/themes.md` a sekci „Broker views a zmínky“ v dossieru:
+1. **Přímé zmínky firmy** (jméno, ticker): tabulka Datum | Instituce | Rating / cíl | Co říká,
+   nejnovější nahoře. Změny ratingu a cílových cen se šipkou (z → na).
+2. **Sektor a témata firmy** (pole `themes` v `universe.yaml`): co k nim banky píšou a jaký
+   mají outlook (čísla s datem a institucí), 3–6 odrážek.
+3. **Konsenzus vs. rozpory:** kde se banky shodují, kde se rozcházejí (jmenovitě), a co z toho
+   plyne pro tezi a scénáře z kroku 9 (potvrzuje / zpochybňuje / nový argument).
+4. **Z grafů:** relevantní postřehy z řádků „Z grafů“ v extraktech.
+Zdroj vždy ve tvaru „log 2026-11 · GS 13. 11.“. Pokud o firmě ani jejích tématech nic není,
+napiš to jednou větou.
+
 ### Krok 10 – base rate check
 Existují historické precedenty podobné situace u srovnatelných firem? Jaká byla jejich
 úspěšnost?

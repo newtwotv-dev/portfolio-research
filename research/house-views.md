@@ -104,6 +104,8 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | US Health Care / farma | Alpine Macro (Giorgi) | OW, farma vítěz midterms (cenové kontroly výměnou za širší přístup, např. GLP-1) | 3. 11. 2026 | log 2026-11 · Alpine Macro 3. 11. |
 | US obrana | MS (Liwag) | Blue Wave v cenách, rekonciliační balík ~350 mld. USD méně pravděpodobný, base rozpočet FY27 1,1 bil. USD | 7. 11. 2026 | log 2026-11 · MS (sales) 7. 11. |
 | EU energie | MS (Rats) | Equinor a OMV → UW; Brent 100 USD v 1Q27, 75 USD ve 4Q27 | 7. 11. 2026 | log 2026-11 · MS (sales) 7. 11. |
+| Ropa – fyzický trh | MS (Rats, Oil Manual) | Fyzický trh měkne (Dated pod futures, CFD v contangu), přebytek 2027 +3,6 mb/d; Brent bull 120 / bear 60, WTI 4Q27 70 USD; diesel a jet úzké hrdlo (údržba 2Q27 ~6,4 mb/d) | 16. 11. 2026 | log 2026-11 · MS 16. 11. (plné PDF) |
+| Komoditní křivky | SG (Haigh, Curve & Carry) | WTI/Brent v konvexní backwardaci (carry long, zploštění čeká), HH nejsilnější carry signál (+4,1 %), TTF zimní prémie, hliník poprvé za 10 let v backwardaci | 10. 11. 2026 | log 2026-11 · SG 10. 11. |
 | US korporátní kredit | MS (Patkar) | Fundamenty 3Q26 se zlepšují plošně (páka dolů, krytí nahoru); utility nejvyšší páka 5,9x | 6. 11. 2026 | log 2026-11 · MS 6. 11. |
 | Software / kyberbezpečnost | MS | Attractive, kyber výdaje rostou s adopcí AI | 16. 11. 2026 | log 2026-11 · MS 16. 11. |
 | US elektřina / BTM pro DC | GS (Carbonomics) | Spotřeba US +3,5 % ročně do 2030, DC ~20 % spotřeby; BTM výroba pro DC ~67 GW (z ~40) | 11. 11. 2026 | log 2026-11 · GS 11. 11. |
@@ -195,11 +197,15 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | USD/BRL | MS | Ke konci roku tlak, bez fiskálního plánu směr 6,00; v lednu možný odraz | 9. 11. 2026 | log 2026-11 · MS 16. 11. (digest) |
 | MXN | GS | Z konstruktivního na opatrnější krátkodobý pohled (Banxico −25 bp na 6,25 %) | 6. 11. 2026 | log 2026-11 · GS 6. 11. (FX Trader) |
 | EUR / energie | GS | Slabší EUR je nejlepší a podceněný hedge energetického rizika; short EUR/GBP | 6. 11. 2026 | log 2026-11 · GS 6. 11. (FX Trader) |
-| G10 FX – carry | BCA (Sakhbiev) | Carry zatím vede, cyklus se blíží k obratu, rotace v 2027 | 11. 11. 2026 | log 2026-11 · BCA 11. 11. |
+| G10 FX – carry | BCA (Sakhbiev) | Carry zatím vede (NOK, USD, GBP, AUD), cyklus se blíží k obratu; v 2027 rotace k JPY, EUR, CAD | 11. 11. 2026 | log 2026-11 · BCA 11. 11. (plné PDF) |
+| USD / EUR | BCA (Sakhbiev) | USD OW na 3M (DXY 105), na 12M sell; short EUR/USD (vstup 1,13, stop 1,16), EUR 3M sell / 12M buy | 11. 11. 2026 | log 2026-11 · BCA 11. 11. |
+| BRL | BCA (Sakhbiev) | Nově taktický long BRL vs. CHF (carry po volebním výprodeji), EM měny 12M buy | 11. 11. 2026 | log 2026-11 · BCA 11. 11. |
 | JPY / BoJ | Gavekal (Sikand) | BoJ může zrychlit utahování (terminál 1,8–2,5 %), repatriace japonského kapitálu podpoří jen | 6. 11. 2026 | log 2026-11 · Gavekal 6. 11. |
 | Francie / SSA | MS | Short 10Y EFSF vs. Španělsko, long EU vs. Německo/Itálie; francouzské riziko vydrží celý 2027 | 16. 11. 2026 | log 2026-11 · MS 16. 11. (digest) |
 | Ropa | Gavekal (L. Gave) | Riziko skoku k 150 USD ustoupilo, rovnováha ~100 USD | 6. 11. 2026 | log 2026-11 · Gavekal 6. 11. |
-| Ropa | BCA (Papic) | Short ropa („zatím“) | 10. 11. 2026 | log 2026-11 · BCA 10. 11. |
+| Ropa | BCA (Papic, Gertken) | Ropa za vrcholem, do konce 2026 „tvrdě spadne“; short Brent a short BWET (tankery); Írán nekontroluje Hormuz | 10. 11. 2026 | log 2026-11 · BCA 10. 11. (plné PDF) |
+| Fed 2027 | BCA (Papic, Gertken) | Fed v 2027 překvapí, že nezvedne (inflace slábne s ropou); riziko bolestivého utahování koncem 2027. **Rozpor** s BCA Swift (hiky v prosinci a březnu) | 10. 11. 2026 | log 2026-11 · BCA 10. 11. |
+| Regiony | BCA (Papic, Gertken) | Sekulárně Buy Europe / Buy RoW, konec amerického fiskálního motoru; takticky býčí akcie i dluhopisy do 1H27, koncem 2027 zvážit podvážení akcií (vlna obřích IPO) | 10. 11. 2026 | log 2026-11 · BCA 10. 11. |
 | Fed | MS (Gapen) | Hiky v prosinci a březnu na 4,25–4,50 %, riziko i v lednu | 14. 11. 2026 | log 2026-11 · MS (sales) 14. 11., MS 6. 11. |
 | Fed | Robeco | 4,50 % v 1Q27, pak škrty od konce 2027; trh přeceňuje higher-for-longer | 5. 11. 2026 | log 2026-11 · Robeco 16. 11. |
 | Fed | Alpine Macro (Kalirai) | Další hike v prosinci; demokratický Senát ochrání nezávislost Fedu | 12. 11. 2026 | log 2026-11 · Alpine Macro 12. 11. |
@@ -239,6 +245,8 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
+| 11. 11. 2026 | BCA (FX) | CAD 3M / CHF-BRL / CHF-MXN | neutral → sell / nový short CHF/BRL / short CHF/MXN zastaven (−3 %) | log 2026-11 · BCA 11. 11. |
+| 10. 11. 2026 | BCA (Papic) | Ropa / tankery | → short Brent, short BWET | log 2026-11 · BCA 10. 11. |
 | 20. 11. 2026 | SG (GEO) | ČNB konec 2027 / BoE konec 2027 | 3,75 → 4,00 % / 3,00 → 4,25 % | log 2026-11 · SG 20. 11. |
 | 20. 11. 2026 | SG (GEO) | Selic konec 2027 / HDP Brazílie 2027 | 12,25 → 12,75 % / ↓ 1,2 % | log 2026-11 · SG 20. 11. |
 | 17. 11. 2026 | MS | Hannover Re | → UW | log 2026-11 · MS 17. 11. |
@@ -250,7 +258,6 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | 7. 11. 2026 | MS (Cyprys) | **COIN** | EW → UW, cíl 258 → 120 USD | log 2026-11 · MS (sales) 7. 11. |
 | 7. 11. 2026 | MS (Rats) | Equinor, OMV | → UW | log 2026-11 · MS (sales) 7. 11. |
 | 16. 11. 2026 | MS (sazby) | Nové obchody: short 10Y EFSF vs. Španělsko, long EU vs. DE/IT; uzavřen 3y2y EUR long | → nové pozice | log 2026-11 · MS 16. 11. (digest) |
-| 10. 11. 2026 | BCA (Papic) | Ropa / dluhopisy / akcie | → short ropa, long dluhopisy, long akcie („zatím“) | log 2026-11 · BCA 10. 11. |
 | 6. 11. 2026 | Gavekal (L. Gave) | Hlavní sázka | OW energie nebo tech/semis → slabší USD vs. EM (kovy > energie) | log 2026-11 · Gavekal 6. 11. |
 | 6. 11. 2026 | GS (FX) | MXN | konstruktivní → opatrnější | log 2026-11 · GS 6. 11. (FX Trader) |
 | 6. 11. 2026 | GS (sazby) | Nový obchod | → long 10Y TIPS vs. 0,75× nominál | log 2026-11 · GS 6. 11. |

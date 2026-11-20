@@ -43,7 +43,18 @@ vlákno mimo `processed_thread_ids`, aby ho další běh dokončil.
    - tabulky doporučení a alokací,
    - všechny pasáže, kde se vyskytuje ticker nebo název firmy z `universe.yaml`
      (`grep -n -i` přes text).
-4. PDF ani jejich text **necommituj** do repa.
+4. **Grafy** (pokyn Tomáše 20. 11. 2026 – grafy můžou ukázat příležitosti): u reportů s vysokou
+   prioritou, chartbooků a reportů relevantních pro portfolio vyrenderuj klíčové strany
+   (`pdftoppm -r 70 -png -f N -l M`) a prohlédni si je (Read). Hledej extrémy, historické
+   percentily, divergence ceny a fundamentů, obraty trendu. Výsledek patří do řádku
+   **Z grafů** v extraktu (se stranou PDF). Čísla odečtená z grafu označ „cca“.
+5. **Příloha nad limitem 12 MB nebo chybí:** extrakt napiš z těla mailu, v hlavičce poznamenej
+   „jen z těla mailu – čeká na PDF“ a vlákno zapiš do `state.json → research_inbox.needs_pdf`
+   (id, datum mailu, odesílatel, titul). V poslední zprávě běhu Tomášovi vypiš seznam s daty,
+   ať PDF nahraje do chatu. Po nahrání extrakt nahraď plnou verzí a položku ze seznamu smaž.
+   Vždy ověř, že titul PDF sedí k mailu (příloha může být jiný report – pak ho zpracuj jako
+   samostatný extrakt).
+6. PDF ani jejich text **necommituj** do repa.
 
 ## 4. Zapiš extrakt
 

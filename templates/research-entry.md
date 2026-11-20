@@ -5,6 +5,7 @@
   - {parafráze, max. 3 odrážky}
 - **Změny doporučení:** {z → na, nebo „žádné“}
 - **Klíčová čísla:** {cílové hodnoty indexů, odhady růstu, EPS, výnosy, ceny komodit, jen z reportu}
+- **Z grafů:** {2–4 odrážky: co grafy ukazují nad rámec textu – extrémy, historické percentily, divergence, obraty, možné příležitosti/rizika; u každého strana PDF (s. N). Vynech, pokud report grafy nemá}
 - **Zmíněné firmy/sektory:** {tickery a sektory}
 - **Relevance pro portfolio:** {přímá: TICKER… / nepřímá: téma → TICKER… / žádná}
 - **Témata:** {#ai-capex #eu-defense …}
