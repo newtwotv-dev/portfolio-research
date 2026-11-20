@@ -50,6 +50,9 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Evropa – zisky | GS | Růst EPS STOXX 600 18 % / 7 % / 5 % (2026/27/28), pod konsenzem (ploché marže) | 4. 11. 2026 | log 2026-11 · GS 4. 11. |
 | Dlouhodobé výnosy (10Y CMA) | Alpine Macro | Globální akcie 5,1 % vs. státní dluhopisy 5,4 % p. a.; US 4,2 %, EM 8,9 %, Brazílie 10,3 % | 19. 11. 2026 | log 2026-11 · Alpine Macro 19. 11. |
 | Indie – makro | SG (ekonom) | Odolná, ale bez zrychlení (~6,3 % reálně); RBI hiky na 6,00 % | 19. 11. 2026 | log 2026-11 · SG 19. 11. |
+| US akcie – politika | BCA (Papic) | Demokratický sweep = dlouhodobý protivítr (regulace, daně); „zatím“ long akcie, long dluhopisy, short ropa | 10. 11. 2026 | log 2026-11 · BCA 10. 11. |
+| Regiony / sektory | Gavekal (C. Gave) | Preferovat čínské, evropské a japonské průmyslovky a čínského spotřebitele; vyhnout se US/EU spotřebitelským akciím a US/EU dluhopisům; držet zlato | 13. 11. 2026 | log 2026-11 · Gavekal 13. 11. |
+| EM / slabší USD | Gavekal (L. Gave) | Místo „OW energie nebo tech/semis“ sázka na slabší USD vs. EM: EM financials, HK reality, China tech, těžaři kovů, drahé kovy, EM dluh (kovy > energie) | 6. 11. 2026 | log 2026-11 · Gavekal 6. 11. |
 
 ### Sektory a styly
 
@@ -90,11 +93,15 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | AI adopce – Evropa | MS | Evropa = čistá AI adopční sázka; lídři ROI o 4 p. b. rychlejší růst EPS | 8. 11. 2026 | log 2026-11 · MS 8. 11. |
 | EU obrana – převod backlogu | SG | Backlogy se nepřetavují spolehlivě do marží a cash (RHM, Alstom) | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | EU obrana / NATO | BCA (Gertken) | I při příměří na Ukrajině nová vlna evropských zbrojních výdajů | 18. 11. 2026 | log 2026-11 · BCA 18. 11. |
+| EU obrana – munice | Bernstein (Rabier) | Medvědí na dělostřelectvo: drony ~80 % ztrát, doplňování zásob NATO ~3 roky (ne 10+), po 2030 bez růstu; jmenuje RHM a CSG (**rozpor** s BCA Gertken a GS OW) | 19. 11. 2026 | web (aktiencheck/wallstreet-online), Tracker 20. 11. |
 | Farma | SG | Defenzivní zdroj upgradů (PFE zvýšil výhled) | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | US utility / IPP | MS | Regulated In-Line, Diversified/IPP Attractive | 6. 11. 2026 | log 2026-11 · MS 6. 11. |
 | US utility po midterms | GS | Regulované utility místo texaských IPP; dodavatelé DC (PWR, MTZ) výprodej přehnaný | 6. 11. 2026 | log 2026-11 · GS 6. 11. |
 | US spotřebitel | Gavekal (Tan) | Pozitivní: trh práce, levnější paliva, „K-shape“ se narovnává | 10. 11. 2026 | log 2026-11 · Gavekal 10. 11. |
 | Energie / ropné akcie | Gavekal (Gave) | Snížení OW (6. 11.) možná předčasné; taktické nákupy rafinérů, MLP atraktivní | 16. 11. 2026 | log 2026-11 · Gavekal 16. 11. |
+| AI capex / výstavba DC | Gavekal (L. Gave vs. Denyer) | **Rozpor uvnitř Gavekalu:** Gave – hyperrůst DC končí z politických důvodů (6. 11.); Denyer – midtermy riziko AI bustu výrazně nezvyšují, hrozbou je drahý kapitál (4. 11.) | 6. 11. 2026 | log 2026-11 · Gavekal 4. a 6. 11. |
+| AI capex | BCA (Swift, Timper) | Boom nenarušený, výprodej AI akcií by měl brzy najít dno | 2. 11. 2026 | log 2026-11 · BCA 2. 11. |
+| EU obrana – rozpočty | ING vs. Gavekal (C. Gave) | **Rozpor:** ING – část Evropy může kvůli rozpočtům zpomalit růst obranných výdajů (4. 11.); Gave – NATO je mrtvé, Evropa musí obranu výrazně navýšit na úkor sociálního státu (13. 11.) | 13. 11. 2026 | log 2026-11 · ING 4. 11., Gavekal 13. 11. |
 
 ### Sazby, FX, komodity, krypto
 
@@ -165,6 +172,21 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Nabídka akcií / IPO | JPM | Čistá emise ~270 mld. USD v 2026, protivítr jen ~4,5 % pro ACWI | 18. 11. 2026 | log 2026-11 · JPM 18. 11. |
 | Francie – volby | SG | Le Pen favoritka (RN 66 %), stres po volbách 66 %, zpřísnění 2–3 p. b. HDP do 2030 | 10. 11. 2026 | log 2026-11 · SG 10. 11. |
 | Francie – OAT | ING | OAT–Bund 125–150 bp do 2Q27, pak ~100 bp | 12. 11. 2026 | log 2026-11 · ING 12. 11. |
+| US 10Y | Gavekal (Denyer) | Nepřidávat, dokud 10Y znovu neotestuje ~5,3 % (při 5,14 %); Fed +25 bp 9. 12. a pravděpodobně v lednu | 16. 11. 2026 | log 2026-11 · Gavekal 16. 11. |
+| US 10Y | MS (Hornbach) | Cíl konec 2026 4,80 % (z 24. 9.), dvě další zvýšení Fedu; sazby se dlouhodobě usadí výš | 11. 11. 2026 | log 2026-11 · MS 16. 11. (digest) |
+| US 10Y | GS (Rates Trader) | Pásmo 4,75–5,0 %, 4,40 % ve 4Q27; nový long 10Y TIPS vs. 0,75× nominál | 6. 11. 2026 | log 2026-11 · GS 6. 11. |
+| US 10Y | ING | Bias k 5,25 %, dlouhý konec pod tlakem | 4. 11. 2026 | log 2026-11 · ING 4. 11. |
+| UST taktika | BCA (Swift, Timper) | 3M short UST (short 10Y futures, 2/10 flattener), 10Y FV 5,1 %; long Bund vs. UST (uzavřen long UST vs. JGB) | 2. 11. 2026 | log 2026-11 · BCA 2. 11. |
+| Inflace | GS (ekonomové) | Rizika k pozitivním překvapením do 1H27 (+0,1–0,2 p. b. nad konsenzus), možné mírné utažení CB začátkem 2027 | 11. 11. 2026 | log 2026-11 · GS 11. 11. |
+| USD | ING | Dolar může do 2027 dál slábnout (spory o deregulaci a AI, riziko shutdownu v létě 2027) | 4. 11. 2026 | log 2026-11 · ING 4. 11. |
+| USD/BRL | MS | Ke konci roku tlak, bez fiskálního plánu směr 6,00; v lednu možný odraz | 9. 11. 2026 | log 2026-11 · MS 16. 11. (digest) |
+| MXN | GS | Z konstruktivního na opatrnější krátkodobý pohled (Banxico −25 bp na 6,25 %) | 6. 11. 2026 | log 2026-11 · GS 6. 11. (FX Trader) |
+| EUR / energie | GS | Slabší EUR je nejlepší a podceněný hedge energetického rizika; short EUR/GBP | 6. 11. 2026 | log 2026-11 · GS 6. 11. (FX Trader) |
+| G10 FX – carry | BCA (Sakhbiev) | Carry zatím vede, cyklus se blíží k obratu, rotace v 2027 | 11. 11. 2026 | log 2026-11 · BCA 11. 11. |
+| JPY / BoJ | Gavekal (Sikand) | BoJ může zrychlit utahování (terminál 1,8–2,5 %), repatriace japonského kapitálu podpoří jen | 6. 11. 2026 | log 2026-11 · Gavekal 6. 11. |
+| Francie / SSA | MS | Short 10Y EFSF vs. Španělsko, long EU vs. Německo/Itálie; francouzské riziko vydrží celý 2027 | 16. 11. 2026 | log 2026-11 · MS 16. 11. (digest) |
+| Ropa | Gavekal (L. Gave) | Riziko skoku k 150 USD ustoupilo, rovnováha ~100 USD | 6. 11. 2026 | log 2026-11 · Gavekal 6. 11. |
+| Ropa | BCA (Papic) | Short ropa („zatím“) | 10. 11. 2026 | log 2026-11 · BCA 10. 11. |
 
 ### Firmy z portfolia a watchlistu
 
@@ -185,7 +207,14 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
-| 19. 11. 2026 | GS | Zlato – cíl konec 2027 | → 4 650 USD (sníženo, předchozí neuvedeno) | log 2026-11 · GS 19. 11. |
+| 16. 11. 2026 | MS (sazby) | Nové obchody: short 10Y EFSF vs. Španělsko, long EU vs. DE/IT; uzavřen 3y2y EUR long | → nové pozice | log 2026-11 · MS 16. 11. (digest) |
+| 10. 11. 2026 | BCA (Papic) | Ropa / dluhopisy / akcie | → short ropa, long dluhopisy, long akcie („zatím“) | log 2026-11 · BCA 10. 11. |
+| 6. 11. 2026 | Gavekal (L. Gave) | Hlavní sázka | OW energie nebo tech/semis → slabší USD vs. EM (kovy > energie) | log 2026-11 · Gavekal 6. 11. |
+| 6. 11. 2026 | GS (FX) | MXN | konstruktivní → opatrnější | log 2026-11 · GS 6. 11. (FX Trader) |
+| 6. 11. 2026 | GS (sazby) | Nový obchod | → long 10Y TIPS vs. 0,75× nominál | log 2026-11 · GS 6. 11. |
+| 5. 11. 2026 | GS | Zlato – cíl konec 2026 / konec 2027 | 4 650 → 4 150 / 5 400 → 4 800 USD | log 2026-11 · GS 5. 11. |
+| 2. 11. 2026 | BCA (Swift, Timper) | UST relativní hodnota | long 10Y UST vs. JGB (uzavřen, +115 bp) → long 10Y Bund vs. UST; nově taktický short UST na 3M | log 2026-11 · BCA 2. 11. |
+| 19. 11. 2026 | GS | Zlato – cíl konec 2027 | 4 800 (5. 11.) → 4 650 USD | log 2026-11 · GS 19. 11., GS 5. 11. |
 | 18. 11. 2026 | GS | Project finance emise 2027 | 300 → 545 mld. USD | log 2026-11 · GS 18. 11. |
 | 17. 11. 2026 | Alpine Macro | US large caps / small caps | UW → OW / OW → UW | log 2026-11 · Alpine Macro 17. 11. |
 | 16. 11. 2026 | Gavekal (Gave) | Energie | „ubírat OW“ (6. 11.) → „možná předčasné, taktické nákupy“ | log 2026-11 · Gavekal 16. 11. |

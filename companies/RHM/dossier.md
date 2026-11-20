@@ -1,6 +1,6 @@
 # Rheinmetall (RHM) – dossier
 
-_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [Rheinmetall (id 12480)](https://web.quartr.com/m/companies/12480) · IR: [ir.rheinmetall.com](https://ir.rheinmetall.com/)_
+_Poslední aktualizace: 20. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [Rheinmetall (id 12480)](https://web.quartr.com/m/companies/12480) · IR: [ir.rheinmetall.com](https://ir.rheinmetall.com/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -99,6 +99,7 @@ FY2026: tržby **~13,2 mld. EUR (dřív 13,7–14,2 mld.)**, operating marže **
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 19. 11. 2026 | Bernstein (A. Rabier) | Zpochybňuje budoucnost dělostřelectva: drony podle něj způsobují ~80 % ztrát, čeká nižší ceny i objemy munice a po 2030 žádný růst; trh počítá s doplňováním zásob NATO přes 10 let, Bernstein jen s ~3 lety (týká se i CSG) [Fakt, názor Bernsteinu] | web: wallstreet-online / aktiencheck, 19. 11. 2026 (zprostředkovaně) |
 | 9. 11. 2026 | SG (Earnings Pulse) | RHM v 2026 podruhé snížil cíl tržeb kvůli zpožděním programů; obranné backlogy se podle SG spolehlivě nepřetavují do marží a cash flow | log 2026-11 · SG 9. 11. |
 | 16. 11. 2026 | GS | Buy a Conviction List, cíl 2 100 → 1 350 EUR (nižší předpoklady tržeb, 2030 ~35 mld. EUR) | state.json pending_mentions (Tracker 18. 11.) · briefs/alerts/2026-11-18.md |
 | 15. 11. 2026 | MS | Year-Ahead: RHM přímo zmíněn. Analytik má OW, ale slabé momentum RHM brzdí sektor v modelu MS. Výprodej v obraně bere MS jako vstupní příležitost | log 2026-11 · MS 15. 11. (Year-Ahead), house-views.md |
@@ -122,6 +123,7 @@ FY2026: tržby **~13,2 mld. EUR (dřív 13,7–14,2 mld.)**, operating marže **
 |---|---|---|
 | 19. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
 | 19. 11. 2026 | Research Inbox: zmínka SG 9. 11. (exekuční riziko backlogu); BCA 18. 11. čeká i při příměří na Ukrajině další vlnu evropských zbrojních výdajů (sektorově) | log 2026-11 · SG 9. 11., BCA 18. 11. |
+| 20. 11. 2026 | Close 19. 11. 724,70 EUR (−2,62 %, Xetra), od 18. 11. −4,7 %; večer L&S 712,05. Nová zmínka Bernstein (munice/dělostřelectvo); GS snížení cíle na 1 350 EUR (Buy) média opakovala 19. 11., v dossieru už od 16. 11. Signál beze změny, čeká se CMD 27. 11. | aktiencheck, [goldesel](https://goldesel.de/aktien/news/rheinmetall-aktie-goldman-senkt-kursziel-auf-1350-euro-bestatigt-aber-buy) |
 
 ## Zdroje
 

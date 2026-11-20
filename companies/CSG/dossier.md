@@ -1,6 +1,6 @@
 # CSG (Czechoslovak Group) (CSG) – dossier
 
-_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [CSG (id 21954)](https://web.quartr.com/m/companies/21954) · IR: [investors.csg.com](https://investors.csg.com/case)_
+_Poslední aktualizace: 20. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [CSG (id 21954)](https://web.quartr.com/m/companies/21954) · IR: [investors.csg.com](https://investors.csg.com/case)_
 _Poslední deep dive: zatím ne (ve frontě)_
 
 ## Signál
@@ -95,11 +95,13 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 3. **Governance a důvěryhodnost:** short report Hunterbrook (5/2026: přeprodej vs. vlastní výroba, prospekt, Kratochvíl, vazby na Rusko), spor s minoritním akcionářem Kratochvílem (jeho ocenění podílu cca 35 mld. Kč vs. cca 3,5 mld. Kč podle CSG), suspendace španělské FMG agenturou NATO NSPA, rámcové slovenské smlouvy možná nikdy nebudou čerpány. Výhled firma předem nevarovala. [Fakt, [intellinews](https://www.intellinews.com/czechoslovak-group-shares-plummet-after-short-seller-s-report-441248/), [Seznam Zprávy](https://www.seznamzpravy.cz/clanek/domaci-kauzy-velka-hra-o-miliardy-ve-zbrojarske-csg-se-naplno-rozhorela-valka-akcionaru-306915), [PSE/ČTK](https://www.pse.cz/en/news/csg-shares-on-amsterdam-bourse-continue-to-fall-hit-record-low)]
 4. **Overhang po lock-upu:** Strnad drží cca 85 %, lock-up končí cca 18. 1. 2027. [Odhad]
 5. **Politika:** příměří na Ukrajině (17 % tržeb), návrh SPD na až 90% daň ze zisku zbrojařů (zatím bez vládního návrhu). [Fakt, [Forbes CZ 12. 11.](https://forbes.cz/akcie-csg-jsou-pod-deseti-eury-investory-znervoznuji-vysledky-i-sektorova-dan/)]
+6. **Délka muničního cyklu (nově 19. 11.):** Bernstein čeká doplňování zásob NATO jen ~3 roky místo 10+ a tlak dronů na ceny i objemy dělostřelecké munice po 2030. Pokud se tento pohled prosadí, trh bude CSG oceňovat jako cyklickou firmu s vrcholem tržeb za sebou. [Fakt/Názor]
 
 ## Broker views a zmínky
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 19. 11. 2026 | Bernstein (A. Rabier) | Výslovně jmenuje CSG a RHM: obě firmy počítají s doplňováním zásob munice NATO přes 10 let, Bernstein jen s ~3 lety; drony (~80 % ztrát) podle něj tlačí dolů ceny i objemy munice po 2030. Přímo proti jádru teze CSG (munice) [Fakt, názor Bernsteinu] | web: wallstreet-online / aktiencheck, 19. 11. 2026 (zprostředkovaně) |
 | 18. 11. 2026 | E15 (souhrn) | Za týden −31 %; průměrný cíl dle Bloombergu mírně nad 20 EUR, Patria 22,16 EUR; Cyrrus čeká snižování cílů, Direct Investments vidí slábnoucí prioritu zbrojení po midterms | web: [E15](https://www.e15.cz/byznys/burzy-a-trhy/strnadova-csg-za-tyden-ztratila-103-miliard-proc-analytici-stale-veri-ve-zdvojnasobeni-ceny-1437393) |
 | 13. 11. 2026 | GS | EU obrana OW beze změny (~20% růst EPS, PEG pod 1, 50% diskont vůči US obraně) | research/log/2026-11.md · GS 13. 11. 2026 |
 | 13. 11. 2026 | Deutsche Bank | Downgrade na Hold, cíl 14 EUR | web: [investing.com](https://uk.investing.com/equities/csg-nv) |
@@ -116,6 +118,7 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 | 18. 11. 2026 | Založen dossier (onboarding). Signál 🟡 s negativním sklonem | Quartr, web |
 | 18. 11. 2026 | Novinky 11.–18. 11.: 9M výsledky a snížení výhledu marže a NWC (11. 11., −20,6 %). Downgrady JPM (12. 11.) a DB (13. 11.). Kontrakt Speer pro kanadské DND (12. 11.). Nové minimum 8,92, close 9,18 (−8,66 %, 17. 11.) | Quartr, Euronext, investing.com, echo24 |
 | 19. 11. 2026 | 18. 11.: Praha close 233,20 Kč (−9,26 %, 52W minimum) = dorovnání amsterdamského propadu 17. 11. (PSE 17. 11. zavřená); Amsterdam/Xetra vnitrodenně ~+2,6 % (9,42 EUR, close nedohledán). Bez firemní zprávy. E15: za týden −31 %, průměrný cíl (Bloomberg) mírně nad 20 EUR, Patria 22,16 EUR; analytici čekají snižování cílů [Fakt/Názor]. Výsledky FY 2026 25. 3. 2027 (Quartr). MS (15. 11.): EU obrana nedosáhla OW kvůli slabému momentu RHM. Signál beze změny | [ČTK](https://ceskenoviny.cz/zpravy/prazska-burza-odepsala-vice-nez-procento-vyrazne-ztracely-akcie-csg/2903588), [E15](https://www.e15.cz/byznys/burzy-a-trhy/strnadova-csg-za-tyden-ztratila-103-miliard-proc-analytici-stale-veri-ve-zdvojnasobeni-ceny-1437393), [Quartr](https://web.quartr.com/m/events/796107) |
+| 20. 11. 2026 | Close 19. 11. ~9,32 EUR (−1 %, Amsterdam, nepotvrzený close; Praha 231,20 Kč). Nová zmínka Bernstein: zpochybňuje délku muničního cyklu (3 vs. 10+ let) → přidáno do rizik. Signál beze změny (🟡 s negativním sklonem) | patria.cz, aktiencheck |
 
 ## Zdroje
 

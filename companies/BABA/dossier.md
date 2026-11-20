@@ -1,25 +1,26 @@
 # Alibaba Group (BABA) – dossier
 
-_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Čína · Quartr: [Alibaba Group (id 3609)](https://web.quartr.com/m/companies/3609) · IR: [alibabagroup.com](https://www.alibabagroup.com/en-US/ir-financial-reports-quarterly-results)_
+_Poslední aktualizace: 20. 11. 2026 · Tier: A · Skupina: Čína · Quartr: [Alibaba Group (id 3609)](https://web.quartr.com/m/companies/3609) · IR: [alibabagroup.com](https://www.alibabagroup.com/en-US/ir-financial-reports-quarterly-results)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
 
-**Aktuální:** 🟡 **Sledovat (s negativním sklonem do výsledků):** Akcie je na novém 52W minimu (81,90 USD, týden −13 %, od 8. 11. cca −24 %). Táhnou ji dolů nová pravidla BIS pro zahraniční datacentra (platná od 19. 11.), kauza Megaspeed a obavy z capexu a FCF. Proti tomu stojí OW od GS na čínské H-shares a MS OW s cílem 180 USD. Výsledky FQ2 FY27 vychází 19. 11. a v době zpracování ještě nebyly venku. [Názor] · _od 19. 11. 2026_
-**Co by ho zvrátilo:** 🟢 FQ2 s dalším zrychlením cloudu (nad 45 % r/r), AI tržbami k ~10 mld. USD ročně, zúžením ztrát quick commerce a jasným komentářem, že pravidla BIS výrazně neomezí compute (vlastní čipy T-Head, domácí kapacita). 🔴 Výrazné zhoršení FCF a capex bez zrychlení cloudu, další miss EPS (pátý v řadě), potvrzení omezení přístupu k computu v JV Asii, nová eskalace US–Čína (delisting, sankční seznamy).
+**Aktuální:** 🟡 **Sledovat (smíšené výsledky FQ2):** Cloud zrychlil (externí tržby +64 %, EBITA marže 14,5 %, AI run-rate přes 10 mld. USD), čímž splnil většinu 🟢 bodů. Vedení ale kvůli novým exportním pravidlům čeká příští rok růst cloudu jen 30–45 % a nejspíš sníží dlouhodobý cíl 20 GW. Non-GAAP EPS byl opět pod konsenzem, FCF −34,5 mld. CNY a kladný cash flow až ve 2H 2028. [Názor] · _od 20. 11. 2026_
+**Co by ho zvrátilo:** 🟢 detailní pravidla BIS mírnější, než vedení čeká; masová výroba T-Head Zhenwu V900 v 1Q27 podle plánu; růst cloudu v příštím roce u horní hranice 45 % nebo výš; listing T-Head. 🔴 růst cloudu v FQ3/FQ4 pod 40 %; formální snížení cíle 20 GW spojené se snížením cíle 2030 (100 mld. USD externích tržeb cloudu); další miss EPS a další ředění. [Názor]
 
 | Datum | Signál | Důvod | Zdroj |
 |---|---|---|---|
+| 20. 11. 2026 | 🟡 Sledovat (beze změny, smíšené) | FQ2 FY27: cloud +53 % (externí +64 %), marže cloudu 14,5 %, ale výhled cloudu na příští rok 30–45 % kvůli exportním kontrolám a možné snížení cíle 20 GW; non-GAAP EPS na ADS 8,10 CNY vs. 11,16 (LSEG) | [Quartr FQ2 FY27](https://web.quartr.com/m/events/736903), [Reuters/BR](https://www.brecorder.com/news/40449739/alibaba-tops-revenue-estimates-on-ai-cloud-growth-profit-up-on-investment-gains) |
 | 19. 11. 2026 | 🟡 Sledovat | Onboarding v den výsledků FQ2 FY27 (zatím nezveřejněny). Nové 52W minimum, exportní pravidla BIS vs. OW od GS/MS. Výchozí stav do deep dive | [Quartr FQ1 FY27](https://web.quartr.com/m/events/667892), [eToro](https://www.etoro.com/markets/baba) |
 
 ## Pozice
 
 | Účet | Vlastník | Počet | Prům. cena | Měna | Váha v portfoliu vlastníka |
 |---|---|---|---|---|---|
-| t212_tomas (Trading 212) | Tomáš | 3,2453468 | 86,47 | USD | **4,4 %** (k 17. 11. 2026, `tools/portfolio.py`) |
+| t212_tomas (Trading 212) | Tomáš | 3,2453468 | 86,47 | USD | **4,3 %** (k 19. 11. 2026, `tools/portfolio.py`) |
 | – | Michal | – | – | – | 0 % |
 
-Nerealizovaný P&L při 81,90 USD (18. 11.): cca −5,3 % (v USD, bez kurzu). Váhu k 17. 11. počítal `tools/portfolio.py` s cenou 87,80 USD. Po poklesu bude nižší, přepočítat po aktualizaci `state/prices.json`. [Fakt, výpočet]
+Nerealizovaný P&L při 83,31 USD (close 19. 11., dopočet): cca −3,7 % (v USD; `tools/portfolio.py`). Oprava: close 18. 11. byl 84,37 USD, ne 81,90 (eToro), potvrzeno dvěma zdroji. [Fakt]
 
 ## Snapshot
 
@@ -28,7 +29,7 @@ Nerealizovaný P&L při 81,90 USD (18. 11.): cca −5,3 % (v USD, bez kurzu). V�
 | Sektor / subsektor | Broadline Retail (GICS). Čínský e-commerce (Taobao/Tmall, quick commerce), AI cloud (Alibaba Cloud), AI modely a aplikace (Qwen), mezinárodní obchod (AliExpress) [Fakt] | [Quartr](https://web.quartr.com/m/companies/3609), [Quartr FQ1 FY27](https://web.quartr.com/m/events/667892) |
 | Země HQ, listingy | HQ Chang-čou (Čína), holding na Kajmanech. NYSE (BABA, ADR = 8 akcií), HKEX (9988) [Fakt] | universe.yaml, log 2026-11 · GS 13. 11. (9988 HK) |
 | Market cap / EV | 209,9 mld. USD k 18. 11. 2026 [Fakt] ([eToro](https://www.etoro.com/markets/baba)). Quartr uvádí 234,6 mld. USD (starší kotace) ([Quartr](https://web.quartr.com/m/companies/3609)). Čistá hotovost 208 mld. CNY (≈ 29 mld. USD) k 30. 6. 2026, hotovost a likvidní investice 474,5 mld. CNY → EV cca 180 mld. USD [Odhad] | [Quartr FQ1](https://web.quartr.com/m/sources/s52288878690) |
-| Cena, 52W low–high | **81,90 USD** (18. 11. 2026, −2,93 % d/d, předchozí close 84,37), denní rozpětí 81,81–85,26, týden −13,3 %. 52W 81,81–192,33 USD (eToro, intradenní), resp. 91,99–182,50 (StockAnalysis k 27. 10.) [Fakt] | [eToro](https://www.etoro.com/markets/baba), [StockAnalysis](https://stockanalysis.com/stocks/baba/) |
+| Cena, 52W low–high | **~83,31 USD** (close 19. 11. 2026, −1,26 % d/d v den výsledků, premarket −1,5 %; dopočet z % změny) [Fakt] ([stocktitan](https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026), [Reuters/BR](https://www.brecorder.com/news/40449739/alibaba-tops-revenue-estimates-on-ai-cloud-growth-profit-up-on-investment-gains)). Close 18. 11. 84,37 (17. 11. 86,65). 52W minimum 83,25 USD [Fakt] ([Investing.com](https://www.investing.com/news/stock-market-news/alibaba-earnings-analysis-questions-answered-and-next-catalysts-93CH-5039868)); horní hranice 192,33 (eToro) | |
 | Free float / insider ownership | doplnit v deep dive (pozn.: srpnová umístění akcií v HK za 80 mld. HKD = ředění) | [Yahoo/Zacks 17. 11.](https://finance.yahoo.com/markets/stocks/articles/alibaba-q2-earnings-preview-why-135400159.html) |
 | Tržby (TTM) | 1 045 mld. CNY (FQ2 FY26 až FQ1 FY27) [Fakt, výpočet] | Quartr financials: [FQ1 FY27](https://web.quartr.com/m/documents/3688993), [FQ4 FY26](https://web.quartr.com/m/documents/3320708), [FQ3 FY26](https://web.quartr.com/m/documents/3112693), [FQ2 FY26](https://web.quartr.com/m/documents/2337637) |
 | Gross / EBIT / FCF / net margin | TTM: hrubá 38,2 %, provozní (GAAP) 2,9 %, EBITDA 10,2 %, čistá 6,8 % [Fakt, výpočet]. FQ1 FY27: provozní marže 6 % (vs. 14 % r/r), FCF −44,7 mld. CNY (capex 67,7 mld., +75 %) [Fakt] | Quartr financials (viz výše), [Quartr FQ1](https://web.quartr.com/m/sources/s200641403761823834476) |
@@ -61,20 +62,22 @@ Alibaba po reorganizaci reportuje tři hlavní segmenty: E-commerce Group (tržb
 
 | KPI | Poslední hodnota | Předchozí | Trend | Zdroj |
 |---|---|---|---|---|
-| AI Cloud tržby / externí cloud | 48,4 mld. CNY (+45 % r/r), externí +45 % | cloud +40 % (FQ2 FY26) | ↑ [Fakt] | [Quartr FQ1](https://web.quartr.com/m/sources/s219045861389873204356), [Alibaba 11/2025](https://www.alibabagroup.com/en-US/document-1991364841188622336) |
-| AI tržby (run-rate) | 49,5 mld. CNY ročně, 12. kvartál trojciferného růstu. Výhled ~10 mld. USD ročně v FQ2 | – | ↑ [Fakt] | [Quartr FQ1](https://web.quartr.com/m/sources/s219897669684007663505), [výhled](https://web.quartr.com/m/sources/s197766120312576365674) |
-| Cloud EBITDA marže | 12 % (+4,4 pb r/r) | 7,6 % (FQ1 FY26) [dopočet] | ↑ [Fakt] | [Quartr FQ1](https://web.quartr.com/m/sources/s262630600802074004380) |
-| Quick commerce / CMR | quick commerce 53,3 mld. CNY (+45 %), zisk až FY2029. CMR −7 % r/r (contra revenue z programu pro obchodníky) | – | quick ↑, CMR ↓ [Fakt] | [Quartr FQ1](https://web.quartr.com/m/sources/s320759363496979095052), [Yahoo/Zacks](https://finance.yahoo.com/markets/stocks/articles/alibaba-q2-earnings-preview-why-135400159.html) |
-| Adj. EBITA skupiny | 27,3 mld. CNY (−30 % r/r) | – | ↓ [Fakt] | [Quartr FQ1](https://web.quartr.com/m/sources/s211059429435774946371) |
-| Capex / FCF | capex 67,7 mld. CNY (+75 %), FCF −44,7 mld. CNY | – | capex ↑, FCF ↓ [Fakt] | [Quartr FQ1](https://web.quartr.com/m/sources/s200641403761823834476) |
+| AI Cloud tržby / externí cloud | 61,0 mld. CNY (+53 % r/r), externí 47 mld. (+64 %), rekurentní externí 37 mld. (+67 %) – 10. kvartál zrychlení | 48,4 mld. (+45 %), externí +45 % (FQ1) | ↑ [Fakt] | [Quartr FQ2](https://web.quartr.com/m/events/736903) |
+| AI tržby (run-rate) | 17,9 mld. CNY za kvartál (run-rate 71,7 mld. CNY, přes 10 mld. USD), 49 % externích rekurentních tržeb cloudu, 13. kvartál trojciferného růstu | 49,5 mld. CNY ročně (FQ1) | ↑ [Fakt] | [Quartr FQ2](https://web.quartr.com/m/sources/s71450460394930411184009) |
+| Cloud EBITDA marže | 14,5 % (+4,5 pb r/r; CFO na callu zmínil i 14,9 %) | 12 % (FQ1) | ↑ [Fakt] | [Quartr FQ2](https://web.quartr.com/m/sources/s77093519377) |
+| Quick commerce / CMR | quick commerce 58,8 mld. CNY (+22 %), ztráty se dál zužují (v FY28 na polovinu, zisk FY2029). CMR −5 % r/r, srovnatelně +1 % | 53,3 mld. (+45 %), CMR −7 % (FQ1) | quick ↑ ztráty ↓, CMR stabilizace [Fakt] | [Quartr FQ2](https://web.quartr.com/m/sources/s87655921503066127848703) |
+| Adj. EBITA skupiny | 32,6 mld. CNY (+260 % r/r, marže 12 %) | 27,3 mld. (−30 %, FQ1) | ↑ [Fakt] | [Quartr FQ2](https://web.quartr.com/m/sources/s83374095865) |
+| Capex / FCF | capex 50,5 mld. CNY (+60 % r/r, q/q pokles z 67,7), FCF −34,5 mld. CNY; čistá hotovost 32,9 mld. USD | capex 67,7 mld., FCF −44,7 mld. (FQ1) | capex ↑ r/r, FCF ↓ r/r, ↑ q/q [Fakt] | [Quartr FQ2](https://web.quartr.com/m/sources/s87286126049726173124984) |
 
 ## Poslední výsledky
 
-**FQ2 FY27 (září 2026):** vychází **19. 11. 2026 před otevřením US trhu**. V době zpracování nebyly na Quartru ([event](https://web.quartr.com/m/events/736903), bez dokumentů) ani na webu. Konsenzus Zacks: tržby 40,41 mld. USD (+16 % r/r), EPS 1,71 USD [Fakt, [Yahoo/Zacks 17. 11.](https://finance.yahoo.com/markets/stocks/articles/alibaba-q2-earnings-preview-why-135400159.html)]. Investing.com uvádí EPS 10,69 CNY a tržby 270,45 mld. CNY [Fakt, [Investing.com](https://www.investing.com/equities/alibaba-earnings)]. Aletheia čeká tržby cca 2,3 % nad konsenzem, non-GAAP provozní zisk cca 13 % pod a GAAP zisk vysoko nad konsenzem díky zisku z IPO CXMT [Fakt, [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/alibaba-stock-aletheia-raises-target-to-190-us-dollars-before-results/70530716)]. Alibaba minula odhad EPS ve všech posledních čtyřech kvartálech [Fakt, Zacks].
+**FQ2 FY27 (září 2026, zveřejněno 19. 11. 2026):** tržby 271,5 mld. CNY (+10 %) vs. konsenzus LSEG 269,8 mld. (mírný beat) [Fakt, [Reuters/BR](https://www.brecorder.com/news/40449739/alibaba-tops-revenue-estimates-on-ai-cloud-growth-profit-up-on-investment-gains)]. Adj. EBITA 32,6 mld. (+260 %), GAAP čistý zisk 64,4 mld. (+213 %, hlavně přecenění investic o 87,1 mld.), non-GAAP čistý zisk 19,9 mld. (+92 %) [Fakt, [Quartr FQ2](https://web.quartr.com/m/events/736903)]. **Non-GAAP EPS na ADS 8,10 CNY vs. konsenzus 11,16 (LSEG; Investing.com uvádí 10,69) → miss o 24–27 %**, podle Investing.com třetí kvartál po sobě [Fakt, [Reuters/BR](https://www.brecorder.com/news/40449739/alibaba-tops-revenue-estimates-on-ai-cloud-growth-profit-up-on-investment-gains), [Investing.com](https://www.investing.com/news/stock-market-news/alibaba-earnings-analysis-questions-answered-and-next-catalysts-93CH-5039868)]. Cloud +53 % (externí +64 %, marže 14,5 %), AI Labs & Apps +51 % na 4,4 mld. se ztrátou 10,5 mld. (q/q užší), e-commerce skupina +2 % s EBITA +243 % (zúžení ztrát quick commerce), čínský e-commerce −5 %, mezinárodní −8 %. Capex 50,5 mld. (+60 %), FCF −34,5 mld., zpětný odkup jen 221 mil. USD, ve financování umístění akcií za 80 mld. HKD. [Fakt, [Quartr FQ2](https://web.quartr.com/m/events/736903)] Přechodné: přecenění investic (GAAP zisk), q/q pokles capexu (cyklus nákupů). Strukturální: marže cloudu a pricing power při nedostatku computu, ale i trvalý tlak exportních kontrol na zahraniční compute. [Názor]
 
 **FQ1 FY27 (červen 2026, zveřejněno 20. 8. 2026):** tržby 269,0 mld. CNY (+9 %), adj. EBITA 27,3 mld. (−30 %), čistý zisk 10,4 mld. (−75 %, mj. pokuta EU podle DSA 550 mil. EUR a odpis goodwillu 4,46 mld. CNY), non-GAAP čistý zisk 20,7 mld. (−38 %). Cloud +45 %, quick commerce +45 %, AliExpress v provozním zisku. Capex 67,7 mld. CNY a FCF −44,7 mld. [Fakt, [Quartr FQ1 FY27](https://web.quartr.com/m/events/667892)] Proti konsenzu: tržby mírně nad (268,95 vs. 268,34 mld. CNY), EPS výrazně pod (8,52 vs. 10,72 CNY). [Fakt, [Investing.com](https://www.investing.com/equities/alibaba-earnings)] Přechodné: pokuta EU a odpis goodwillu. Strukturální: AI capex a investice do quick commerce, které stlačují marže. [Názor]
 
 ## Guidance a management
+
+**Call FQ2 FY27 (19. 11.):** Cíl 2030 potvrzen (100 mld. USD externích tržeb cloudu, marže 20 %+). **Nově:** nová pravidla pro export computu ovlivní produkty a služby příštího roku, vedení proto čeká růst cloudu v příštím roce v pásmu **30–45 %** a návrat k 50 %+ v kalendářním 2028, až naběhnou domácí čipy [Fakt, [Quartr](https://web.quartr.com/m/sources/s76640259869469995534902)]. Předběžně čeká **snížení dlouhodobého cíle 20 GW** a dopad na capex plán; nejagresivnější investice do domácích čipů v 2027–28, celkově kladný cash flow ve 2H 2028 [Fakt, [Quartr](https://web.quartr.com/m/sources/s77326588254716442804131), [Quartr](https://web.quartr.com/m/sources/s62140373642306977803226)]. T-Head: masová výroba Zhenwu V900 (3× výkon M890) v 1Q27, komerční clustery ve 2Q27; T-Head důvěrně podal žádost o listing. Nedostatek computu v Číně 2027–28 má podle vedení podpořit ceny a marže cloudu. Quick commerce: ztráty v prosincovém kvartálu dál klesnou. Na otázky k dopadu pravidel na zámořský cloud a k nákupu čipů vedení odpovídalo, že je na hodnocení brzy. [Fakt/Názor, [Quartr FQ2](https://web.quartr.com/m/events/736903)]
 
 Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má dál zrychlovat a EBITDA marže cloudu postupně růst. AI tržby se mají v dalším kvartálu blížit ~10 mld. USD ročně. Quick commerce má být zisková do FY2029 a dlouhodobě tvořit 30 % GMV e-commerce. Do 2030 cíl 100 mld. CNY externích cloudových tržeb a 20% hrubé marže. Návratnost AI capexu odhaduje management na 2,5–3 roky. [Fakt, [Quartr FQ1](https://web.quartr.com/m/sources/s262630600802074004380), [Quartr](https://web.quartr.com/m/sources/s268424598532464646283), [Quartr](https://web.quartr.com/m/sources/s263356749996720025145)] Nedostatek AI computu v odvětví čekají minimálně do 2030. [Fakt, tamtéž] Buybacky v FQ1 jen 162 mil. USD, tedy výrazně méně než dřív. [Fakt, [Quartr](https://web.quartr.com/m/sources/s323045198363149446967)] Na callu 19. 11. sleduj: dopad pravidel BIS, capex, ztráty quick commerce a načasování listingu T-Head. [Názor]
 
@@ -82,9 +85,10 @@ Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má d�
 
 | Datum | Událost | Proč na tom záleží |
 |---|---|---|
-| 19. 11. 2026 (před otevřením US, call 7:00 ET) | [Výsledky FQ2 FY27](https://web.quartr.com/m/events/736903) | Cloud, AI tržby, capex a FCF, komentář k exportním pravidlům, quick commerce |
+| 1Q 2027 | Masová výroba T-Head Zhenwu V900, komerční supernode clustery ve 2Q27 | Domácí compute jako náhrada za omezený zahraniční; podmínka pro návrat růstu cloudu k 50 % |
+| prosinec 2026 | Apple Intelligence s Qwen v Číně | Monetizace modelů, viditelnost Qwen |
 | 19. 11. 2026 + 90 dní | Pravidlo BIS pro datacentra v SG, MY, TH, ID a BR (účinné od 19. 11., stávající DC mají 90 dní na licenci) | Přístup Alibaby k AI computu mimo Čínu |
-| bez data | Spin-off a listing T-Head v HK (HKEX dal souhlas 10. 11.) | Zhodnocení čipové divize, Alibaba si ponechá většinu |
+| bez data | Listing T-Head v HK (HKEX souhlas 10. 11., důvěrná žádost podána) | Zhodnocení čipové divize, Alibaba si ponechá většinu |
 | prosinec 2026 – 2027 | US legislativa k exportním kontrolám (Remote Access Security Act, Chip Security Act), nástup demokratického Kongresu v lednu | Další zpřísnění přístupu k computu (Gavekal 12. 11.) |
 | 18. 3. 2027 | [Výsledky FQ3 FY27](https://web.quartr.com/m/events/805283) | Singles' Day a zimní kvartál, vývoj capexu |
 
@@ -100,6 +104,7 @@ Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má d�
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 19. 11. 2026 | Jefferies / Tiger Securities / Mizuho | Po výsledcích: Jefferies cíl 192 → 161 USD (obavy z růstu cloudu), Tiger 175 → 140 USD, Mizuho cíl zvýšila (číslo neuvedeno); rozpětí cílů 140–205 USD | web: [Investing.com](https://www.investing.com/news/stock-market-news/alibaba-earnings-analysis-questions-answered-and-next-catalysts-93CH-5039868) |
 | 12. 11. 2026 | Gavekal (Gave) | Většinu čipů Nvidie pro Megaspeed podle Gavea koupily půjčky od Alibaby, která je pak využívala – obcházení zákazů, regulační riziko | log 2026-11 · Gavekal 12. 11. |
 | 13. 11. 2026 | Gavekal (Dragonomics) | Alibaba je mezi vývojáři modelů registrovaných u CAC a spoluvytváří čínské standardy pro AI; regulace v Číně je praktická, ne brzda | log 2026-11 · Gavekal 13. 11. |
 | 17. 11. 2026 | Gavekal (Gave) | „Why Nvidia Matters“: Alibaba podle autora pomohla založit Megaspeed a získala přes něj GPU; zmiňuje možné US sankce na Alibabu jako výslovně spekulativní tail risk (nucené prodeje US investorů), základní scénář je, že aféra vyšumí | log 2026-11 · Gavekal 17. 11. |
@@ -127,10 +132,11 @@ Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má d�
 | 19. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
 | 19. 11. 2026 | Novinky od 18. 11.: nové 52W minimum 81,81, close 81,90 USD (−2,93 %, 18. 11.). Aletheia zvedla cíl na 190 USD (Buy). Výsledky FQ2 FY27 19. 11. v době zpracování ještě nebyly zveřejněné | [eToro](https://www.etoro.com/markets/baba), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/alibaba-stock-aletheia-raises-target-to-190-us-dollars-before-results/70530716), [Quartr](https://web.quartr.com/m/events/736903) |
 | 19. 11. 2026 | Research Inbox: Gavekal (12., 13. a 17. 11.) – role Alibaby v kauze Megaspeed a spekulativní riziko US sankcí; BCA 18. 11.: kontroly čipů se 3–6 měsíců zpřísní, pak obnova příměří US–Čína | log 2026-11 · Gavekal 12./13./17. 11., BCA 18. 11. |
+| 20. 11. 2026 | Výsledky FQ2 FY27: aktualizovány Signál (🟡 beze změny, smíšené), KPI, Poslední výsledky, Guidance, Katalyzátory, cena (oprava close 18. 11. na 84,37) | [Quartr FQ2](https://web.quartr.com/m/events/736903), [Reuters/BR](https://www.brecorder.com/news/40449739/alibaba-tops-revenue-estimates-on-ai-cloud-growth-profit-up-on-investment-gains) |
 
 ## Zdroje
 
-- Quartr: [firma](https://web.quartr.com/m/companies/3609) · [FQ1 FY27 event](https://web.quartr.com/m/events/667892) · [FQ1 FY27 report](https://web.quartr.com/m/documents/3688993) · [FQ2 FY27 (19. 11.)](https://web.quartr.com/m/events/736903) · [FQ3 FY27 (18. 3. 2027)](https://web.quartr.com/m/events/805283)
+- Quartr: [firma](https://web.quartr.com/m/companies/3609) · [FQ1 FY27 event](https://web.quartr.com/m/events/667892) · [FQ1 FY27 report](https://web.quartr.com/m/documents/3688993) · [FQ2 FY27 (19. 11.)](https://web.quartr.com/m/events/736903) · [FQ2 transcript](https://web.quartr.com/m/documents/4704667) · [FQ2 6-K](https://web.quartr.com/m/documents/4039483) · [FQ3 FY27 (18. 3. 2027)](https://web.quartr.com/m/events/805283)
 - Research log: research/log/2026-11.md (MS 8. a 12. 11., UBP 11. 11., Gavekal 12. a 17. 11., GS 13. a 16. 11., MS 15. 11., SG 16. a 18. 11.), briefs/alerts/2026-11-18.md
 - SEC/HKEX: [6-K s datem výsledků (6. 11.)](https://www.stocktitan.net/sec-filings/BABA/6-k-alibaba-group-holding-ltd-current-report-foreign-issuer-dddfce8ca901.html) · [TechNode – T-Head listing](https://technode.global/2026/11/11/alibaba-t-head-hong-kong-listing/)
 - Web: [eToro (cena 18. 11.)](https://www.etoro.com/markets/baba) · [StockAnalysis (konsenzus k 27. 10.)](https://stockanalysis.com/stocks/baba/) · [Yahoo/Zacks preview 17. 11.](https://finance.yahoo.com/markets/stocks/articles/alibaba-q2-earnings-preview-why-135400159.html) · [Investing.com – earnings](https://www.investing.com/equities/alibaba-earnings) · [ad-hoc-news 18. 11. (Aletheia, GS, BofA)](https://www.ad-hoc-news.de/boerse/news/corporate-news/alibaba-stock-aletheia-raises-target-to-190-us-dollars-before-results/70530716) · [Alibaba – cloud +40 % (11/2025)](https://www.alibabagroup.com/en-US/document-1991364841188622336)

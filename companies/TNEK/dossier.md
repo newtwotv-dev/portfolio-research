@@ -115,6 +115,7 @@ _Rozpor [Fakt]: **KRW: GS 1 280 vs. SG 1 410.** Silnější KRW by zvedl hodnotu
 |---|---|---|
 | 18. 11. 2026 | Založen dossier (onboarding). Sektor navržen: energetické vybavení / turbostroje pro SOFC a vodík. Signál 🟡 Sledovat do deep dive. Quartr: nenalezeno | web (Eugene, Newstop, IB Tomato, Kokstock, Investing) |
 | 18. 11. 2026 | Novinky 11.–18. 11.: bez firemních oznámení (DART neověřen), jen silná volatilita: 11. 11. +9,1 %, 12. 11. −13,7 %, 13. 11. −6,2 %, 16. 11. −12,4 %, 17. 11. +2,9 % (close 15 440 KRW) | Kokstock (KRX data) |
+| 20. 11. 2026 | Velký pokles: close 19. 11. 16 010 KRW (−4,99 %), 20. 11. vnitrodenně ~13 500–13 830 KRW (−14 až −16 %, close zatím nepotvrzen), tedy **pod upisovací cenou 15 300 KRW**. Konkrétní zpráva nenalezena; kontext: slabost nových emisí na KOSDAQ a blížící se uvolnění 1M lock-upů (~29. 11.). Pozice zatím není (tier B), signál beze změny | [vegannews](https://www.vegannews.co.kr/news/articleView.html?idxno=408145), [Investing.com](https://www.investing.com/equities/tne-korea) |
 
 ## Zdroje
 
