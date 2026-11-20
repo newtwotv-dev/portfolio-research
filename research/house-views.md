@@ -53,6 +53,10 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | US akcie – politika | BCA (Papic) | Demokratický sweep = dlouhodobý protivítr (regulace, daně); „zatím“ long akcie, long dluhopisy, short ropa | 10. 11. 2026 | log 2026-11 · BCA 10. 11. |
 | Regiony / sektory | Gavekal (C. Gave) | Preferovat čínské, evropské a japonské průmyslovky a čínského spotřebitele; vyhnout se US/EU spotřebitelským akciím a US/EU dluhopisům; držet zlato | 13. 11. 2026 | log 2026-11 · Gavekal 13. 11. |
 | EM / slabší USD | Gavekal (L. Gave) | Místo „OW energie nebo tech/semis“ sázka na slabší USD vs. EM: EM financials, HK reality, China tech, těžaři kovů, drahé kovy, EM dluh (kovy > energie) | 6. 11. 2026 | log 2026-11 · Gavekal 6. 11. |
+| US akcie | Alpine Macro (Giorgi) | Rotovat zpět do rizika, dokoupit Tech a Industrials, S&P 500 8 000 do konce roku | 3. 11. 2026 | log 2026-11 · Alpine Macro 3. 11. |
+| US akcie – styl | Alpine Macro (Zhao, Wu) | Nově barbell long RSP + long XLK; long SOXX stopnut s −10 % (2. 11.) | 9. 11. 2026 | log 2026-11 · Alpine Macro 9. 11. |
+| Multi-asset | Robeco | OW akcií s preferencí US, přidán USD na úkor EUR, HY hedge z US do EU; mírná recese 2027 15 % | 11. 11. 2026 | log 2026-11 · Robeco 16. 11. |
+| Korea | MS | „Korea Renaissance“: ROE 8 → 14 %+ do 2030, rerating jako Japonsko; OW SK Hynix, Samsung, Hyundai, KB | 14. 11. 2026 | log 2026-11 · MS (sales) 14. 11. |
 
 ### Sektory a styly
 
@@ -94,6 +98,15 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | EU obrana – převod backlogu | SG | Backlogy se nepřetavují spolehlivě do marží a cash (RHM, Alstom) | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | EU obrana / NATO | BCA (Gertken) | I při příměří na Ukrajině nová vlna evropských zbrojních výdajů | 18. 11. 2026 | log 2026-11 · BCA 18. 11. |
 | EU obrana – munice | Bernstein (Rabier) | Medvědí na dělostřelectvo: drony ~80 % ztrát, doplňování zásob NATO ~3 roky (ne 10+), po 2030 bez růstu; jmenuje RHM a CSG (**rozpor** s BCA Gertken a GS OW) | 19. 11. 2026 | web (aktiencheck/wallstreet-online), Tracker 20. 11. |
+| Polovodiče | MS (Wilson) | Výprodej (−40 % od června) blízko konce, přidávat kvalitní cyklické; Samsung nový Top Pick | 14. 11. 2026 | log 2026-11 · MS (sales) 14. 11. |
+| AI infrastruktura | Fidelity (Jennings) | Poptávka drží, rizika = financování neocloudů, elektřina, monetizace; konstruktivní k pamětem, sítím, napájení a chlazení | 13. 11. 2026 | log 2026-11 · Fidelity 13. 11. |
+| Čínský e-commerce | MS (Eddy Wang) | Negativní: růst dochází, konkurence ne | 14. 11. 2026 | log 2026-11 · MS (sales) 14. 11. |
+| US Health Care / farma | Alpine Macro (Giorgi) | OW, farma vítěz midterms (cenové kontroly výměnou za širší přístup, např. GLP-1) | 3. 11. 2026 | log 2026-11 · Alpine Macro 3. 11. |
+| US obrana | MS (Liwag) | Blue Wave v cenách, rekonciliační balík ~350 mld. USD méně pravděpodobný, base rozpočet FY27 1,1 bil. USD | 7. 11. 2026 | log 2026-11 · MS (sales) 7. 11. |
+| EU energie | MS (Rats) | Equinor a OMV → UW; Brent 100 USD v 1Q27, 75 USD ve 4Q27 | 7. 11. 2026 | log 2026-11 · MS (sales) 7. 11. |
+| US korporátní kredit | MS (Patkar) | Fundamenty 3Q26 se zlepšují plošně (páka dolů, krytí nahoru); utility nejvyšší páka 5,9x | 6. 11. 2026 | log 2026-11 · MS 6. 11. |
+| Software / kyberbezpečnost | MS | Attractive, kyber výdaje rostou s adopcí AI | 16. 11. 2026 | log 2026-11 · MS 16. 11. |
+| US elektřina / BTM pro DC | GS (Carbonomics) | Spotřeba US +3,5 % ročně do 2030, DC ~20 % spotřeby; BTM výroba pro DC ~67 GW (z ~40) | 11. 11. 2026 | log 2026-11 · GS 11. 11. |
 | Farma | SG | Defenzivní zdroj upgradů (PFE zvýšil výhled) | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | US utility / IPP | MS | Regulated In-Line, Diversified/IPP Attractive | 6. 11. 2026 | log 2026-11 · MS 6. 11. |
 | US utility po midterms | GS | Regulované utility místo texaských IPP; dodavatelé DC (PWR, MTZ) výprodej přehnaný | 6. 11. 2026 | log 2026-11 · GS 6. 11. |
@@ -187,6 +200,18 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Francie / SSA | MS | Short 10Y EFSF vs. Španělsko, long EU vs. Německo/Itálie; francouzské riziko vydrží celý 2027 | 16. 11. 2026 | log 2026-11 · MS 16. 11. (digest) |
 | Ropa | Gavekal (L. Gave) | Riziko skoku k 150 USD ustoupilo, rovnováha ~100 USD | 6. 11. 2026 | log 2026-11 · Gavekal 6. 11. |
 | Ropa | BCA (Papic) | Short ropa („zatím“) | 10. 11. 2026 | log 2026-11 · BCA 10. 11. |
+| Fed | MS (Gapen) | Hiky v prosinci a březnu na 4,25–4,50 %, riziko i v lednu | 14. 11. 2026 | log 2026-11 · MS (sales) 14. 11., MS 6. 11. |
+| Fed | Robeco | 4,50 % v 1Q27, pak škrty od konce 2027; trh přeceňuje higher-for-longer | 5. 11. 2026 | log 2026-11 · Robeco 16. 11. |
+| Fed | Alpine Macro (Kalirai) | Další hike v prosinci; demokratický Senát ochrání nezávislost Fedu | 12. 11. 2026 | log 2026-11 · Alpine Macro 12. 11. |
+| ECB | Robeco | Depo 2,75 % v prosinci, 3,00 % v březnu; francouzské spready mohou utahování zastavit | 5. 11. 2026 | log 2026-11 · Robeco 16. 11. |
+| ECB | SG | Hike v prosinci, inflace vrcholí nad 4 %, konec QT zatím ne | 16. 11. 2026 | log 2026-11 · SG 16. 11. |
+| BoE | MS (Skarica) | **Nově** hiky v prosinci a únoru na 4,50 %, hold do 2028, pak 3,75 % | 15. 11. 2026 | log 2026-11 · MS 15. 11. |
+| UST durace | Alpine Macro (Kalirai) | Durace OW, long 2Y / short 10Y | 12. 11. 2026 | log 2026-11 · Alpine Macro 12. 11. |
+| UST term premium | Alpine Macro (McClellan) | Fiskální krize do 2 let nehrozí, term premium strukturálně roste k 100–150 bp | 11. 11. 2026 | log 2026-11 · Alpine Macro 11. 11. |
+| EUR/USD | Alpine Macro (Kalirai) | 1–3M dolů, 9–12M flat; short USD/JPY a EUR/JPY | 12. 11. 2026 | log 2026-11 · Alpine Macro 12. 11. |
+| Francie – OAT | Alpine Macro (Huang) | UW OAT, dokud ECB nevynutí reformy (spread k Bundům 165 bp) | 2. 11. 2026 | log 2026-11 · Alpine Macro 2. 11. |
+| TTF | GS (Carbonomics) | Riziko 2027 nahoru: 1Q27 92 EUR/MWh, stres ~150, příznivý 45 | 11. 11. 2026 | log 2026-11 · GS 11. 11. |
+| Komoditní indexy | SG | Lednový rebalancing: odtok z energií, přítok do drahých kovů (BCOM zlato >3,3 mld. USD) | 12. 11. 2026 | log 2026-11 · SG 12. 11. |
 
 ### Firmy z portfolia a watchlistu
 
@@ -202,11 +227,20 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | PFE | SG | Zvýšil výhled, tržby mimo covid +7 % | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | NOVO | MS | UW | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | MC | MS | EW; ~22 % tržeb od čínských spotřebitelů | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
+| COIN | MS (Cyprys) | **UW** (z EW), cíl 258 → 120 USD: slabší objemy, výhled tržeb, hack Binance | 7. 11. 2026 | log 2026-11 · MS (sales) 7. 11. |
 
 ## Log změn
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
+| 17. 11. 2026 | MS | Hannover Re | → UW | log 2026-11 · MS 17. 11. |
+| 15. 11. 2026 | MS (Skarica) | BoE | nově hiky v prosinci a únoru na 4,50 % | log 2026-11 · MS 15. 11. |
+| 14. 11. 2026 | MS | Samsung | → Top Pick | log 2026-11 · MS (sales) 14. 11. |
+| 11. 11. 2026 | Robeco | Multi-asset | + USD vs. EUR; HY hedge US → EU | log 2026-11 · Robeco 16. 11. |
+| 11. 11. 2026 | GS (Carbonomics) | BTM výroba pro DC / LNG kapacita 2025–30 | ~40 → ~67 GW / ↑ ~334 Mtpa | log 2026-11 · GS 11. 11. |
+| 9. 11. 2026 | Alpine Macro | US akcie | nově long RSP + XLK; long SOXX stopnut (2. 11.) | log 2026-11 · Alpine Macro 9. 11. |
+| 7. 11. 2026 | MS (Cyprys) | **COIN** | EW → UW, cíl 258 → 120 USD | log 2026-11 · MS (sales) 7. 11. |
+| 7. 11. 2026 | MS (Rats) | Equinor, OMV | → UW | log 2026-11 · MS (sales) 7. 11. |
 | 16. 11. 2026 | MS (sazby) | Nové obchody: short 10Y EFSF vs. Španělsko, long EU vs. DE/IT; uzavřen 3y2y EUR long | → nové pozice | log 2026-11 · MS 16. 11. (digest) |
 | 10. 11. 2026 | BCA (Papic) | Ropa / dluhopisy / akcie | → short ropa, long dluhopisy, long akcie („zatím“) | log 2026-11 · BCA 10. 11. |
 | 6. 11. 2026 | Gavekal (L. Gave) | Hlavní sázka | OW energie nebo tech/semis → slabší USD vs. EM (kovy > energie) | log 2026-11 · Gavekal 6. 11. |

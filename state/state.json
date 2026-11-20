@@ -142,162 +142,36 @@
       "1a1b573a9d54d950",
       "1a1b323a752e7830",
       "1a1b3214f0d0e506",
-      "1a1b0a7f796c8cdd"
+      "1a1b0a7f796c8cdd",
+      "1a1cd1c8cac3269a",
+      "1a1b360f653c5b27",
+      "1a1e3a47c3120e1b",
+      "1a1cf48cd60e60ac",
+      "1a1d41b046fd2550",
+      "1a1d419c77e8c3e0",
+      "1a1cd19dd7a88249",
+      "1a1c07b632e90726",
+      "1a1a5db83723261e",
+      "1a1a5eefbb9e538d",
+      "1a1eab6c0b34cdc5",
+      "1a1ea6a82789ad90",
+      "1a1a5e76ca864537",
+      "1a1ea6884dbe29e4",
+      "1a1ba83aad4ce157",
+      "1a1b35816d1a0788",
+      "1a1b32a6d8b51994",
+      "1a1b1916986ef4cb",
+      "1a1a5ebd4eb1160f",
+      "1a1a5dc262a40824",
+      "1a1c077b4788d6a3",
+      "1a1d98a8614f31bd",
+      "1a1b571c61f1b2c2",
+      "1a1d5a9be60d2fd2",
+      "1a1eabc5a315db8e"
     ],
     "processed_note": "Mazat ID starší 21 dní podle data mailu; ID z běhů 18.–19. 11. jsou z mailů 4.–19. 11. 2026 (nejstarší smazat nejpozději 25. 11., zbytek do 10. 12. 2026).",
-    "backlog": [
-      {
-        "id": "1a1cd1c8cac3269a",
-        "mail_date": "2026-11-12",
-        "source": "GS",
-        "title": "Carbonomics: 7th Annual Carbonomics Conference – Key Takeaways"
-      },
-      {
-        "id": "1a1b360f653c5b27",
-        "mail_date": "2026-11-07",
-        "source": "GS",
-        "title": "GS SUSTAIN Tracker: sustainable fund flows 3Q26"
-      },
-      {
-        "id": "1a1e3a47c3120e1b",
-        "mail_date": "2026-11-16",
-        "source": "SG",
-        "title": "Europe Macro Radar – Spanish or Dutch leader"
-      },
-      {
-        "id": "1a1cf48cd60e60ac",
-        "mail_date": "2026-11-12",
-        "source": "SG",
-        "title": "Commodity Compass – 2027 commodity index rebalancing"
-      },
-      {
-        "id": "1a1d41b046fd2550",
-        "mail_date": "2026-11-13",
-        "source": "SG",
-        "title": "ESG Flash – November 2026"
-      },
-      {
-        "id": "1a1d419c77e8c3e0",
-        "mail_date": "2026-11-13",
-        "source": "Alpine Macro",
-        "title": "Global Fixed Income & FX Strategy: What Could The Blue Wave Bring?"
-      },
-      {
-        "id": "1a1cd19dd7a88249",
-        "mail_date": "2026-11-12",
-        "source": "Alpine Macro",
-        "title": "US Bond Strategy: U.S. Fiscal Imbalance: Bond Vigilantes On The Hunt? (Part II)"
-      },
-      {
-        "id": "1a1c07b632e90726",
-        "mail_date": "2026-11-09",
-        "source": "Alpine Macro",
-        "title": "Global Strategy: From Productivity To Treasury Bonds"
-      },
-      {
-        "id": "1a1a5db83723261e",
-        "mail_date": "2026-11-04",
-        "source": "Alpine Macro",
-        "title": "Equity Strategy: Search and Destroy?"
-      },
-      {
-        "id": "1a1a5eefbb9e538d",
-        "mail_date": "2026-11-04",
-        "source": "Alpine Macro",
-        "title": "Global Strategy: The Market Atlas – Reference Charts"
-      },
-      {
-        "id": "1a1eab6c0b34cdc5",
-        "mail_date": "2026-11-17",
-        "source": "MS",
-        "title": "Software: Slow Drip Cyber Attacks, Agents At Endpoints, US-China Model Gap"
-      },
-      {
-        "id": "1a1ea6a82789ad90",
-        "mail_date": "2026-11-17",
-        "source": "MS",
-        "title": "From the Global Director of Research: Charts That Caught My Eye (17. 11.)"
-      },
-      {
-        "id": "1a1a5e76ca864537",
-        "mail_date": "2026-11-04",
-        "source": "MS",
-        "title": "From the Global Director of Research: Charts That Caught My Eye (3. 11.)"
-      },
-      {
-        "id": "1a1ea6884dbe29e4",
-        "mail_date": "2026-11-17",
-        "source": "MS",
-        "title": "2027 UK Economics Outlook: Tipping Point(s)"
-      },
-      {
-        "id": "1a1ba83aad4ce157",
-        "mail_date": "2026-11-08",
-        "source": "MS",
-        "title": "Sunday Start: Who's Afraid of the Big Blue Wave?"
-      },
-      {
-        "id": "1a1b35816d1a0788",
-        "mail_date": "2026-11-07",
-        "source": "MS",
-        "title": "Taking Stock of the Round Trip in US Treasuries"
-      },
-      {
-        "id": "1a1b32a6d8b51994",
-        "mail_date": "2026-11-06",
-        "source": "MS",
-        "title": "US Economics Weekly: AI's growth contribution is rising, but so are political risks"
-      },
-      {
-        "id": "1a1b1916986ef4cb",
-        "mail_date": "2026-11-06",
-        "source": "MS",
-        "title": "US Credit Strategy: 3Q26 Fundamentals Check-in"
-      },
-      {
-        "id": "1a1a5ebd4eb1160f",
-        "mail_date": "2026-11-04",
-        "source": "MS",
-        "title": "Cross-Asset Strategy: Global In the Flow – October Recap"
-      },
-      {
-        "id": "1a1a5dc262a40824",
-        "mail_date": "2026-11-04",
-        "source": "MS",
-        "title": "Equity & Fixed Income Strategy: Pulse Survey: Tempered Optimism"
-      },
-      {
-        "id": "1a1c077b4788d6a3",
-        "mail_date": "2026-11-09",
-        "source": "MS",
-        "title": "Space Technology: NASA's $10bn Lunar Expansion"
-      },
-      {
-        "id": "1a1d98a8614f31bd",
-        "mail_date": "2026-11-14",
-        "source": "MS (sales)",
-        "title": "Global Reflections (sales commentary)"
-      },
-      {
-        "id": "1a1b571c61f1b2c2",
-        "mail_date": "2026-11-07",
-        "source": "MS (sales)",
-        "title": "Global Reflections (sales commentary)"
-      },
-      {
-        "id": "1a1d5a9be60d2fd2",
-        "mail_date": "2026-11-13",
-        "source": "Fidelity",
-        "title": "Názory výzkumného týmu na volatilitu technologií"
-      },
-      {
-        "id": "1a1eabc5a315db8e",
-        "mail_date": "2026-11-17",
-        "source": "Robeco",
-        "title": "Rhapsody in blue for stock pickers after Democratic sweep"
-      }
-    ],
-    "backlog_note": "Nezpracované reporty z okna 4.–17. 11. (limit 20 extraktů na běh). Další běh je zpracuje přednostně v tomto pořadí, max. 20 včetně nových mailů.",
+    "backlog": [],
+    "backlog_note": "Backlog prázdný (20. 11. 2026, 2. dávka na povel Tomáše).",
     "licence_decision": "18. 11. 2026 Tomáš: zpracovávat i GS a JPM reporty včetně PDF příloh (JPM příloha je důležitá).",
     "processed_outlook_ids": [
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SwVwAAAA==",
@@ -305,7 +179,15 @@
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SwWAAAAA=="
     ],
     "outlook_note": "Hawkeye Terminal (newsletter@hawkeyeterminal.com) potvrzen Tomášem 19. 11. jako zdroj 'mailů z terminálu', zapsáno v config/sources.yaml.",
-    "portfolio_mismatch": null
+    "portfolio_mismatch": null,
+    "last_run_stats_2": {
+      "beh": "20. 11. 2026 dopoledne na povel Tomáše (dokončit backlog)",
+      "plne_extrakty": 25,
+      "z_toho_novych_mailu": 0,
+      "z_toho_z_backlogu": 25,
+      "jen_titulek_backlog": 0,
+      "poznamka": "SG Commodity Compass PDF ~22 MB nad limitem (extrakt z těla); MS Cross-Asset Recap bez PDF; ESG Flash SG je marketing. Přímé zmínky: COIN (MS downgrade EW → UW, PT 258 → 120, 7. 11.), RHM (MS sales: −16 % po snížení výhledu, 7. 11.)."
+    }
   },
   "portfolio_tracker": {
     "last_run": "2026-11-20",
@@ -501,6 +383,13 @@
       "source": "Tracker",
       "text": "19. 11. close 108,87 USD (−1,5 %), ráno +4,2 %, během dne nové 52W minimum; BTC ~61–62 tis. USD. 18. 11.: AI systém zablokoval deepfake převody za 4,7 mil. USD (Hawkeye)",
       "ref": "log 2026-11 · Hawkeye 18. 11."
+    },
+    {
+      "ticker": "COIN",
+      "date": "2026-11-07",
+      "source": "MS",
+      "text": "Downgrade EW → UW, cílová cena 258 → 120 USD (Cyprys): slabší objemy, horší výhled tržeb, nejistota po hacku Binance (zprostředkovaně přes MS sales Global Reflections)",
+      "ref": "log 2026-11 · MS (sales) 7. 11."
     }
   ],
   "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny.",
