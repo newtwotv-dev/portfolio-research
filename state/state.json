@@ -191,15 +191,8 @@
       "jen_titulek_backlog": 0,
       "poznamka": "SG Commodity Compass PDF ~22 MB nad limitem (extrakt z těla); MS Cross-Asset Recap bez PDF; ESG Flash SG je marketing. Přímé zmínky: COIN (MS downgrade EW → UW, PT 258 → 120, 7. 11.), RHM (MS sales: −16 % po snížení výhledu, 7. 11.). Doplněn nový SG Global Economic Outlook (20. 11., 65 s.); 2 systémové maily zahozeny."
     },
-    "needs_pdf": [
-      {
-        "id": "1a1a5ebd4eb1160f",
-        "mail_date": "2026-11-04",
-        "source": "MS",
-        "title": "Cross-Asset Strategy: Global In the Flow – October Recap",
-        "note": "mail bez PDF, jen grafy v těle – nahrát jen pokud existuje PDF"
-      }
-    ]
+    "needs_pdf": [],
+    "needs_pdf_note": "20. 11. 2026: Tomáš nemá PDF k MS Cross-Asset October Recap (4. 11.) ani k plnému SG Commodity Compass (12. 11.) – uzavřeno s extrakty z těla mailu, nevyžadovat."
   },
   "portfolio_tracker": {
     "last_run": "2026-11-20",
