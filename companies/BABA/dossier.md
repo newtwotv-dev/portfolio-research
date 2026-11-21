@@ -104,6 +104,9 @@ Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má d�
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 20. 11. 2026 | BCA (Ma, Gertken) / SG (MAP) | BCA: stimul 2027 jen přírůstkový, čínská spotřeba slabá. SG MAP snižuje čínské akcie 6 → 3 % (zhoršující se FCF čínských AI platforem) | log 2026-11 · BCA 20. 11., SG 20. 11. (MAP) |
+| 19. 11. 2026 | BCA (Berezin) / Hawkeye | Berezin: Čína nejlepší trh 2027 (long MCHI vs. ACWI). Hawkeye: TSMC zastavila čínské objednávky ≤16 nm bez licence (nová pravidla od 19. 11.) | log 2026-11 · BCA 19. 11., Hawkeye 19. 11. |
+| 16. 11. 2026 | MS (BluePaper, G. Yu) | OW potvrzen v listu čínských frontier lídrů, upside 70,8 % (≈ PT 180 USD), tip na monetizaci AI (Qwen); ale EPS 2026/27 −18 % / −28 % kvůli capexu, P/E 2027 22×; MS preferuje A-shares, HK jen takticky | log 2026-11 · MS 16. 11. (BluePaper) |
 | 19. 11. 2026 | Jefferies / Tiger Securities / Mizuho | Po výsledcích: Jefferies cíl 192 → 161 USD (obavy z růstu cloudu), Tiger 175 → 140 USD, Mizuho cíl zvýšila (číslo neuvedeno); rozpětí cílů 140–205 USD | web: [Investing.com](https://www.investing.com/news/stock-market-news/alibaba-earnings-analysis-questions-answered-and-next-catalysts-93CH-5039868) |
 | 12. 11. 2026 | Gavekal (Gave) | Většinu čipů Nvidie pro Megaspeed podle Gavea koupily půjčky od Alibaby, která je pak využívala – obcházení zákazů, regulační riziko | log 2026-11 · Gavekal 12. 11. |
 | 13. 11. 2026 | Gavekal (Dragonomics) | Alibaba je mezi vývojáři modelů registrovaných u CAC a spoluvytváří čínské standardy pro AI; regulace v Číně je praktická, ne brzda | log 2026-11 · Gavekal 13. 11. |

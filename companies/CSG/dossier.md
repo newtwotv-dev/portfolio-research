@@ -1,6 +1,6 @@
 # CSG (Czechoslovak Group) (CSG) – dossier
 
-_Poslední aktualizace: 20. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [CSG (id 21954)](https://web.quartr.com/m/companies/21954) · IR: [investors.csg.com](https://investors.csg.com/case)_
+_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [CSG (id 21954)](https://web.quartr.com/m/companies/21954) · IR: [investors.csg.com](https://investors.csg.com/case)_
 _Poslední deep dive: [companies/CSG/deep-dive-v1.md](deep-dive-v1.md), 20. 11. 2026 ([Claude Doc](https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K))_
 
 ## Signál
@@ -107,6 +107,7 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 19.–20. 11. 2026 | Erste / Kepler Cheuvreux / Oddo BHF | Erste Buy, cíl 26,1 → 15,6 EUR (19. 11.); Kepler Buy, 30 → 20 EUR; Oddo Neutral, 25 → 14 EUR. **Rozpor:** JPM/Oddo/DB 12–14 EUR vs. Kepler 20 EUR; Bloomberg konsenzus těsně nad 20 EUR (e15, 18. 11.) | web: [fxstreet.cz Erste](https://www.fxstreet.cz/zpravodajstvi-210789.html), [Kepler](https://www.fxstreet.cz/zpravodajstvi-210565.html), [Oddo](https://www.fxstreet.cz/zpravodajstvi-210465.html) |
 | 19. 11. 2026 | Bernstein (A. Rabier) | Výslovně jmenuje CSG a RHM: obě firmy počítají s doplňováním zásob munice NATO přes 10 let, Bernstein jen s ~3 lety; drony (~80 % ztrát) podle něj tlačí dolů ceny i objemy munice po 2030. Přímo proti jádru teze CSG (munice) [Fakt, názor Bernsteinu] | web: wallstreet-online / aktiencheck, 19. 11. 2026 (zprostředkovaně) |
 | 18. 11. 2026 | E15 (souhrn) | Za týden −31 %; průměrný cíl dle Bloombergu mírně nad 20 EUR, Patria 22,16 EUR; Cyrrus čeká snižování cílů, Direct Investments vidí slábnoucí prioritu zbrojení po midterms | web: [E15](https://www.e15.cz/byznys/burzy-a-trhy/strnadova-csg-za-tyden-ztratila-103-miliard-proc-analytici-stale-veri-ve-zdvojnasobeni-ceny-1437393) |
 | 13. 11. 2026 | GS | EU obrana OW beze změny (~20% růst EPS, PEG pod 1, 50% diskont vůči US obraně) | research/log/2026-11.md · GS 13. 11. 2026 |
@@ -129,6 +130,7 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 | 19. 11. 2026 | 18. 11.: Praha close 233,20 Kč (−9,26 %, 52W minimum) = dorovnání amsterdamského propadu 17. 11. (PSE 17. 11. zavřená); Amsterdam/Xetra vnitrodenně ~+2,6 % (9,42 EUR, close nedohledán). Bez firemní zprávy. E15: za týden −31 %, průměrný cíl (Bloomberg) mírně nad 20 EUR, Patria 22,16 EUR; analytici čekají snižování cílů [Fakt/Názor]. Výsledky FY 2026 25. 3. 2027 (Quartr). MS (15. 11.): EU obrana nedosáhla OW kvůli slabému momentu RHM. Signál beze změny | [ČTK](https://ceskenoviny.cz/zpravy/prazska-burza-odepsala-vice-nez-procento-vyrazne-ztracely-akcie-csg/2903588), [E15](https://www.e15.cz/byznys/burzy-a-trhy/strnadova-csg-za-tyden-ztratila-103-miliard-proc-analytici-stale-veri-ve-zdvojnasobeni-ceny-1437393), [Quartr](https://web.quartr.com/m/events/796107) |
 | 20. 11. 2026 | Close 19. 11. ~9,32 EUR (−1 %, Amsterdam, nepotvrzený close; Praha 231,20 Kč). Nová zmínka Bernstein: zpochybňuje délku muničního cyklu (3 vs. 10+ let) → přidáno do rizik. Signál beze změny (🟡 s negativním sklonem) | patria.cz, aktiencheck |
 | 20. 11. 2026 | **Deep dive v1**: signál 🟡 (držet, nepřikupovat), IPO teze 🔴; scénáře 35/45/20 → 5,43/12,59/22,26 EUR, vážený výnos ~21 % p. a. vs. 14–18 %; pozice převážená; doplněny teze, scénáře, Potvrdí/Vyvrátí, KPI (book-to-bill Q3 0,6, struktura backlogu), katalyzátory, broker views. Close 20. 11. vnitrodenně ~8,86 EUR (−4,9 %, nové minimum) | [deep-dive-v1](deep-dive-v1.md), [Claude Doc](https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K) |
+| 21. 11. 2026 | 20. 11. close 8,50 EUR v Amsterdamu (−8,8 %, na denním minimu; Praha 217 CZK −6,1 %). Nové škrty cílů: Oddo 25 → 14 (Neutral), Kepler 30 → 20 (Buy), Erste 26,1 → 15,6 (Buy, 19. 11.). Signál 🟡 (držet, nepřikupovat) beze změny – spouštěče jsou fundamentální (guidance 2027) | briefs/alerts/2026-11-21.md |
 
 ## Zdroje
 

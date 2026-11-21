@@ -1,19 +1,20 @@
 {
   "schema_version": 1,
   "research_inbox": {
-    "last_processed_at": "2026-11-20T12:37:49Z",
-    "last_run": "2026-11-20",
+    "last_processed_at": "2026-11-21T00:42:03Z",
+    "last_run": "2026-11-21",
     "last_run_stats": {
-      "plne_extrakty": 20,
-      "z_toho_novych_mailu": 1,
-      "z_toho_z_backlogu": 19,
-      "jen_titulek_backlog": 25,
-      "bez_extraktu_zalogovano": 0,
+      "plne_extrakty": 25,
+      "z_toho_gmail_reportu": 19,
+      "z_toho_samostatnych_pdf_v_prilohach": 5,
+      "z_toho_outlook": 1,
+      "jen_titulek": 0,
+      "bez_extraktu_zalogovano": 1,
       "zahozeno": 0,
-      "gmail": "žádné nové maily od 19. 11. 14:02 UTC (všech 17 vláken z okna už zpracováno)",
-      "outlook": "zpracován: 1 mail (Hawkeye Terminal daily market update 18. 11., plný extrakt); výpisy T212 žádné",
-      "okno": "2026-11-18 až 2026-11-20 05:20 UTC",
-      "poznamka": "BCA Papic 10. 11. – PDF 13,5 MB nad limitem, extrakt jen z těla mailu; BCA G10 FX Scorecard má v příloze omylem GS FX Trader (zpracován z vlastního vlákna). Extrakty backlogu zpracovány paralelně pomocnými agenty a zkontrolovány."
+      "gmail": "20 nových vláken (19. 11. 10:04 – 21. 11. 00:42 UTC): 19 reportů GS/MS/BCA/SG/Gavekal plně, BSD Weekly jen řádek v logu (bez firem z universe)",
+      "outlook": "Hawkeye 19. 11. plný extrakt; T212 activity statement 20. 11. bez dat v mailu (jen v aplikaci) – nesoulad s portfolio.yaml nelze ověřit; Payment failed / verified = systémové",
+      "okno": "2026-11-19 až 2026-11-21 05:20 UTC",
+      "poznamka": "Mail GS Europe Weekly Kickstart obsahoval i GS EM/Korea/UK Kickstart, mail GS FX Trader i 2 reporty MS G10 FX – zpracovány jako samostatné extrakty. Extrakty paralelně přes 5 pomocných agentů, zkontrolováno a sloučeno. needs_pdf žádné."
     },
     "processed_thread_ids": [
       "1a1a41b7420a1187",
@@ -170,7 +171,27 @@
       "1a1eabc5a315db8e",
       "1a1f823d719c734f",
       "1a1f81daef4f3d53",
-      "1a1f8f691c0442ce"
+      "1a1f8f691c0442ce",
+      "1a1fb8dc3149e190",
+      "1a1fb802486d63c1",
+      "1a1fb7d2f26e89ae",
+      "1a1fb74069846ab9",
+      "1a1fb6e50f70a43a",
+      "1a1fb6a7f4765b3e",
+      "1a1fb6969567f4eb",
+      "1a1fb68741781946",
+      "1a1fb68257e882c0",
+      "1a1fb67932375adf",
+      "1a1fb66f8c076769",
+      "1a1fb6625d9ab732",
+      "1a1fb64df26afef6",
+      "1a1fb62da7c054cd",
+      "1a1f96b5909e0ff4",
+      "1a1f955ae5bce31c",
+      "1a1f94ac80211680",
+      "1a1f949fcc99bc3c",
+      "1a1f9486cf735cc8",
+      "1a1f94811e60b8dc"
     ],
     "processed_note": "Mazat ID starší 21 dní podle data mailu; ID z běhů 18.–19. 11. jsou z mailů 4.–19. 11. 2026 (nejstarší smazat nejpozději 25. 11., zbytek do 10. 12. 2026).",
     "backlog": [],
@@ -179,26 +200,30 @@
     "processed_outlook_ids": [
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SwVwAAAA==",
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SU9gAAAA==",
-      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SwWAAAAA=="
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI06SwWAAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI1aFNgQAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI1pvsmwAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI1aFbMQAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI1aFbMAAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI1aFbLwAAAA=="
     ],
     "outlook_note": "Hawkeye Terminal (newsletter@hawkeyeterminal.com) potvrzen Tomášem 19. 11. jako zdroj 'mailů z terminálu', zapsáno v config/sources.yaml.",
-    "portfolio_mismatch": null,
-    "last_run_stats_2": {
-      "beh": "20. 11. 2026 dopoledne na povel Tomáše (dokončit backlog)",
-      "plne_extrakty": 26,
-      "z_toho_novych_mailu": 1,
-      "z_toho_z_backlogu": 25,
-      "jen_titulek_backlog": 0,
-      "poznamka": "SG Commodity Compass PDF ~22 MB nad limitem (extrakt z těla); MS Cross-Asset Recap bez PDF; ESG Flash SG je marketing. Přímé zmínky: COIN (MS downgrade EW → UW, PT 258 → 120, 7. 11.), RHM (MS sales: −16 % po snížení výhledu, 7. 11.). Doplněn nový SG Global Economic Outlook (20. 11., 65 s.); 2 systémové maily zahozeny."
+    "portfolio_mismatch": {
+      "date": "2026-11-21",
+      "text": "T212 poslal activity statement za 20. 11. (zřejmě nějaká aktivita na účtu, 17:52 navíc 'Payment failed' u vkladu kartou). Výpis je jen v aplikaci, změny pozic nejde ověřit – zeptat se Tomáše.",
+      "accounts": [
+        "t212_tomas",
+        "t212_michal"
+      ]
     },
     "needs_pdf": [],
     "needs_pdf_note": "20. 11. 2026: Tomáš nemá PDF k MS Cross-Asset October Recap (4. 11.) ani k plnému SG Commodity Compass (12. 11.) – uzavřeno s extrakty z těla mailu, nevyžadovat."
   },
   "portfolio_tracker": {
-    "last_run": "2026-11-20",
-    "last_window": "2026-11-19 až 2026-11-20",
-    "alert": "briefs/alerts/2026-11-20.md",
-    "alert_doc": "https://claude.ai/artifact/JeyQAyWpvTJREJfXQPz3nH",
+    "last_run": "2026-11-21",
+    "last_window": "2026-11-20 až 2026-11-21",
+    "alert": "briefs/alerts/2026-11-21.md",
+    "alert_doc": "https://claude.ai/artifact/Hs44RuMdaaCdDrvmEUHTyr",
     "onboarded": [
       "GUTS",
       "INTR",
@@ -217,10 +242,14 @@
       "VTS",
       "SMSH",
       "NOVO",
-      "PFE"
+      "PFE",
+      "VST",
+      "COIN",
+      "TKCC",
+      "TUI1"
     ],
     "deep_dive": "SOFI v1, TKA v1, AQST v1 (18. 11.), CSG v1 (20. 11., https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K) na povel",
-    "last_run_note": "Alert kvůli výsledkům BABA FQ2 FY27 (19. 11.; výhled cloudu 2027 30–45 %, možné snížení cíle 20 GW, EPS miss), signál 🟡 beze změny. TNEK (tier B) −5 % 19. 11. a ~−15 % 20. 11. vnitrodenně, pod IPO cenou. Bernstein 19. 11. medvědí na munici (RHM, CSG). Onboarding MC, MU, VTS, SMSH, NOVO, PFE hotový (všechny 🟡). Deep dive tento běh neproběhl (vznikl alert). Ceny k 19. 11. v state/prices.json (TKA, TKCC, GUTS, SPYY, CSPX k 18. 11.). GUTS možná ~−10 % (Robinhood, neověřeno) – ověřit příště. Tier B (TNEK) plná kontrola v pondělí."
+    "last_run_note": "Alert kvůli výprodeji 20. 11. (S&P −3,7 %, Nasdaq −5,3 %, SOX −10,7 % po zprávě o šetření SEC u Nvidie): MU −13,9 %, CSG −8,8 % (+ škrty cílů Erste/Kepler/Oddo), TKA −8,0 %, GUTS −14,6 %. Signál TKA a SOFI ⚡ redukovat → 🟡 (ceny pod spouštěči z deep dive 10,4 EUR / 13 USD). TNEK (tier B) −16,8 % pod IPO. Onboarding VST, COIN, TKCC, TUI1 hotový (🟡). Ceny k close 20. 11. v prices.json (SPYY Hamburk, CSPX NAV 19. 11.). Deep dive neproběhl (alert). Tier B (TNEK) plná kontrola v pondělí."
   },
   "market_brief": {
     "last_run": null,
@@ -231,7 +260,7 @@
     "last_totals": null
   },
   "watchlist_snapshot": {
-    "as_of": "2026-11-20",
+    "as_of": "2026-11-21",
     "quartr_ids": [
       16403,
       14505,
@@ -255,20 +284,15 @@
       3840
     ]
   },
-  "onboarding_queue": [
-    "TKCC",
-    "VST",
-    "TUI1",
-    "COIN"
-  ],
+  "onboarding_queue": [],
   "deep_dive_queue": [
     "RHM",
     "LIME",
     "IOVA",
     "NU",
     "BABA",
-    "TKMS",
     "MC",
+    "TKMS",
     "MU",
     "VTS",
     "SMSH",
@@ -284,119 +308,14 @@
   ],
   "pending_mentions": [
     {
-      "ticker": "VST",
-      "date": "2026-11-04",
-      "source": "MS",
-      "text": "Powered Shell Providers: VST Overweight, hodnota aktiv ~180 USD vs. ~140; krátkodobý tlak kvůli Texasu",
-      "ref": "log 2026-11 · MS 4. 11."
-    },
-    {
-      "ticker": "VST",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "BMO cíl 188 → 196 USD (17. 11.); lock-up 5 mil. akcií Q-Generation do 30. 1. 2027; Hinojosa nastupuje 19. 1. 2027",
-      "ref": "state/calendar.md"
-    },
-    {
       "ticker": "AQST",
       "date": "2026-11-18",
       "source": "Tracker",
       "text": "PDUFA Anaphylm 16. 3. 2027; ~200 mil. USD na launch (RTW 75 mil. podmíněno schválením do 30. 6. 2027); ATM ~73 mil. USD",
       "ref": "state/calendar.md"
-    },
-    {
-      "ticker": "TUI1",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "Výsledky FY 9. 12.; Fly 4 Airlines (JV 49 %) v likvidaci; 8 nových hotelů TUI Blue; quartr_id 4071",
-      "ref": "state/calendar.md"
-    },
-    {
-      "ticker": "COIN",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "16. 11. −6,1 % (BTC nejníž od srpna, ~62–64 tis. USD); B. Riley cíl 203 → 150 Neutral",
-      "ref": "state/calendar.md"
-    },
-    {
-      "ticker": "TKCC",
-      "date": "2026-11-18",
-      "source": "Tracker",
-      "text": "Jen EQS-DD (přidělení akcií ve spin-offu); DB Buy 40, Berenberg Buy 37 (29. 10.); termín prvních výsledků dohledat",
-      "ref": "state/calendar.md"
-    },
-    {
-      "ticker": "VST",
-      "date": "2026-11-08",
-      "source": "MS",
-      "text": "Buy the Drop: VST high-conviction OW, PT 224 USD (při 124,80), hodnota aktiv ~180",
-      "ref": "log 2026-11 · MS 8. 11."
-    },
-    {
-      "ticker": "VST",
-      "date": "2026-11-19",
-      "source": "Tracker",
-      "text": "Bernstein cíl 181 → 182 USD Outperform (17. 11.); starší: Scotiabank 189 → 169 (9. 11.), Wells Fargo 212 → 198 OW (28. 10.); close 18. 11. 125,58",
-      "ref": "state/calendar.md"
-    },
-    {
-      "ticker": "COIN",
-      "date": "2026-11-19",
-      "source": "Tracker",
-      "text": "18. 11. −3,9 % na 110,51; spuštěn spot margin trading v US (až 10x); BTC ~62,7–63 tis. po jestřábím zápisu FOMC",
-      "ref": "briefs/alerts/2026-11-19.md"
-    },
-    {
-      "ticker": "TKCC",
-      "date": "2026-11-19",
-      "source": "Tracker",
-      "text": "První výsledky po spin-offu 7. 12. 2026 (předběžné FY 25/26), quiet period 23. 11.–6. 12.; close 18. 11. 23,60",
-      "ref": "state/calendar.md"
-    },
-    {
-      "ticker": "TUI1",
-      "date": "2026-11-19",
-      "source": "Tracker",
-      "text": "Zprávy o sloučení národních aerolinek do jednoho evropského provozu (17. 11.); ČR růst až 30 % v 2026/27; close 18. 11. 7,29",
-      "ref": "state/calendar.md"
-    },
-    {
-      "ticker": "VST",
-      "date": "2026-11-04",
-      "source": "MS",
-      "text": "Midterm Results: pokles IPP vede VST (Texas, BTM DC), hodnota aktiv ~180 USD vs. 140",
-      "ref": "log 2026-11 · MS 4. 11."
-    },
-    {
-      "ticker": "VST",
-      "date": "2026-11-06",
-      "source": "GS",
-      "text": "EUM Pulse: Buy, PT 200 USD (10× EV/EBITDA, 7% FCF yield) při 112,89; investoři texaské IPP do pol. 2027 nekupují",
-      "ref": "log 2026-11 · GS 6. 11."
-    },
-    {
-      "ticker": "VST",
-      "date": "2026-11-06",
-      "source": "MS",
-      "text": "EEI Key Questions: OW (od 3/2019) při 112,89 USD, IPP Attractive",
-      "ref": "log 2026-11 · MS 6. 11."
-    },
-    {
-      "ticker": "COIN",
-      "date": "2026-11-19",
-      "source": "Tracker",
-      "text": "19. 11. close 108,87 USD (−1,5 %), ráno +4,2 %, během dne nové 52W minimum; BTC ~61–62 tis. USD. 18. 11.: AI systém zablokoval deepfake převody za 4,7 mil. USD (Hawkeye)",
-      "ref": "log 2026-11 · Hawkeye 18. 11."
-    },
-    {
-      "ticker": "COIN",
-      "date": "2026-11-07",
-      "source": "MS",
-      "text": "Downgrade EW → UW, cílová cena 258 → 120 USD (Cyprys): slabší objemy, horší výhled tržeb, nejistota po hacku Binance (zprostředkovaně přes MS sales Global Reflections)",
-      "ref": "log 2026-11 · MS (sales) 7. 11."
     }
   ],
-  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny. 20. 11.: Tomáš nahrál PDF k BCA HTE, BCA G10 FX, MS Oil Manual a SG (Curve & Carry Monitors) – extrakty nahrazeny plnými verzemi vč. grafů. Nové pokyny: řádek „Z grafů“ v extraktech, krok 9b deep dive (co píšou analytici), dotaz na téma v tasks/on-demand.md, seznam needs_pdf.",
+  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny. 20. 11.: Tomáš nahrál PDF k BCA HTE, BCA G10 FX, MS Oil Manual a SG (Curve & Carry Monitors) – extrakty nahrazeny plnými verzemi vč. grafů. Nové pokyny: řádek „Z grafů“ v extraktech, krok 9b deep dive (co píšou analytici), dotaz na téma v tasks/on-demand.md, seznam needs_pdf. 21. 11.: přecenění k 20. 11. – MC (3,7 %) předběhla TKMS (3,6 %) ve frontě deep dive. Onboarding fronta prázdná.",
   "refresh_queue": [
     {
       "ticker": "CSG",

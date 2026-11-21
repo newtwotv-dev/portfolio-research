@@ -1,6 +1,6 @@
 # Micron Technology (MU) – dossier
 
-_Poslední aktualizace: 20. 11. 2026 · Tier: A · Skupina: Polovodiče · Quartr: [Micron Technology (id 5199)](https://web.quartr.com/m/companies/5199) · IR: [investors.micron.com](https://investors.micron.com)_
+_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Polovodiče · Quartr: [Micron Technology (id 5199)](https://web.quartr.com/m/companies/5199) · IR: [investors.micron.com](https://investors.micron.com)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -108,6 +108,10 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 20. 11. 2026 | SG / GS / Hawkeye | SG MAP: polovodiče do 2027 medvědí, SOX −30 % od léta (vedou paměti). GS Korea: paměťové akcie oceňují propad zisků cca −70 %, P/B 0,7× = historické dno. TrendForce (přes Hawkeye 19. 11.): smluvní ceny NAND od 1Q27 klesnou | log 2026-11 · SG 20. 11. (MAP), GS 20. 11. (Korea), Hawkeye 19. 11. |
+| 19. 11. 2026 | GS (13F) | MU 4. největší podvážení large-cap fondů (−82 bp, growth −194 bp), v Q3 víc prodejců než kupců; YTD +147 % | log 2026-11 · GS 19. 11. |
+| 19. 11. 2026 | MS (13F) | MU 9. největší titul S&P 500, HF aktivní pozice v Q3 +0,1 p. b. | log 2026-11 · MS 19. 11. |
+| 19. 11. 2026 | BCA (Berezin) | Historicky škrty EPS u MU přišly až po propadu akcie −20 až −48 %; DRAM rekordní; taktický long SOXX, ale IT 12M sell | log 2026-11 · BCA 19. 11. (Berezin) |
 | 19. 11. 2026 | Tracker | TomorrowX: 75 % výroby 2027 prodáno, 26 SCA s 32 mld. USD, buyback po 9. 12. Anthropic IPO 83 USD, MU investuje 1 mld. USD. RBC Buy 1 500 USD (17. 11.) | briefs/alerts/2026-11-19.md |
 | 18. 11. 2026 | Tracker | 11. 11. +11,9 % (CoreWeave), 16. 11. −7,6 % (exportní kontroly), DRAM class action | briefs/alerts/2026-11-18.md |
 | 17. 11. 2026 | GS | US Equity Outlook 2027: MU 2. největší přispěvatel k růstu EPS S&P 500 (16 % 2026, 14 % 2027, jen 3 % 2028), riziko marží 2028 | log 2026-11 · GS 17. 11. |
@@ -131,6 +135,7 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 | Datum | Změna | Zdroj |
 |---|---|---|
 | 20. 11. 2026 | Onboarding (rychlý dossier) | Quartr, research log, web |
+| 21. 11. 2026 | 20. 11. close 594,51 USD (−13,9 % d/d z 690,44; v repu bylo 681,89 → −12,8 %), čipový výprodej (SOX −10,7 %, Nvidia −14 % po zprávě Reuters o šetření SEC); firemní zpráva žádná. Nové zmínky: GS/MS 13F, BCA Berezin, SG MAP, TrendForce (NAND od 1Q27 dolů). Signál 🟡 beze změny | briefs/alerts/2026-11-21.md, research log 19.–20. 11. |
 
 ## Zdroje
 

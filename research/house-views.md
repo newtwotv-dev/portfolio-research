@@ -57,6 +57,11 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | US akcie – styl | Alpine Macro (Zhao, Wu) | Nově barbell long RSP + long XLK; long SOXX stopnut s −10 % (2. 11.) | 9. 11. 2026 | log 2026-11 · Alpine Macro 9. 11. |
 | Multi-asset | Robeco | OW akcií s preferencí US, přidán USD na úkor EUR, HY hedge z US do EU; mírná recese 2027 15 % | 11. 11. 2026 | log 2026-11 · Robeco 16. 11. |
 | Korea | MS | „Korea Renaissance“: ROE 8 → 14 %+ do 2030, rerating jako Japonsko; OW SK Hynix, Samsung, Hyundai, KB | 14. 11. 2026 | log 2026-11 · MS (sales) 14. 11. |
+| Globální alokace 2027 | BCA (Berezin) | „Boom to bust“: akcie 3M neutral / 12M UW, dluhopisy a cash 12M OW; US 12M sell, EA neutral, **Čína 12M buy (nejlepší trh 2027)**, EM ex Čína 12M sell; recese 2028 | 19. 11. 2026 | log 2026-11 · BCA 19. 11. (Berezin) |
+| Čína – A vs. H | MS (Xing, L. Wang) | A-shares strukturální OW, Hong Kong jen taktický; EPS MSCI China 2026/27 +6/+8 % (konsenzus 12/14 %). **Rozpor** s GS (OW H-shares) | 16. 11. 2026 | log 2026-11 · MS 16. 11. (BluePaper) |
+| Čína – politika 2027 | BCA (Ma, Gertken) | Si 4. mandát, stimul jen přírůstkový, žádný obrat ke spotřebě; invaze Tchaj-wanu v 2027 ne; příměří US–Čína zakolísá v 1H27. **Rozpor** s Berezinem (stimul i pro spotřebu) | 20. 11. 2026 | log 2026-11 · BCA 20. 11. |
+| Multi-asset 2027 | SG (MAP) | Akcie **58 → 55 %** (Čína 6 → 3), vládní dluhopisy **12 → 18 %**, TIPS 5 → 7, komodity **20 → 15 %** (zlato drží 10); S&P 500 8 500 konec 2027, EPS +11 % | 20. 11. 2026 | log 2026-11 · SG 20. 11. (MAP) |
+| UK | GS | Long UK domácí tituly vs. FTSE 100; FTSE 100 cíl 11 400 (+9 %) | 20. 11. 2026 | log 2026-11 · GS 20. 11. (UK Kickstart) |
 
 ### Sektory a styly
 
@@ -117,6 +122,16 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | AI capex / výstavba DC | Gavekal (L. Gave vs. Denyer) | **Rozpor uvnitř Gavekalu:** Gave – hyperrůst DC končí z politických důvodů (6. 11.); Denyer – midtermy riziko AI bustu výrazně nezvyšují, hrozbou je drahý kapitál (4. 11.) | 6. 11. 2026 | log 2026-11 · Gavekal 4. a 6. 11. |
 | AI capex | BCA (Swift, Timper) | Boom nenarušený, výprodej AI akcií by měl brzy najít dno | 2. 11. 2026 | log 2026-11 · BCA 2. 11. |
 | EU obrana – rozpočty | ING vs. Gavekal (C. Gave) | **Rozpor:** ING – část Evropy může kvůli rozpočtům zpomalit růst obranných výdajů (4. 11.); Gave – NATO je mrtvé, Evropa musí obranu výrazně navýšit na úkor sociálního státu (13. 11.) | 13. 11. 2026 | log 2026-11 · ING 4. 11., Gavekal 13. 11. |
+| EU defenzivy vs. cykliky | GS | Rotace do defenziv (+14 % od října) přehnaná, nehonit; dál vybrané cykliky (Tech, Retail, A&D). Sektory beze změny (OW obrana, Tech, Utilities; UW Healthcare, Energy) | 20. 11. 2026 | log 2026-11 · GS 20. 11. |
+| Sektory global | BCA (Berezin) | Healthcare 12M strong buy, Staples a Utilities buy; IT 3M neutral / 12M sell, Discretionary a Comm. Services sell | 19. 11. 2026 | log 2026-11 · BCA 19. 11. (Berezin) |
+| Polovodiče | BCA (Berezin) vs. SG | BCA: nově taktický long SOXX (cíl +20 %, stop −5 %), ale IT 12M sell. SG: do 2027 medvědí, SOX −30 % od léta (vedou paměti), opatrně s Koreou | 19.–20. 11. 2026 | log 2026-11 · BCA 19. 11., SG 20. 11. |
+| US IPP (VST, NRG) | GS (Mehta) | Sentiment utlumený, po poklesu omezený downside, ale bez katalyzátoru; čeká se texaská legislativa / nové DC PPA; preferuje Talen, CEG | 20. 11. 2026 | log 2026-11 · GS 20. 11. (EUM Pulse) |
+| US Utilities | MS (kredit) + SG (akcie) | Shodně OW (MS pozitivně i na IPP; SG utility jako „AI hedge“ po de-ratingu −30 %) | 19.–20. 11. 2026 | log 2026-11 · MS 19. 11., SG 20. 11. |
+| US plynové E&P | GS | Nejdefenzivnější část energetiky; forward HH 2027 3,08 vs. mid-cycle 3,50 USD | 20. 11. 2026 | log 2026-11 · GS 20. 11. (EUM Pulse) |
+| Pharma vs. biotech | Gavekal (L. Gave) | Nápad short biotech / long pharma (AI a Čína zlevňují vývoj, biotech jako zbytný mezičlánek) | 20. 11. 2026 | log 2026-11 · Gavekal 20. 11. |
+| US obrana | SG | Short ITA (diplomacie v Íránu/Ukrajině je protivítr pro drahý sektor) | 20. 11. 2026 | log 2026-11 · SG 20. 11. (MAP) |
+| Hyperscaleři (kredit) | MS (Patkar) | **UW → zrušen**, přidávat na dlouhém konci; DC stavební dluhopisy → neutral. **Rozpor:** SG drží long CDS hyperscalerů jako hedge | 19. 11. 2026 | log 2026-11 · MS 19. 11. |
+| US kredit | MS (Patkar) | IG > loans > HY, BB > B; IG 80 bp, HY 310 bp konec 2027; defaulty HY 4 → 4,5 %, loans 5,5 → 4,75 % | 19. 11. 2026 | log 2026-11 · MS 19. 11. |
 
 ### Sazby, FX, komodity, krypto
 
@@ -162,7 +177,7 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Brent / Írán | BCA | Vrchol 120–130 USD při úderech, P(≥150 USD) 30 %; Írán 45/25/30 % (status quo/příměří/eskalace) | 2. 11. 2026 | log 2026-11 · BCA 2. 11. |
 | Ropa | GS (ekonomové) | 100 USD konec 2026, 78 konec 2027 | 17. 11. 2026 | log 2026-11 · GS 17. 11. |
 | Zlato | GS | 4 650 USD konec 2027, 5 600 konec 2028; zlato > stříbro | 16. 11. 2026 | log 2026-11 · GS 16. 11. |
-| Zlato | MS | Top pick v kovech, 5 250 USD ve 4Q27 | 15. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
+| Zlato | MS | Top pick v kovech, 5 250 USD ve 4Q27 (beze změny), ale oživení potrvá déle; riziko odlivu z ETF. **Rozpor** s BCA (stranou) | 20. 11. 2026 | log 2026-11 · MS 20. 11., MS 15. 11. |
 | Zlato | UBP | Strategicky OW, takticky neutrál, podpora ~4 000 USD | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | AT1 / cash | UBP | AT1 **UW** (4 → 2) kvůli Francii; cash **OW** (3 → 4) | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | Fed | GS | Hiky 25 bp v prosinci a březnu; konec 2027 4,13 % vs. trh 4,68 % | 18. 11. 2026 | log 2026-11 · GS 18. 11. |
@@ -224,6 +239,24 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | FX 2027 | SG (GEO) | EUR/USD 1,16, USD/JPY 140, USD/KRW 1 410, USD/BRL 5,25, USD/CNY 6,90 (konec 2027) | 20. 11. 2026 | log 2026-11 · SG 20. 11. |
 | Brazílie | SG (GEO) | Selic 12,75 % konec 2027 (z 12,25), HDP 2027 snížen na 1,2 % | 20. 11. 2026 | log 2026-11 · SG 20. 11. |
 | Brent | SG (GEO) | ~100 USD, pozvolna k ~85 USD do konce 2027 | 20. 11. 2026 | log 2026-11 · SG 20. 11. |
+| Fed / UST | BCA (Berezin) | Hike v prosinci + 1–2 v 1H27; 10Y vrchol začátkem 2027, FV 4,55 %. **Rozpor** uvnitř BCA (Swift FV 5,10 %, Papic/Gertken bez hiků) | 19. 11. 2026 | log 2026-11 · BCA 19. 11. (Berezin) |
+| Fed | MS (Gapen) | Beze změny: prosinec + březen na 4,25–4,50 %, pak hold celý 2027, −50 bp v 2028; HDP 2027 2,5 % (vs. SG 1,7 %) | 20. 11. 2026 | log 2026-11 · MS 20. 11. |
+| UST / Bund / JGB | GS (Rates) | Nově belly longy (3m5y vs. 3m2y receivery), JGB 2s10s flattener (94 → 75 bp); Bund 3,10 % 4Q27 (**rozpor** se SG 3,80 %); UST 10Y 4,60 % 4Q27 | 20. 11. 2026 | log 2026-11 · GS 20. 11. (Rates Trader) |
+| JPY | GS vs. MS | GS long JPY (short EUR/JPY), JPY vítěz AI risk-off; MS long USD/JPY cíl 163 – **rozpor** | 20. 11. 2026 | log 2026-11 · GS 20. 11., MS 20. 11. (G10 FX) |
+| AUD/NZD | GS vs. MS | GS AUD/NZD dolů (RBNZ hiky posunuty na prosinec a březen); MS býčí AUD (0,73 v pol. 2027) – **rozpor** | 20. 11. 2026 | log 2026-11 · GS 20. 11., MS 20. 11. |
+| USD / EUR | MS | DXY 105 střednědobě, EUR/USD 1,08 konec 2027, EUR funding měna. **Rozpor** se SG (EUR/USD 1,16, „peak dollar“) | 20. 11. 2026 | log 2026-11 · MS 20. 11. (G10 FX, EM FI) |
+| USD | BCA (Ibrahim) | Dolar dál posílí k DXY 105 (jestřábí Fed, relativní odolnost USA) | 20. 11. 2026 | log 2026-11 · BCA 20. 11. (Gold) |
+| EM FX | GS | Krátkodobě opatrně na BRL a MXN, short ILS (hedge tech), INR útočiště; 12M USD/ILS 3,35, USD/BRL 5,25, USD/KRW 1 280, USD/CZK 21,0 | 20. 11. 2026 | log 2026-11 · GS 20. 11. (FX Trader) |
+| EM FX / local | MS | „Defence now, offence in January“; EM FX porazí G3 v 2027; long BRL/CLP na začátek 2027 | 20. 11. 2026 | log 2026-11 · MS 20. 11. (EM FI) |
+| CZK / ČNB | MS | EUR/CZK ~24,4 v 2027; ČNB 4,00 % do 3Q27, pak 3,75 %; CZK jediná levná měna CEEMEA | 20. 11. 2026 | log 2026-11 · MS 20. 11. (EM FI) |
+| ECB | MS | Depo 3,00 % od 1Q27 do konce 2027 (**rozpor** se SG 2,75 %) | 20. 11. 2026 | log 2026-11 · MS 20. 11. (EM FI) |
+| Brazílie | MS | Sovereign mírně levná, čekat na lepší vstup; BRL ~6,0 = nákup, USD/BRL 5,25 konec 2027; Selic 13,75 % celý 2027 (**rozpor** se SG 12,75 %) | 20. 11. 2026 | log 2026-11 · MS 20. 11. (EM Sov, EM FI) |
+| EM sovereign kredit | MS | EMBIG Div 200 bp konec 2027, TR 7,8 %, up-in-quality (BB) | 20. 11. 2026 | log 2026-11 · MS 20. 11. (EM Sov) |
+| USD/CNY | MS (Xing) | 6,50–6,60 za 12–18 M (**rozpor** se SG 6,90) | 16. 11. 2026 | log 2026-11 · MS 16. 11. (BluePaper) |
+| Zlato | BCA (Ibrahim) | **Strukturální long → stranou** (stop 3 700 USD 19. 11., +113 % od 11/2022); znovu až po vrcholu dolaru | 20. 11. 2026 | log 2026-11 · BCA 20. 11. |
+| Měď / kovy | MS | Washout pozic; měď deficit 2027 platí, kupovat přestřelení (⌀ 2027 13 675 USD/t); hliník opatrně | 18. 11. 2026 | log 2026-11 · MS 18. 11. |
+| Ropa | SG (MAP) vs. MS | SG Brent 101 (1Q27) → 80 USD (4Q27); MS ~100 → 75 USD konec 2027; GS Brent 92 → 80,7 za 12M | 20. 11. 2026 | log 2026-11 · SG 20. 11. (MAP), MS 20. 11., GS 20. 11. |
+| FX / komodity | BCA (Berezin) | USD 3M silný, pak slábne; JPY 12M strong buy, EUR 12M sell; energie 12M sell, zlato 3M sell / 12M buy | 19. 11. 2026 | log 2026-11 · BCA 19. 11. (Berezin) |
 
 ### Firmy z portfolia a watchlistu
 
@@ -232,7 +265,7 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | VST | GS | **Buy**, PT 200 USD (cena v reportu 112,89); investoři texaské IPP do pol. 2027 nekupují | 6. 11. 2026 | log 2026-11 · GS 6. 11. |
 | VST | MS | High-conviction OW, PT 224 USD (cena v reportu 124,80); hodnota stávajících aktiv ~180 USD | 8. 11. 2026 | log 2026-11 · MS 8. 11. (dříve MS 4. 11.) |
 | MU | MS | OW, PT 1 200 USD (cena v reportu 690); ve screenu Quality Cyclicals | 8. 11. 2026 | log 2026-11 · MS 8. 11., MS 15. 11. |
-| BABA | MS | OW, PT 180 USD (cena v reportu 108,07) | 8. 11. 2026 | log 2026-11 · MS 8. 11. |
+| BABA | MS | OW potvrzen (BluePaper, list čínských frontier lídrů), upside 70,8 % ≈ PT 180 USD (cena v reportu 108,07); EPS 2026/27 −18 % / −28 % kvůli capexu, P/E 2027 22× | 16. 11. 2026 | log 2026-11 · MS 16. 11. (BluePaper), MS 8. 11. |
 | RHM | MS | OW (analytik), ale slabé momentum brzdí sektor | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | RHM | SG | Podruhé v 2026 snížil cíl tržeb; exekuční riziko backlogu | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | BABA | Gavekal (Gave) | Tail risk US sankcí kvůli Megaspeedu (výslovně spekulativní, základ = vyšumí) | 17. 11. 2026 | log 2026-11 · Gavekal 12. a 17. 11. |
@@ -240,11 +273,23 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | NOVO | MS | UW | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | MC | MS | EW; ~22 % tržeb od čínských spotřebitelů | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | COIN | MS (Cyprys) | **UW** (z EW), cíl 258 → 120 USD: slabší objemy, výhled tržeb, hack Binance | 7. 11. 2026 | log 2026-11 · MS (sales) 7. 11. |
+| VST | GS (Mehta, sektor) | Sentiment k IPP utlumený, VST bez blízkého katalyzátoru – pohyb v pásmu do texaské legislativy / nového DC PPA | 20. 11. 2026 | log 2026-11 · GS 20. 11. (EUM Pulse) |
+| VST | MS (kredit) | Split-rated Ba1 / BBB- / BBB-, 4,0 mld. USD v IG indexu, OAS 113 bp; OW Utilities, pozitivně na IPP | 19. 11. 2026 | log 2026-11 · MS 19. 11. (US Credit) |
+| MU | GS (13F) | 4. největší podvážení large-cap fondů (−82 bp, growth −194 bp), v Q3 čistě prodáván; YTD +147 % | 19. 11. 2026 | log 2026-11 · GS 19. 11. |
+| PFE | GS (13F) | Nově v koši největších podvážení fondů | 19. 11. 2026 | log 2026-11 · GS 19. 11. |
 
 ## Log změn
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
+| 20. 11. 2026 | BCA (Ibrahim) | Zlato | strukturální long → stranou (stop 3 700 USD) | log 2026-11 · BCA 20. 11. |
+| 20. 11. 2026 | SG (MAP) | Akcie / vládní dluhopisy / TIPS / komodity | 58 → 55 % (Čína 6 → 3) / 12 → 18 % (UST 5 → 9, gilty 0 → 3, periferie 3 → 2) / 5 → 7 % / 20 → 15 % (globální komodity 10 → 5) | log 2026-11 · SG 20. 11. (MAP) |
+| 20. 11. 2026 | SG (MAP) | FX koš | GBP 0 → 3 %, CNY 6 → 3 % | log 2026-11 · SG 20. 11. (MAP) |
+| 20. 11. 2026 | MS (EM Sov) | Guatemala, Ghana / El Salvador | neutral → like / dislike → neutral | log 2026-11 · MS 20. 11. (EM Sov) |
+| 20. 11. 2026 | GS (Rates) | Obchody | nově 3m5y vs. 3m2y receivery a JGB 2s10s flattener; real rates vs. nominály a pay RBA OIS stopnuty | log 2026-11 · GS 20. 11. (Rates Trader) |
+| 20. 11. 2026 | GS (ekonomové) | RBNZ hiky | únor + červen 2027 → prosinec 2026 + březen 2027 | log 2026-11 · GS 20. 11. (FX Trader) |
+| 19. 11. 2026 | MS (US Credit) | Hyperscaleři / DC stavební dluhopisy / defaulty HY a loans | UW → zrušen / → neutral / 4 → 4,5 % a 5,5 → 4,75 % | log 2026-11 · MS 19. 11. |
+| 19. 11. 2026 | BCA (Berezin) | Taktické obchody | → long SOXX, long MCHI vs. ACWI (short EUR/JPY dál) | log 2026-11 · BCA 19. 11. (Berezin) |
 | 11. 11. 2026 | BCA (FX) | CAD 3M / CHF-BRL / CHF-MXN | neutral → sell / nový short CHF/BRL / short CHF/MXN zastaven (−3 %) | log 2026-11 · BCA 11. 11. |
 | 10. 11. 2026 | BCA (Papic) | Ropa / tankery | → short Brent, short BWET | log 2026-11 · BCA 10. 11. |
 | 20. 11. 2026 | SG (GEO) | ČNB konec 2027 / BoE konec 2027 | 3,75 → 4,00 % / 3,00 → 4,25 % | log 2026-11 · SG 20. 11. |

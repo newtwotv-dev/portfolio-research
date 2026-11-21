@@ -1,6 +1,6 @@
 # TNE Korea (TNEK, 티앤이코리아) – dossier
 
-_Poslední aktualizace: 18. 11. 2026 · Tier: B (plánovaný nákup) · Skupina: Energie (návrh, viz níže) · Quartr: mimo Quartr (search_companies 18. 11. 2026 firmu nenašel) · IR: [IRGO – IR stránka 0053F0](https://m.irgo.co.kr/IR-COMP/0053F0/)_
+_Poslední aktualizace: 21. 11. 2026 · Tier: B (plánovaný nákup) · Skupina: Energie (návrh, viz níže) · Quartr: mimo Quartr (search_companies 18. 11. 2026 firmu nenašel) · IR: [IRGO – IR stránka 0053F0](https://m.irgo.co.kr/IR-COMP/0053F0/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -116,6 +116,7 @@ _Rozpor [Fakt]: **KRW: GS 1 280 vs. SG 1 410.** Silnější KRW by zvedl hodnotu
 | 18. 11. 2026 | Založen dossier (onboarding). Sektor navržen: energetické vybavení / turbostroje pro SOFC a vodík. Signál 🟡 Sledovat do deep dive. Quartr: nenalezeno | web (Eugene, Newstop, IB Tomato, Kokstock, Investing) |
 | 18. 11. 2026 | Novinky 11.–18. 11.: bez firemních oznámení (DART neověřen), jen silná volatilita: 11. 11. +9,1 %, 12. 11. −13,7 %, 13. 11. −6,2 %, 16. 11. −12,4 %, 17. 11. +2,9 % (close 15 440 KRW) | Kokstock (KRX data) |
 | 20. 11. 2026 | Velký pokles: close 19. 11. 16 010 KRW (−4,99 %), 20. 11. vnitrodenně ~13 500–13 830 KRW (−14 až −16 %, close zatím nepotvrzen), tedy **pod upisovací cenou 15 300 KRW**. Konkrétní zpráva nenalezena; kontext: slabost nových emisí na KOSDAQ a blížící se uvolnění 1M lock-upů (~29. 11.). Pozice zatím není (tier B), signál beze změny | [vegannews](https://www.vegannews.co.kr/news/articleView.html?idxno=408145), [Investing.com](https://www.investing.com/equities/tne-korea) |
+| 21. 11. 2026 | 20. 11. close 13 320 KRW (−16,8 %, na denním minimu, pod IPO cenou 15 300); firemní zpráva nedohledána, korejský „černý pátek“ (KOSDAQ −5,7 %). Tier B – plná kontrola v pondělí | briefs/alerts/2026-11-21.md, [investing.com](https://www.investing.com/equities/tne-korea) |
 
 ## Zdroje
 

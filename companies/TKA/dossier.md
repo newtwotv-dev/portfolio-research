@@ -1,17 +1,18 @@
 # thyssenkrupp (TKA) – dossier
 
-_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Průmysl · Quartr: [thyssenkrupp (id 5770)](https://web.quartr.com/m/companies/5770) · IR: [thyssenkrupp.com/en/investors](https://www.thyssenkrupp.com/en/investors/calendar)_
+_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Průmysl · Quartr: [thyssenkrupp (id 5770)](https://web.quartr.com/m/companies/5770) · IR: [thyssenkrupp.com/en/investors](https://www.thyssenkrupp.com/en/investors/calendar)_
 _Poslední deep dive: companies/TKA/deep-dive-v1.md (18. 11. 2026)_
 
 ## Signál
 
-**Aktuální:** ⚡ **Ke zvážení: redukovat (velikost pozice u Tomáše); teze 🟡 Sledovat.** Deep dive: SOTP v base scénáři vychází zhruba na dnešní cenu (base 12,00 EUR). Trh už v ceně má ocel s EBITDA ~0,6–0,9 mld., takže další upside potřebuje, aby ocel došla k 1,2 mld.+ a odešla i se svými penzemi. Vážený výnos je +6 % za 1,5 roku (~4 % p. a.) proti požadovaným 12–15 % p. a. Pozice 13,4 % je ~2× nad rámcem 5–8 % a celá rodina thyssenkrupp (TKA + TKMS + TKCC) dělá ~17,7 %. [Názor] · _od 18. 11. 2026_
+**Aktuální:** 🟡 **Sledovat (redukce pozastavena):** 20. 11. close 10,31 EUR (−8,0 %), tedy pod spouštěčem ~10,4 EUR z deep dive při nezměněných fundamentech (pokles táhl Vallourec a surovinové tituly, ne firemní zpráva). Při vážené ceně 12,37 EUR ze scénářů vychází +20 % za 1,5 roku (~13 % p. a.), na spodní hraně požadovaných 12–15 % p. a. – důvod k redukci kvůli valuaci odpadl. Koncentrace trvá (13,0 %, rodina thyssenkrupp ~17 %), ale neřešit ji prodejem do výprodeje; přehodnotit po výsledcích 8. 12. Buy to není (+50 % až při ~8,2 EUR). [Názor] · _od 21. 11. 2026_
 **Co by ho zvrátilo:** 🟢 FY 2025/26 (8. 12.) přinese výhled FCF před M&A 2026/27 aspoň kolem nuly, adj. EBITDA oceli 26/27 nad ~0,6 mld. a konkrétní plán oddělení oceli včetně jejích penzí (~2,3 mld.), KONE closing poběží podle plánu. Nebo cena klesne pod ~10,4 EUR při stejných fundamentech. 🔴 Ocel pod 0,43 mld. EBITDA, odklad nebo přečerpání DRI, FCF 26/27 pod −0,5 mld., zablokování dealu KONE × TKE, penze zůstanou v holdingu.
 
 | Datum | Signál | Důvod | Zdroj |
 |---|---|---|---|
 | 18. 11. 2026 | 🟡 Sledovat | Onboarding. Výchozí stav do deep dive. Výsledky FY 2025/26 vyjdou až 8. 12. 2026. | Quartr Q3 2025/26, IR kalendář |
 | 18. 11. 2026 | ⚡ Ke zvážení: redukovat (teze 🟡) | Deep dive v1: vážený výnos ~4 % p. a. vs. požadovaných 12–15 %, scénáře 5,10 / 12,00 / 20,40 EUR (25/50/25). Pozice 13,4 % vs. rámec 5–8 %, rodina thyssenkrupp ~17,7 %. Doporučení: postupně k ~7–8 %, část před 8. 12. | companies/TKA/deep-dive-v1.md |
+| 21. 11. 2026 | 🟡 Sledovat (redukce pozastavena) | Cena 10,31 EUR pod spouštěčem ~10,4 EUR při stejných fundamentech → vážený výnos ~13 % p. a. ≈ laťka 12–15 %. Koncentrace 13 % zůstává, přehodnotit 8. 12. [Odhad/Názor] | briefs/alerts/2026-11-21.md, deep-dive-v1 |
 
 ## Pozice
 
@@ -132,6 +133,7 @@ Steel CMD (28. 9. 2026): střednědobě 1,2 mld.+ EUR adj. EBITDA, většinou ze
 | 18. 11. 2026 | Novinky 11.–18. 11.: varování SSAB a odklad DRI na 2029 → −2,5 % (13. 11.). GS pod 5 % (16. 11.). Za týden −8 %, žádný jednodenní pohyb ≥ 8 % | ad-hoc-news, MarketScreener |
 | 18. 11. 2026 | Deep dive v1: signál 🟡 → ⚡ Ke zvážení: redukovat (teze 🟡). Doplněny scénáře (5,10 / 12,00 / 20,40 EUR, 25/50/25), SOTP, pracovní teze, Potvrdí/Vyvrátí, KPI (ocel CMD báze, holdingová net cash, KONE, ceny podílů), katalyzátory, rizika, broker views, Krupp-Stiftung 21 %, likvidita | companies/TKA/deep-dive-v1.md |
 | 19. 11. 2026 | 18. 11.: −2,9 % na ~11,28 EUR (Xetra, ~−10 % za 7 seancí). DB (Synagowitz) potvrdila Buy, cíl 17 EUR (beze změny od 29. 10.); hnací síly tk accelis, zakázky TKMS, možné IPO oceli. Hlasovací práva: BlackRock 5,74 % (↑), Morgan Stanley 3,9 % (↓), práh 6. 11. Q2 26/27 13. 5. 2027 (Quartr). Signál beze změny | [Börse Express](https://www.boerse-express.com/news/articles/thyssenkrupp-aktie-synagowitz-sieht-kurstreiber-bei-tk-accelis-964248), [Quartr](https://web.quartr.com/m/events/802167) |
+| 21. 11. 2026 | 20. 11. close 10,31 EUR (−8,0 % d/d, Xetra; DJ: negativní výhled Vallourecu, slabé suroviny, Salzgitter −7,4 %). Signál ⚡ redukovat → 🟡 (cena pod 10,4 EUR). thyssenkrupp nucera 20. 11.: zakázky rostou, EBIT pod guidance | briefs/alerts/2026-11-21.md, [finanzen.at](https://finanzen.at/nachrichten/aktien/boerse-frankfurt-mdax-zeigt-sich-schlussendlich-schwacher-1036788503) |
 
 ## Zdroje
 

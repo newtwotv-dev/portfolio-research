@@ -107,6 +107,10 @@ Pfizer je jedna z největších farmaceutických firem světa s tržbami ~63 mld
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 20. 11. 2026 | Gavekal (L. Gave) | Nápad short biotech / long pharma: AI a Čína zlevňují vývoj, Big Pharma si ho bere zpět (nepřímo pozitivní) | log 2026-11 · Gavekal 20. 11. |
+| 19. 11. 2026 | GS (13F) | PFE nově v koši největších podvážení fondů (−6 bp) | log 2026-11 · GS 19. 11. |
+| 19. 11. 2026 | BCA (Berezin) | Healthcare 12M strong buy (nepřímo) | log 2026-11 · BCA 19. 11. (Berezin) |
+| 16. 11. 2026 | MS (BluePaper) | PFE jako licenční partner čínských biotech (3SBio, Innovent); Big Pharma řeší patentový útes (115 mld. USD do 2035) licencemi z Číny | log 2026-11 · MS 16. 11. (BluePaper) |
 | 19. 11. 2026 | Tracker | Licence in vivo CAR-T od Starna (18. 11.): 330 mil. USD předem, až 2,3 mld. v milnících, preklinika | state.json pending_mentions · briefs/alerts/2026-11-19.md |
 | 19. 11. 2026 | GS | GOAL 2027: defenzivy Health Care jako vyvážení (nepřímo) | log 2026-11 · GS 19. 11. (GOAL) |
 | 18. 11. 2026 | Hawkeye | PFE −1,4 % po licenci od Starna („až 2,6 mld. USD“ celkem) | log 2026-11 · Hawkeye 18. 11. |

@@ -14,18 +14,22 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 27. 11. 2026 | CMD | RHM – Capital Markets Day | nové střednědobé cíle; Citi čeká jejich snížení | [Quartr](https://web.quartr.com/m/events/683576) |
 | ~29. 11. 2026 | lock-up | TNEK – uvolnění 1M lock-upů | free float 31 % → 47 % [Odhad] | Eugene IPO report, 7. 10. 2026 |
 | do 30. 11. 2026 | earnings | SMSH – výsledky Q3 2026 | [Odhad] izraelská lhůta; Q2 vyšly 25. 8. | MAYA – ověřit |
+| do 30. 11. 2026 | restrukturalizace | TKCC – nový návrh k francouzské jednotce pro úřad práce (po zrušeném prodeji Mutares) | malé, test správy portfolia | ad-hoc-news, 20. 11. 2026 |
 | 1. 12. 2026 | konference | MU – UBS Global Technology and AI Conference | | [Quartr](https://web.quartr.com/m/events/801563) |
 | 1. 12. 2026 | dividenda | MC – ex-dividenda 5,50 EUR | potvrzeno i Zonebourse | MarketScreener, Zonebourse |
 | 2. 12. 2026 | konference | AQST – Piper Sandler Healthcare Conference (prezentace CEO) | 10:30 ET | [Quartr](https://web.quartr.com/m/events/805506) |
+| prosinec 2026 | regulace | VST – ERCOT určí způsobilost base-load zdrojů („batch zero“) | klíčové pro texaská DC | MS, 6. 11. 2026 |
 | 7. 12. 2026 | earnings | TKMS – výsledky FY 2025/26 | ráno | [Quartr](https://web.quartr.com/m/events/401365) |
 | 7. 12. 2026 | earnings | TKCC – předběžné výsledky FY 2025/26 (první po spin-offu) | quiet period 23. 11.–6. 12.; v Quartru zatím není | [IR tk accelis](https://www.investors.tkaccelis.com/) |
 | 8. 12. 2026 | earnings | TKA – výsledky FY 2025/26 + výhled 2026/27 | 06:30 CET; FCF, plán pro ocel, dividenda | [Quartr](https://web.quartr.com/m/events/722119) |
 | 8. 12. 2026 | investor day | NU – první Investor Day | dlouhodobá strategie | [Quartr](https://web.quartr.com/m/events/744463) |
 | 8.–9. 12. 2026 | makro | FOMC (Fed) – rozhodnutí o sazbách | trh čeká +25 bp, Waller zmínil i +50 bp; dopad SOFI, VTS, IBKR | Hawkeye 18. 11., Gavekal 16. 11. |
 | 9. 12. 2026 | kapitál | MU – konec omezení z CHIPS Act | vedení chce přebytečnou hotovost vracet akcionářům (možný buyback) | [Quartr](https://web.quartr.com/m/sources/s329493047807869614976) |
-| 9. 12. 2026 | earnings | TUI1 – výsledky FY 2026 + výhled FY27 | guidance upr. EBIT 1,2–1,3 mld. EUR | Quartr event 691155 |
+| 9. 12. 2026 | earnings | TUI1 – výsledky FY 2026 + výhled FY27, výroční zpráva, konference pro analytiky | guidance upr. EBIT 1,2–1,3 mld. EUR | Quartr event 691155, ad-hoc-news 20. 11. |
+| 15. 12. 2026 | kapitál | VST – splacení prioritních akcií Series B | | [Quartr](https://web.quartr.com/m/sources/s57190659509) |
 | 16. 12. 2026 | earnings | MU – výsledky FQ1 FY27 | guidance tržby 61,5 ± 1,5 mld. USD; termín zatím neoficiální (Yahoo uvádí 23. 12.) | [Quartr](https://web.quartr.com/m/events/760934) |
 | prosinec 2026 / leden 2027 | guidance | CSG – guidance 2027 | CFO: „at the year end“ | Quartr, 9M call |
+| 18. 12. 2026 | výroční zpráva | TKCC – výroční zpráva FY 2025/26 | ověřit (IR se nenačetl) | finanzen.net, 31. 10. 2026 |
 | do 31. 12. 2026 | kontrakt | TKMS – podpis Kanady (až 12 ponorek) | management cílí do konce 2026, zatím preferovaný dodavatel | [Quartr Q3](https://web.quartr.com/m/sources/s253149721886117355060) |
 | do 31. 12. 2026 | FDA | NOVO – rozhodnutí FDA k CagriSema | uvedení v US začátkem 2027 | ad-hoc-news, 17. 11. 2026 |
 | do 31. 12. 2026 | FDA | GUTS – zahájení De Novo podání (Revita) | plné podání závisí na 12M datech | [Quartr](https://web.quartr.com/m/events/729202) |

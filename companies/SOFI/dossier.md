@@ -1,17 +1,18 @@
 # SoFi Technologies (SOFI) – dossier
 
-_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [SoFi Technologies (5065)](https://web.quartr.com/m/companies/5065) · IR: [investors.sofi.com](https://investors.sofi.com)_
+_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [SoFi Technologies (5065)](https://web.quartr.com/m/companies/5065) · IR: [investors.sofi.com](https://investors.sofi.com)_
 _Poslední deep dive: companies/SOFI/deep-dive-v1.md (18. 11. 2026)_
 
 ## Signál
 
-**Aktuální:** ⚡ **Ke zvážení: redukovat** (velikost pozice u Tomáše, 14,3 % → ~7–8 %); teze sama 🟡 **Sledovat**. Vážený výnos ze scénářů +26 % za 2 roky (~12 % p. a.) je pod požadovaným 14–17 % p. a. a rozptyl scénářů je velmi široký (−42 % až +102 %). Při 1,91× TBV trh už počítá s udržitelným ROTCE ~15–18 % (dnes 9,9 %). Zisk 2027 stojí na rychle rostoucí nezajištěné rozvaze (UPB osobních úvěrů +18 % q/q) s rostoucím předpokladem defaultů (5,10 %) a tenčí diskontní přirážkou. Michal (5,4 %): mírně převážená, nepřikupovat. Viz scénáře v deep-dive-v1. [Názor] · _od 18. 11. 2026_
+**Aktuální:** 🟡 **Sledovat (redukce pozastavena):** 20. 11. close 12,48 USD (−7,8 %) je pod spouštěčem ~13 USD z deep dive, fundamenty se nezměnily (výprodej fintechu a růstových titulů, žádná firemní zpráva). Při vážené ceně 18,02 USD vychází +44 % za 2 roky (~20 % p. a.), nad požadovanými 14–17 % p. a. – valuační důvod k redukci odpadl. Buy podle definice (+50 %) to ještě není (vychází při ~11,5 USD), a protože zisk 2027 stojí na nezajištěných úvěrech v době, kdy Fed zvedá, nepřikupovat před Q4 (29. 1. 2027). Pozice 13,7 % zůstává největší; Michal 5,1 % nepřikupovat. [Názor] · _od 21. 11. 2026_
 **Co by ho zvrátilo:** 🟢 / přikoupit: Q4 (29. 1. 2027) potvrdí EPS 0,90 na 2027, předpoklad defaultů ≤5,1 %, all-in NCO ≤3,5 %, total capital ratio nad ~14 % bez emise (pak pravděpodobnosti 20/50/30, ~17 % p. a.), nebo cena pod ~13 USD při stejných fundamentech. 🔴 předpoklad defaultů >5,5 % nebo all-in NCO >4 %, marky osobních úvěrů <101 % par, škrt guidance, emise akcií, propad LPB.
 
 | Datum | Signál | Důvod | Zdroj |
 |---|---|---|---|
 | 18. 11. 2026 | 🟡 Sledovat | Onboarding dossieru. Silné Q3 a zvýšená guidance vs. slabá cena, čeká se na deep dive. [Názor] | Quartr Q3 2026, tento dossier |
 | 18. 11. 2026 | ⚡ Ke zvážení: redukovat (Tomáš) / teze 🟡 | Deep dive v1: vážený výnos ~12 % p. a. < požadovaný 14–17 % p. a., conviction nízká–střední → rámec 5–8 % vs. 14,3 % u Tomáše; Michal 5,4 % vs. rámec 2–3 %. [Názor] | companies/SOFI/deep-dive-v1.md |
+| 21. 11. 2026 | 🟡 Sledovat (redukce pozastavena) | Cena 12,48 USD pod spouštěčem ~13 USD při stejných fundamentech → vážený výnos ~20 % p. a. > laťka 14–17 %. Ne Buy (+50 % až pod ~11,5 USD). [Odhad/Názor] | briefs/alerts/2026-11-21.md, deep-dive-v1 |
 
 ## Pozice
 
@@ -139,6 +140,7 @@ _Rozpor [Fakt]: sell-side je rozdělený zhruba na třetiny (Buy 24–30 USD vs.
 | 18. 11. 2026 | Novinky 11.–18. 11.: bez firemních zpráv a bez nových dokumentů na Quartru. Akcie 12.–17. 11. čtyřikrát v řadě dolů (−3,9 / −1,3 / −3,7 / −3,8 %), z 16,27 na ~14,28 USD | StockAnalysis, Simply Wall St/Yahoo, TokenPost |
 | 18. 11. 2026 | Deep dive v1: pracovní teze a variant perception, scénáře (bear 8,25 / base 18,50 / bull 28,90 USD; 30/45/25 %, vážená 18,02 USD, ~12 % p. a. vs. požadovaných 14–17 %), signál ⚡ Ke zvážení: redukovat (Tomáš, rámec 5–8 % vs. 14,3 %; Michal rámec 2–3 % vs. 5,4 %), nové KPI (FV model, LPB, zředění), katalyzátory a rizika (kapitál, FV citlivost) | companies/SOFI/deep-dive-v1.md |
 | 19. 11. 2026 | 18. 11. close 14,10 USD (−1,3 %, 7. pokles v řadě, blízko 52W minima 13,86). Bez firemní zprávy. Doplněno: Truist 3. 11. cíl 16 → 17 USD, Hold; SoFi je jedním ze 6 retail brokerů IPO Anthropicu (cena 83 USD, obchodování od 19. 11.). Zápis FOMC (18. 11.): téměř všichni pro další hike. MS (18. 11.): v consumer ABS preferuje auto před unsecured, riziko uvolňování standardů 2H27 (nepřímo). Signál beze změny | [Seeking Alpha](https://seekingalpha.com/news/4674282-sofi-technologies-shares-fell-for-seven-consecutive-sessions), [FinanceFeeds](https://financefeeds.com/sofi-stock-15-42-sunday-anthropic-ipo-week-retail-allocation-bull-16-75-bear-13-86/), log 2026-11 · MS 18. 11. |
+| 21. 11. 2026 | 20. 11. close 12,48 USD (−7,8 %), sektorový výprodej, firemní zpráva žádná. Signál ⚡ redukovat → 🟡 (cena pod 13 USD). Makro: MS Gapen – K-shaped spotřebitel, Fed hold celý 2027 | briefs/alerts/2026-11-21.md |
 
 ## Zdroje
 

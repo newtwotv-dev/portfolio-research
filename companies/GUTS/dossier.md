@@ -1,6 +1,6 @@
 # Fractyl Health (GUTS) – dossier
 
-_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [16403](https://web.quartr.com/m/companies/16403) · IR: [ir.fractyl.com](https://ir.fractyl.com/)_
+_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [16403](https://web.quartr.com/m/companies/16403) · IR: [ir.fractyl.com](https://ir.fractyl.com/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -113,6 +113,7 @@ Fractyl vyvíjí Revita – jednorázový ambulantní endoskopický zákrok, kte
 | 18. 11. 2026 | Založen dossier (onboarding), signál 🟡 Sledovat, quartr_id 16403 ověřen | [Quartr](https://web.quartr.com/m/companies/16403) |
 | 18. 11. 2026 | Novinky 11.–18. 11.: výsledky 3Q26 + 10-Q (going concern, panel Nasdaq bez rozhodnutí, covenant), +11,27 % 13. 11. 2026 | [Quartr Q3 2026](https://web.quartr.com/m/events/729202), [Gotrade](https://www.heygotrade.com/en/us-stock/guts/) |
 | 19. 11. 2026 | 18. 11. close 1,08 USD (+11,9 %), první close nad 1 USD od 27. 10.; bez zprávy či filingu. Pro obnovení compliance obvykle ≥ 10 seancí s bidem ≥ 1 USD, panel má ale vlastní diskreci [Odhad]; rozhodnutí panelu zatím nepadlo. Q4 2026 výsledky 3. 3. 2027 (Quartr). Signál beze změny | [Seeking Alpha](https://seekingalpha.com/symbol/GUTS), [StockTitan](https://www.stocktitan.net/overview/GUTS/), [Quartr](https://web.quartr.com/m/events/763805) |
+| 21. 11. 2026 | 20. 11. close 0,82 USD (−14,6 % d/d; close 19. 11. byl 0,96, ne 1,08 → za dva dny −24 %), rozpětí 0,78–0,97, firemní zpráva nedohledána. Pozadí: Nasdaq panel nerozhodl, hrozí porušení covenantu min. likvidity do 1Q27, vysoké riziko emise. Pozice 0,1 % (zanedbatelná). Signál 🟡 beze změny | briefs/alerts/2026-11-21.md, [financialcontent](https://www.financialcontent.com/quote/NQ:GUTS/historical) |
 
 ## Zdroje
 
