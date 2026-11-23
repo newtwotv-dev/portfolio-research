@@ -10,15 +10,21 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 19. 11. 2026 | IPO | MU – první den obchodování Anthropicu (Nasdaq: ANT), IPO naceněno 18. 11. na 83 USD (nad pásmem 70–78) | MU kupuje za 1 mld. USD v privátním umístění za cenu IPO | [StockAnalysis](https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/) |
 | 19. 11. 2026 | earnings | BABA – výsledky FQ2 FY27 (zářijové Q) – **proběhlo** | tržby 271,5 mld. CNY (beat), non-GAAP EPS/ADS 8,10 CNY (miss), výhled cloudu 2027 30–45 % | [Quartr](https://web.quartr.com/m/events/736903) |
 | 19. 11. 2026 | regulace | BABA – účinnost pravidla BIS o AI čipech v zahraničních DC (zveřejnění ve Federal Register) | stávající DC mají 90 dní na povolení | thecryptobasic, 17. 11. 2026 |
+| 25. 11. 2026 | makro | US core PCE (říjen), HDP Q3 2. odhad, objednávky zboží dl. spotřeby, Beige Book | core oček. +0,3 % m/m; poslední velké inflační číslo před FOMC (SOFI, NU, biotech) | Hawkeye 22. 11., fxstreet.cz |
 | 26. 11. 2026 | makro | TNEK – Bank of Korea, rozhodnutí o sazbách | SG čeká hike na 3,25 % | SG, 16. 11. 2026 |
+| 26. 11. 2026 | makro | US Thanksgiving (trhy zavřené), zápis ECB; 27. 11. zkrácený obchod do 13:00 ET | | newsquawk / Hawkeye 22. 11. |
 | 27. 11. 2026 | CMD | RHM – Capital Markets Day | nové střednědobé cíle; Citi čeká jejich snížení | [Quartr](https://web.quartr.com/m/events/683576) |
+| 27. 11. 2026 | makro | Francie flash CPI (listopad) | oček. 3,8 % – ECB, #france-fiscal | Simply Wall St 23. 11. |
+| 29. 11. 2026 | makro | OPEC+ (7 zemí s dobrovolnými škrty) | VTS +, TUI1 − při prodloužení škrtů | [OPEC](https://www.opec.org/pr-detail/2033620-1-november-2026.html) |
 | ~29. 11. 2026 | lock-up | TNEK – uvolnění 1M lock-upů | free float 31 % → 47 % [Odhad] | Eugene IPO report, 7. 10. 2026 |
 | do 30. 11. 2026 | earnings | SMSH – výsledky Q3 2026 | [Odhad] izraelská lhůta; Q2 vyšly 25. 8. | MAYA – ověřit |
 | do 30. 11. 2026 | restrukturalizace | TKCC – nový návrh k francouzské jednotce pro úřad práce (po zrušeném prodeji Mutares) | malé, test správy portfolia | ad-hoc-news, 20. 11. 2026 |
+| 1. 12. 2026 | makro | Flash HICP eurozóny (listopad), US ISM výroba | ECB 17. 12. | [ECB](https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html) |
 | 1. 12. 2026 | konference | MU – UBS Global Technology and AI Conference | | [Quartr](https://web.quartr.com/m/events/801563) |
 | 1. 12. 2026 | dividenda | MC – ex-dividenda 5,50 EUR | potvrzeno i Zonebourse | MarketScreener, Zonebourse |
 | 2. 12. 2026 | konference | AQST – Piper Sandler Healthcare Conference (prezentace CEO) | 10:30 ET | [Quartr](https://web.quartr.com/m/events/805506) |
 | prosinec 2026 | regulace | VST – ERCOT určí způsobilost base-load zdrojů („batch zero“) | klíčové pro texaská DC | MS, 6. 11. 2026 |
+| 4. 12. 2026 | makro | US NFP (listopad) | trh práce před FOMC | [BLS](https://www.bls.gov/schedule/2026/12_sched_list.htm) |
 | 7. 12. 2026 | earnings | TKMS – výsledky FY 2025/26 | ráno | [Quartr](https://web.quartr.com/m/events/401365) |
 | 7. 12. 2026 | earnings | TKCC – předběžné výsledky FY 2025/26 (první po spin-offu) | quiet period 23. 11.–6. 12.; v Quartru zatím není | [IR tk accelis](https://www.investors.tkaccelis.com/) |
 | 8. 12. 2026 | earnings | TKA – výsledky FY 2025/26 + výhled 2026/27 | 06:30 CET; FCF, plán pro ocel, dividenda | [Quartr](https://web.quartr.com/m/events/722119) |
@@ -26,7 +32,9 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 8.–9. 12. 2026 | makro | FOMC (Fed) – rozhodnutí o sazbách | trh čeká +25 bp, Waller zmínil i +50 bp; dopad SOFI, VTS, IBKR | Hawkeye 18. 11., Gavekal 16. 11. |
 | 9. 12. 2026 | kapitál | MU – konec omezení z CHIPS Act | vedení chce přebytečnou hotovost vracet akcionářům (možný buyback) | [Quartr](https://web.quartr.com/m/sources/s329493047807869614976) |
 | 9. 12. 2026 | earnings | TUI1 – výsledky FY 2026 + výhled FY27, výroční zpráva, konference pro analytiky | guidance upr. EBIT 1,2–1,3 mld. EUR | Quartr event 691155, ad-hoc-news 20. 11. |
+| 10. 12. 2026 | makro | US CPI (listopad) | | [BLS](https://www.bls.gov/schedule/2026/12_sched_list.htm) |
 | 15. 12. 2026 | kapitál | VST – splacení prioritních akcií Series B | | [Quartr](https://web.quartr.com/m/sources/s57190659509) |
+| 16.–17. 12. 2026 | makro | ECB – rozhodnutí o sazbách | trh čeká depo 2,75 % (z 2,50 %); MS čeká 3,00 % v březnu | [ECB](https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html) |
 | 16. 12. 2026 | earnings | MU – výsledky FQ1 FY27 | guidance tržby 61,5 ± 1,5 mld. USD; termín zatím neoficiální (Yahoo uvádí 23. 12.) | [Quartr](https://web.quartr.com/m/events/760934) |
 | prosinec 2026 / leden 2027 | guidance | CSG – guidance 2027 | CFO: „at the year end“ | Quartr, 9M call |
 | 18. 12. 2026 | výroční zpráva | TKCC – výroční zpráva FY 2025/26 | ověřit (IR se nenačetl) | finanzen.net, 31. 10. 2026 |

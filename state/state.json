@@ -264,15 +264,18 @@
     "last_run_note": "Alert kvůli výprodeji 20. 11. (S&P −3,7 %, Nasdaq −5,3 %, SOX −10,7 % po zprávě o šetření SEC u Nvidie): MU −13,9 %, CSG −8,8 % (+ škrty cílů Erste/Kepler/Oddo), TKA −8,0 %, GUTS −14,6 %. Signál TKA a SOFI ⚡ redukovat → 🟡 (ceny pod spouštěči z deep dive 10,4 EUR / 13 USD). TNEK (tier B) −16,8 % pod IPO. Onboarding VST, COIN, TKCC, TUI1 hotový (🟡). Ceny k close 20. 11. v prices.json (SPYY Hamburk, CSPX NAV 19. 11.). Deep dive neproběhl (alert). Tier B (TNEK) plná kontrola v pondělí."
   },
   "market_brief": {
-    "last_run": null,
-    "last_period_end": null
+    "last_run": "2026-11-23T07:45:00Z",
+    "last_period_end": "2026-11-22",
+    "last_brief": "briefs/market/2026-11-23.md",
+    "last_doc": "https://claude.ai/artifact/C6zC5ATfhK57Q58kSnVZ7n",
+    "last_run_note": "První Market Brief (období 16.–22. 11. 2026, trhy do close 20. 11.). 6 témat: AI výprodej → strach o růst, HF kapitulace vs. retail, Fed jestřábí slova vs. holubičí trh, silný USD, ropa/zlato, Čína. Žádné nové signály z makra. Watchlist beze změny (20 firem). Výhled zapsán do themes.md, makro události do calendar.md. Očekávání k vyhodnocení příště: core PCE ~0,3 %, Fed +25 bp 9. 12., S&P nad 5 800, 10Y 4,75–5,05 %, Brent < 100, EUR/USD < 1,10."
   },
   "weekly": {
     "last_run": null,
     "last_totals": null
   },
   "watchlist_snapshot": {
-    "as_of": "2026-11-21",
+    "as_of": "2026-11-23",
     "quartr_ids": [
       16403,
       14505,
