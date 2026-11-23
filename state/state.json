@@ -271,8 +271,117 @@
     "last_run_note": "První Market Brief (období 16.–22. 11. 2026, trhy do close 20. 11.). 6 témat: AI výprodej → strach o růst, HF kapitulace vs. retail, Fed jestřábí slova vs. holubičí trh, silný USD, ropa/zlato, Čína. Žádné nové signály z makra. Watchlist beze změny (20 firem). Výhled zapsán do themes.md, makro události do calendar.md. Očekávání k vyhodnocení příště: core PCE ~0,3 %, Fed +25 bp 9. 12., S&P nad 5 800, 10Y 4,75–5,05 %, Brent < 100, EUR/USD < 1,10."
   },
   "weekly": {
-    "last_run": null,
-    "last_totals": null
+    "last_run": "2026-11-23T08:30:00Z",
+    "last_brief": "briefs/portfolio/2026-11-23.md",
+    "last_doc": "https://claude.ai/artifact/T1zj89TjjNE95GJugQMwU8",
+    "last_run_note": "První týdenní souhrn. Tomáš 132 040 CZK (−10,3 % od 16. 11.), Michal 15 292 CZK (−7,4 %). Největší ztráty SOFI, CSG, TKA. Signály beze změny proti dossierům (AQST ⚡ redukovat, ostatní 🟡). Obrana 26 % nad limitem 25 %. TNEK 23. 11. vnitrodenně 12 220 KRW (pod 52W minimem). Watchlist beze změny. MU FQ1 podle Quartru 17. 12. (calendar opraven).",
+    "last_totals": {
+      "as_of": "2026-11-20",
+      "prices_as_of": "close 20. 11. 2026, kurzy ČNB 20. 11.",
+      "baseline_used": "počáteční snapshot 16. 11. (orientační, e010b79)",
+      "owners": {
+        "tomas": {
+          "total_czk": 132040,
+          "change_pct_vs_baseline": -10.3,
+          "weights_pct": {
+            "SOFI": 13.66,
+            "TKA": 13.05,
+            "AQST": 11.17,
+            "CSG": 10.47,
+            "RHM": 9.43,
+            "LIME": 8.17,
+            "IOVA": 5.58,
+            "NU": 5.37,
+            "BABA": 4.44,
+            "MC": 3.66,
+            "TKMS": 3.65,
+            "MU": 2.83,
+            "VTS": 2.27,
+            "SMSH": 2.05,
+            "NOVO": 2.04,
+            "PFE": 0.86,
+            "TKCC": 0.72,
+            "INTR": 0.38,
+            "CASH_USD": 0.13,
+            "GUTS": 0.05,
+            "IBKR": 0.02
+          },
+          "values_czk": {
+            "SOFI": 18037,
+            "TKA": 17230,
+            "AQST": 14755,
+            "CSG": 13825,
+            "RHM": 12450,
+            "LIME": 10784,
+            "IOVA": 7373,
+            "NU": 7097,
+            "BABA": 5858,
+            "MC": 4826,
+            "TKMS": 4817,
+            "MU": 3732,
+            "VTS": 2999,
+            "SMSH": 2704,
+            "NOVO": 2689,
+            "PFE": 1139,
+            "TKCC": 957,
+            "INTR": 502,
+            "CASH_USD": 170,
+            "GUTS": 67,
+            "IBKR": 28
+          },
+          "groups_pct": {
+            "Obrana": 25.6,
+            "Farmacie & biotech": 19.7,
+            "Fintech": 19.4,
+            "Průmysl": 13.8,
+            "Spotřeba & cestování": 11.8,
+            "Čína": 4.4,
+            "Polovodiče": 2.8,
+            "Energie": 2.3,
+            "Hotovost": 0.1
+          }
+        },
+        "michal": {
+          "total_czk": 15292,
+          "change_pct_vs_baseline": -7.4,
+          "weights_pct": {
+            "SPYY": 42.28,
+            "CSPX": 21.64,
+            "RHM": 9.44,
+            "SOFI": 5.09,
+            "CSG": 4.86,
+            "TUI1": 3.54,
+            "NU": 3.36,
+            "VST": 3.02,
+            "MU": 2.84,
+            "IOVA": 2.05,
+            "COIN": 1.87
+          },
+          "values_czk": {
+            "SPYY": 6465,
+            "CSPX": 3309,
+            "RHM": 1444,
+            "SOFI": 778,
+            "CSG": 744,
+            "TUI1": 542,
+            "NU": 514,
+            "VST": 462,
+            "MU": 435,
+            "IOVA": 314,
+            "COIN": 286
+          },
+          "groups_pct": {
+            "ETF": 63.9,
+            "Obrana": 14.3,
+            "Fintech": 10.3,
+            "Spotřeba & cestování": 3.5,
+            "Energie": 3.0,
+            "Polovodiče": 2.8,
+            "Farmacie & biotech": 2.1
+          }
+        }
+      }
+    }
   },
   "watchlist_snapshot": {
     "as_of": "2026-11-23",

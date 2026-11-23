@@ -35,7 +35,7 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 10. 12. 2026 | makro | US CPI (listopad) | | [BLS](https://www.bls.gov/schedule/2026/12_sched_list.htm) |
 | 15. 12. 2026 | kapitál | VST – splacení prioritních akcií Series B | | [Quartr](https://web.quartr.com/m/sources/s57190659509) |
 | 16.–17. 12. 2026 | makro | ECB – rozhodnutí o sazbách | trh čeká depo 2,75 % (z 2,50 %); MS čeká 3,00 % v březnu | [ECB](https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html) |
-| 16. 12. 2026 | earnings | MU – výsledky FQ1 FY27 | guidance tržby 61,5 ± 1,5 mld. USD; termín zatím neoficiální (Yahoo uvádí 23. 12.) | [Quartr](https://web.quartr.com/m/events/760934) |
+| 17. 12. 2026 | earnings | MU – výsledky FQ1 FY27 | guidance tržby 61,5 ± 1,5 mld. USD; Quartr 23. 11.: 17. 12. 21:30 UTC (po close), dřív uváděno 16. 12. | [Quartr](https://web.quartr.com/m/events/760934) |
 | prosinec 2026 / leden 2027 | guidance | CSG – guidance 2027 | CFO: „at the year end“ | Quartr, 9M call |
 | 18. 12. 2026 | výroční zpráva | TKCC – výroční zpráva FY 2025/26 | ověřit (IR se nenačetl) | finanzen.net, 31. 10. 2026 |
 | do 31. 12. 2026 | kontrakt | TKMS – podpis Kanady (až 12 ponorek) | management cílí do konce 2026, zatím preferovaný dodavatel | [Quartr Q3](https://web.quartr.com/m/sources/s253149721886117355060) |

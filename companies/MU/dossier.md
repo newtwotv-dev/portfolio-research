@@ -6,7 +6,7 @@ _Poslední deep dive: zatím ne_
 ## Signál
 
 **Aktuální:** 🟡 **Sledovat:** fundamenty jsou rekordní. FQ4 FY26 přineslo tržby 54,2 mld. USD a hrubou marži 87 %, guidance na FQ1 je 61,5 mld. a 75 % výroby na 2027 je prodáno. Akcie je ale cca −44 % od maxima (705 USD vs. 1 255), protože trh čeká vrchol cyklu v 2027/28 a řeší financování AI capexu a exportní kontroly. Na ~9x trailing a ~4,5–5x forward zisku trh prakticky nevěří v trvanlivost zisků. Do deep dive bez akčního signálu. [Názor] · _od 20. 11. 2026_
-**Co by ho zvrátilo:** 🟢 FQ1 (16. 12.) nad guidance s guidance FQ2 a dalším růstem marže, výrazný buyback po 9. 12., nové SCA za vyšší ceny, potvrzení HBM cen na 2027. 🔴 Pokles smluvních cen DRAM/NAND nebo HBM, renegociace či rušení SCA, škrty capexu hyperscalerů nebo neocloudů, DIO trvale nad ~140 dní, oznámení velkých kapacit konkurence pro 2028.
+**Co by ho zvrátilo:** 🟢 FQ1 (17. 12.) nad guidance s guidance FQ2 a dalším růstem marže, výrazný buyback po 9. 12., nové SCA za vyšší ceny, potvrzení HBM cen na 2027. 🔴 Pokles smluvních cen DRAM/NAND nebo HBM, renegociace či rušení SCA, škrty capexu hyperscalerů nebo neocloudů, DIO trvale nad ~140 dní, oznámení velkých kapacit konkurence pro 2028.
 
 | Datum | Signál | Důvod | Zdroj |
 |---|---|---|---|
@@ -88,7 +88,7 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 |---|---|---|
 | 1. 12. 2026 | [UBS Global Technology and AI Conference](https://web.quartr.com/m/events/801563) | Komentář k cenám 2027/28 a ke capital return |
 | 9. 12. 2026 | Konec omezení z CHIPS Act | Start vyšších buybacků, nová autorizace ([Quartr](https://web.quartr.com/m/sources/s329493047807869614976)) |
-| 16. 12. 2026 (po zavření) | [Výsledky FQ1 FY27](https://web.quartr.com/m/events/760934) | Plnění guidance 61,5 mld., guidance FQ2, capex FY27, výše buybacku (termín neoficiální, Yahoo uvádí 23. 12.) |
+| 17. 12. 2026 (po zavření, 21:30 UTC) | [Výsledky FQ1 FY27](https://web.quartr.com/m/events/760934) | Plnění guidance 61,5 mld., guidance FQ2, capex FY27, výše buybacku (termín podle Quartru 23. 11.: 17. 12.; dřív uváděno 16. 12.) |
 | začátek 2027 | První výstup z HBM packaging závodu v Singapuru | Kapacita HBM ([Quartr](https://web.quartr.com/m/sources/s66732233835527500060703)) |
 | polovina 2027 | První wafery z fabu ID1 (Idaho) a dodávky z Tongluo (Tchaj-wan) | Růst nabídky MU ([Quartr](https://web.quartr.com/m/sources/s66732233835527500060703)) |
 | 2H 2027 | Náběh 1δ DRAM a Gen11 NAND (>400 vrstev) | Technologický náskok, bity na wafer ([Quartr](https://web.quartr.com/m/sources/s225282880447875110247)) |
@@ -139,9 +139,10 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 |---|---|---|
 | 20. 11. 2026 | Onboarding (rychlý dossier) | Quartr, research log, web |
 | 21. 11. 2026 | 20. 11. close 594,51 USD (−13,9 % d/d z 690,44; v repu bylo 681,89 → −12,8 %), čipový výprodej (SOX −10,7 %, Nvidia −14 % po zprávě Reuters o šetření SEC); firemní zpráva žádná. Nové zmínky: GS/MS 13F, BCA Berezin, SG MAP, TrendForce (NAND od 1Q27 dolů). Signál 🟡 beze změny | briefs/alerts/2026-11-21.md, research log 19.–20. 11. |
+| 23. 11. 2026 | Termín FQ1 FY27 podle Quartru 17. 12. 2026 21:30 UTC (místo 16. 12.) | [Quartr](https://web.quartr.com/m/events/760934) |
 
 ## Zdroje
 
-- Quartr: [firma](https://web.quartr.com/m/companies/5199) · [FQ4 FY26 event](https://web.quartr.com/m/events/699706) · [FQ4 financials](https://web.quartr.com/m/documents/4110513) · [FQ4 cash flow](https://web.quartr.com/m/documents/3697325) · [Investor update 21. 10.](https://web.quartr.com/m/events/775493) · [TomorrowX Summit 18. 11.](https://web.quartr.com/m/events/801555) · [UBS konference 1. 12.](https://web.quartr.com/m/events/801563) · [FQ1 FY27 (16. 12.)](https://web.quartr.com/m/events/760934)
+- Quartr: [firma](https://web.quartr.com/m/companies/5199) · [FQ4 FY26 event](https://web.quartr.com/m/events/699706) · [FQ4 financials](https://web.quartr.com/m/documents/4110513) · [FQ4 cash flow](https://web.quartr.com/m/documents/3697325) · [Investor update 21. 10.](https://web.quartr.com/m/events/775493) · [TomorrowX Summit 18. 11.](https://web.quartr.com/m/events/801555) · [UBS konference 1. 12.](https://web.quartr.com/m/events/801563) · [FQ1 FY27 (17. 12.)](https://web.quartr.com/m/events/760934)
 - Research log: research/log/2026-11.md (GS 4., 17. 11., MS 6., 8., 9., 12. a 15. 11., JPM 9. 11., BCA 16. 11., Gavekal 17. 11.), research/house-views.md, state/calendar.md, state/state.json (pending_mentions), briefs/alerts/2026-11-18.md a 2026-11-19.md
 - Web: [FinancialContent (cena 19. 11., 52W, market cap, objem)](https://markets.financialcontent.com/wss/quote?Symbol=NQ%3AMU) · [MarketScreener (konsenzus, P/E)](https://ae.marketscreener.com/quote/stock/MICRON-TECHNOLOGY-INC-13639/) · [TIKR 11. 11. (GS, BofA)](https://www.tikr.com/blog/goldman-calls-micron-a-screaming-buy-bank-of-america-just-dropped-it-from-its-top-picks-whos-right) · [Webull (11. 11. +11,9 %)](https://www.webull.com/news/15911150122550272)

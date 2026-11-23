@@ -39,6 +39,7 @@
     "zdroje_close_20_11": "US tituly financialcontent / chroniclejournal (oficiální close 20. 11.); CSG Euronext Amsterdam 8,50 (npinvestor, investing; Praha 217 CZK −6,1 %); RHM tradingeconomics/Xetra-Schluss; TKMS, TKCC finanznachrichten Xetra 17:35; TKA finanzen.at Xetra (−7,99 %); TUI1 onvista Xetra; MC tradingeconomics; NOVO npinvestor; SMSH Bizportal 1 450 ILA (čas neuveden; TASE od 1/2026 obchoduje po–pá); TNEK investing.com 13 320 KRW (−16,8 %); FX ČNB 20. 11. přes kurzy.cz",
     "nahradni_udaje": "SPYY Xetra close nedohledán → Hamburk 20. 11. 273,60 EUR (−3,49 %); CSPX close 20. 11. nedohledán → NAV 19. 11. 774,95 USD (iShares)",
     "opravy_close_19_11": "Podle zdrojů 20. 11. byl close 19. 11.: GUTS 0,96 (ne 1,08 = close 18. 11.), MU 690,44 (ne 681,89), TKMS 74,00 (ne 73,20), TKA ~11,21 (ne 11,28), PFE 27,54, AQST 3,70, TUI1 ~7,05, SPYY 281,45 byl zřejmě close 18. 11.",
-    "indexy_20_11": "S&P 500 6 910,39 (−3,70 %), Nasdaq 22 617,73 (−5,28 %), SOX −10,73 %, DAX 24 802,78 (−2,60 %), STOXX 600 −1,68 %, KOSDAQ −5,71 %, US 10Y 4,92 % (−12 bp), BTC ~56,8 tis. USD (21. 11. ráno 55,8 tis.)"
+    "indexy_20_11": "S&P 500 6 910,39 (−3,70 %), Nasdaq 22 617,73 (−5,28 %), SOX −10,73 %, DAX 24 802,78 (−2,60 %), STOXX 600 −1,68 %, KOSDAQ −5,71 %, US 10Y 4,92 % (−12 bp), BTC ~56,8 tis. USD (21. 11. ráno 55,8 tis.)",
+    "weekly_23_11": "Týdenní souhrn 23. 11. použil ceny k close 20. 11. (od té doby EU/US neobchodovaly). TNEK 23. 11. vnitrodenně 12 220 KRW (−7,8 %, StockHub 14:35 KST; StockHub uvádí předchozí close 13 250 vs. kokstock 13 320) – v prices zůstává close 20. 11. CSPX a SPYY close 20. 11. dál nedohledány."
   }
 }
