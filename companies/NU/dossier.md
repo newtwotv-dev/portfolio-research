@@ -102,6 +102,7 @@ Nu je největší digitální banka v Latinské Americe: 142,6 mil. klientů, z 
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 20. 11. 2026 | GS (HFTM) | Na VIP listu nejoblíbenějších longů HF (47 fondů, 21× v top 10); HF drží 10 % kapitalizace (crowding), YTD −29 % | log 2026-11 · GS 20. 11. (HFTM) |
 | 18. 11. 2026 | Tracker | Q3 2026: tržby 6,26 mld. USD, zisk 1,09 mld., ROE 32 %, guidance efektivity 19–19,5 %, NPL 90+ 7,3 %. 13. 11. +11,75 %. Investor Day 8. 12. | briefs/alerts/2026-11-18.md |
 | 18. 11. 2026 | Gavekal | Makro kontext: slabší USD vůči EUR mění CZK přepočet US pozic včetně NU | log 2026-11 · Gavekal 18. 11. |
 | 16. 11. 2026 | SG | Makro kontext: BRL mírně konstruktivní (USD/BRL 5,25 koncem 2027), Selic 13,75 % a snižování od 3Q27 na 12,75 %, politické riziko Lula 4.0 | log 2026-11 · SG 16. 11. |

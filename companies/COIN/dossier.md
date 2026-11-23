@@ -104,6 +104,7 @@ Coinbase je největší regulovaná krypto burza v US a custodian (mj. pro vět�
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 20. 11. 2026 | GS (US Weekly, HFTM) | Týden −20 %, 12M −58 %, fwd P/E 71x; short interest 12 % kapitalizace (3. nejvyšší mezi firmami nad 25 mld. USD), BTC −29 % YTD | log 2026-11 · GS 20. 11. (US Weekly Kickstart, HFTM) |
 | 19. 11. 2026 | Tracker | Close 108,87 USD (−1,5 %), ráno +4,2 %, během dne nové 52W minimum. BTC ~61–62 tis. USD. 18. 11.: AI systém zablokoval deepfake převody za 4,7 mil. USD | log 2026-11 · Hawkeye 18. 11. |
 | 19. 11. 2026 | GS (Mutual Fundamentals) | COIN mezi nejhoršími akciemi S&P 500 od začátku Q4: −41 % QTD (ke konci Q3 −18 % YTD) | log 2026-11 · GS 19. 11. |
 | 19. 11. 2026 | Tracker | 18. 11. −3,9 % na 110,51. Spuštěn spot margin trading v US (až 10x). BTC ~62,7–63 tis. po jestřábím zápisu FOMC | briefs/alerts/2026-11-19.md |

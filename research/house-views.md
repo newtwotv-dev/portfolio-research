@@ -11,7 +11,9 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 |---|---|---|---|---|
 | Globální akcie | MS | Maximální OW, vstup do 2027 s chutí riskovat | 15. 11. 2026 | log 2026-11 · MS 15. 11. |
 | Globální akcie | JPM | Přikupovat do konce roku, geopolitické propady nakupovat; výnosy mají vrchol za sebou | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
-| US akcie (S&P 500) | GS | Cíl 8 700 konec 2027 (+17 %), EPS 2027 415 USD (pod konsenzem 426); bear 5 600 / bull 9 400 | 17. 11. 2026 | log 2026-11 · GS 17. 11. |
+| US akcie (S&P 500) | GS | Cíl 8 000 konec 2026, 8 700 za 12 M i konec 2027 (+21 % z 7 176); EPS 375 / 415 / 460 (2026–28) pod konsenzem 2027–28. Krátkodobé scénáře 5 800 (17x × trendové EPS 340) / 8 100 (19x × konsenzus 2027). Pro dno potřeba 1 ze 3: důvěra v AI zisky, holubičí Fed, kapitulace pozic (zatím chybí, Sentiment Indicator +0,7). Taktika: defenzivy a buybacky. Konec 2027 bear 5 600 / bull 9 400 (17. 11.) | 20. 11. 2026 | log 2026-11 · GS 20. 11. (US Weekly Kickstart), GS 17. 11. |
+| US positioning – hedge fondy | GS (HFTM) | Čistá páka fundamentálních L/S 42 % (5leté minimum), crowding rekordní, VIP koš −14 pb za 6 M (20letý extrém, podobně jako XII/2008 a V/2022 blízko den). Rotace z TMT do Financials (platby), Cons. Disc., Industrials, Staples, Utilities; z IPP (VST, CEG) do regulovaných utilit | 20. 11. 2026 | log 2026-11 · GS 20. 11. (HFTM) |
+| US positioning – L/S páka | MS (PB) | US L/S net leverage 41 % (6. percentil od 2010), fondy poprvé od 4/2025 net short Momentum; Asie gross 5leté minimum | 21. 11. 2026 | log 2026-11 · MS (sales) 21. 11. |
 | US akcie – riziko AI capexu | BCA | Zpomalení capexu hyperscalerů ≈ recese a bear market; obrat výdajů cca za rok, zatím brzy na de-risking | 16. 11. 2026 | log 2026-11 · BCA 16. 11. |
 | Evropa (STOXX 600) | GS | Cíl 700 za 12 M (+6 % cenově); long DAX vs. SXXP | 13. 11. 2026 | log 2026-11 · GS 13. 11. |
 | Evropa – styl | JPM | Value OW (drží 2 roky) | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
@@ -77,6 +79,8 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | EU Utilities | GS | **OW** (upgrade) | 13. 11. 2026 | log 2026-11 · GS 13. 11. |
 | EM Health Care / Energy | GS | HC **OW** (upgrade), Energy **UW** (downgrade); EM Banks OW, Internet MW | 13. 11. 2026 | log 2026-11 · GS 13. 11. |
 | Čína sektory | GS | Semis, Healthcare, Consumer Services ↑ **OW**; Tech HW ↓ **MW**; Energy, Utilities ↓ **UW**; Banks a online Retailing OW | 16. 11. 2026 | log 2026-11 · GS 16. 11. |
+| Čína sektory | MS (L. Wang) | Internet ↓ **UW**, Healthcare ↑ **OW**; MSCI China EW. **Rozpor** uvnitř MS s OW na BABA | 21. 11. 2026 | log 2026-11 · MS (sales) 21. 11. |
+| Luxus – Moncler | MS (Bonnet) | EW → **UW** (asijská expozice ~66 % tržeb, Čína ani Korea bez zlepšení) | 21. 11. 2026 | log 2026-11 · MS (sales) 21. 11. |
 | US Energy infrastructure, Health Care, Growth | GS | Pozitivní (vzácné zrychlení zisků / diverzifikace) | 17. 11. 2026 | log 2026-11 · GS 17. 11. |
 | US polovodiče – marže 2028 | GS | Hlavní riziko 2027 je výhled 2028 (nová nabídka může stlačit marže) | 17. 11. 2026 | log 2026-11 · GS 17. 11. |
 | Paměti (MU, Samsung, SK Hynix) | Gavekal | Bearish: Nvidia omezuje vendor financing → riziko zpomalení computu | 17. 11. 2026 | log 2026-11 · Gavekal 17. 11. |
@@ -159,19 +163,19 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Zlato | SG | 4 250 USD do 1Q27, 5 000 konec 2027 | 13. 11. 2026 | log 2026-11 · SG 13. 11. |
 | Zlato / měď | GS | Zlato 4 280, měď 15 350 USD/t (komodity jako hedge) | 13. 11. 2026 | log 2026-11 · GS 13. 11. |
 | Tokenizované akcie | HSBC | Doplněk, ne náhrada; SEC Innovation Exemption klíčová, Clarity Act jen odložen | 5. 11. 2026 | log 2026-11 · HSBC 5. 11. |
-| Fed | MS | Ještě 2 hiky, vrchol 4,25–4,5 % v 1Q27, škrty až 2028 | 15. 11. 2026 | log 2026-11 · MS 15. 11., MS 18. 11. |
+| Fed | MS (Hornbach, Gapen) | Střed pásma 4,375 % v 1Q27, pak drží; škrty od 1H28 na 3,625 % (konec 2028). Propad AI = −250 bp ve 2H27, vyšší poptávka = 5,375 % do 3Q27 | 21. 11. 2026 | log 2026-11 · MS 21. 11. (Global Macro), MS 15. 11. |
 | Fed | UBP | 4,25 % v prosinci, možná 4,50 % v 1Q27 | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | Fed | SG (A. Edwards) | Riziko výrazně jestřábího obratu, pokud core CPI dál +0,3 % m/m | 12. 11. 2026 | log 2026-11 · SG 12. 11. |
-| ECB | MS | Vrchol 3,0 % v 1Q27 | 15. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
-| US 10Y | MS | 5,00 % ve 4Q27 (neutrál), 1H27 bear flattening | 15. 11. 2026 | log 2026-11 · MS 15. 11., MS 18. 11. |
+| ECB | MS | +25 bp v prosinci a v březnu na 3,00 %, pak proti konsenzu škrty na 2,25 % do konce 2028 | 21. 11. 2026 | log 2026-11 · MS 21. 11. (Global Macro), MS 15. 11. |
+| US 10Y | MS | 4,90 % (4Q26), 5,05 % (2Q27), 5,00 % (4Q27), 4,75 % (4Q28); 2Y 4,90 → 4,70 → 4,00 %; konec 2027 bull 3,55 / bear 5,90 %. UST nezajišťují akcie, dokud je Fed jestřábí. **Rozpor** s GS (4,6 %) a SG (4,25 %) | 21. 11. 2026 | log 2026-11 · MS 21. 11. (Global Macro) |
 | US 10Y | UBP | Pásmo 4,75–5,25 %, durace neutrální | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
-| Bund 10Y | MS | 3,10 % ve 4Q27 | 15. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
+| Bund 10Y | MS | 3,35 % (2Q27), 3,10 % (4Q27), 2,85 % (4Q28); durace longy, nejlepší hodnota v Bundech a giltech | 21. 11. 2026 | log 2026-11 · MS 21. 11. (Global Macro) |
 | Fiskál DM / dlouhé sazby | JPM | r–g > 0, US potřebuje ~7 p. b. HDP konsolidace → strukturální tlak na výnosy | 17. 11. 2026 | log 2026-11 · JPM 17. 11. |
 | Francie – dluh | Gavekal | **Rozpor:** Gave solventní krize vs. Gemehl zvládnutelná matematika | 18. 11. 2026 | log 2026-11 · Gavekal 18. 11. |
 | Francie – dluh | JPM | Potřeba +5,4 p. b. primárního salda (nejhůř po US) | 17. 11. 2026 | log 2026-11 · JPM 17. 11. |
 | EUR/USD | MS | 1,08 ve 4Q27, DXY 105 (EUR funding měna kvůli Francii) | 15. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | EUR/USD | Gavekal (Gave) | Technicky hrozí prudký pohyb proti euru | 18. 11. 2026 | log 2026-11 · Gavekal 18. 11. |
-| EUR/CZK | MS | 24,4 ve 4Q27, pak 25,5 ve 4Q28 | 15. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
+| EUR/CZK | MS | 24,36 ve 4Q27, pak 25,5 ve 4Q28 (potvrzeno) | 21. 11. 2026 | log 2026-11 · MS 21. 11. (Global Macro) |
 | Brent | MS | **UW** (z EW), 75 USD ve 4Q27; fyzický trh změkl, cenu drží geopolitika | 15. 11. 2026 | log 2026-11 · MS 15. 11., MS 16. 11. |
 | Ropa / energie | UBP | **OW** (3 → 4), Brent 90–120 USD | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | Brent / Írán | BCA | Vrchol 120–130 USD při úderech, P(≥150 USD) 30 %; Írán 45/25/30 % (status quo/příměří/eskalace) | 2. 11. 2026 | log 2026-11 · BCA 2. 11. |
@@ -203,7 +207,7 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Francie – volby | SG | Le Pen favoritka (RN 66 %), stres po volbách 66 %, zpřísnění 2–3 p. b. HDP do 2030 | 10. 11. 2026 | log 2026-11 · SG 10. 11. |
 | Francie – OAT | ING | OAT–Bund 125–150 bp do 2Q27, pak ~100 bp | 12. 11. 2026 | log 2026-11 · ING 12. 11. |
 | US 10Y | Gavekal (Denyer) | Nepřidávat, dokud 10Y znovu neotestuje ~5,3 % (při 5,14 %); Fed +25 bp 9. 12. a pravděpodobně v lednu | 16. 11. 2026 | log 2026-11 · Gavekal 16. 11. |
-| US 10Y | MS (Hornbach) | Cíl konec 2026 4,80 % (z 24. 9.), dvě další zvýšení Fedu; sazby se dlouhodobě usadí výš | 11. 11. 2026 | log 2026-11 · MS 16. 11. (digest) |
+| US 10Y | MS (Hornbach) | Cíl konec 2026 4,80 → **4,90 %** (21. 11.); sazby se dlouhodobě usadí výš | 21. 11. 2026 | log 2026-11 · MS 21. 11. (Global Macro), MS 11. 11. |
 | US 10Y | GS (Rates Trader) | Pásmo 4,75–5,0 %, 4,40 % ve 4Q27; nový long 10Y TIPS vs. 0,75× nominál | 6. 11. 2026 | log 2026-11 · GS 6. 11. |
 | US 10Y | ING | Bias k 5,25 %, dlouhý konec pod tlakem | 4. 11. 2026 | log 2026-11 · ING 4. 11. |
 | UST taktika | BCA (Swift, Timper) | 3M short UST (short 10Y futures, 2/10 flattener), 10Y FV 5,1 %; long Bund vs. UST (uzavřen long UST vs. JGB) | 2. 11. 2026 | log 2026-11 · BCA 2. 11. |
@@ -244,7 +248,7 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | UST / Bund / JGB | GS (Rates) | Nově belly longy (3m5y vs. 3m2y receivery), JGB 2s10s flattener (94 → 75 bp); Bund 3,10 % 4Q27 (**rozpor** se SG 3,80 %); UST 10Y 4,60 % 4Q27 | 20. 11. 2026 | log 2026-11 · GS 20. 11. (Rates Trader) |
 | JPY | GS vs. MS | GS long JPY (short EUR/JPY), JPY vítěz AI risk-off; MS long USD/JPY cíl 163 – **rozpor** | 20. 11. 2026 | log 2026-11 · GS 20. 11., MS 20. 11. (G10 FX) |
 | AUD/NZD | GS vs. MS | GS AUD/NZD dolů (RBNZ hiky posunuty na prosinec a březen); MS býčí AUD (0,73 v pol. 2027) – **rozpor** | 20. 11. 2026 | log 2026-11 · GS 20. 11., MS 20. 11. |
-| USD / EUR | MS | DXY 105 střednědobě, EUR/USD 1,08 konec 2027, EUR funding měna. **Rozpor** se SG (EUR/USD 1,16, „peak dollar“) | 20. 11. 2026 | log 2026-11 · MS 20. 11. (G10 FX, EM FI) |
+| USD / EUR | MS | DXY 105 (4Q27) a nově 106 i ve 4Q28 (dříve 100); EUR/USD 1,08 (4Q27), 1,09 (4Q28, dříve 1,13) – obrat dolaru v 2028 vypuštěn; EUR funding měna. **Rozpor** se SG (1,16), GS (1,15), ING (1,18) | 21. 11. 2026 | log 2026-11 · MS 21. 11. (Global Macro), MS 20. 11. |
 | USD | BCA (Ibrahim) | Dolar dál posílí k DXY 105 (jestřábí Fed, relativní odolnost USA) | 20. 11. 2026 | log 2026-11 · BCA 20. 11. (Gold) |
 | EM FX | GS | Krátkodobě opatrně na BRL a MXN, short ILS (hedge tech), INR útočiště; 12M USD/ILS 3,35, USD/BRL 5,25, USD/KRW 1 280, USD/CZK 21,0 | 20. 11. 2026 | log 2026-11 · GS 20. 11. (FX Trader) |
 | EM FX / local | MS | „Defence now, offence in January“; EM FX porazí G3 v 2027; long BRL/CLP na začátek 2027 | 20. 11. 2026 | log 2026-11 · MS 20. 11. (EM FI) |
@@ -266,6 +270,7 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | VST | MS | High-conviction OW, PT 224 USD (cena v reportu 124,80); hodnota stávajících aktiv ~180 USD | 8. 11. 2026 | log 2026-11 · MS 8. 11. (dříve MS 4. 11.) |
 | MU | MS | OW, PT 1 200 USD (cena v reportu 690); ve screenu Quality Cyclicals | 8. 11. 2026 | log 2026-11 · MS 8. 11., MS 15. 11. |
 | BABA | MS | OW potvrzen (BluePaper, list čínských frontier lídrů), upside 70,8 % ≈ PT 180 USD (cena v reportu 108,07); EPS 2026/27 −18 % / −28 % kvůli capexu, P/E 2027 22× | 16. 11. 2026 | log 2026-11 · MS 16. 11. (BluePaper), MS 8. 11. |
+| BABA | MS (sales) | Cloud guidance +30–45 % FY28 a +50 % FY29, ale MS snížila odhady tržeb a EBITA FY28–29 kvůli US exportním kontrolám; Internet UW (MS China strategie) | 21. 11. 2026 | log 2026-11 · MS (sales) 21. 11. |
 | RHM | MS | OW (analytik), ale slabé momentum brzdí sektor | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | RHM | SG | Podruhé v 2026 snížil cíl tržeb; exekuční riziko backlogu | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | BABA | Gavekal (Gave) | Tail risk US sankcí kvůli Megaspeedu (výslovně spekulativní, základ = vyšumí) | 17. 11. 2026 | log 2026-11 · Gavekal 12. a 17. 11. |
@@ -282,6 +287,12 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
+| 21. 11. 2026 | MS (Global Macro) | EUR/USD 4Q28 / DXY 4Q28 / USD/JPY 4Q28 | 1,13 → 1,09 / 100 → 106 / 143 → 159 (EUR/USD 4Q27 1,10 → 1,08 už 15. 11.) | log 2026-11 · MS 21. 11. (Global Macro) |
+| 21. 11. 2026 | MS (Hornbach) | US 10Y konec 2026 | 4,80 → 4,90 % | log 2026-11 · MS 21. 11. (Global Macro) |
+| 21. 11. 2026 | MS (Global Macro) | Obchody sazby | nové: long 2y1y €STR, long 5y BTP vs. Bund, receive 2y2y SONIA, JGB 5s10s flattener, short AXWZ6H7 roll; uzavřené: long 2Y UST SOFR swap spready, SONIA 2y3y/5y5y steepener, SOFR/TONA basis flattener | log 2026-11 · MS 21. 11. (Global Macro) |
+| 21. 11. 2026 | MS (L. Wang) | Čína Internet / Healthcare | → UW / → OW | log 2026-11 · MS (sales) 21. 11. |
+| 21. 11. 2026 | MS | Moncler / Nucor / Hypera | EW → UW / EW → OW (PT 310 USD) / → Top Pick | log 2026-11 · MS (sales) 21. 11. |
+| 20. 11. 2026 | GS (US Strategy) | S&P 500 | cíle beze změny (8 000 YE26, 8 700 12M); nově krátkodobé scénáře 5 800 / 8 100 | log 2026-11 · GS 20. 11. (US Weekly Kickstart) |
 | 20. 11. 2026 | BCA (Ibrahim) | Zlato | strukturální long → stranou (stop 3 700 USD) | log 2026-11 · BCA 20. 11. |
 | 20. 11. 2026 | SG (MAP) | Akcie / vládní dluhopisy / TIPS / komodity | 58 → 55 % (Čína 6 → 3) / 12 → 18 % (UST 5 → 9, gilty 0 → 3, periferie 3 → 2) / 5 → 7 % / 20 → 15 % (globální komodity 10 → 5) | log 2026-11 · SG 20. 11. (MAP) |
 | 20. 11. 2026 | SG (MAP) | FX koš | GBP 0 → 3 %, CNY 6 → 3 % | log 2026-11 · SG 20. 11. (MAP) |

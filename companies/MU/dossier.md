@@ -108,6 +108,9 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 21. 11. 2026 | Hawkeye (Recap) | Týden 16.–20. 11. −23,6 %, nejhorší v S&P 500 (SMH −17,8 %); zpráva o SEC u Nvidie a nové kontroly čipů do Číny | log 2026-11 · Hawkeye 21. 11. (Recap) |
+| 20. 11. 2026 | GS (HFTM, US Weekly) | Nejhorší týden v S&P (−24 %), fwd P/E 3x; jedna z nejcrowdovanějších pozic HF (VIP: 91 fondů, 32× v top 10, HF 2 % kapitalizace), přitom podvážená u podílových fondů → riziko dalšího odbourávání i prudkého odrazu | log 2026-11 · GS 20. 11. (HFTM, US Weekly Kickstart) |
+| 20. 11. 2026 | TrendForce (přes Hawkeye) | Čínští cloudoví poskytovatelé škrtají nákupy eSSD a části server DRAM; NAND převis dřív, DRAM dál v nedostatku s menším čtvrtletním růstem cen | log 2026-11 · Hawkeye 20. 11. |
 | 20. 11. 2026 | SG / GS / Hawkeye | SG MAP: polovodiče do 2027 medvědí, SOX −30 % od léta (vedou paměti). GS Korea: paměťové akcie oceňují propad zisků cca −70 %, P/B 0,7× = historické dno. TrendForce (přes Hawkeye 19. 11.): smluvní ceny NAND od 1Q27 klesnou | log 2026-11 · SG 20. 11. (MAP), GS 20. 11. (Korea), Hawkeye 19. 11. |
 | 19. 11. 2026 | GS (13F) | MU 4. největší podvážení large-cap fondů (−82 bp, growth −194 bp), v Q3 víc prodejců než kupců; YTD +147 % | log 2026-11 · GS 19. 11. |
 | 19. 11. 2026 | MS (13F) | MU 9. největší titul S&P 500, HF aktivní pozice v Q3 +0,1 p. b. | log 2026-11 · MS 19. 11. |

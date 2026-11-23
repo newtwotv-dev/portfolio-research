@@ -1,20 +1,21 @@
 {
   "schema_version": 1,
   "research_inbox": {
-    "last_processed_at": "2026-11-21T00:42:03Z",
-    "last_run": "2026-11-21",
+    "last_processed_at": "2026-11-23T01:10:36Z",
+    "last_run": "2026-11-23",
     "last_run_stats": {
-      "plne_extrakty": 25,
-      "z_toho_gmail_reportu": 19,
-      "z_toho_samostatnych_pdf_v_prilohach": 5,
-      "z_toho_outlook": 1,
+      "plne_extrakty": 10,
+      "z_toho_gmail_reportu": 4,
+      "z_toho_samostatnych_pdf_v_prilohach": 2,
+      "z_toho_outlook": 3,
+      "z_toho_nova_zprava_ve_starem_vlakne": 1,
       "jen_titulek": 0,
-      "bez_extraktu_zalogovano": 1,
-      "zahozeno": 0,
-      "gmail": "20 nových vláken (19. 11. 10:04 – 21. 11. 00:42 UTC): 19 reportů GS/MS/BCA/SG/Gavekal plně, BSD Weekly jen řádek v logu (bez firem z universe)",
-      "outlook": "Hawkeye 19. 11. plný extrakt; T212 activity statement 20. 11. bez dat v mailu (jen v aplikaci) – nesoulad s portfolio.yaml nelze ověřit; Payment failed / verified = systémové",
-      "okno": "2026-11-19 až 2026-11-21 05:20 UTC",
-      "poznamka": "Mail GS Europe Weekly Kickstart obsahoval i GS EM/Korea/UK Kickstart, mail GS FX Trader i 2 reporty MS G10 FX – zpracovány jako samostatné extrakty. Extrakty paralelně přes 5 pomocných agentů, zkontrolováno a sloučeno. needs_pdf žádné."
+      "bez_extraktu_zalogovano": 3,
+      "zahozeno": 1,
+      "gmail": "8 nových vláken/zpráv (21. 11. 09:43 – 23. 11. 01:10 UTC): GS US Weekly Kickstart (+ China a India Weekly Kickstart v přílohách), GS HF Trend Monitor, MS Global Macro 2027 Year-Ahead (PDF 259 s., čteno výběrově), MS (sales) Global Reflections 21. 11. (nová zpráva ve vlákně 1a1d98a8614f31bd); Simply Wall St Market Insights, Asian Century AeroEdge a Fiscal.ai newsletter jen řádek v logu; Fiscal.ai login zahozen",
+      "outlook": "Hawkeye Daily 20. 11., Recap 14.–20. 11. a Week ahead 23.–27. 11. plně; žádný nový výpis T212",
+      "okno": "2026-11-21 05:20 až 2026-11-23 07:00 UTC",
+      "poznamka": "Běh v rámci Market Briefu (pondělí). Extrakty GS a MS přes 2 pomocné agenty, zkontrolováno a sloučeno. needs_pdf žádné."
     },
     "processed_thread_ids": [
       "1a1a41b7420a1187",
@@ -191,7 +192,15 @@
       "1a1f94ac80211680",
       "1a1f949fcc99bc3c",
       "1a1f9486cf735cc8",
-      "1a1f94811e60b8dc"
+      "1a1f94811e60b8dc",
+      "1a205f4753bb237e",
+      "1a2048d3a971f549",
+      "1a2029a8343c02c3",
+      "1a2016c9c19a21e3",
+      "1a1fd83b847b0156",
+      "1a1fd82c7e679505",
+      "1a1fd821063b8533",
+      "1a1fd7e00cd810c8"
     ],
     "processed_note": "Mazat ID starší 21 dní podle data mailu; ID z běhů 18.–19. 11. jsou z mailů 4.–19. 11. 2026 (nejstarší smazat nejpozději 25. 11., zbytek do 10. 12. 2026).",
     "backlog": [],
@@ -205,7 +214,10 @@
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI1pvsmwAAAA==",
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI1aFbMQAAAA==",
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI1aFbMAAAAA==",
-      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI1aFbLwAAAA=="
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEMAAAAQDtv_2m2pU_VVEzk9dr5YQAI1aFbLwAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI10GlxwAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI1pwEDwAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI1pwEDgAAAA=="
     ],
     "outlook_note": "Hawkeye Terminal (newsletter@hawkeyeterminal.com) potvrzen Tomášem 19. 11. jako zdroj 'mailů z terminálu', zapsáno v config/sources.yaml.",
     "portfolio_mismatch": {

@@ -107,6 +107,7 @@ Pfizer je jedna z největších farmaceutických firem světa s tržbami ~63 mld
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 20. 11. 2026 | GS (HFTM) | V koši 50 největších shortů v USD (short 4,1 mld. USD, 2 % floatu), YTD +18 % | log 2026-11 · GS 20. 11. (HFTM) |
 | 20. 11. 2026 | Gavekal (L. Gave) | Nápad short biotech / long pharma: AI a Čína zlevňují vývoj, Big Pharma si ho bere zpět (nepřímo pozitivní) | log 2026-11 · Gavekal 20. 11. |
 | 19. 11. 2026 | GS (13F) | PFE nově v koši největších podvážení fondů (−6 bp) | log 2026-11 · GS 19. 11. |
 | 19. 11. 2026 | BCA (Berezin) | Healthcare 12M strong buy (nepřímo) | log 2026-11 · BCA 19. 11. (Berezin) |

@@ -110,6 +110,7 @@ Vistra je největší konkurenční výrobce elektřiny v US. Po převzetí Coge
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 20. 11. 2026 | GS (HFTM) | „Falling star“: −18 HF v Q3 (na 110), druhý největší úbytek popularity mezi AI tituly; HF rotují z IPP do regulovaných utilit. Na VIP listu zůstává (46 fondů, YTD −23 %) | log 2026-11 · GS 20. 11. (HFTM) |
 | 20. 11. 2026 | GS (Mehta, EUM Pulse) | Sentiment k IPP utlumený, po poklesu omezený downside, ale investoři nekupují. U VST chybí blízký katalyzátor, čeká pohyb v pásmu do jasna v Texasu nebo dalšího DC PPA. Preferuje Talen a CEG | log 2026-11 · GS 20. 11. (EUM Pulse) |
 | 19. 11. 2026 | MS (kredit) | Split rating Ba1 / BBB- / BBB-, 4,0 mld. USD v IG indexu, OAS 113 bp. OW Utilities, „particularly constructive on IPPs“ | log 2026-11 · MS 19. 11. (US Credit) |
 | 19. 11. 2026 | Tracker | Bernstein Outperform, cíl 181 → 182 USD (17. 11.). Starší: Scotiabank 189 → 169 (9. 11.), Wells Fargo OW 212 → 198 (28. 10.). Close 18. 11. 125,58 | state/calendar.md (pending) |

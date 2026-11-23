@@ -104,6 +104,9 @@ Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má d�
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 21. 11. 2026 | MS (sales) | Cloud guidance +30–45 % FY28 a +50 % FY29, MS ale snížila odhady tržeb a EBITA FY28–29 kvůli US exportním kontrolám; MS China strategie snížila Internet na UW (rozpor s OW z 16. 11.) | log 2026-11 · MS (sales) 21. 11. |
+| 21. 11. 2026 | GS (China Weekly) | H-shares dál OW (cíl MSCI China 85 = +33 %), online retailing OW; Southbound z Alibaby za týden −243 mil. USD (2. největší prodej) | log 2026-11 · GS 21. 11. (China Weekly) |
+| 20. 11. 2026 | Hawkeye | Alibaba: nové US licence pro zámořská DC mohou snížit dlouhodobý cíl 20 GW; TSMC pozastavila část čínských objednávek | log 2026-11 · Hawkeye 20. a 21. 11. |
 | 20. 11. 2026 | BCA (Ma, Gertken) / SG (MAP) | BCA: stimul 2027 jen přírůstkový, čínská spotřeba slabá. SG MAP snižuje čínské akcie 6 → 3 % (zhoršující se FCF čínských AI platforem) | log 2026-11 · BCA 20. 11., SG 20. 11. (MAP) |
 | 19. 11. 2026 | BCA (Berezin) / Hawkeye | Berezin: Čína nejlepší trh 2027 (long MCHI vs. ACWI). Hawkeye: TSMC zastavila čínské objednávky ≤16 nm bez licence (nová pravidla od 19. 11.) | log 2026-11 · BCA 19. 11., Hawkeye 19. 11. |
 | 16. 11. 2026 | MS (BluePaper, G. Yu) | OW potvrzen v listu čínských frontier lídrů, upside 70,8 % (≈ PT 180 USD), tip na monetizaci AI (Qwen); ale EPS 2026/27 −18 % / −28 % kvůli capexu, P/E 2027 22×; MS preferuje A-shares, HK jen takticky | log 2026-11 · MS 16. 11. (BluePaper) |
