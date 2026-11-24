@@ -1,6 +1,6 @@
 # Micron Technology (MU) – dossier
 
-_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Polovodiče · Quartr: [Micron Technology (id 5199)](https://web.quartr.com/m/companies/5199) · IR: [investors.micron.com](https://investors.micron.com)_
+_Poslední aktualizace: 24. 11. 2026 · Tier: A · Skupina: Polovodiče · Quartr: [Micron Technology (id 5199)](https://web.quartr.com/m/companies/5199) · IR: [investors.micron.com](https://investors.micron.com)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -140,6 +140,7 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 | 20. 11. 2026 | Onboarding (rychlý dossier) | Quartr, research log, web |
 | 21. 11. 2026 | 20. 11. close 594,51 USD (−13,9 % d/d z 690,44; v repu bylo 681,89 → −12,8 %), čipový výprodej (SOX −10,7 %, Nvidia −14 % po zprávě Reuters o šetření SEC); firemní zpráva žádná. Nové zmínky: GS/MS 13F, BCA Berezin, SG MAP, TrendForce (NAND od 1Q27 dolů). Signál 🟡 beze změny | briefs/alerts/2026-11-21.md, research log 19.–20. 11. |
 | 23. 11. 2026 | Termín FQ1 FY27 podle Quartru 17. 12. 2026 21:30 UTC (místo 16. 12.) | [Quartr](https://web.quartr.com/m/events/760934) |
+| 24. 11. 2026 | 23. 11. close 707,70 USD (+19,04 %, objem 49 mil. vs. průměr 29 mil.) – AI/čipová rally po návratu Jensena Huanga do čela Nvidie (NVDA +31,5 %, Nasdaq +6,5 %); vlastní firemní zpráva žádná. Wilson (MS, 23. 11.): polovodiče na cílech pro downside. Signál 🟡 beze změny – fundamentální spouštěče (smluvní ceny, capex hyperscalerů) se nezměnily | briefs/alerts/2026-11-24.md, [Fool 23. 11.](https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-micron-surges-19-as-nvidia-ceo-change-calms-ai-spending-fears/), log 2026-11 · MS 23. 11. |
 
 ## Zdroje
 

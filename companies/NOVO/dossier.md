@@ -107,6 +107,7 @@ Novo je vedle Eli Lilly jedním ze dvou globálních lídrů GLP-1 léčby diabe
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 22. 11. 2026 | MS (BluePaper Europe AI) | Novo jako příklad měřitelné AI produktivity v R&D (3× hit rate, 10× rychlejší reporty studií; zdroj Novo CMD 2026); v Europe AI 50 není, farma vítězové Roche, AZ, Novartis | log 2026-11 · MS 22. 11. (BluePaper Europe AI) |
 | 19. 11. 2026 | Tracker | ObesityWeek: post hoc REDEFINE 1 (early respondeři −25,4 %), Novocare, nový CFO, guidance −2 až +2 % CER, ADR 18. 11. −3,1 %, CagriSema FDA stále Q4 2026 | state.json pending_mentions · state/calendar.md |
 | 19. 11. 2026 | GS | GOAL 2027: defenzivy Health Care jako vyvážení (nepřímo) | log 2026-11 · GS 19. 11. (GOAL) |
 | 18. 11. 2026 | GS | Top of Mind: vyvážit AI trade defenzivami (Health Care, Staples) | log 2026-11 · GS 18. 11. |

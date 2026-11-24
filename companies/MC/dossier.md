@@ -106,6 +106,8 @@ Kontext H1 2026: tržby 38,6 mld. EUR (+2 % org.), provozní zisk 8,7 mld. (mar�
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 23. 11. 2026 | MS (Global Credit) | Screen akcie vs. kredit: CDS 35 bp (Aa3, +9 bp YTD), akcie 382 EUR −41 % YTD na 2. percentilu za rok – akcie padly výrazně víc, než naznačuje kredit | log 2026-11 · MS 23. 11. (Global Credit) |
+| 22. 11. 2026 | MS (BluePaper Europe AI) | Luxus v AI rankingu „limited“ – AI není trvalá výhoda, tailwind jen efekt bohatství z AI | log 2026-11 · MS 22. 11. (BluePaper Europe AI) |
 | 19. 11. 2026 | Konsenzus (Zonebourse) | 27 analytiků „Accumuler“, cíl 491 EUR. Ex-div 5,50 EUR 1. 12. | state/calendar.md (Tracker 19. 11.) |
 | 18. 11. 2026 | Gavekal | France's Fiscal Arithmetic: riziko pro EUR a francouzská aktiva kolem voleb, #eu-consumer → MC | log 2026-11 · Gavekal 18. 11. |
 | 16. 11. 2026 | GS | China Strategy 2027: H-shares ↑ OW, Consumer Services ↑ OW (nepřímo #luxury-demand) | log 2026-11 · GS 16. 11. |

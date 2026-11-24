@@ -4,13 +4,14 @@ _Každé téma: krátký popis, dotčené pozice (podle `themes` v `config/unive
 a datované poznámky (nejnovější nahoře). 🔥 = téma ve 3 a víc reportech za týden.
 Štítky používej i v `research/log/`. Nové téma přidej sem._
 
-_Žhavá témata týdne do 22. 11. 2026: #ai-capex, #semis-cycle, #liquidity, #fed/#us-rates, #usd, #china/#us-china, #oil, #gold, #2027-outlook. Předtím do 20. 11. 2026: #ai-capex, #fed/#us-rates, #oil, #2027-outlook, #us-politics, #semis-cycle, #us-power-demand, #china/#us-china, #usd, #france-fiscal. Kandidáti na samostatné štítky (zatím pod existujícími): Írán/příměří (#oil, #israel), regulace AI (#ai-capex, #us-politics), nabídka akcií/IPO (#liquidity)._
+_Žhavá témata týdne do 24. 11. 2026: #ai-capex, #2027-outlook, #fed/#us-rates, #inflation, #ecb/#boe, #us-credit, #liquidity, #oil/#natgas, #gold, #usd, #china/#us-china, #us-power-demand. Předtím do 22. 11. 2026: #ai-capex, #semis-cycle, #liquidity, #fed/#us-rates, #usd, #china/#us-china, #oil, #gold, #2027-outlook. Předtím do 20. 11. 2026: #ai-capex, #fed/#us-rates, #oil, #2027-outlook, #us-politics, #semis-cycle, #us-power-demand, #china/#us-china, #usd, #france-fiscal. Kandidáti na samostatné štítky (zatím pod existujícími): Írán/příměří (#oil, #israel), regulace AI (#ai-capex, #us-politics), nabídka akcií/IPO (#liquidity)._
 
 ## Makro a trhy
 
 ### 🔥 #fed / #us-rates: Fed a americké sazby
 Dotčené: SOFI, IBKR, VTS a nepřímo všechny růstové tituly.
 - **Výhled (Market Brief 23. 11. 2026):** klíčové je core PCE 25. 11. (oček. +0,3 % m/m): 0,4 % a víc otevře debatu o +50 bp 9. 12., 0,2 % začne naplňovat holubičí podmínku dna podle GS. Trh po 20. 11. přestal plně oceňovat prosincové zvýšení, přestože banky (GS, MS, SG) ho čekají. Sledovat: FOMC 8.–9. 12., NFP 4. 12., CPI 10. 12.
+- 24. 11. 2026 (Inbox): **Rozpor o Fedu v rámci MS:** Wilson (23. 11.) čeká v prosinci mírnější tón, než trh oceňuje (trh „už utáhl za Fed“, dlouhé sazby se otočily z 5,35 %); MS US Rates (Tobias, 23. 11.) – Fedspeak index 14,1 nejvýš od 3/2023, hiky v prosinci a březnu, pivot nepřijde. Alpine Zhao (23. 11.): nanejvýš 2 hiky na 4,5 % (trh ~5 %), durace při dalším růstu cen zpět na benchmark. SG TA (23. 11.): 10Y v pásmu 4,81–5,18 %, pod 4,81 % hlubší pokles. MS Cross-Asset: vládní dluhopisy +3 → −3 % (UW).
 - 23. 11. 2026 (Inbox): MS Global Macro (21. 11.): Fed 4,375 % od 1Q27, škrty od 1H28 na 3,625 %; 10Y 5,05 % (2Q27) → 5,00 % (4Q27), cíl konec 2026 zvýšen 4,80 → 4,90 %; UST nezajišťují akcie, dokud je Fed jestřábí. GS US (20. 11.): holubičí Fed je jedna ze tří podmínek dna, FCI bez akcií nejpřísnější od ~2009 (analogie konec 2018). MS sales (21. 11.): trh čeká ~62 bp zvýšení za 10 měsíců, QDS: v 2018 pomohlo, až trh začal pivot oceňovat. Hawkeye (21. 11.): zápis FOMC – „téměř všichni“ čekají další zvýšení, přesto 10Y za týden −24 bp na 4,91 %; Cook (20. 11.) sazba pořád příliš nízká. **Rozpor:** 10Y konec 2027 MS 5,00 % vs. GS 4,6 % vs. SG 4,25 %.
 - 21. 11. 2026 (Inbox): **Shoda** MS Gapen (20. 11.) a SG MAP (20. 11.): +25 bp v prosinci a březnu na 4,375 %, pak hold (MS celý 2027, škrty 2028). Zápis FOMC: k říjnové pauze přispěly utažené finanční podmínky. BCA Berezin (19. 11.): prosinec + 1–2 hiky v 1H27, 10Y FV 4,55 %; GS Rates (20. 11.): risk-off smazal jestřábí přecenění po CPI, belly longy, 10Y 4,60 % 4Q27. **Rozpor:** 10Y FV Berezin 4,55 % vs. BCA Swift 5,10 %. Hawkeye 19. 11.: 10Y 5,05 %, Philly Fed 6,3 (vs. 20,6).
 - 20. 11. 2026 (doplněno z PDF): **Rozpor uvnitř BCA:** Papic/Gertken (10. 11.) – Fed v 2027 nezvedne, inflace slábne s ropou; Swift (2. a 11. 11.) – hiky v prosinci a březnu. BCA FX (11. 11.): reálný 2Y diferenciál USA–eurozóna ~270 bp, nejvýš od 2022.
@@ -21,7 +22,8 @@ Dotčené: SOFI, IBKR, VTS a nepřímo všechny růstové tituly.
 - 19. 11. 2026: MS (15. a 18. 11.): ještě dva hiky, vrchol 4,25–4,5 % v 1Q27, škrty až 2028; UST 10Y 5,00 % ve 4Q27 (teď ~5,1 %). UBP (11. 11.): hike na 4,25 % v prosinci, možná 4,50 % v 1Q27, 10Y pásmo 4,75–5,25 %. GS komodity (16. 11.) počítá s hiky i v 2027. Albert Edwards (SG 12. 11.) provokativně varuje před mnohem tvrdším obratem, pokud core CPI poroste dál o 0,3 % m/m. JPM (17. 11.): průměrný výnos US dluhu 5,9 % vs. nominální růst 3,8 %, fiskál drží dlouhé sazby nahoře. **Rozpor:** GS čeká škrty už koncem 2027, MS až 2028, Edwards razantní utahování.
 - 18. 11. 2026: GS (13. a 16. 11.) čeká hike v prosinci i v březnu, pak škrty koncem 2027 (4,13 % vs. trh 4,72 %); 10Y 4,6 % koncem 2027 z ~5,1 %. MS (15. 11.) jen krátký cyklus utahování. JPM (9. 11.): výnosy mají vrchol za sebou. **Rozpor:** jak dlouho Fed ještě zvedá (GS do 1Q27 vs. MS/JPM kratší).
 
-### #ecb / #boe: ECB, BoE a evropské sazby
+### 🔥 #ecb / #boe: ECB, BoE a evropské sazby
+- 24. 11. 2026 (Inbox): Alpine (23. 11.): ECB na 3 % (jak oceňuje OIS) nepůjde, v 2027 čeká TPI pro Francii až po reformách. MS Cross-Asset (23. 11.): ECB 3,00 % konec 2027 → 2,25 % v 2028, BoE 4,50 → 3,75 %. SG TA: Bund 10Y ~3,32 % zastropený 50-DMA 3,43 %, podpora 3,20 %.
 - 23. 11. 2026 (Inbox): MS (21. 11.): ECB +25 bp v prosinci a březnu na 3,00 %, pak proti konsenzu škrty na 2,25 % do konce 2028; Bund 10Y 3,10 % (4Q27), 2,85 % (4Q28); BoE terminál 4,50 % vs. trh ~4,9 %, nejlepší hodnota durace v giltech a Bundech. Nagel (Hawkeye 20. 11.): ECB bude v prosinci pravděpodobně muset utáhnout.
 - 21. 11. 2026 (Inbox): MS (20. 11.) ECB až na 3,00 % od 1Q27 vs. SG 2,75 %; GS Bund 3,10 % 4Q27 vs. SG 3,80 %. GS (20. 11.): BoE druhý hike v únoru, ale méně, než oceňuje trh.
 - 20. 11. 2026 (SG Global Economic Outlook): ECB 2,75 % v prosinci a pauza s rizikem dalších hiků, Bund 10Y 3,80–3,85 %; BoE konec 2027 zvýšen na 4,25 %; ČNB 4,00 % celý 2027.
@@ -31,7 +33,8 @@ Dotčené: SOFI, IBKR, VTS a nepřímo všechny růstové tituly.
 - 19. 11. 2026: MS (15. 11.): ECB vrchol 3,0 % v 1Q27, Bund 10Y 3,10 % ve 4Q27. UBP (11. 11.): ECB 2,50 %, možný hike na 2,75 % v prosinci. Francouzský dluh viz #france-fiscal.
 - 18. 11. 2026: GS (13. a 16. 11.): poslední hike v prosinci 2026, škrty koncem 2027 (2,50 % vs. trh 3,20 %), Bund 3,1 %. Eurozóna HDP 2027 snížen na 0,9 % (GS 10. 11.).
 
-### #inflation: Inflace (US/EU)
+### 🔥 #inflation: Inflace (US/EU)
+- 24. 11. 2026 (Inbox): MS Sunday Start (Carpenter, 22. 11.): riziko inflace asymetricky nahoru, inflace z poptávky by akciím nevadila, energetický šok s utahováním ano; MS čeká core PCE za říjen 0,30 % m/m (3,2 % r/r), headline 0,33 %. Alpine (23. 11.) přiznává chybu v dezinflaci (cla a Írán přidaly ≥50 bp core PCE), vrchol čeká koncem 2026.
 - 20. 11. 2026 (backlog, 2. dávka): Eurozóna HICP říjen 4,0 %, core 2,5 % (MS 7. 11., SG 16. 11.); SG čeká slabší sekundární efekty než 2022. MS Gapen (6. 11.): US core PCE 3,1 % konec 2026, 2,6 % v 2027. Alpine (12. 11.): nabídkové šoky doznívají do 2027, ULC −0,7 % ve 3Q. Inflace je hlavní obava US retailu (MS Pulse 3. 11.).
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): GS ekonomové (11. 11.): tlak vstupních cen se šíří (chemie, plasty, papír), pozitivní překvapení +0,1–0,2 p. b. do 1H27. Gavekal (16. 11.): US PPI 6,5 % r/r, jádro 5 %. Gavekal (6. 11.): PPI eurozóny +11,1 % r/r (září), BoE na 4 %. Waller (18. 11.): inflace se šíří mimo energie.
 - 19. 11. 2026 (2. dávka): BCA Budaghyan (11. 11.): core PPI 5 %, investoři vůči inflaci samolibí. Alpine US (15. 11.): „AI J-křivka“ – buildout dnes zvedá ceny, za 1–2 roky dezinflace. Gavekal-IS (12. 11.): model v pásmu konce cyklu.
@@ -40,6 +43,7 @@ Dotčené: SOFI, IBKR, VTS a nepřímo všechny růstové tituly.
 
 ### 🔥 #liquidity: Likvidita, fund flows, positioning
 - **Výhled (Market Brief 23. 11. 2026):** HF páka u 5letého minima = palivo pro ostrý odraz (futures 23. 11. +2,2 %), ale široký sentiment (GS +0,7) nevyčistil. Trvalé dno spíš až po spláchnutí retailu nebo změně tónu Fedu. Rebalancing koše GS VIP po close 24. 11.
+- 24. 11. 2026 (Inbox): Gavekal (23. 11.): odliv likvidity z IPO Anthropicu a SpaceX (~190 mld. USD), čínský daňový zátah, prodeje investorů ze Zálivu – nucení prodejci, úleva zatím odnikud. MS US Rates (23. 11.): de-grossing HF do konce roku pokračuje (analogie 2022). MS Credit: odliv 2,27 mld. USD z US HY fondů, rekordní IG emise YTD 2 162 mld. USD. **Kontrast:** Wilson a Alpine vidí kapitulaci za námi.
 - 23. 11. 2026 (Inbox): GS HFTM (20. 11.): čistá páka fundamentálních L/S HF 42 % (5leté minimum), crowding rekord, VIP koš −14 pb za 6 M (jako XII/2008 a V/2022, oba blízko dna). MS PB (19. 11.): net leverage 41 %, fondy net short Momentum. **Rozpor HF vs. retail:** GS Sentiment Indicator +0,7 (dna −1,2 až −3,0), do US akciových fondů za měsíc ~150 mld. USD – široká kapitulace zatím nepřišla.
 - 21. 11. 2026 (Inbox): GS Fund Flows (20. 11.): akcie +67 mld. USD (US +46), dluhopisy −8,4 mld., EM local −6,1 mld. (nejprudší odtok od ledna); utility 4 týdny odtoků. GS 13F (19. 11.): large-cap fondy zúžily podvážení AI na 130 bp; MS 13F (19. 11.): HF small-cap HC 39 % AUM, přírůstky zchladly. Čistá páka asijských L/S fondů nejníž za 10+ let (GS 20. 11.).
 - 20. 11. 2026 (backlog, 2. dávka): MS Cross-Asset (2. 11.): emise DM IG YTD +21 % r/r, EUR HY spready v říjnu +65 bp. SG (12. 11.): lednový rebalancing komoditních indexů = odtok z energií, přítok do drahých kovů.
@@ -50,6 +54,7 @@ Dotčené: SOFI, IBKR, VTS a nepřímo všechny růstové tituly.
 
 ### 🔥 #france-fiscal: Francouzský dluh a volby 2027
 Dotčené: celé EU akcie, EUR/CZK, MC (francouzský titul).
+- 24. 11. 2026 (Inbox): Alpine (23. 11.): Francie v recesi, 10Y OAT ~5 % nad nominálním HDP 1,68 % (r > g), TPI v 2027. MS Carpenter (22. 11.): francouzské volby mezi hlavními fiskálními riziky 2027.
 - 21. 11. 2026 (Inbox): BCA Berezin (19. 11.): fiskál Francie horší než Itálie 2011, spready „vybuchnou“. MS (20. 11.): politická prémie v EUR před jarními volbami, CHF jako hedge; SG MAP long Bonos vs. OAT. GS (20. 11.): trvalé zúžení OAT až po volbách.
 - 20. 11. 2026 (backlog, 2. dávka): Alpine Huang (2. 11.): OAT 10Y 4,98 % nad Itálií, spread k Bundům 165 bp (nejšíře od 2011), UW OAT. MS (14. 11.): deficit ~5,4 % HDP s rozpočtem, ~6 % bez něj. Robeco (5. 11.): tlak se přelévá do BTP. SG (16. 11.): dohoda o rozpočtu sociálního pojištění nepravděpodobná.
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): MS (16. 11.): Francie hlavní driver trhu SSA v 2027, spready CADES/UNEDIC ~200/180 bp (2× od srpna), short 10Y EFSF vs. Španělsko. GS Rates (6. 11.): OAT–Bund 130 bp v pol. 2027, Belgie druhé ohnisko.
@@ -59,6 +64,7 @@ Dotčené: celé EU akcie, EUR/CZK, MC (francouzský titul).
 ### 🔥 #usd / #em-fx / #boj: Dolar, měny EM a jen (BoJ)
 Dotčené: NU, INTR (BRL), SMSH (ILS), TNEK (KRW), celé portfolio přes USD/CZK.
 - **Výhled (Market Brief 23. 11. 2026):** EUR/USD pod 1,10, krátkodobě dolar jako bezpečný přístav. Na 2027 největší rozpor bank: MS 1,08–1,09 vs. GS 1,15 / SG 1,16. 55 % Tomášova portfolia je v USD, slabší dolar by v CZK ubral i bez pohybu akcií.
+- 24. 11. 2026 (Inbox): Alpine (23. 11.): DXY silný, EUR až k paritě (nejmedvědější z domů), CNY nejsilnější měna 2027. SG TA (23. 11.): EUR/USD technicky k 1,0880 a 1,0775/1,0730 (souhlas s MS 1,08, rozpor s fundamentálním SG 1,16); USD/KRW ~1 344 v downtrendu, USD/MXN v obnoveném uptrendu. MS Cross-Asset: USD/BRL 5,94 → 5,25 (nejlepší FX TR +21,8 %). Gavekal: náhlý tlak na EM měny.
 - 23. 11. 2026 (Inbox): MS (21. 11.) vypustila obrat dolaru v 2028: DXY 105 (4Q27) a 106 (4Q28, dříve 100), EUR/USD 1,08 / 1,09 (dříve 1,13), USD/JPY 162 / 159; EUR funding měna (Francie), EUR/CZK 24,36 → 25,5. EUR/USD ~1,098 (20. 11.) je nejníž od dubna 2025. **Rozpor** s GS (1,15 za 12 M) a SG (1,16).
 - 21. 11. 2026 (Inbox): **Velký rozpor:** MS (20. 11.) DXY 105, EUR/USD 1,08 konec 2027 a BCA Ibrahim (20. 11.) DXY 105 vs. SG MAP/GEO (20. 11.) „peak dollar“, EUR/USD 1,16. GS (20. 11.) krátkodobě silnější USD jako bezpečný přístav, v 2027 mírně slabší. EM FX „dokonalá bouře“ od 4. 11.: BRL cca −7,5 %, ILS cca −5,5 %, CZK cca −2,5 % (GS). JPY: GS long vs. MS long USD/JPY 163. MS: CZK jediná levná měna CEEMEA, EUR/CZK ~24,4; GS 12M USD/CZK 21,0.
 - 20. 11. 2026 (doplněno z PDF): BCA FX (11. 11.): USD OW na 3M (DXY 105), na 12M sell; short EUR/USD; nový long BRL vs. CHF (**NU**, **INTR**); JPY 12M strong buy. BCA Papic (10. 11.): strukturálně slabší USD, EUR/USD ~10 % pod PPP.
@@ -77,6 +83,7 @@ Dotčené: NU, INTR (BRL), SMSH (ILS), TNEK (KRW), celé portfolio přes USD/CZK
 - 18. 11. 2026: Demokraté ovládli obě komory nad očekávání (GS 4. 11.). Budou tlačit na omezení války s Íránem, zrušení části cel a zdravotní výdaje (+0,25 % HDP v 2027). Státní volby (Texas, Ohio) jsou pro datacentra důležitější než federální výsledek (MS 4. 11.). JPM: blue wave podporuje pohled, že eskalace bude krátká.
 
 ### 🔥 #2027-outlook: Výhledy bank na rok 2027
+- 24. 11. 2026 (Inbox): MS Cross-Asset Playbook (Tang, 23. 11.): přesné váhy max OW – akcie +15 % (US +5, EU +4, JP +5), base S&P 8 700 (+27 % z 6 910), bear 6 000; Carpenter přiznává silný odpor klientů v Singapuru. MS Wilson: „fat pitch“, kupovat teď. Alpine Zhao: AI boom v US, anemická Evropa, deflační Čína, S&P na nových maximech, mix 60/40 (z 70/30). Gavekal opačně: trhy nezdravé.
 - 23. 11. 2026 (Inbox): MS Global Macro (21. 11.): „souboj AI, ropy a centrálních bank“, výnosy kopírují forwardy; GS US (20. 11.) drží 8 000 / 8 700, ale nově krátkodobý rozptyl 5 800–8 100; GS China (21. 11.) a India (20. 11.) opakují outlooky ze 16.–18. 11.
 - 21. 11. 2026 (Inbox): BCA Berezin „From Boom To Bust“ (19. 11.): tech rally do konce roku, relaps 1H27, recese 2028, akcie 12M UW, Čína nejlepší trh. SG MAP (20. 11.): akcie 58 → 55 %, dluhopisy nahoru, komodity dolů, S&P 8 500. MS EM (20. 11.): defenziva teď, ofenziva v lednu. MS US Credit (19. 11.): vrchol nabídky IG (2,4 bil. USD).
 - 20. 11. 2026 (SG Global Economic Outlook): zpomalení bez recese (US 1,7 %, EA 1,2 %, Čína 4,5 %), větší riziko stagflace než recese, „konec utahování, ne začátek uvolňování“.
@@ -91,6 +98,8 @@ Dotčené: NU, INTR (BRL), SMSH (ILS), TNEK (KRW), celé portfolio přes USD/CZK
 ### 🔥 #ai-capex: AI investiční cyklus
 Dotčené: MU, VST, BABA.
 - **Výhled (Market Brief 23. 11. 2026):** test poptávky: Dell (24. 11.), HPE (23. 11.); riziko dalších zpráv o šetření Nvidie a exportních kontrolách. Scénáře: odraz k 7 500–8 000 při klidu zpráv vs. dolní scénář GS 5 800 při horkém PCE a jestřábím Fedu.
+- 24. 11. 2026 (Tracker): 23. 11. Nvidia znovu jmenovala CEO Jensena Huanga (podle Fox Business rezignoval 12. 11.) → NVDA +31,5 %, Nasdaq +6,5 %, S&P 500 +4,7 % (zpět z korekce), z Nasdaq-100 klesalo jen 6 akcií; MU +19 %, VST +8,3 %, Bloom ~+22 %. Alert 24. 11. ([Fool](https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-markets-rebound-from-correction-on-ai-relief-rally/), [Forbes](https://www.forbes.com/sites/brandonkochkodin/2026/11/23/only-six-nasdaq-100-stocks-fell-monday-in-one-of-wall-streets-rarest-rallies/))
+- 24. 11. 2026 (Inbox): **Rozpor:** Alpine (23. 11.) – AI výprodej je kapitulace, tech už v „stealth bear marketu“ (P/E US IT −50 %), long XLK zdvojnásoben; Wilson – DC capex jen ~5 % tržeb S&P 2027, recesi nezpůsobí; Gavekal – AI capex obchod imploduje (Nvidia −2,6 bil. USD) a táhne kovy. MS Powering AI (22. 11.): „vzduchová kapsa“ v Asii 2027–28 (vytížení DC 65 % v 2028). MS Credit: CDS AI emitentů na 1letých maximech (AMD +107 bp YTD). MS BluePaper (22. 11.): Europe AI 50, výprodej enablerů přehnaný.
 - 23. 11. 2026 (Inbox): GS (20. 11.): AI koš −32 % od 6. 10., výprodej přešel v obecný downgrade růstu; EPS S&P ~25 % nad 30letým trendem kvůli AI. MS sales (21. 11.): NVDA 8,3× fwd P/E (nejníž od GFC), exportní kontroly tvrdší, než trh čekal, DC investice se spíš přesunou. Hawkeye (20.–21. 11.): zpráva o šetření SEC u Nvidie (neověřená), Alibaba může snížit cíl 20 GW DC, SpaceX GPU financování 44 mld. USD s převisem poptávky.
 - 21. 11. 2026 (Inbox): Týden „AI de-grossingu“: S&P −5,5 % za týden (Hawkeye 19. 11.), EM AI koš −15 % (GS 20. 11.), AI faktor vysvětluje 66 % pohybu EU sektorů od října (GS). Capex hyperscalerů 2027: MS 1,6–1,66 bil. USD vs. Berezin 1,12 bil. a „konsenzus“ SG >1,1 bil. – **rozpor v číslech**. MS ruší UW na kredit hyperscalerů, SG drží CDS jako hedge. Berezin: k návratnosti je potřeba ~10 bil. USD tržeb, bust 2028. 19. 11. nové US exportní kontroly, TSMC stopla čínské objednávky ≤16 nm (Hawkeye).
 - 20. 11. 2026 (doplněno z PDF): BCA Papic (10. 11.): capex fundamentálně silný, cloud hyperscalerů +55,7 % (367 mld. USD TTM), ale midtermy vytvořily bipartijní anti-AI koalici (~80 % Američanů chce regulaci); „capex cliff“ se posouvá na konec 2027. Po velkých IPO S&P 500 historicky v průměru −24 %.
@@ -102,6 +111,7 @@ Dotčené: MU, VST, BABA.
 
 ### 🔥 #semis-cycle: Cyklus polovodičů a pamětí
 Dotčené: MU.
+- 24. 11. 2026 (Inbox): MS Wilson (23. 11.): polovodiče dosáhly cílů pro downside, časově sedí analogie se stříbrem. MS Public Policy (23. 11.): další utahování exportu přes NDAA pravděpodobnější než uvolnění.
 - 23. 11. 2026 (Inbox): Týden 16.–20. 11.: SMH −17,8 %, MU −23,6 %, NVDA −22,9 % (Hawkeye 21. 11.); polovodiče −22 % za měsíc (GS 20. 11.). GS HFTM: MU patří k nejcrowdovanějším longům HF (91 fondů), HF drží SMH/SOXX čistě short. TrendForce (20. 11., přes Hawkeye): NAND převis dřív, DRAM dál v nedostatku s menším růstem cen.
 - 21. 11. 2026 (Inbox): GS Korea (20. 11.): paměťové akcie oceňují propad zisků cca −70 %, FY3 P/B 0,7× = historické dno cyklu. SG MAP (20. 11.): do 2027 medvědí, SOX −30 % od léta vedený pamětmi. BCA Berezin (19. 11.): DRAM rekordní, taktický long SOXX, ale IT 12M sell; škrty EPS u MU historicky až po propadu −20 až −48 %. GS 13F (19. 11.): MU 4. největší podvážení fondů. TrendForce: ceny NAND od 1Q27 dolů (Hawkeye 19. 11.).
 - 20. 11. 2026 (backlog, 2. dávka): MS Wilson (14. 11.): polovodiče −40 % od června, výprodej blízko konce; Samsung nový Top Pick, u pamětí visí narativ „útesu zisků 2028“ (**MU**). SOX 5. 11. −12,2 %, druhý nejhorší den historie (MS 7. 11.). Fidelity (13. 11.) konstruktivní k pamětem. Alpine stopnul long SOXX (2. 11.), místo toho XLK.
@@ -113,6 +123,7 @@ Dotčené: MU.
 
 ### 🔥 #us-power-demand: Poptávka po elektřině v US (datacentra)
 Dotčené: VST.
+- 24. 11. 2026 (Inbox): MS Powering AI (22. 11.): US datacentrům chybí 2026–30 ~80 GW (potřeba 185 GW; plynové transakce 28 GW, palivové články Bloom 10 GW, jádro 3 GW); přelití ~20 GW do Asie exportní kontroly zužují → roste hodnota zajištěné US energie. VST OW, PT 211 USD (z 224). US CCGT na plyn ~7,7 c/kWh pod velkoobchodní cenou ~9 c. Alpine: US omezené elektřinou. MS US Rates: po vítězství demokratů v guvernérských volbách riziko lokálních restrikcí DC.
 - 23. 11. 2026 (Inbox): GS HFTM (20. 11.): HF v Q3 prodávaly IPP navázané na AI (VST −18 fondů, CEG) a kupovaly regulované utility; short interest Utilities 99. percentil. MS (21. 11.): exportní kontroly přesunou DC z JV Asie do US. Trump (20. 11.) hrozí postihem US firmám stavějícím DC v zahraničí.
 - 21. 11. 2026 (Inbox): GS EUM (20. 11.): IPP s texaskou expozicí (VST, NRG) bez katalyzátoru do legislativy (DC, 765 kV, batch zero), ~86 GW DC ve výstavbě. MS US Credit (19. 11.) i SG MAP (20. 11.) shodně OW US Utilities. Utility v Q3 −12,4 % (MS 13F), 4 týdny odtoků (GS flows). IEA: spotřeba DC 2× na 1 000 TWh do 2030 (Hawkeye 19. 11.).
 - 20. 11. 2026 (backlog, 2. dávka): GS Carbonomics (11. 11.): US spotřeba +3,5 % ročně do 2030, DC ~20 % spotřeby, BTM výroba pro DC ~67 GW (z ~40; plyn + palivové články → **TNEK**). MS (7. 11.): fronta ERCOT ~474 GW, odpor proti DC zvyšuje hodnotu zajištěné elektřiny (**VST**). Deficit napájených DC >30 % do 2028 (MS 14. 11.).
@@ -129,6 +140,7 @@ Dotčené: VST, TNEK (elektrifikace, výroba a přenos).
 ### #eu-defense / #nato-spending / #ukraine: Evropská obrana
 Dotčené: CSG, RHM, TKMS, SMSH, TKA.
 - **Výhled (Market Brief 23. 11. 2026):** RHM CMD 27. 11. (Citi čeká snížení střednědobých cílů); summit Trump–Si–Putin bez pokroku k Ukrajině, Rusko 20. 11. masivní útok na energetiku. GS drží A&D OW, SG short ITA – mírové zprávy jsou hlavní riziko pro obranu (26 % Tomášova portfolia).
+- 24. 11. 2026 (Inbox): MS BluePaper (22. 11.): A&D na 2. místě pro AI adopci, beneficienti elektronika a senzory (Thales, Saab, Hensoldt), RHM ani CSG nejmenovány.
 - 21. 11. 2026 (Inbox): GS (20. 11.) drží A&D mezi preferovanými cyklikami i po rotaci do defenziv. SG MAP (20. 11.) short ITA: diplomacie v Íránu/Ukrajině je protivítr pro drahou US obranu. Hawkeye 19. 11.: Putin odmítl moratorium na údery v Černém moři.
 - 20. 11. 2026 (backlog, 2. dávka): MS sales (7. 11.): RHM −16 % po dalším snížení výhledu tržeb (už v dossieru). MS Liwag (7. 11.): US obrana – Blue Wave v cenách, rozpočet FY27 1,1 bil. USD. GS SUSTAIN (6. 11.): koš bezpečnosti a obrany nejlepší udržitelné téma letos (+42 %). SG (16. 11.): Merz podmiňuje rozpočet EU podporou Ukrajiny.
 - 20. 11. 2026 (Tracker): Bernstein (19. 11.) zpochybňuje délku muničního cyklu (zásoby NATO ~3 roky místo 10+, drony tlačí na ceny munice) a jmenuje RHM i CSG. RHM 19. 11. −2,6 % na 724,70 EUR (od začátku roku −54 %). 19. 11. jednání „koalice ochotných“ v Berlíně za účasti Witkoffa a Kushnera, předtím rozhovory v Abú Dhabí → nižší riziková prémie sektoru.
@@ -140,6 +152,7 @@ Dotčené: CSG, RHM, TKMS, SMSH, TKA.
 
 ### #israel: Izrael
 Dotčené: SMSH.
+- 24. 11. 2026 (Inbox): MS Sunday Start (22. 11.): Bank of Israel drží 3,25 % (slabý šekel, fiskálně-geopolitická nejistota), nezanedbatelná šance na −25 bp.
 - 21. 11. 2026 (Inbox): GS FX (20. 11.) dál short ILS jako hedge tech (ILS od 4. 11. cca −5,5 %); MS (20. 11.): ILS ~6 % drahý (ze 16 %), BoI 3,25 % celý 2027.
 - 20. 11. 2026 (doplněno z PDF): BCA Papic (10. 11.): podle Gallupu Američané už Izrael nevnímají jako klíčového spojence, sympatie k Palestincům předběhly sympatie k Izraelcům (dlouhodobé riziko pro US podporu, **SMSH** nepřímo).
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): Gavekal (6. 11.): Netanjahu nebyl znovu zvolen, šance na další útoky na Írán klesla. ING (4. 11.): demokraté budou tlačit proti podpoře Izraele. GS FX (6. 11.): USD/ILS 3,35 za 12M.
@@ -149,6 +162,7 @@ Dotčené: SMSH.
 
 ### 🔥 #korea: Korea
 Dotčené: TNEK.
+- 24. 11. 2026 (Inbox): MS Powering AI (22. 11.): v Koreji jen 151 MW smluvní kapacity DC, KEPCO UW a HD Hyundai Electric „avoid“; behind-the-meter v Asii do 2030 8 GW (pozitivní pro SOFC). MS Sunday Start: BoK +25 bp 26. 11., Korea preferována před Tchaj-wanem. Gavekal: Kospi mezi největšími oběťmi posledních 2 měsíců.
 - 21. 11. 2026 (Inbox): KOSPI −7,9 % za týden na 4 870, zahraniční prodej 4,6 bil. KRW; GS dál OW, cíl 7 500 (GS 20. 11.). Korejské akciové fondy se otočily do odtoku −0,5 mld. USD, KRW má přítoky (GS flows). MS (20. 11.): KRW relativní favorit, BoK 3,50 %; SG: short KRW/INR, opatrně s Korea Tech – **rozpor**. Export polovodičů 1–10/2026 +194 % r/r (Hawkeye).
 - 20. 11. 2026 (SG Global Economic Outlook): Future Response Fund 162,3 bil. KRW přidá 0,5–0,7 p. b. k HDP 2027, BoK na 3,5 %, HDP 2027 zvýšen na 3,0 %.
 - 20. 11. 2026 (backlog, 2. dávka): MS (14. a 17. 11.): „Korea Renaissance“, ROE 8 → 14 %+ do 2030, OW SK Hynix, Samsung, Hyundai, KB. KOSPI 200 6. 11. −6,5 % s circuit breakerem (MS 7. 11.). Korejský export předbíhá US capital goods (MS 3. 11.).
@@ -159,6 +173,7 @@ Dotčené: TNEK.
 
 ### #eu-industry / #eu-energy: Evropský průmysl a energie
 Dotčené: TKA, TKCC.
+- 24. 11. 2026 (Inbox): MS BluePaper Europe AI (22. 11.): Capital Goods sektor č. 1 pro AI adopci, brzdí energie, compute a Data Act. SG (23. 11.): EU zásoby plynu nejnižší za 13 let (70 %), TTF ~85 EUR/MWh přes zimu a ~63 v září 2027 – úleva bez kolapsu cen.
 - 20. 11. 2026 (doplněno z PDF): BCA Papic (10. 11.): sekulárně Buy Europe (SIU, „EU Inc“, konsolidace). SG křivky (10. 11.): hliník poprvé za 10 let v listopadu v konvexní backwardaci, kovy celkově napjatější → nákladový tlak (**TKA**); TTF zimní prémie.
 - 20. 11. 2026 (backlog, 2. dávka): GS Carbonomics (11. 11.): TTF 1Q27 92 EUR/MWh (stres ~150), ETS po 2030 víc podpoří průmysl, financování dekarbonizace >3× (zelená ocel → **TKA**, **TKCC**). SG (16. 11.): energetický šok 2026 menší než 2021/22.
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): Gavekal C. Gave (13. 11.): preferovat evropské průmyslovky; Německo bude hledat levnou energii i u Ruska. GS FX (6. 11.): slabší EUR je nejlepší hedge energetického rizika. Gavekal (6. 11.): nízké zásoby plynu v Evropě = riziko zimního skoku cen.
@@ -166,6 +181,7 @@ Dotčené: TKA, TKCC.
 
 ### #fintech / #us-consumer-credit: Fintech a spotřebitelský úvěr
 Dotčené: SOFI, NU, INTR, COIN.
+- 24. 11. 2026 (Inbox): MS Credit (23. 11.): akcie COF, ALLY, AXP padají (−18 až −26 % YTD) víc než jejich CDS. Alpine (23. 11.): kreditní karty a hypoteční pojištění nejzranitelnější „druhá noha K“ (SOFI).
 - 23. 11. 2026 (Inbox): GS HFTM (20. 11.): Financials měly v Q3 největší nárůst HF tiltu (+254 bp, platební procesory, P&C pojišťovny); NU na VIP listu (HF drží 10 % kapitalizace). HOOD −20 % za týden (GS).
 - 21. 11. 2026 (Inbox): MS Gapen (20. 11.): K-shaped spotřebitel, nízkopříjmoví pod tlakem dražšího dluhu, reálná spotřeba 2027 +2,0 %.
 - 20. 11. 2026 (backlog, 2. dávka): **COIN:** MS (Cyprys, 7. 11.) EW → UW, cíl 258 → 120 USD. MS Pulse (3. 11.): retail snižuje toleranci k riziku, přesouvá se do dluhopisů a CD (nepřímo **IBKR**, **SOFI**). Alpine Giorgi (3. 11.): prostředí pro Financials ideální, lepší už nebude.
@@ -173,13 +189,15 @@ Dotčené: SOFI, NU, INTR, COIN.
 - 19. 11. 2026: MS (18. 11.): emise consumer ABS v 2027 flat (280 mld. USD), růst jen v unsecured; MS preferuje auto před unsecured a varuje před uvolňováním standardů s dopadem ve 2H27 (nepřímo SOFI).
 - 18. 11. 2026: HSBC (5. 11.): NYSE staví 24/7 platformu tokenizovaných akcií s okamžitým vypořádáním; nepřímá konkurence brokerům.
 
-### #us-credit: Korporátní kredit US
+### 🔥 #us-credit: Korporátní kredit US
 Dotčené: nepřímo všechny (financování, spready); IBKR, SOFI.
+- 24. 11. 2026 (Inbox): MS Global Credit (Patkar, 23. 11.): IG +10 bp a HY +51 bp za týden; US CCC 1 174 bp na 5letém maximu (~92. percentil za 20 let), IG 96 bp na 1letém maximu (ale ~22. percentil). Preferuje IG > loans > HY, UW single-B. MS Cross-Asset: US IG UW uzavřen (−5 → 0 %), US HY −1 → −2.
 - 21. 11. 2026 (Inbox): MS Patkar (19. 11.): IG > loans > HY, rekordní IG emise 2,4 bil. USD (370 mld. AI), HY 310 bp konec 2027, defaulty HY 4,5 %; UW hyperscalerů zrušen. GS (20. 11.): EUR IG/HY výnosy od září +38/+80 bp.
 - 20. 11. 2026: Nové téma. MS Patkar (6. 11.): fundamenty 3Q26 se zlepšují plošně, medián růstu EBITDA IG 9,2 %, HY 9,6 %; utility nejvyšší páka (5,9x). AI emise dluhopisů 636 mld. → ~1 bil. USD v 2028 (Alpine McClellan, 11. 11.).
 
 ### 🔥 #latam: Latinská Amerika (Brazílie, Mexiko)
 Dotčené: NU, INTR.
+- 24. 11. 2026 (Inbox): MS Cross-Asset (23. 11.): HDP Brazílie 2027 0,9 %, Selic 13,75 % celý 2027, 11,75 % v 2028; USD/BRL 5,25. Gavekal: Brazílie mezi největšími oběťmi posledních 2 měsíců.
 - 21. 11. 2026 (Inbox): BRL nejslabší EM měna od 4. 11. (cca −7,5 %), odtoky z brazilských fondů pokračují (GS 20. 11.). MS (20. 11.): Brazílie mírně levná, ale fiskál nestačí, BRL ~6,0 = nákup, Selic 13,75 % celý 2027 (**rozpor** se SG 12,75 %); shoda na USD/BRL 5,25 konec 2027 (MS i SG).
 - 20. 11. 2026 (SG Global Economic Outlook): Selic 12,75 % konec 2027, HDP Brazílie 2027 snížen na 1,2 %, 10Y 15,2 % a BRL −12 % po Lulově vítězství (**NU**, **INTR**).
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): Gavekal L. Gave (6. 11.): EM financials mezi favority při slabším USD (nepřímo **NU**, **INTR**), nejistota kolem Brazílie je riziko. Banxico −25 bp na 6,25 % (GS, Gavekal 6. 11.). MS (9. 11.): USD/BRL k 6,00 do konce roku. GS (6. 11.): USD/BRL 5,25 za 12M. Gavekal C. Gave (13. 11.): preferovat LatAm dluhopisy.
@@ -189,6 +207,7 @@ Dotčené: NU, INTR.
 
 ### #btc / #crypto-regulation: Bitcoin a regulace krypta
 Dotčené: COIN.
+- 24. 11. 2026 (Inbox): Gavekal (23. 11.): krypto mezi nejhoršími aktivy posledních 2 měsíců (COIN).
 - 23. 11. 2026 (Inbox): BTC −13,8 % za týden na 58,8 tis. USD (Hawkeye 21. 11.), −29 % YTD jako nejhorší aktivum v přehledu GS (20. 11.). COIN: short interest 12 % kapitalizace (GS HFTM).
 - 20. 11. 2026 (backlog, 2. dávka): MS (7. 11.): COIN → UW, hack Binance jako zdroj nejistoty v kryptu.
 - 19. 11. 2026 (2. dávka): JPM (18. 11.): retail silně prodává spot BTC/ETH ETF, těžaři prodávají rezervy (BTC ~65 tis. vs. náklady ~86 tis. USD), institucionální pozice v CME drží.
@@ -200,6 +219,7 @@ Dotčené: COIN, IBKR.
 
 ### #glp1: GLP-1 a obezita
 Dotčené: NOVO, PFE, GUTS.
+- 24. 11. 2026 (Inbox): MS BluePaper (22. 11.): Novo jako příklad měřitelné AI produktivity v R&D (3× hit rate, 10× rychlejší reporty studií; zdroj Novo CMD 2026).
 - 20. 11. 2026 (backlog, 2. dávka): MS (14. 11.): Lilly retatrutide −28,3 % hmotnosti za 80 týdnů, Innovation Day 7. 12. (konkurence pro **NOVO**). Alpine Giorgi (3. 11.): farma vítěz midtermů, cenové kontroly výměnou za širší přístup ke GLP-1.
 - 
 
@@ -219,6 +239,7 @@ Dotčené: IOVA, AQST, GUTS.
 ### 🔥 #china / #us-china: Čína a vztahy US–Čína
 Dotčené: BABA, MC.
 - **Výhled (Market Brief 23. 11. 2026):** BABA obchoduje na zprávách z Washingtonu (licence pro zámořská DC, cíl 20 GW). Rozpor GS (H-shares OW) vs. MS China (Internet UW) a uvnitř MS (BABA OW).
+- 24. 11. 2026 (Inbox): MS Public Policy (23. 11.): riziko k dalšímu utahování (NDAA: RASA, MATCH, AI Overwatch, CHIPS Security Act), klíčové datum konec příměří z Busanu 11. 1. 2027; omezení pronájmu computu čínským firmám jde proti cloudu BABA. MS Credit: BABA dluhopisy mezi nejlepšími A-rated USD papíry v listopadu. Alpine: Čína deflace, přebytek >1,2 bil. USD, vztahy US–Čína stabilní. Gavekal: zpětná 20% daň vyvolala prodeje HK akcií.
 - 23. 11. 2026 (Inbox): MS sales (21. 11.): L. Wang snižuje čínský Internet na UW a Healthcare zvyšuje na OW; MS snížila odhady Alibaby FY28–29 kvůli kontrolám (**rozpor** s OW na BABA z 16. 11.). GS China (21. 11.): MSCI China −5,3 %, HSTECH −7,9 %, H-shares dál OW (cíl 85 = +33 %), Southbound z Alibaby −243 mil. USD za týden. Summit Trump–Si–Putin (19. 11.) jen symbolický.
 - 21. 11. 2026 (Inbox): BCA Ma/Gertken (20. 11.): Si 4. mandát, stimul 2027 jen přírůstkový, bez obratu ke spotřebě. MS BluePaper (16. 11.): frontier odvětví (AI, Industry 5.0, HC) – TAM 3,2 bil. USD do 2030, A > H, BABA OW. BCA Berezin (19. 11.): Čína nejlepší trh 2027 (long MCHI vs. ACWI). SG MAP (20. 11.): Čína 6 → 3 %, CNY 6 → 3 %. **Rozpor:** Berezin/GS býčí vs. SG snižuje; MS A > H vs. GS OW H. MSCI China cca −5 % za týden (GS). Xi varoval USA kvůli Tchaj-wanu (Hawkeye 19. 11.).
 - 20. 11. 2026 (backlog, 2. dávka): MS Eddy Wang (14. 11.): negativní na čínský e-commerce (**BABA**). Robeco (5. 11.): PBoC skrytě uvolňuje, čínské akcie ~20 % pod koncem června. MS (16. 11.): čínské AI laby dohánějí US i přes exportní omezení. SG (16. 11.): čínský export do EU v říjnu +24 % r/r.
@@ -229,6 +250,7 @@ Dotčené: BABA, MC.
 
 ### #luxury-demand: Poptávka po luxusu
 Dotčené: MC.
+- 24. 11. 2026 (Inbox): MS BluePaper (22. 11.): AI pro luxus provozně „limited“, tailwind jen bohatství z AI. MS Credit screen: LVMH akcie −41 % YTD (2. percentil) vs. CDS jen +9 bp – akcie výrazně slabší než kredit.
 - 23. 11. 2026 (Inbox): MS (21. 11.) snížila Moncler na UW (asijská expozice ~66 %, Čína ani Korea bez zlepšení) – sektorový signál pro MC.
 - 21. 11. 2026 (Inbox): BCA Ma/Gertken (20. 11.) i MS (16. 11.): čínská spotřeba v 2027 zůstane slabá, stimul ji nezvedne.
 - 19. 11. 2026 (2. dávka): MS (8. 11.): luxus mezi sektory s nejmenším vyčíslením přínosu AI. GS (4. 11.): revize EPS luxusu od začátku blízkovýchodního konfliktu jen −1,9 %.
@@ -238,6 +260,7 @@ Dotčené: MC.
 
 ### #us-consumer / #eu-consumer: Spotřebitel
 Dotčené: LIME, TUI1, MC.
+- 24. 11. 2026 (Inbox): MS BluePaper (22. 11.): package holidays střední riziko agentické disrupce, TUI nejlépe připravený operátor (stock idea). MS Sunday Start: reálné výdaje za říjen +0,1 % m/m, nové domy −5,3 %.
 - 20. 11. 2026 (backlog, 2. dávka): MS Gapen (6. 11.): dvourychlostní spotřebitel, reálná spotřeba 2027 zpomalí na 2,0 %. Alpine (2. a 3. 11.): spotřebu táhne pokles úspor (3,8 %), nižší příjmy trpí.
 - 20. 11. 2026 (backlog 2.–16. 11. + Hawkeye 18. 11.): Gavekal C. Gave (13. 11.): vyhnout se US a EU spotřebitelským akciím (rozpor s Gavekal Tan 10. 11., který je na US spotřebitele pozitivní). Gavekal (9. 11.): NFP +165 tis.
 - 19. 11. 2026 (2. dávka): Gavekal (10. 11.): „K-shaped“ ekonomika se narovnává, US spotřebitelské akcie před svátky pozitivně (LIME nepřímo). GS (4. 11.): revize EPS Travel & Leisure −21 % od začátku konfliktu (TUI1).
@@ -246,6 +269,7 @@ Dotčené: LIME, TUI1, MC.
 ### 🔥 #oil / #natgas: Ropa a plyn
 Dotčené: VTS, VST, TUI1 (náklady na palivo).
 - **Výhled (Market Brief 23. 11. 2026):** OPEC+ 29. 11.; trh ignoruje incidenty u Hormuzu (útok na Bahrajn 21. 11.), banky se shodují na Brentu ~75–80 USD koncem 2027. Riziko eskalace (BCA 30 %) = inflace a Fed. TTF 88 EUR/MWh po výpadku Troll a chladnu.
+- 24. 11. 2026 (Inbox): Alpine Zhao (23. 11.): Brent 50 USD v 2027, short USO – nejmedvědější z domů. MS Cross-Asset: Brent UW (−2 %), 75 USD. SG TA: Brent pod 97 → 89/85/80. Gavekal: Shenzhenská deklarace může srazit ropu, zásoby ale nízké. **Plyn** (SG Commodity Compass, 23. 11.): HH cca −20 % pod futures (mírná zima, US zásoby u rekordu), po zimě riziko utažení; TTF zaceňuje nejslabší EU zásoby za 13 let; rozpor s GS (TTF 46).
 - 23. 11. 2026 (Inbox): Brent −3,4 % za týden na 92,6 USD, WTI −5,0 % (Hawkeye 21. 11.); US rig count 607, nejvíc od dubna 2024; další tanker zasažen u Hormuzu (20. 11.). MS (21. 11.): základ normalizace Brentu a plynu v 2027, dohoda s Íránem pravděpodobnější. GS (20. 11.): Brent 92 → 80 USD za 12 M.
 - 21. 11. 2026 (Inbox): SG MAP (20. 11.) snižuje komodity, Brent 101 (1Q27) → 80 USD (4Q27); MS ~100 → 75 USD; GS EUM (20. 11.) Brent 92 → 80,7 za 12M, E&P oceňují WTI ~66. US SPR nejníž od 1984 (MS 20. 11.). Hawkeye 19. 11.: dva tankery najely na miny v Hormuzu (>4 mil. bbl), MPLX force majeure na dodávky ropy z Bakkenu (kontaminace) – relevantní pro VTS. GS: HH 2027 3,08 vs. mid-cycle 3,50, plynové E&P nejdefenzivnější.
 - 20. 11. 2026 (doplněno z PDF): MS Oil Manual (16. 11.): fyzický trh měkne, Dated pod futures, přebytek 2027 +3,6 mb/d, Brent 100 → 75 USD (1Q → 4Q27), WTI 70 USD ve 4Q27 (**VTS**); diesel/jet úzké hrdlo, rekordní údržba rafinérií ve 2Q27 → drahé letecké palivo v létě 2027 (**TUI1**). BCA Papic (10. 11.): ropa za vrcholem, short Brent a tankery. SG křivky (10. 11.): backwardace strmější než průměr, model čeká zploštění; HH nejsilnější carry signál ze 32 komodit.
@@ -257,6 +281,7 @@ Dotčené: VTS, VST, TUI1 (náklady na palivo).
 - 18. 11. 2026: GS (15. 11.): Brent průměr 2027 88 USD, prosinec 2027 78; WTI 70 koncem 2027, doporučuje producentům zajištění. SG (13. 11.): Brent 1Q27 101, 4Q27 80. **Rozpor:** GS má geopolitickou prémii skoro pryč, SG ji drží výš a déle; koncem 2027 se sbíhají kolem 78–80 USD. Plyn: Henry Hub podporují LNG a AI poptávka (Alpine 16. 11.); GS NYMEX 2,75. Diesel zůstane drahý (TUI1).
 
 ### 🔥 #gold: Zlato
+- 24. 11. 2026 (Inbox): **Rozpor:** MS Cross-Asset (23. 11.) – zlato nejlepší výnos/riziko, base 5 250 (+42 % ze ~3 570), ETF držba u maxima při ceně −30 %; Alpine (23. 11.) – cyklicky medvědí (z neutrálu); SG TA – downtrend −34 % od vrcholu, podpora 3 500/3 480, pak 3 300. Gavekal: zlato za 2 měsíce stejně špatně jako tech.
 - 23. 11. 2026 (Inbox): zlato −9,0 % za týden na 3 539 USD (Hawkeye 21. 11.); MS sales: o třetinu pod lednovým maximem, největší 12M propad od 80. let, RSI nejníž za 3 roky; MS komodity přesto 5 250 USD konec 2027, GS 4 540 za 12 M (rozpor tónu vs. cílů).
 - 21. 11. 2026 (Inbox): **Rozpor:** BCA Ibrahim (20. 11.) vyražena z longu na 3 700 USD (+113 % od 11/2022), stranou do vrcholu dolaru vs. MS (20. 11.) dál top pick 5 250 USD 4Q27, jen pomalejší oživení; SG MAP drží 10 %, cíl 5 000; Berezin zlato 3M sell / 12M buy. Zlato 3 625 USD (19. 11.), YTD −16 %, PBoC nakupuje. MS (18. 11.): washout v kovech, měď kupovat na přestřelení.
 - 20. 11. 2026 (backlog, 2. dávka): SG (12. 11.): lednový rebalancing BCOM = nákupy zlata >3,3 mld. USD a stříbra 2,5 mld. USD; drahé kovy −13 % YTD. MS (2. 11.): zlato v říjnu −6,2 %.

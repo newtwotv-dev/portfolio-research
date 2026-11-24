@@ -1,6 +1,6 @@
 # Iovance Biotherapeutics (IOVA) – dossier
 
-_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [Iovance (id 13633)](https://web.quartr.com/m/companies/13633) · IR: [ir.iovance.com](https://ir.iovance.com/)_
+_Poslední aktualizace: 24. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [Iovance (id 13633)](https://web.quartr.com/m/companies/13633) · IR: [ir.iovance.com](https://ir.iovance.com/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -101,6 +101,7 @@ FY2026 tržby z produktů **410–420 mil. USD (potvrzeno)**, tedy implikovaný 
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 23. 11. 2026 | Mizuho | Downgrade Outperform → **Neutral**, cíl 11 → 7 USD (zdroj rallies.ai, nepotvrzeno druhým zdrojem) | web, Tracker 24. 11. |
 | 17. 11. 2026 | GS (US Equity Outlook) | Biopharma pozitivně (rotace z AI infrastruktury). Nepřímo | log 2026-11 · GS 17. 11. |
 | 17. 11. 2026 | JPM (Economic Research) | Vyšší diskontní sazby obecně tlačí růstové tituly (IOVA, GUTS, AQST). Nepřímo | log 2026-11 · JPM 17. 11. |
 | 16. 11. 2026 | Jefferies (konference, ne rating) | Guidance FY26 410–420 mil. USD potvrzena, GM Q3 60 %, cash 382 mil. USD, zdražení Amtagvi +9 % od 1. 1. 2027 | state.json pending_mentions · [Quartr](https://web.quartr.com/m/events/801856) |
@@ -116,6 +117,7 @@ FY2026 tržby z produktů **410–420 mil. USD (potvrzeno)**, tedy implikovaný 
 | Datum | Změna | Zdroj |
 |---|---|---|
 | 19. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
+| 24. 11. 2026 | Mizuho snížila na Neutral (z Outperform), cíl 11 → 7 USD; podle MarketBeat akcie 23. 11. −4,4 % (close nedohledán, nepotvrzeno druhým zdrojem). Signál 🟡 beze změny | briefs/alerts/2026-11-24.md, [rallies.ai](https://rallies.ai/news/iovance-biotherapeutics-cut-to-neutral-from-outperform-at-mizuho-target-price-lowered-to-7-from-11-6c54a466bec5c15a) |
 
 ## Zdroje
 

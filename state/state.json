@@ -1,21 +1,19 @@
 {
   "schema_version": 1,
   "research_inbox": {
-    "last_processed_at": "2026-11-23T01:10:36Z",
-    "last_run": "2026-11-23",
+    "last_processed_at": "2026-11-23T13:55:37Z",
+    "last_run": "2026-11-24",
     "last_run_stats": {
-      "plne_extrakty": 10,
-      "z_toho_gmail_reportu": 4,
-      "z_toho_samostatnych_pdf_v_prilohach": 2,
-      "z_toho_outlook": 3,
-      "z_toho_nova_zprava_ve_starem_vlakne": 1,
+      "plne_extrakty": 12,
+      "z_toho_gmail_reportu": 12,
+      "z_toho_outlook": 0,
       "jen_titulek": 0,
-      "bez_extraktu_zalogovano": 3,
-      "zahozeno": 1,
-      "gmail": "8 nových vláken/zpráv (21. 11. 09:43 – 23. 11. 01:10 UTC): GS US Weekly Kickstart (+ China a India Weekly Kickstart v přílohách), GS HF Trend Monitor, MS Global Macro 2027 Year-Ahead (PDF 259 s., čteno výběrově), MS (sales) Global Reflections 21. 11. (nová zpráva ve vlákně 1a1d98a8614f31bd); Simply Wall St Market Insights, Asian Century AeroEdge a Fiscal.ai newsletter jen řádek v logu; Fiscal.ai login zahozen",
-      "outlook": "Hawkeye Daily 20. 11., Recap 14.–20. 11. a Week ahead 23.–27. 11. plně; žádný nový výpis T212",
-      "okno": "2026-11-21 05:20 až 2026-11-23 07:00 UTC",
-      "poznamka": "Běh v rámci Market Briefu (pondělí). Extrakty GS a MS přes 2 pomocné agenty, zkontrolováno a sloučeno. needs_pdf žádné."
+      "bez_extraktu_zalogovano": 1,
+      "zahozeno": 0,
+      "gmail": "13 nových vláken (22. 11. 23:34 – 23. 11. 13:55 UTC, FW od martinec@jtfg.com): MS Weekly Warm-up (Wilson), MS Cross-Asset Playbook 2027 in Charts, MS Sunday Start, MS Global Credit, MS US Rates, MS Public Policy (Geopolitics of AI), MS Powering AI 2028, MS BluePaper Europe AI (175 s., 10,2 MB), Alpine Macro Outlook 2027, Gavekal Daily, SG Commodity Compass (plyn), SG Technical Analysis (10Y UST); Asian Century „How I invest“ jen řádek v logu",
+      "outlook": "Žádné nové maily od 22. 11. kromě již zpracovaného Hawkeye Week ahead; Hawkeye Daily za 23. 11. nepřišel; žádný výpis T212",
+      "okno": "2026-11-22 00:00 až 2026-11-24 05:20 UTC",
+      "poznamka": "Extrakty přes 4 pomocné agenty (po 3 reportech), zkontrolováno a sloučeno. Všechna PDF pod 12 MB, needs_pdf žádné. Nové štítky témat žádné."
     },
     "processed_thread_ids": [
       "1a1a41b7420a1187",
@@ -200,7 +198,20 @@
       "1a1fd83b847b0156",
       "1a1fd82c7e679505",
       "1a1fd821063b8533",
-      "1a1fd7e00cd810c8"
+      "1a1fd7e00cd810c8",
+      "1a208b12b34e0295",
+      "1a208a47e8f6896a",
+      "1a208a36952f9e44",
+      "1a208a087f951cc9",
+      "1a208a02f6d9465d",
+      "1a207c2ebb081079",
+      "1a207c253952a6e3",
+      "1a207bb993a61383",
+      "1a207bb6c7f5fd34",
+      "1a207bad5928e16c",
+      "1a207b4de3167c37",
+      "1a207b1fb433fa17",
+      "1a2078b43fb42336"
     ],
     "processed_note": "Mazat ID starší 21 dní podle data mailu; ID z běhů 18.–19. 11. jsou z mailů 4.–19. 11. 2026 (nejstarší smazat nejpozději 25. 11., zbytek do 10. 12. 2026).",
     "backlog": [],
@@ -232,10 +243,10 @@
     "needs_pdf_note": "20. 11. 2026: Tomáš nemá PDF k MS Cross-Asset October Recap (4. 11.) ani k plnému SG Commodity Compass (12. 11.) – uzavřeno s extrakty z těla mailu, nevyžadovat."
   },
   "portfolio_tracker": {
-    "last_run": "2026-11-21",
-    "last_window": "2026-11-20 až 2026-11-21",
-    "alert": "briefs/alerts/2026-11-21.md",
-    "alert_doc": "https://claude.ai/artifact/Hs44RuMdaaCdDrvmEUHTyr",
+    "last_run": "2026-11-24",
+    "last_window": "2026-11-21 až 2026-11-24",
+    "alert": "briefs/alerts/2026-11-24.md",
+    "alert_doc": "https://claude.ai/artifact/DeSx9bcykwvxmowmDF1VFz",
     "onboarded": [
       "GUTS",
       "INTR",
@@ -261,7 +272,7 @@
       "TUI1"
     ],
     "deep_dive": "SOFI v1, TKA v1, AQST v1 (18. 11.), CSG v1 (20. 11., https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K) na povel",
-    "last_run_note": "Alert kvůli výprodeji 20. 11. (S&P −3,7 %, Nasdaq −5,3 %, SOX −10,7 % po zprávě o šetření SEC u Nvidie): MU −13,9 %, CSG −8,8 % (+ škrty cílů Erste/Kepler/Oddo), TKA −8,0 %, GUTS −14,6 %. Signál TKA a SOFI ⚡ redukovat → 🟡 (ceny pod spouštěči z deep dive 10,4 EUR / 13 USD). TNEK (tier B) −16,8 % pod IPO. Onboarding VST, COIN, TKCC, TUI1 hotový (🟡). Ceny k close 20. 11. v prices.json (SPYY Hamburk, CSPX NAV 19. 11.). Deep dive neproběhl (alert). Tier B (TNEK) plná kontrola v pondělí."
+    "last_run_note": "Alert kvůli rally 23. 11. po návratu Huanga do čela Nvidie (NVDA +31,5 %, S&P +4,7 %, Nasdaq +6,5 %): MU +19,0 % (707,70), AQST +9,3 % (3,78, bez zprávy, ⚡ redukovat platí), VST ~+8,3 % (MS PT 224 → 211, OW); IOVA downgrade Mizuho na Neutral, PT 11 → 7 (1 zdroj). Signály beze změny. SOFI 13,09 zpět těsně nad hranicí 13 USD z deep dive (sledovat). Quartr: žádné nové dokumenty od 21. 11., události beze změny (kalendář sedí). Ceny 23. 11. v prices.json (chybí VTS, IOVA, GUTS, LIME, IBKR, CSPX, TKA, TKCC, SMSH, TNEK; CSG z pražského kurzu). Tomáš 138 127 CZK (+4,6 % vs. 20. 11.), Michal 15 844 CZK (+3,6 %). Deep dive neproběhl (alert). Tier B (TNEK) mimo pondělí nekontrolován."
   },
   "market_brief": {
     "last_run": "2026-11-23T07:45:00Z",
@@ -384,7 +395,7 @@
     }
   },
   "watchlist_snapshot": {
-    "as_of": "2026-11-23",
+    "as_of": "2026-11-24",
     "quartr_ids": [
       16403,
       14505,

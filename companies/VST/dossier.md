@@ -1,6 +1,6 @@
 # Vistra (VST) – dossier
 
-_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Energie · Quartr: [Vistra (id 3840)](https://web.quartr.com/m/companies/3840) · IR: [investor.vistracorp.com](https://investor.vistracorp.com)_
+_Poslední aktualizace: 24. 11. 2026 · Tier: A · Skupina: Energie · Quartr: [Vistra (id 3840)](https://web.quartr.com/m/companies/3840) · IR: [investor.vistracorp.com](https://investor.vistracorp.com)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -110,6 +110,7 @@ Vistra je největší konkurenční výrobce elektřiny v US. Po převzetí Coge
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 22. 11. 2026 | MS (Powering AI) | OW, PT **211 USD** (v logu 8. 11. bylo 224), upside 83 % k ceně 20. 11., ve výběru „What to Own“; US výpadek energie pro DC ~80 GW 2026–30, exportní kontroly zužují přelití do Asie → roste hodnota zajištěné US energie; US CCGT ~7,7 c/kWh pod velkoobchodem ~9 c. Rozpor s GS (Buy PT 200, „bez katalyzátoru“) | log 2026-11 · MS 22. 11. (Powering AI) |
 | 20. 11. 2026 | GS (HFTM) | „Falling star“: −18 HF v Q3 (na 110), druhý největší úbytek popularity mezi AI tituly; HF rotují z IPP do regulovaných utilit. Na VIP listu zůstává (46 fondů, YTD −23 %) | log 2026-11 · GS 20. 11. (HFTM) |
 | 20. 11. 2026 | GS (Mehta, EUM Pulse) | Sentiment k IPP utlumený, po poklesu omezený downside, ale investoři nekupují. U VST chybí blízký katalyzátor, čeká pohyb v pásmu do jasna v Texasu nebo dalšího DC PPA. Preferuje Talen a CEG | log 2026-11 · GS 20. 11. (EUM Pulse) |
 | 19. 11. 2026 | MS (kredit) | Split rating Ba1 / BBB- / BBB-, 4,0 mld. USD v IG indexu, OAS 113 bp. OW Utilities, „particularly constructive on IPPs“ | log 2026-11 · MS 19. 11. (US Credit) |
@@ -130,6 +131,7 @@ Vistra je největší konkurenční výrobce elektřiny v US. Po převzetí Coge
 |---|---|---|
 | 21. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
 | 21. 11. 2026 | 20. 11. close 115,25 USD (−7,2 %), AI/energetický výprodej, firemní zpráva žádná. Nové zmínky GS EUM Pulse (20. 11.) a MS US Credit (19. 11.) | briefs/alerts/2026-11-21.md |
+| 24. 11. 2026 | 23. 11. ~124,80 USD (+8,3 %, nepotvrzený close) – rally AI power titulů po návratu Huanga do Nvidie (GEV +9,1 %, CEG +5,8 %, Bloom ~+22 %). MS Powering AI (22. 11.): OW, PT 211 USD (dříve 224), US výpadek energie pro DC ~80 GW. Signál 🟡 beze změny | briefs/alerts/2026-11-24.md, [TipRanks](https://www.tipranks.com/news/ai-power-stocks-rally-hard-as-jensen-huangs-nvidia-return-sparks-energy-rally), log 2026-11 · MS 22. 11. |
 
 ## Zdroje
 

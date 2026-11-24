@@ -1,6 +1,6 @@
 # Aquestive Therapeutics (AQST) – dossier
 
-_Poslední aktualizace: 19. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [12753](https://web.quartr.com/m/companies/12753) · IR: [investors.aquestive.com](https://investors.aquestive.com)_
+_Poslední aktualizace: 24. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [12753](https://web.quartr.com/m/companies/12753) · IR: [investors.aquestive.com](https://investors.aquestive.com)_
 _Poslední deep dive: companies/AQST/deep-dive-v1.md (18. 11. 2026, [Claude Doc](https://claude.ai/artifact/NaAfpAtZTFi5dfKvkKobL8))_
 
 ## Signál
@@ -123,6 +123,7 @@ Guidance 2026 beze změny: tržby 46–50 mil. USD, adj. EBITDA −30 až −35 
 |---|---|---|
 | 18. 11. 2026 | Založen dossier + deep dive v1 | companies/AQST/deep-dive-v1.md |
 | 19. 11. 2026 | 18. 11. close 3,78 USD (+2,2 %). Firma oznámila prezentaci CEO na Piper Sandler Healthcare Conference 2. 12. (10:30 ET); výsledky Q4 2026 5. 3. 2027 (Quartr). Žádné FDA ani financování. Signál beze změny | [GlobeNewswire](https://www.globenewswire.com/news-release/2026/11/18/3405512/0/en/aquestive-therapeutics-to-present-at-the-piper-sandler-38th-annual-healthcare-conference.html), [Quartr](https://web.quartr.com/m/events/784036) |
+| 24. 11. 2026 | 23. 11. close 3,78 USD (+9,25 %) bez firemní zprávy (široký návrat chuti k riziku, Russell 2000 +3,4 %). Cena dál nad váženou hodnotou z deep dive (2,93 USD) → ⚡ redukovat platí, pozice 11,7 % | briefs/alerts/2026-11-24.md, [Yahoo](https://finance.yahoo.com/quote/AQST/chart/) |
 
 ## Zdroje
 

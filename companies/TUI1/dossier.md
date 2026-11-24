@@ -102,6 +102,8 @@ TUI je největší evropský integrovaný cestovní koncern. Prodává zájezdy 
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 23. 11. 2026 | MS (Global Credit) | Screen akcie vs. kredit: CDS 252 bp (+17 bp YTD), akcie −24 % YTD – akcie slabší než kredit | log 2026-11 · MS 23. 11. (Global Credit) |
+| 22. 11. 2026 | MS (BluePaper Europe AI) | TUI jako stock idea v Travel & Leisure: integrovaný model a AI-bookable obsah (Mindtrip, ChatGPT app); package holidays ale střední riziko agentické disrupce, v Europe AI 50 není | log 2026-11 · MS 22. 11. (BluePaper Europe AI) |
 | 20. 11. 2026 | SG | Multi Asset Outlook 2027: Brent k 80 USD, long globální aerolinky → pozitivní pro cestovní ruch (TUI1 +) | log 2026-11 · SG 20. 11. |
 | 20. 11. 2026 | SG | Global Economic Outlook: Brent ~100 USD a jen pozvolna k ~85 (TUI1 −) | log 2026-11 · SG 20. 11. |
 | 20. 11. 2026 | GS | Global Rates Trader: výrazně levnější ropa a plyn po US midterms | log 2026-11 · GS 20. 11. |
