@@ -271,7 +271,7 @@
       "TKCC",
       "TUI1"
     ],
-    "deep_dive": "SOFI v1, TKA v1, AQST v1 (18. 11.), CSG v1 (20. 11., https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K) na povel",
+    "deep_dive": "SOFI v1, TKA v1, AQST v1 (18. 11.), CSG v1 (20. 11.), LIME v1 (24. 11., https://claude.ai/artifact/AZNH3RisbnWTyrLQcEawUq) na povel",
     "last_run_note": "Alert kvůli rally 23. 11. po návratu Huanga do čela Nvidie (NVDA +31,5 %, S&P +4,7 %, Nasdaq +6,5 %): MU +19,0 % (707,70), AQST +9,3 % (3,78, bez zprávy, ⚡ redukovat platí), VST ~+8,3 % (MS PT 224 → 211, OW); IOVA downgrade Mizuho na Neutral, PT 11 → 7 (1 zdroj). Signály beze změny. SOFI 13,09 zpět těsně nad hranicí 13 USD z deep dive (sledovat). Quartr: žádné nové dokumenty od 21. 11., události beze změny (kalendář sedí). Ceny 23. 11. v prices.json (chybí VTS, IOVA, GUTS, LIME, IBKR, CSPX, TKA, TKCC, SMSH, TNEK; CSG z pražského kurzu). Tomáš 138 127 CZK (+4,6 % vs. 20. 11.), Michal 15 844 CZK (+3,6 %). Deep dive neproběhl (alert). Tier B (TNEK) mimo pondělí nekontrolován."
   },
   "market_brief": {
@@ -422,7 +422,6 @@
   "onboarding_queue": [],
   "deep_dive_queue": [
     "RHM",
-    "LIME",
     "IOVA",
     "NU",
     "BABA",
@@ -450,7 +449,7 @@
       "ref": "state/calendar.md"
     }
   ],
-  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny. 20. 11.: Tomáš nahrál PDF k BCA HTE, BCA G10 FX, MS Oil Manual a SG (Curve & Carry Monitors) – extrakty nahrazeny plnými verzemi vč. grafů. Nové pokyny: řádek „Z grafů“ v extraktech, krok 9b deep dive (co píšou analytici), dotaz na téma v tasks/on-demand.md, seznam needs_pdf. 21. 11.: přecenění k 20. 11. – MC (3,7 %) předběhla TKMS (3,6 %) ve frontě deep dive. Onboarding fronta prázdná.",
+  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny. 20. 11.: Tomáš nahrál PDF k BCA HTE, BCA G10 FX, MS Oil Manual a SG (Curve & Carry Monitors) – extrakty nahrazeny plnými verzemi vč. grafů. Nové pokyny: řádek „Z grafů“ v extraktech, krok 9b deep dive (co píšou analytici), dotaz na téma v tasks/on-demand.md, seznam needs_pdf. 21. 11.: přecenění k 20. 11. – MC (3,7 %) předběhla TKMS (3,6 %) ve frontě deep dive. Onboarding fronta prázdná. 24. 11.: Tomáš rozhodl – RHM deep dive až po CMD 27. 11. (zůstává první ve frontě, spustit od 28. 11.), mezitím LIME v1 na povel. Lock-up LIME opraven na 7.–9. 12. 2026.",
   "refresh_queue": [
     {
       "ticker": "CSG",
@@ -474,6 +473,12 @@
       "ticker": "AQST",
       "reason": "PDUFA Anaphylm (binární rozhodnutí FDA)",
       "trigger_date": "2027-03-16",
+      "since": "deep-dive-v1"
+    },
+    {
+      "ticker": "LIME",
+      "reason": "výsledky Q4/FY26 + guidance 2027; lock-up 7.–9. 12. (Potvrdí/Vyvrátí v dossieru)",
+      "trigger_date": "2027-03-23",
       "since": "deep-dive-v1"
     }
   ]

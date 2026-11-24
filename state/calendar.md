@@ -25,6 +25,7 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 2. 12. 2026 | konference | AQST – Piper Sandler Healthcare Conference (prezentace CEO) | 10:30 ET | [Quartr](https://web.quartr.com/m/events/805506) |
 | prosinec 2026 | regulace | VST – ERCOT určí způsobilost base-load zdrojů („batch zero“) | klíčové pro texaská DC | MS, 6. 11. 2026 |
 | 4. 12. 2026 | makro | US NFP (listopad) | trh práce před FOMC | [BLS](https://www.bls.gov/schedule/2026/12_sched_list.htm) |
+| 7.–9. 12. 2026 | lock-up | LIME – konec 160denního lock-upu po IPO (~40,1 mil. akcií bez Uberu) | ~60 % akcií v oběhu, GS/JPM mohou uvolnit dřív; dřív chybně ~27. 12. | [S-1/A](https://www.sec.gov/Archives/edgar/data/0001699963/000162828026044471/neutronholdingsinc-sx1a1.htm), [Brimind](https://brimindinvest.com/lockup-radar/lime) |
 | 7. 12. 2026 | earnings | TKMS – výsledky FY 2025/26 | ráno | [Quartr](https://web.quartr.com/m/events/401365) |
 | 7. 12. 2026 | earnings | TKCC – předběžné výsledky FY 2025/26 (první po spin-offu) | quiet period 23. 11.–6. 12.; v Quartru zatím není | [IR tk accelis](https://www.investors.tkaccelis.com/) |
 | 8. 12. 2026 | earnings | TKA – výsledky FY 2025/26 + výhled 2026/27 | 06:30 CET; FCF, plán pro ocel, dividenda | [Quartr](https://web.quartr.com/m/events/722119) |
@@ -47,7 +48,6 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 31. 12. 2026 | management | NOVO – odchod CFO Knudsena, od 1. 1. Luigi La Corte | guidance 2027 sestaví nový CFO | [Quartr](https://web.quartr.com/m/sources/s72388224937) |
 | 3. 12. 2026 | dividenda | MC – výplata zálohy dividendy 5,50 EUR | ex-div 1. 12. | [Quartr H1](https://web.quartr.com/m/sources/s333713042019381349055) |
 | kdykoliv | regulace | GUTS – rozhodnutí Nasdaq Hearings Panelu o listingu | cena pod 1 USD od 27. 10. | SEC 10-Q 3Q26 |
-| ~27. 12. 2026 | lock-up | LIME – konec 180denního lock-upu upisovatelů | [Odhad]; IPO 30. 6. 2026 | Renaissance Capital |
 | 7. 12. 2026 | dividenda | PFE – výplata čtvrtletní dividendy | record date byl 6. 11. | [Fool](https://www.fool.com/investing/2026/11/19/pfizer-will-pay-its-352nd-straight-quarterly-divid/) |
 | ~29. 12. 2026 | lock-up | TNEK – uvolnění 2M lock-upů | free float → 60 % [Odhad] | Eugene IPO report |
 | 15. 12. 2026 | dividenda | VTS – record/ex-date dividendy 0,4375 USD (výplata 31. 12.) | FCF Q3 dividendu nepokryl | [Q3 release](https://finviz.com/news/413530/vitesse-energy-announces-third-quarter-2026-results) |

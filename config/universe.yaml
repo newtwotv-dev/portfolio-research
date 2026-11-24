@@ -69,7 +69,7 @@ instruments:
   MC:   { name: LVMH, isin: FR0000121014, exchange: Euronext Paris, ccy: EUR, quartr_id: 4196, tier: A, group: "Spotřeba & cestování", source: quartr_watchlist,
           sector: "Luxus", themes: [china, luxury-demand, us-consumer] }
   LIME: { name: Neutron Holdings (Lime), isin: US64125S1042, exchange: NASDAQ, ccy: USD, quartr_id: 22606, tier: A, group: "Spotřeba & cestování", source: quartr_watchlist,
-          sector: "Mikromobilita (sdílené koloběžky/kola)", themes: [us-consumer, eu-consumer] }
+          sector: "Mikromobilita (sdílené koloběžky/kola)", themes: [us-consumer, eu-consumer], last_deep_dive: 2026-11-24 }
   TUI1: { name: TUI AG, isin: DE000TUAG505, exchange: XETRA, ccy: EUR, quartr_id: 4071, tier: A, group: "Spotřeba & cestování", source: holding,
           sector: "Cestovní ruch", themes: [eu-consumer, oil] }
 
