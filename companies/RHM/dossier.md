@@ -1,6 +1,6 @@
 # Rheinmetall (RHM) – dossier
 
-_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [Rheinmetall (id 12480)](https://web.quartr.com/m/companies/12480) · IR: [ir.rheinmetall.com](https://ir.rheinmetall.com/)_
+_Poslední aktualizace: 25. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [Rheinmetall (id 12480)](https://web.quartr.com/m/companies/12480) · IR: [ir.rheinmetall.com](https://ir.rheinmetall.com/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -126,6 +126,7 @@ FY2026: tržby **~13,2 mld. EUR (dřív 13,7–14,2 mld.)**, operating marže **
 | 19. 11. 2026 | Research Inbox: zmínka SG 9. 11. (exekuční riziko backlogu); BCA 18. 11. čeká i při příměří na Ukrajině další vlnu evropských zbrojních výdajů (sektorově) | log 2026-11 · SG 9. 11., BCA 18. 11. |
 | 20. 11. 2026 | Close 19. 11. 724,70 EUR (−2,62 %, Xetra), od 18. 11. −4,7 %; večer L&S 712,05. Nová zmínka Bernstein (munice/dělostřelectvo); GS snížení cíle na 1 350 EUR (Buy) média opakovala 19. 11., v dossieru už od 16. 11. Signál beze změny, čeká se CMD 27. 11. | aktiencheck, [goldesel](https://goldesel.de/aktien/news/rheinmetall-aktie-goldman-senkt-kursziel-auf-1350-euro-bestatigt-aber-buy) |
 | 21. 11. 2026 | 20. 11. close 693,30 EUR (−4,3 %); summit Trump–Si–Putin bez dohody k Ukrajině; Bernstein cíl 1 000 → 950 EUR (Market-Perform, 19. 11.); CMD 27. 11. | briefs/alerts/2026-11-21.md, [finanznachrichten](https://www.finanznachrichten.de/nachrichten-aktien/rheinmetall-ag.htm) |
+| 25. 11. 2026 | 24. 11. Xetra 734,50 EUR (+1,3 %) před CMD 27. 11.; Barclays (Osorio) drží Overweight a od CMD čeká cíle 2030 tržby 35–40 mld. EUR při marži ~19 % (titulek o snížení cíle Barclays o 660 EUR neověřen). BMW a RHM podle titulků plánují společný obchod se surovinami. [Fakt] | [finanzen.net](https://www.finanzen.net/nachricht/aktien/anstehender-kapitalmarkttag-rheinmetall-aktie-zieht-an-barclays-erwartet-impulse-fuer-erholung-durch-kapitalmarkttag-auch-renk-co-fester-16083571) |
 
 ## Zdroje
 

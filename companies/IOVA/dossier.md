@@ -1,6 +1,6 @@
 # Iovance Biotherapeutics (IOVA) – dossier
 
-_Poslední aktualizace: 24. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [Iovance (id 13633)](https://web.quartr.com/m/companies/13633) · IR: [ir.iovance.com](https://ir.iovance.com/)_
+_Poslední aktualizace: 25. 11. 2026 · Tier: A · Skupina: Farmacie & biotech · Quartr: [Iovance (id 13633)](https://web.quartr.com/m/companies/13633) · IR: [ir.iovance.com](https://ir.iovance.com/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -118,6 +118,7 @@ FY2026 tržby z produktů **410–420 mil. USD (potvrzeno)**, tedy implikovaný 
 |---|---|---|
 | 19. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
 | 24. 11. 2026 | Mizuho snížila na Neutral (z Outperform), cíl 11 → 7 USD; podle MarketBeat akcie 23. 11. −4,4 % (close nedohledán, nepotvrzeno druhým zdrojem). Signál 🟡 beze změny | briefs/alerts/2026-11-24.md, [rallies.ai](https://rallies.ai/news/iovance-biotherapeutics-cut-to-neutral-from-outperform-at-mizuho-target-price-lowered-to-7-from-11-6c54a466bec5c15a) |
+| 25. 11. 2026 | 24. 11. Pomerantz ohlásil prošetřování možných nároků investorů kvůli update z 29. 10. (akcie tehdy −35 %). Rutinní krok advokátních kanceláří, bez nových dat. [Fakt/Názor] | [GlobeNewswire](https://www.globenewswire.com/news-release/2026/11/24/3409792/1087/en/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-of-iovance-biotherapeutics-inc-iova.html) |
 
 ## Zdroje
 

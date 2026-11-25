@@ -104,6 +104,7 @@ Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má d�
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 23. 11. 2026 | BCA / Gavekal / Hawkeye (sektorově) | BCA Editors (Outlook 2027): čínský offshore internet na desetiletých minimech relativního ocenění, nejvíc získá z obratu politiky (do roka). Gavekal (Gave): deeskalace US–Čína je nejlevnější pomoc US akciím, čínský spotřebitel ale slabý. Hawkeye: US údajně přidají Megaspeed na blacklist (Gavekal 12. a 17. 11. spojoval Megaspeed s Alibabou, tail risk neověřen) | log 2026-11 · BCA 23. 11., Gavekal 23. 11. (War), Hawkeye 23. 11. |
 | 23. 11. 2026 | MS (Global Credit) | 5 z 10 nejlepších A-rated USD dluhopisů 10Y+ v listopadu jsou BABA (zúžení o 8–14 bp na ~91–105 bp) – kredit potvrzuje rozvahu, i když MS China strategie má Internet UW | log 2026-11 · MS 23. 11. (Global Credit) |
 | 23. 11. 2026 | MS (Public Policy) | Další utahování exportu (NDAA, omezení pronájmu computu čínským firmám, pravidlo BIS pro JV Asii) jde proti cloudové expanzi; konec příměří z Busanu 11. 1. 2027 | log 2026-11 · MS 23. 11. (Public Policy) |
 | 21. 11. 2026 | MS (sales) | Cloud guidance +30–45 % FY28 a +50 % FY29, MS ale snížila odhady tržeb a EBITA FY28–29 kvůli US exportním kontrolám; MS China strategie snížila Internet na UW (rozpor s OW z 16. 11.) | log 2026-11 · MS (sales) 21. 11. |

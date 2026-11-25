@@ -1,6 +1,6 @@
 # thyssenkrupp (TKA) – dossier
 
-_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Průmysl · Quartr: [thyssenkrupp (id 5770)](https://web.quartr.com/m/companies/5770) · IR: [thyssenkrupp.com/en/investors](https://www.thyssenkrupp.com/en/investors/calendar)_
+_Poslední aktualizace: 25. 11. 2026 · Tier: A · Skupina: Průmysl · Quartr: [thyssenkrupp (id 5770)](https://web.quartr.com/m/companies/5770) · IR: [thyssenkrupp.com/en/investors](https://www.thyssenkrupp.com/en/investors/calendar)_
 _Poslední deep dive: companies/TKA/deep-dive-v1.md (18. 11. 2026)_
 
 ## Signál
@@ -134,6 +134,7 @@ Steel CMD (28. 9. 2026): střednědobě 1,2 mld.+ EUR adj. EBITDA, většinou ze
 | 18. 11. 2026 | Deep dive v1: signál 🟡 → ⚡ Ke zvážení: redukovat (teze 🟡). Doplněny scénáře (5,10 / 12,00 / 20,40 EUR, 25/50/25), SOTP, pracovní teze, Potvrdí/Vyvrátí, KPI (ocel CMD báze, holdingová net cash, KONE, ceny podílů), katalyzátory, rizika, broker views, Krupp-Stiftung 21 %, likvidita | companies/TKA/deep-dive-v1.md |
 | 19. 11. 2026 | 18. 11.: −2,9 % na ~11,28 EUR (Xetra, ~−10 % za 7 seancí). DB (Synagowitz) potvrdila Buy, cíl 17 EUR (beze změny od 29. 10.); hnací síly tk accelis, zakázky TKMS, možné IPO oceli. Hlasovací práva: BlackRock 5,74 % (↑), Morgan Stanley 3,9 % (↓), práh 6. 11. Q2 26/27 13. 5. 2027 (Quartr). Signál beze změny | [Börse Express](https://www.boerse-express.com/news/articles/thyssenkrupp-aktie-synagowitz-sieht-kurstreiber-bei-tk-accelis-964248), [Quartr](https://web.quartr.com/m/events/802167) |
 | 21. 11. 2026 | 20. 11. close 10,31 EUR (−8,0 % d/d, Xetra; DJ: negativní výhled Vallourecu, slabé suroviny, Salzgitter −7,4 %). Signál ⚡ redukovat → 🟡 (cena pod 10,4 EUR). thyssenkrupp nucera 20. 11.: zakázky rostou, EBIT pod guidance | briefs/alerts/2026-11-21.md, [finanzen.at](https://finanzen.at/nachrichten/aktien/boerse-frankfurt-mdax-zeigt-sich-schlussendlich-schwacher-1036788503) |
+| 25. 11. 2026 | 24. 11. Xetra −3,4 % (~9,96 EUR) spolu se Salzgitterem po profit warningu Aurubisu (−15 %); vlastní zpráva jen tendr na vodík (ad-hoc-news, neověřeno). [Fakt] | [finanzen.ch/dpa-AFX](https://www.finanzen.ch/nachrichten/aktien/xetra-schluss-schwach-aurubis-aktie-nach-gewinnwarnung-unter-druck-1036796575) |
 
 ## Zdroje
 

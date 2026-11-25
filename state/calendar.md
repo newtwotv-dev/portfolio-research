@@ -55,6 +55,7 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 1. 1. 2027 | cena | IOVA – zdražení Amtagvi +9 %, Proleukin +7 % | | Quartr (Jefferies, 16. 11. 2026) |
 | 1. 1. 2027 | úhrady | GUTS – platnost CPT kódu 1122T pro Revitu | | Quartr Q3 2026 |
 | 1. 1. 2027 | cena | NOVO – snížení ceníkových cen Wegovy a Ozempic v US na 675 USD | dopad na cash flow 2027 | [Quartr](https://web.quartr.com/m/sources/s67683782012) |
+| 14. 1. 2027 | AGM | MU – valná hromada FY2026 (virtuálně, 10:00 MST) | navýšení ESPP a equity plánu, 2 akcionářské návrhy; rozhodný den 18. 11. | [Quartr](https://web.quartr.com/m/events/809500) |
 | ~15. 1. 2027 | úhrady | GUTS – CMS rozhodnutí o on-rampu v RAPID | přesné datum neznámé | Quartr transcript Q3 2026 |
 | ~18. 1. 2027 | lock-up | CSG – konec 360denního lock-upu Strnada a velkých akcionářů | [Odhad] od IPO 23. 1. 2026; ověřit v prospektu | Seznam Zprávy |
 | 18. 1. 2027 | regulace | SOFI – účinnost požadavků GENIUS Act/OCC pro stablecoiny | riziko pozastavení SoFiUSD bez schválení | [Quartr](https://web.quartr.com/m/sources/s70760725130) |

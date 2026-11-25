@@ -1,6 +1,6 @@
 # Coinbase Global (COIN) – dossier
 
-_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [Coinbase Global (id 4189)](https://web.quartr.com/m/companies/4189) · IR: [investor.coinbase.com](https://investor.coinbase.com)_
+_Poslední aktualizace: 25. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [Coinbase Global (id 4189)](https://web.quartr.com/m/companies/4189) · IR: [investor.coinbase.com](https://investor.coinbase.com)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -123,6 +123,7 @@ Coinbase je největší regulovaná krypto burza v US a custodian (mj. pro vět�
 |---|---|---|
 | 21. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
 | 21. 11. 2026 | 20. 11. close 101,97 USD (−6,3 %), BTC poprvé od července pod 60 tis. USD (21. 11. ráno ~55,8 tis.) | briefs/alerts/2026-11-21.md |
+| 25. 11. 2026 | 24. 11. close 102,35 USD (−5,9 %), ~0,4 % nad 52W minimem; táhne BTC (~59,9 tis. USD, −2,3 %) a rekordní listopadové odlivy z BTC ETF, firemní spouštěč žádný. [Fakt] | [journalarta](https://journalarta.com/en/2026/11/25/coinbase-global-shares-plunge-as-stock-nears-one-year-low/) |
 
 ## Zdroje
 

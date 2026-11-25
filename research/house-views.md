@@ -9,6 +9,10 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Téma | Instituce | Pohled | Od | Zdroj (log) |
 |---|---|---|---|---|
+| US akcie (S&P 500) | SG (Kabra) | **Epic de-rating:** fwd P/E 23,5 → 16,5× (největší 12M de-rating); taktický odraz teď (VIX >30 → +22 % za 12 M, hit rate 87 %), velké přecenění až po posledním hiku Fedu (**březen 2027**); scénáře **base 7 300–8 900**, downside 6 000, upside 10 000; EPS 2027 400 USD (+11 %) vs. ulice +18 %, ex semis +6 %; long S&P EW / short R2000, long Utilities/Consumers/Industrials, short regionální banky | 23. 11. 2026 | log 2026-11 · SG 23. 11. (Epic de-rating) |
+| Globální alokace 2027 (house view) | BCA (Editors) | **Akcie > dluhopisy v 2027**, býčí trh má ještě prostor, ale AI bust přijde a vrchol trhu může být už v 2027 (zkrátit horizont); US OW do francouzských voleb (duben), pak neutral–UW; většina stratégů OW Japonsko; IG OW, HY neutral. **Rozpor uvnitř BCA** s Berezinem (akcie 12M UW) a Budaghyanem (avoid) | 23. 11. 2026 | log 2026-11 · BCA 23. 11. (Outlook 2027) |
+| Positioning cross-asset | SG (GAA, HFW) | SG MARI −0,4 (z extrému risk-on v únoru), vstupní úrovně lepší; S&P bez excesů, Nasdaq dlouhodobě net long; AM nakupují 10Y UST nad 5 % | 23. 11. 2026 | log 2026-11 · SG 23. 11. (Hedge Fund Watch) |
+| US akcie / US–Čína | Gavekal (L. Gave) | US politici budou akcie bránit i za cenu dluhopisů a USD; nejlevnější pomoc = konec obchodní a tech války s Čínou, kterou US podle Gavea prohrávají (útok na Nvidii přenesl náklady do US akcií) | 23. 11. 2026 | log 2026-11 · Gavekal 23. 11. (War—What Is It Good For?) |
 | US akcie – taktika | MS (Wilson) | **Kapitulace za námi, „fat pitch“ – přidávat riziko teď** (taktický pohled nejbýčnější od dubna); S&P 16,4× vs. férová hodnota 19,0–19,6×, trh implikuje EPS 2027 −6 % vs. MS +14 % (konsenzus +17 %); v prosinci čeká mírnější Fed, než trh oceňuje | 23. 11. 2026 | log 2026-11 · MS 23. 11. (Weekly Warm-up) |
 | Cross-asset alokace | MS (Tang) | Akcie **+15 %** vs. benchmark (US +5, Evropa +4, Japonsko +5, EM +1), vládní dluhopisy −3 %, IG −1 %, hotovost −3 %, Brent −2, měď −1, zlato 0; base S&P 8 700 (+27 % TR z 6 910), bear 6 000 | 23. 11. 2026 | log 2026-11 · MS 23. 11. (Cross-Asset Playbook) |
 | Multi-asset / regiony | Alpine Macro (Zhao) | Akcie/dluhopisy **60/40** (z 70/30), zpět na 70/30 po uklidnění tech; long XLK a RSP zdvojnásobeny (AI výprodej = kapitulace); S&P v 2027 na nových maximech; US OW, EAFE UW, EM N; nově býčí TSX, Španělsko, Itálie, medvědí CAC a Nikkei | 23. 11. 2026 | log 2026-11 · Alpine Macro 23. 11. |
@@ -73,6 +77,8 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Téma | Instituce | Pohled | Od | Zdroj (log) |
 |---|---|---|---|---|
+| Tech / AI řetězec | BCA (Editors) | Snížit „krumpáče a lopaty“ AI; preferovat software a hyperscalery, polovodiče max. neutral, **UW neocloudy a paměti/hardware**; takticky ale čeká prudký odraz čipů a pamětí | 23. 11. 2026 | log 2026-11 · BCA 23. 11. (Outlook 2027) |
+| Čína offshore internet | BCA (Editors) | Na desetiletých minimech relativního ocenění, nejvíc vydělá na obratu politiky (do roka, ale až po dalším zhoršení); RMB ~8 % podhodnocený | 23. 11. 2026 | log 2026-11 · BCA 23. 11. (Outlook 2027) |
 | Evropa – AI adopce | MS (Kim, Zavolock) | Nový koš Europe AI 50; vítězové Capital Goods, A&D, banky, semis, MedTech, logistika, farma; poražený IT služby; luxus „limited“ (pomáhá jen bohatství z AI); výprodej AI enablerů přehnaný (P/E cca 37× → 22×) | 22. 11. 2026 | log 2026-11 · MS 22. 11. (BluePaper Europe AI) |
 | Asie – utility / power pro DC | MS (Maheshwari) | In-Line; „vzduchová kapsa“ 2027–28 kvůli exportním kontrolám (kapacita DC v JV Asii −15 %, spotřeba 2028 −33 %); preferuje vlastníky aktiv před výrobci zařízení; avoid KEPCO, HD Hyundai Electric, Tata Power, Huaneng | 22. 11. 2026 | log 2026-11 · MS 22. 11. (Powering AI) |
 | US–Čína exportní kontroly | MS (Salvatore) | Riziko vychýlené k dalšímu utahování (NDAA: RASA, MATCH, AI Overwatch, CHIPS Security Act); daň na zámořská DC málo pravděpodobná; klíčové datum konec příměří z Busanu 11. 1. 2027 | 23. 11. 2026 | log 2026-11 · MS 23. 11. (Public Policy) |
@@ -149,6 +155,9 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Téma | Instituce | Pohled | Od | Zdroj (log) |
 |---|---|---|---|---|
+| UST / EGB 2027 | JPM (Diamond) | UST 10Y ~5,05 % ve 2Q27, Bund 3,05 %; bias long EUR sazby vs. UST, 2s/5s UST flattener; front-end US může nacenit až ~100 bp hiků; Francie: base case Le Penová, spread FR–DE (151 bp, ~40 bp politická prémie) po volbách užší | 24. 11. 2026 | log 2026-11 · JPM 24. 11. |
+| USD – positioning | SG (GAA, HFW) | FX positioning extrémně long USD (FXPI −1,7) → momentum dolaru historicky odeznívá; EUR, JPY, GBP extrémně medvědí | 23. 11. 2026 | log 2026-11 · SG 23. 11. (Hedge Fund Watch) |
+| USD / zlato / dluhopisy | BCA (Editors) | USD silný 3–4 měsíce, po 1Q27 medvědí bias; zlato stranou do vrcholu dolaru (pak ~5 000 USD); takticky vyšší výnosy, cyklicky neutral durace, Fed ~3 hiky jako trh; OW gilty, EGB ex Francie, Kanada, Austrálie, UW JGB | 23. 11. 2026 | log 2026-11 · BCA 23. 11. (Outlook 2027) |
 | Henry Hub / TTF / JKM | SG (Haigh) | HH cca −20 % pod futures (mírná zima, US zásoby u rekordu), po zimě riziko utažení; EU zásoby nejnižší za 13 let (70 %), TTF ~85 EUR/MWh přes zimu a ~63 v září 2027 – forward to už zaceňuje; JKM ~12 % nad analogy. **Rozpor** s GS (TTF 46) | 23. 11. 2026 | log 2026-11 · SG 23. 11. (Commodity Compass) |
 | US 10Y / FX / komodity (technika) | SG (TA) | 10Y pásmo 4,81–5,18 %, pod 4,81 % hlubší pokles výnosů; EUR/USD cíle 1,0880 a 1,0775/1,0730; zlato kanál 3 500/3 480, pod ním 3 300; Brent pod 97 → 89/85/80 | 23. 11. 2026 | log 2026-11 · SG 23. 11. (Technical Analysis) |
 | USD / EUR | Alpine Macro (Zhao) | DXY silný, EUR až k paritě (nejmedvědější z domů); CNY nejsilnější měna 2027; Fed nanejvýš 2 hiky na 4,5 % (trh ~5 %) | 23. 11. 2026 | log 2026-11 · Alpine Macro 23. 11. |
@@ -301,6 +310,9 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
+| 24. 11. 2026 | JPM (Global Rates) | Témata sazeb 2027 | žádné nové obchody; potvrzen 2s/5s UST flattener, long EUR vs. UST, UST 10Y 5,05 % (2Q27) | log 2026-11 · JPM 24. 11. |
+| 23. 11. 2026 | BCA (Editors) | Výroční house view 2027 | proti Berezinovi (19. 11., akcie 12M UW) konstruktivnější: akcie > dluhopisy v 2027, US OW do dubna pak neutral–UW; paměti/neocloudy UW, software a hyperscaleři OW | log 2026-11 · BCA 23. 11. (Outlook 2027) |
+| 23. 11. 2026 | SG (Kabra) | S&P 500 scénáře | (SG MAP 20. 11.: 8 500 konec 2027) → base pásmo 7 300–8 900, downside 6 000, upside 10 000; poslední hike Fedu březen 2027 | log 2026-11 · SG 23. 11. (Epic de-rating) |
 | 23. 11. 2026 | Alpine Macro (Zhao) | Multi-asset mix akcie/dluhopisy | 70/30 → 60/40; long XLK a RSP zdvojnásobeny | log 2026-11 · Alpine Macro 23. 11. |
 | 23. 11. 2026 | Alpine Macro (Zhao) | Brent / zlato / durace | ~70 → 50 USD (nový short USO) / neutrál → medvědí / OW → benchmark (podmíněně) | log 2026-11 · Alpine Macro 23. 11. |
 | 23. 11. 2026 | MS (Tang) | Cross-asset váhy vs. benchmark | akcie +5 → +15 % (US +3 → +5, EU +1 → +4, JP +1 → +5, EM 0 → +1); vládní dluhopisy +3 → −3; IG −6 → −1; US HY −1 → −2; EM local 0 → −2; hotovost 0 → −3; Brent 0 → −2; měď 0 → −1 | log 2026-11 · MS 23. 11. (Cross-Asset Playbook) |

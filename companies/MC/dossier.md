@@ -1,6 +1,6 @@
 # LVMH (MC) – dossier
 
-_Poslední aktualizace: 20. 11. 2026 · Tier: A · Skupina: Spotřeba & cestování · Quartr: [LVMH (id 4196)](https://web.quartr.com/m/companies/4196) · IR: [lvmh.com – akcionáři](https://www.lvmh.com/fr/actionnaires/lvmh-en-bourse)_
+_Poslední aktualizace: 25. 11. 2026 · Tier: A · Skupina: Spotřeba & cestování · Quartr: [LVMH (id 4196)](https://web.quartr.com/m/companies/4196) · IR: [lvmh.com – akcionáři](https://www.lvmh.com/fr/actionnaires/lvmh-en-bourse)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -130,6 +130,7 @@ Kontext H1 2026: tržby 38,6 mld. EUR (+2 % org.), provozní zisk 8,7 mld. (mar�
 | Datum | Změna | Zdroj |
 |---|---|---|
 | 20. 11. 2026 | Onboarding (rychlý dossier) | Quartr, research log, web |
+| 25. 11. 2026 | Představenstvo Christian Dior 23. 11. schválilo fúzi Agache do Dioru (zjednodušení kontrolní struktury Arnaultů nad LVMH, ohlášeno 24. 9.); následovat má hotovostní nabídka na Dior za 95 % NAV v 1Q27, hlasování akcionářů Dioru 30. 12. Pro akcionáře LVMH bez přímého dopadu na čísla, posiluje kontrolu rodiny. [Fakt/Názor] | [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-stock-dior-board-approves-agache-merger-tied-to-lvmh-stake/70549357), [Business Standard](https://www.business-standard.com/world-news/arnault-tightens-control-on-lvmh-with-simpler-holding-structure-126092401515_1.html) |
 
 ## Zdroje
 

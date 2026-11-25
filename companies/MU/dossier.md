@@ -1,15 +1,16 @@
 # Micron Technology (MU) – dossier
 
-_Poslední aktualizace: 24. 11. 2026 · Tier: A · Skupina: Polovodiče · Quartr: [Micron Technology (id 5199)](https://web.quartr.com/m/companies/5199) · IR: [investors.micron.com](https://investors.micron.com)_
+_Poslední aktualizace: 25. 11. 2026 · Tier: A · Skupina: Polovodiče · Quartr: [Micron Technology (id 5199)](https://web.quartr.com/m/companies/5199) · IR: [investors.micron.com](https://investors.micron.com)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
 
-**Aktuální:** 🟡 **Sledovat:** fundamenty jsou rekordní. FQ4 FY26 přineslo tržby 54,2 mld. USD a hrubou marži 87 %, guidance na FQ1 je 61,5 mld. a 75 % výroby na 2027 je prodáno. Akcie je ale cca −44 % od maxima (705 USD vs. 1 255), protože trh čeká vrchol cyklu v 2027/28 a řeší financování AI capexu a exportní kontroly. Na ~9x trailing a ~4,5–5x forward zisku trh prakticky nevěří v trvanlivost zisků. Do deep dive bez akčního signálu. [Názor] · _od 20. 11. 2026_
+**Aktuální:** 🟡 **Sledovat:** fundamenty jsou rekordní. FQ4 FY26 přineslo tržby 54,2 mld. USD a hrubou marži 87 %, guidance na FQ1 je 61,5 mld. a 75 % výroby na 2027 je prodáno. Akcie je ale cca −44 % od maxima (705 USD vs. 1 255), protože trh čeká vrchol cyklu v 2027/28 a řeší financování AI capexu a exportní kontroly. Na ~9x trailing a ~4,5–5x forward zisku trh prakticky nevěří v trvanlivost zisků. Do deep dive bez akčního signálu. [Názor] **24. 11.:** BNP Paribas Exane snížila na Neutral (cíl 775 USD), akcie −11 % na 629,79; BCA Editors (23. 11.) UW paměti na 6–12 M. Medvědí argument (rovnováha už od pol. 2027) tím získává váhu, data ho zatím nepotvrzují. [Názor] · _od 20. 11. 2026, potvrzeno 25. 11._
 **Co by ho zvrátilo:** 🟢 FQ1 (17. 12.) nad guidance s guidance FQ2 a dalším růstem marže, výrazný buyback po 9. 12., nové SCA za vyšší ceny, potvrzení HBM cen na 2027. 🔴 Pokles smluvních cen DRAM/NAND nebo HBM, renegociace či rušení SCA, škrty capexu hyperscalerů nebo neocloudů, DIO trvale nad ~140 dní, oznámení velkých kapacit konkurence pro 2028.
 
 | Datum | Signál | Důvod | Zdroj |
 |---|---|---|---|
+| 25. 11. 2026 | 🟡 Sledovat (beze změny, riziko 2028 zesílilo) | BNP Paribas Exane (Ackerman) snížila na Neutral, cíl 1 700 → 775 USD: rovnováha DRAM/NAND už od pol. 2027 (dřív pol. 2028), méně HBM ve Vera Rubin Ultra, EPS 2028 o 45 % pod konsenzem; akcie −11,0 % na 629,79. Jde o prognózu, ne o data z bodů „Vyvrátí“ (ceny, SCA, capex) → signál nechávám, ale dva domy (BNP, BCA Editors UW paměti) jdou proti tezi. [Názor] | [Investing](https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-downgrades-micron-stock-rating-on-2028-demand-risks-93CH-5047868), [TipRanks](https://www.tipranks.com/news/micron-stock-gets-a-rare-downgrade-and-a-54-price-target-cut-from-top-analyst-heres-why) |
 | 20. 11. 2026 | 🟡 Sledovat | Onboarding. Rekordní FQ4 a silná guidance, 75 % výroby 2027 prodáno, ale akcie −44 % od maxima kvůli obavám z vrcholu cyklu 2028 a AI financování. Výchozí stav do deep dive | [Quartr FQ4 FY26](https://web.quartr.com/m/events/699706), [Quartr TomorrowX](https://web.quartr.com/m/events/801555) |
 
 ## Pozice
@@ -89,6 +90,7 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 | 1. 12. 2026 | [UBS Global Technology and AI Conference](https://web.quartr.com/m/events/801563) | Komentář k cenám 2027/28 a ke capital return |
 | 9. 12. 2026 | Konec omezení z CHIPS Act | Start vyšších buybacků, nová autorizace ([Quartr](https://web.quartr.com/m/sources/s329493047807869614976)) |
 | 17. 12. 2026 (po zavření, 21:30 UTC) | [Výsledky FQ1 FY27](https://web.quartr.com/m/events/760934) | Plnění guidance 61,5 mld., guidance FQ2, capex FY27, výše buybacku (termín podle Quartru 23. 11.: 17. 12.; dřív uváděno 16. 12.) |
+| 14. 1. 2027 (10:00 MST, virtuálně) | [Valná hromada FY2026](https://web.quartr.com/m/events/809500) | 8 ředitelů, say-on-pay, navýšení ESPP (+15 mil. akcií) a equity plánu (+20 mil.), 2 akcionářské návrhy (board proti); rozhodný den 18. 11. |
 | začátek 2027 | První výstup z HBM packaging závodu v Singapuru | Kapacita HBM ([Quartr](https://web.quartr.com/m/sources/s66732233835527500060703)) |
 | polovina 2027 | První wafery z fabu ID1 (Idaho) a dodávky z Tongluo (Tchaj-wan) | Růst nabídky MU ([Quartr](https://web.quartr.com/m/sources/s66732233835527500060703)) |
 | 2H 2027 | Náběh 1δ DRAM a Gen11 NAND (>400 vrstev) | Technologický náskok, bity na wafer ([Quartr](https://web.quartr.com/m/sources/s225282880447875110247)) |
@@ -108,6 +110,8 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 
 | Datum | Instituce | Co říká | Odkaz do logu |
 |---|---|---|---|
+| 24. 11. 2026 | BNP Paribas Exane (K. Ackerman) | **Outperform → Neutral, cíl 1 700 → 775 USD** (−54 %). Rostoucí rizika pro kapacitní plány hyperscalerů v 2028, méně HBM v Nvidia Vera Rubin Ultra (TrendForce: Samsung/SK Hynix chystají levnější 8-Hi HBM4), nová waferová kapacita → rovnováha DRAM/NAND už od pol. 2027 s poklesem ASP (dřív pol. 2028); meziroční růst cen DRAM/NAND vrcholil v srpnu („paměťovky vrcholí s r/r vrcholem ASP“); EPS CY2028 45 % pod konsenzem, dno EPS 86 USD v CY2029. Akcie 24. 11. −11,0 % na 629,79 USD. Konsenzus dál 28 Buy / 2 Hold, průměrný cíl ~1 593 USD (Koyfin) | web: [Investing](https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-downgrades-micron-stock-rating-on-2028-demand-risks-93CH-5047868), [TipRanks](https://www.tipranks.com/news/micron-stock-gets-a-rare-downgrade-and-a-54-price-target-cut-from-top-analyst-heres-why), [Stocktwits](https://stocktwits.com/news-articles/markets/equity/mu-stock-downgraded-price-target-cut-by-almost-1-000-bnp-paribas-flags-2028-hyperscaler-capacity-risks/cNbsaFoR9ko) |
+| 23. 11. 2026 | Hawkeye / BCA / SG (sektorově) | Hawkeye: MU +19,0 % (3. nejlepší v S&P), Sandisk ale −7,1 % kvůli převisu NAND 2027 a škrtům objednávek čínských cloudů. BCA Editors (Outlook 2027): takticky prudký odraz pamětí, na 6–12 M **UW paměti/hardware**. SG Kabra: obrat semis až s posledním hikem Fedu (březen 2027), EPS semis potřebují poloviční očekávání | log 2026-11 · Hawkeye 23. 11., BCA 23. 11. (Outlook 2027), SG 23. 11. (Epic de-rating) |
 | 21. 11. 2026 | Hawkeye (Recap) | Týden 16.–20. 11. −23,6 %, nejhorší v S&P 500 (SMH −17,8 %); zpráva o SEC u Nvidie a nové kontroly čipů do Číny | log 2026-11 · Hawkeye 21. 11. (Recap) |
 | 20. 11. 2026 | GS (HFTM, US Weekly) | Nejhorší týden v S&P (−24 %), fwd P/E 3x; jedna z nejcrowdovanějších pozic HF (VIP: 91 fondů, 32× v top 10, HF 2 % kapitalizace), přitom podvážená u podílových fondů → riziko dalšího odbourávání i prudkého odrazu | log 2026-11 · GS 20. 11. (HFTM, US Weekly Kickstart) |
 | 20. 11. 2026 | TrendForce (přes Hawkeye) | Čínští cloudoví poskytovatelé škrtají nákupy eSSD a části server DRAM; NAND převis dřív, DRAM dál v nedostatku s menším čtvrtletním růstem cen | log 2026-11 · Hawkeye 20. 11. |
@@ -131,7 +135,7 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 | 6. 11. 2026 | MS | EEI Key Questions: Fab 2 v Idahu jako velký odběr u IDACORP | log 2026-11 · MS 6. 11. |
 | 4. 11. 2026 | GS | Strategy Matters: MU tvoří 6 % zisků S&P 500, 2. po Nvidii (10 %) | log 2026-11 · GS 4. 11. |
 
-**Rozpor:** MS (8. 11., OW 1 200) a RBC (17. 11., Buy 1 500) vidí propad jako příležitost, konsenzus je Buy s cílem ~1 560 USD. GS je opatrnější: single-stock Neutral s cílem 1 250 a makro tým čeká ceny pamětí 2027 pod konsenzem a tlak na marže v 2028. Gavekal (17. 11.) je k pamětem bearish kvůli financování Nvidie. BCA a Alpine považují AI výprodej za přehnaný. [Fakt]
+**Rozpor (aktualizace 25. 11.):** BNP Paribas Exane (24. 11.) nově Neutral s cílem 775 USD a rovnováhou pamětí od pol. 2027, BCA Editors UW paměti. Proti tomu management (75 % výroby 2027 prodáno, 2027–28 napjatější než 2026). **Rozpor (původní):** MS (8. 11., OW 1 200) a RBC (17. 11., Buy 1 500) vidí propad jako příležitost, konsenzus je Buy s cílem ~1 560 USD. GS je opatrnější: single-stock Neutral s cílem 1 250 a makro tým čeká ceny pamětí 2027 pod konsenzem a tlak na marže v 2028. Gavekal (17. 11.) je k pamětem bearish kvůli financování Nvidie. BCA a Alpine považují AI výprodej za přehnaný. [Fakt]
 
 ## Deník změn
 
@@ -141,6 +145,7 @@ Micron je jeden ze tří globálních výrobců DRAM (z 10–15 hráčů kolem r
 | 21. 11. 2026 | 20. 11. close 594,51 USD (−13,9 % d/d z 690,44; v repu bylo 681,89 → −12,8 %), čipový výprodej (SOX −10,7 %, Nvidia −14 % po zprávě Reuters o šetření SEC); firemní zpráva žádná. Nové zmínky: GS/MS 13F, BCA Berezin, SG MAP, TrendForce (NAND od 1Q27 dolů). Signál 🟡 beze změny | briefs/alerts/2026-11-21.md, research log 19.–20. 11. |
 | 23. 11. 2026 | Termín FQ1 FY27 podle Quartru 17. 12. 2026 21:30 UTC (místo 16. 12.) | [Quartr](https://web.quartr.com/m/events/760934) |
 | 24. 11. 2026 | 23. 11. close 707,70 USD (+19,04 %, objem 49 mil. vs. průměr 29 mil.) – AI/čipová rally po návratu Jensena Huanga do čela Nvidie (NVDA +31,5 %, Nasdaq +6,5 %); vlastní firemní zpráva žádná. Wilson (MS, 23. 11.): polovodiče na cílech pro downside. Signál 🟡 beze změny – fundamentální spouštěče (smluvní ceny, capex hyperscalerů) se nezměnily | briefs/alerts/2026-11-24.md, [Fool 23. 11.](https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-micron-surges-19-as-nvidia-ceo-change-calms-ai-spending-fears/), log 2026-11 · MS 23. 11. |
+| 25. 11. 2026 | 24. 11. close 629,79 USD (−11,01 %) po downgradu BNP Paribas Exane na Neutral (cíl 1 700 → 775 USD, rovnováha pamětí od pol. 2027, méně HBM ve Vera Rubin Ultra); SOXX −8,3 %, NVDA −5,9 %. Signál 🟡 beze změny. Proxy (DEF 14A 24. 11.): valná hromada 14. 1. 2027 | [journalarta](https://journalarta.com/news/2026/11/25/saham-micron-mu-anjlok-1101-ke-us62979-terbesar-sejak-20-november/), [StockTitan](https://www.stocktitan.net/articles/stock-market-today-live-november-24-2026), [Investing](https://www.investing.com/news/analyst-ratings/bnp-paribas-exane-downgrades-micron-stock-rating-on-2028-demand-risks-93CH-5047868), [Quartr proxy](https://web.quartr.com/m/events/809500) |
 
 ## Zdroje
 

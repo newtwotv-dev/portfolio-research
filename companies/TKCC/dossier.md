@@ -1,6 +1,6 @@
 # tk accelis (TKCC) – dossier
 
-_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Průmysl · Quartr: [tk accelis (id 25241)](https://web.quartr.com/m/companies/25241) · IR: [investors.tkaccelis.com](https://www.investors.tkaccelis.com/)_
+_Poslední aktualizace: 25. 11. 2026 · Tier: A · Skupina: Průmysl · Quartr: [tk accelis (id 25241)](https://web.quartr.com/m/companies/25241) · IR: [investors.tkaccelis.com](https://www.investors.tkaccelis.com/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -119,6 +119,7 @@ Samostatné výsledky zatím nejsou, první vyjdou 7. 12. 2026 (předběžné FY
 | Datum | Změna | Zdroj |
 |---|---|---|
 | 21. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
+| 25. 11. 2026 | 24. 11. Xetra close 21,24 EUR; finanznachrichten uvádí předchozí close 23,06 (−7,9 %), proti našim 22,26 jen −4,6 % – předchozí cena v prices.json byla zřejmě chybná. Zprávu jsem nenašel (quiet period do 6. 12.). [Fakt] | [finanznachrichten](https://www.finanznachrichten.de/nachrichten-aktien/tk-accelis-group-ag-co-kgaa.htm) |
 
 ## Zdroje
 
