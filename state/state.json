@@ -268,8 +268,8 @@
       "TKCC",
       "TUI1"
     ],
-    "deep_dive": "SOFI v1, TKA v1, AQST v1 (18. 11.), CSG v1 (20. 11.), LIME v1 (24. 11., https://claude.ai/artifact/AZNH3RisbnWTyrLQcEawUq) na povel",
-    "last_run_note": "Bez alertu (žádné výsledky, změna signálu, pohyb ≥8 % u držené firmy ani ≥15 % od weekly 23. 11.; BNP downgrade MU už v alertu 25. 11.). Ceny 25. 11. v prices.json (pomocný agent, web). Tomáš 137 457 CZK (+0,5 % vs. 25. 11., +4,1 % vs. weekly 132 040), Michal 15 718 CZK (−0,1 % / +2,8 %). Pohyby 25. 11.: MU −4,53 % (vnitrodenně −9,7 %, TrendForce snížila výhled DRAM, chystaná cla), INTR +5,3 % (jediný zdroj), NU +4,2 %, SMSH −4,5 % (Q3 zatím nevyšly), TNEK (tier B, nedrženo) −10,0 % s KOSPI −6,2 %. Makro: core PCE 3,3 % r/r (odhad 3,2 %), HDP Q3 +4,3 %, Reuters: chystaná cla na 16 partnerů (EU strop 15 %, Čína 20 %). Quartr: nic nového od 24. 11. (MU proxy už zapsáno). Dossier MU aktualizován (Deník změn, broker zmínky), signály beze změny. Biotech (IOVA, AQST, GUTS) bez zpráv. Tier B mimo pondělí nekontrolován. Fronta deep dive přeřazena podle vah 25. 11. (NU 5,7 % předběhl IOVA 5,6 %, TKMS 3,6 % předběhl MC)."
+    "deep_dive": "SOFI v1, TKA v1, AQST v1 (18. 11.), CSG v1 (20. 11.), LIME v1 (24. 11., https://claude.ai/artifact/AZNH3RisbnWTyrLQcEawUq) na povel; NU v1 (26. 11., z fronty, https://claude.ai/artifact/4bd5LE66A6hFaCHC3eRcwU)",
+    "last_run_note": "Bez alertu (žádné výsledky, změna signálu, pohyb ≥8 % u držené firmy ani ≥15 % od weekly 23. 11.; BNP downgrade MU už v alertu 25. 11.). Ceny 25. 11. v prices.json (pomocný agent, web). Tomáš 137 457 CZK (+0,5 % vs. 25. 11., +4,1 % vs. weekly 132 040), Michal 15 718 CZK (−0,1 % / +2,8 %). Pohyby 25. 11.: MU −4,53 % (vnitrodenně −9,7 %, TrendForce snížila výhled DRAM, chystaná cla), INTR +5,3 % (jediný zdroj), NU +4,2 %, SMSH −4,5 % (Q3 zatím nevyšly), TNEK (tier B, nedrženo) −10,0 % s KOSPI −6,2 %. Makro: core PCE 3,3 % r/r (odhad 3,2 %), HDP Q3 +4,3 %, Reuters: chystaná cla na 16 partnerů (EU strop 15 %, Čína 20 %). Quartr: nic nového od 24. 11. (MU proxy už zapsáno). Dossier MU aktualizován (Deník změn, broker zmínky), signály beze změny. Biotech (IOVA, AQST, GUTS) bez zpráv. Tier B mimo pondělí nekontrolován. Fronta deep dive přeřazena podle vah 25. 11. (NU 5,7 % předběhl IOVA 5,6 %, TKMS 3,6 % předběhl MC). Deep dive NU v1 (z fronty; RHM blokován do CMD 27. 11.): 🟡 držet, přikupovat pod ~11,4 USD; scénáře 7,96/17,10/26,26 USD (25/50/25 %), vážený ~17,6 % p. a. vs. požadovaných 14–18 %; Tomáš 5,7 % v rámci 4–6 %, Michal 3,6 % nad rámcem 2–3 %. NU zařazen do refresh_queue (trigger 9. 12. po Investor Day). Další ve frontě: RHM (od 28. 11.), pak IOVA."
   },
   "market_brief": {
     "last_run": "2026-11-23T07:45:00Z",
@@ -419,7 +419,6 @@
   "onboarding_queue": [],
   "deep_dive_queue": [
     "RHM",
-    "NU",
     "IOVA",
     "BABA",
     "TKMS",
@@ -446,7 +445,7 @@
       "ref": "state/calendar.md"
     }
   ],
-  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny. 20. 11.: Tomáš nahrál PDF k BCA HTE, BCA G10 FX, MS Oil Manual a SG (Curve & Carry Monitors) – extrakty nahrazeny plnými verzemi vč. grafů. Nové pokyny: řádek „Z grafů“ v extraktech, krok 9b deep dive (co píšou analytici), dotaz na téma v tasks/on-demand.md, seznam needs_pdf. 21. 11.: přecenění k 20. 11. – MC (3,7 %) předběhla TKMS (3,6 %) ve frontě deep dive. Onboarding fronta prázdná. 24. 11.: Tomáš rozhodl – RHM deep dive až po CMD 27. 11. (zůstává první ve frontě, spustit od 28. 11.), mezitím LIME v1 na povel. Lock-up LIME opraven na 7.–9. 12. 2026. 25. 11.: watchlist beze změny (20 firem). Ceny 24. 11. dohledány přes pomocného agenta (web), MU downgrade ověřen ve 4 zdrojích. VST close 23. 11. podle trefis 123,87 (v prices zůstává 124,80, ověřit). TKCC close 23. 11. zřejmě 23,06, ne 22,26.",
+  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny. 20. 11.: Tomáš nahrál PDF k BCA HTE, BCA G10 FX, MS Oil Manual a SG (Curve & Carry Monitors) – extrakty nahrazeny plnými verzemi vč. grafů. Nové pokyny: řádek „Z grafů“ v extraktech, krok 9b deep dive (co píšou analytici), dotaz na téma v tasks/on-demand.md, seznam needs_pdf. 21. 11.: přecenění k 20. 11. – MC (3,7 %) předběhla TKMS (3,6 %) ve frontě deep dive. Onboarding fronta prázdná. 24. 11.: Tomáš rozhodl – RHM deep dive až po CMD 27. 11. (zůstává první ve frontě, spustit od 28. 11.), mezitím LIME v1 na povel. Lock-up LIME opraven na 7.–9. 12. 2026. 25. 11.: watchlist beze změny (20 firem). Ceny 24. 11. dohledány přes pomocného agenta (web), MU downgrade ověřen ve 4 zdrojích. VST close 23. 11. podle trefis 123,87 (v prices zůstává 124,80, ověřit). TKCC close 23. 11. zřejmě 23,06, ne 22,26. 26. 11.: bez alertu → deep dive NU v1 (RHM čeká na CMD 27. 11. podle pokynu 24. 11.); fronta přeřazena podle vah 25. 11. (NU 5,7 % > IOVA 5,6 %, TKMS 3,6 % > MC 3,6 %).",
   "refresh_queue": [
     {
       "ticker": "CSG",
@@ -476,6 +475,12 @@
       "ticker": "LIME",
       "reason": "výsledky Q4/FY26 + guidance 2027; lock-up 7.–9. 12. (Potvrdí/Vyvrátí v dossieru)",
       "trigger_date": "2027-03-23",
+      "since": "deep-dive-v1"
+    },
+    {
+      "ticker": "NU",
+      "reason": "Investor Day 8. 12. 2026 (cíl ROE, návrat kapitálu – body Potvrdí/Vyvrátí v dossieru); dále výsledky Q4 2026 24. 2. 2027",
+      "trigger_date": "2026-12-09",
       "since": "deep-dive-v1"
     }
   ]

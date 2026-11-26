@@ -20,7 +20,7 @@ instruments:
   SOFI: { name: SoFi Technologies, isin: US83406F1021, exchange: NASDAQ, ccy: USD, quartr_id: 5065, tier: A, group: "Fintech", source: quartr_watchlist,
           sector: "Fintech / digitální banka", themes: [us-rates, us-consumer-credit, fintech], last_deep_dive: 2026-11-18 }
   NU:   { name: Nu Holdings, isin: KYG6683N1034, exchange: NYSE, ccy: USD, quartr_id: 11343, tier: A, group: "Fintech", source: quartr_watchlist,
-          sector: "Fintech / digitální banka LatAm", themes: [latam, em-fx, fintech] }
+          sector: "Fintech / digitální banka LatAm", themes: [latam, em-fx, fintech], last_deep_dive: 2026-11-26 }
   INTR: { name: Inter & Co, isin: KYG4R20B1074, exchange: NASDAQ, ccy: USD, quartr_id: 14505, tier: A, group: "Fintech", source: quartr_watchlist,
           sector: "Digitální banka Brazílie", themes: [latam, em-fx, fintech] }
   COIN: { name: Coinbase Global, isin: US19260Q1076, exchange: NASDAQ, ccy: USD, quartr_id: 4189, tier: A, group: "Fintech", source: quartr_watchlist,
