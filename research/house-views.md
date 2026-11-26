@@ -23,6 +23,7 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | US positioning – hedge fondy | GS (HFTM) | Čistá páka fundamentálních L/S 42 % (5leté minimum), crowding rekordní, VIP koš −14 pb za 6 M (20letý extrém, podobně jako XII/2008 a V/2022 blízko den). Rotace z TMT do Financials (platby), Cons. Disc., Industrials, Staples, Utilities; z IPP (VST, CEG) do regulovaných utilit | 20. 11. 2026 | log 2026-11 · GS 20. 11. (HFTM) |
 | US positioning – L/S páka | MS (PB) | US L/S net leverage 41 % (6. percentil od 2010), fondy poprvé od 4/2025 net short Momentum; Asie gross 5leté minimum | 21. 11. 2026 | log 2026-11 · MS (sales) 21. 11. |
 | US akcie – riziko AI capexu | BCA | Zpomalení capexu hyperscalerů ≈ recese a bear market; obrat výdajů cca za rok, zatím brzy na de-risking | 16. 11. 2026 | log 2026-11 · BCA 16. 11. |
+| US růst vs. pokles akcií | MS (Gapen) | Base case konstruktivní; korekce 0–10 % bez dopadu, trvalý pokles 10–20 % = „growth recession“ a revize růstu dolů, 20 %+ = riziko recese (hlavně se slabším AI capexem); top 20 % domácností drží 87 % akcií, rychlé přizpůsobení = brzda spotřeby až −1,3 p. b. | 24. 11. 2026 | log 2026-11 · MS 24. 11. (How far would equities have to fall?) |
 | Evropa (STOXX 600) | GS | Cíl 700 za 12 M (+6 % cenově); long DAX vs. SXXP | 13. 11. 2026 | log 2026-11 · GS 13. 11. |
 | Evropa – styl | JPM | Value OW (drží 2 roky) | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
 | Evropa (STOXX 600 / EURO STOXX 50) | JPM | Cíle prosinec 2026: 680 (+5 %) / 6 800 (+11 %); Eurozóna OW | 9. 11. 2026 | log 2026-11 · JPM 9. 11. |
@@ -49,7 +50,7 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Asijský průmysl / capex | MS | Strukturální superfáze; AI korekce = vstupní bod | 12. 11. 2026 | log 2026-11 · MS 12. 11. |
 | Čína – akcie | UBP | **UW** (ze 3 na 2 z 5), nejslabší růst zisků od pandemie | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | US / Evropa akcie | UBP | US OW (4), Tech OW (4); Evropa UW (2), Francie „nemocný muž“ | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
-| US akcie / AI tech | SG (A. Edwards) | Medvědí: AI bublina, odliv likvidity, revize EPS v tech se otáčejí dolů | 12. 11. 2026 | log 2026-11 · SG 12. 11. |
+| US akcie / AI tech | SG (A. Edwards) | Medvědí: **„Great Unwind“** – konec éry Ice Age, likvidita odtéká (padají tech, kovy, krypto, agri), zisková dynamika tech zpomaluje, marže S&P vysoko nad trendem; silný USD mačká likviditu, zahraniční nákupy US akcií kryjí deficit BÚ ~4 % HDP → zahraniční investor v US tech dvojnásob zranitelný (12. 11.: AI bublina, revize EPS dolů) | 25. 11. 2026 | log 2026-11 · SG 25. 11. (Great Unwind), SG 12. 11. |
 | Globální alokace (12M) | GS (GOAL) | Akcie OW, dluhopisy OW, kredit UW; US a Japonsko OW, Asie ex JP a EM N, **Evropa UW** | 19. 11. 2026 | log 2026-11 · GS 19. 11. |
 | US akcie – velikost | Alpine Macro | Large caps **OW** (z UW), small caps **UW** (z OW); akcie OW, US OW, EAFE UW, EM N | 17. 11. 2026 | log 2026-11 · Alpine Macro 17. 11. |
 | Globální akcie | Gavekal-IS | **Risk-off**, akcie ≤ 20 % (asymetrie +9 % / −20 %) | 12. 11. 2026 | log 2026-11 · Gavekal 12. 11. |
@@ -63,12 +64,13 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | US akcie – politika | BCA (Papic) | Demokratický sweep = dlouhodobý protivítr (regulace, daně); „zatím“ long akcie, long dluhopisy, short ropa | 10. 11. 2026 | log 2026-11 · BCA 10. 11. |
 | Regiony / sektory | Gavekal (C. Gave) | Preferovat čínské, evropské a japonské průmyslovky a čínského spotřebitele; vyhnout se US/EU spotřebitelským akciím a US/EU dluhopisům; držet zlato | 13. 11. 2026 | log 2026-11 · Gavekal 13. 11. |
 | EM / slabší USD | Gavekal (L. Gave) | Místo „OW energie nebo tech/semis“ sázka na slabší USD vs. EM: EM financials, HK reality, China tech, těžaři kovů, drahé kovy, EM dluh (kovy > energie) | 6. 11. 2026 | log 2026-11 · Gavekal 6. 11. |
-| US akcie | Alpine Macro (Giorgi) | Rotovat zpět do rizika, dokoupit Tech a Industrials, S&P 500 8 000 do konce roku | 3. 11. 2026 | log 2026-11 · Alpine Macro 3. 11. |
+| US akcie | Alpine Macro (Giorgi) | **Býčí (obrat 24. 11.):** korekce, ne bear market – S&P −11,4 % při fwd EPS +7,8 %, implikovaný škrt EPS ~18 %; přidávat při slabosti AI compute (designéři čipů), Industrials/elektrifikaci, hyperscalery a měď, financovat z defenziv (Staples); u pamětí „supply-side trap“; test: odhady zisků do ledna (3. 11.: rotovat do rizika, S&P 8 000 do konce roku) | 24. 11. 2026 | log 2026-11 · Alpine Macro 24. 11. (Full Leather Jacket), 3. 11. |
 | US akcie – styl | Alpine Macro (Zhao, Wu) | Nově barbell long RSP + long XLK; long SOXX stopnut s −10 % (2. 11.) | 9. 11. 2026 | log 2026-11 · Alpine Macro 9. 11. |
 | Multi-asset | Robeco | OW akcií s preferencí US, přidán USD na úkor EUR, HY hedge z US do EU; mírná recese 2027 15 % | 11. 11. 2026 | log 2026-11 · Robeco 16. 11. |
 | Korea | MS | „Korea Renaissance“: ROE 8 → 14 %+ do 2030, rerating jako Japonsko; OW SK Hynix, Samsung, Hyundai, KB | 14. 11. 2026 | log 2026-11 · MS (sales) 14. 11. |
 | Globální alokace 2027 | BCA (Berezin) | „Boom to bust“: akcie 3M neutral / 12M UW, dluhopisy a cash 12M OW; US 12M sell, EA neutral, **Čína 12M buy (nejlepší trh 2027)**, EM ex Čína 12M sell; recese 2028 | 19. 11. 2026 | log 2026-11 · BCA 19. 11. (Berezin) |
 | Čína – A vs. H | MS (Xing, L. Wang) | A-shares strukturální OW, Hong Kong jen taktický; EPS MSCI China 2026/27 +6/+8 % (konsenzus 12/14 %). **Rozpor** s GS (OW H-shares) | 16. 11. 2026 | log 2026-11 · MS 16. 11. (BluePaper) |
+| Čína – makropolitika | Gavekal Dragonomics (Batson) | Žádný skutečný pivot: domácí poptávka reálně <3 %, vláda jen dolaďuje stimul; nerovnováhy, disinflace ani cla obrat nevynutí, spouštěčem by byl až šok v nezaměstnanosti, jinak pozvolná evoluce. **Rozpor** s BCA Editors (obrat do roka) | 25. 11. 2026 | log 2026-11 · Gavekal 25. 11. (Pivot Point) |
 | Čína – politika 2027 | BCA (Ma, Gertken) | Si 4. mandát, stimul jen přírůstkový, žádný obrat ke spotřebě; invaze Tchaj-wanu v 2027 ne; příměří US–Čína zakolísá v 1H27. **Rozpor** s Berezinem (stimul i pro spotřebu) | 20. 11. 2026 | log 2026-11 · BCA 20. 11. |
 | Multi-asset 2027 | SG (MAP) | Akcie **58 → 55 %** (Čína 6 → 3), vládní dluhopisy **12 → 18 %**, TIPS 5 → 7, komodity **20 → 15 %** (zlato drží 10); S&P 500 8 500 konec 2027, EPS +11 % | 20. 11. 2026 | log 2026-11 · SG 20. 11. (MAP) |
 | UK | GS | Long UK domácí tituly vs. FTSE 100; FTSE 100 cíl 11 400 (+9 %) | 20. 11. 2026 | log 2026-11 · GS 20. 11. (UK Kickstart) |
@@ -132,12 +134,13 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | US korporátní kredit | MS (Patkar) | Fundamenty 3Q26 se zlepšují plošně (páka dolů, krytí nahoru); utility nejvyšší páka 5,9x | 6. 11. 2026 | log 2026-11 · MS 6. 11. |
 | Software / kyberbezpečnost | MS | Attractive, kyber výdaje rostou s adopcí AI | 16. 11. 2026 | log 2026-11 · MS 16. 11. |
 | US elektřina / BTM pro DC | GS (Carbonomics) | Spotřeba US +3,5 % ročně do 2030, DC ~20 % spotřeby; BTM výroba pro DC ~67 GW (z ~40) | 11. 11. 2026 | log 2026-11 · GS 11. 11. |
+| US DC – kapacita a poptávka po elektřině | GS (Commodities, Wei/Struyven) | Akcelerace minimálně do 2028: kapacita DC konec 2027 **92 GW** (z 90), +28 GW v 2027, **+52 GW v 2028** (2026 +18); PJM/ERCOT/MISO 68 % přírůstku; utahování US trhu s elektřinou, upside pro poptávku po plynu, býčí Henry Hub 2028–30; riziko politika po midterms | 24. 11. 2026 | log 2026-11 · GS 24. 11. (Power Analyst) |
 | Farma | SG | Defenzivní zdroj upgradů (PFE zvýšil výhled) | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | US utility / IPP | MS | Regulated In-Line, Diversified/IPP Attractive | 6. 11. 2026 | log 2026-11 · MS 6. 11. |
 | US utility po midterms | GS | Regulované utility místo texaských IPP; dodavatelé DC (PWR, MTZ) výprodej přehnaný | 6. 11. 2026 | log 2026-11 · GS 6. 11. |
 | US spotřebitel | Gavekal (Tan) | Pozitivní: trh práce, levnější paliva, „K-shape“ se narovnává | 10. 11. 2026 | log 2026-11 · Gavekal 10. 11. |
 | Energie / ropné akcie | Gavekal (Gave) | Snížení OW (6. 11.) možná předčasné; taktické nákupy rafinérů, MLP atraktivní | 16. 11. 2026 | log 2026-11 · Gavekal 16. 11. |
-| AI capex / výstavba DC | Gavekal (L. Gave vs. Denyer) | **Rozpor uvnitř Gavekalu:** Gave – hyperrůst DC končí z politických důvodů (6. 11.); Denyer – midtermy riziko AI bustu výrazně nezvyšují, hrozbou je drahý kapitál (4. 11.) | 6. 11. 2026 | log 2026-11 · Gavekal 4. a 6. 11. |
+| AI capex / výstavba DC | Gavekal (L. Gave vs. Denyer) | **Rozpor uvnitř Gavekalu:** Gave – hyperrůst DC končí z politických důvodů (6. 11.); Denyer – trh hrozby pro AI řetězec přeceňuje, poptávka > nabídka (ceny GPU rostou), lokální restrikce = přesun, ne zrušení; méně vendor financingu Nvidie škodí slabším DC, labům a pamětem (25. 11.; 4. 11.: hrozbou je drahý kapitál) | 25. 11. 2026 | log 2026-11 · Gavekal 25. 11. (Financial Conditions), 4. a 6. 11. |
 | AI capex | BCA (Swift, Timper) | Boom nenarušený, výprodej AI akcií by měl brzy najít dno | 2. 11. 2026 | log 2026-11 · BCA 2. 11. |
 | EU obrana – rozpočty | ING vs. Gavekal (C. Gave) | **Rozpor:** ING – část Evropy může kvůli rozpočtům zpomalit růst obranných výdajů (4. 11.); Gave – NATO je mrtvé, Evropa musí obranu výrazně navýšit na úkor sociálního státu (13. 11.) | 13. 11. 2026 | log 2026-11 · ING 4. 11., Gavekal 13. 11. |
 | EU defenzivy vs. cykliky | GS | Rotace do defenziv (+14 % od října) přehnaná, nehonit; dál vybrané cykliky (Tech, Retail, A&D). Sektory beze změny (OW obrana, Tech, Utilities; UW Healthcare, Energy) | 20. 11. 2026 | log 2026-11 · GS 20. 11. |
@@ -310,6 +313,9 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
+| 25. 11. 2026 | SG (A. Edwards) | US akcie / likvidita | medvědí potvrzeno, nově rámec „Great Unwind“ (USD a deficit BÚ jako zesilovač) | log 2026-11 · SG 25. 11. (Great Unwind) |
+| 24. 11. 2026 | Alpine Macro (Giorgi) | US akcie – taktika | negativní (MOM od podzimu) → **býčí**, přidávat AI compute, Industrials, hyperscalery, měď; defenzivy jako zdroj | log 2026-11 · Alpine Macro 24. 11. (Full Leather Jacket) |
+| 24. 11. 2026 | GS (Commodities) | Kapacita US DC | konec 2027 90 → 92 GW; nově 2028 +52 GW | log 2026-11 · GS 24. 11. (Power Analyst) |
 | 24. 11. 2026 | JPM (Global Rates) | Témata sazeb 2027 | žádné nové obchody; potvrzen 2s/5s UST flattener, long EUR vs. UST, UST 10Y 5,05 % (2Q27) | log 2026-11 · JPM 24. 11. |
 | 23. 11. 2026 | BCA (Editors) | Výroční house view 2027 | proti Berezinovi (19. 11., akcie 12M UW) konstruktivnější: akcie > dluhopisy v 2027, US OW do dubna pak neutral–UW; paměti/neocloudy UW, software a hyperscaleři OW | log 2026-11 · BCA 23. 11. (Outlook 2027) |
 | 23. 11. 2026 | SG (Kabra) | S&P 500 scénáře | (SG MAP 20. 11.: 8 500 konec 2027) → base pásmo 7 300–8 900, downside 6 000, upside 10 000; poslední hike Fedu březen 2027 | log 2026-11 · SG 23. 11. (Epic de-rating) |

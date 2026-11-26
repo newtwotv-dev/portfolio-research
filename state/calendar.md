@@ -5,19 +5,17 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 
 | Datum | Typ | Firma / událost | Poznámka | Zdroj |
 |---|---|---|---|---|
-| 18. 11. 2026 | konference | MU – TomorrowX Summit | | [Quartr](https://web.quartr.com/m/events/801555) |
-| 18. 11. 2026 | konference | VTS – Southwest IDEAS Conference | | [Quartr](https://web.quartr.com/m/events/789981) |
 | 19. 11. 2026 | IPO | MU – první den obchodování Anthropicu (Nasdaq: ANT), IPO naceněno 18. 11. na 83 USD (nad pásmem 70–78) | MU kupuje za 1 mld. USD v privátním umístění za cenu IPO | [StockAnalysis](https://stockanalysis.com/news/anthropic-prices-ipo-83-per-share/) |
 | 19. 11. 2026 | earnings | BABA – výsledky FQ2 FY27 (zářijové Q) – **proběhlo** | tržby 271,5 mld. CNY (beat), non-GAAP EPS/ADS 8,10 CNY (miss), výhled cloudu 2027 30–45 % | [Quartr](https://web.quartr.com/m/events/736903) |
 | 19. 11. 2026 | regulace | BABA – účinnost pravidla BIS o AI čipech v zahraničních DC (zveřejnění ve Federal Register) | stávající DC mají 90 dní na povolení | thecryptobasic, 17. 11. 2026 |
-| 25. 11. 2026 | makro | US core PCE (říjen), HDP Q3 2. odhad, objednávky zboží dl. spotřeby, Beige Book | core oček. +0,3 % m/m; poslední velké inflační číslo před FOMC (SOFI, NU, biotech) | Hawkeye 22. 11., fxstreet.cz |
+| 25. 11. 2026 | makro | US core PCE (říjen), HDP Q3 2. odhad – **proběhlo** | core +0,3 % m/m, **3,3 % r/r** (odhad 3,2 %); HDP Q3 +4,3 % (odhad 3,6 %); FedWatch 97–98 % na hike 9. 12. | [stockanalysis](https://stockanalysis.com/news/us-pce-inflation-october-2026/) |
 | 26. 11. 2026 | makro | TNEK – Bank of Korea, rozhodnutí o sazbách | SG čeká hike na 3,25 % | SG, 16. 11. 2026 |
 | 26. 11. 2026 | makro | US Thanksgiving (trhy zavřené), zápis ECB; 27. 11. zkrácený obchod do 13:00 ET | | newsquawk / Hawkeye 22. 11. |
 | 27. 11. 2026 | CMD | RHM – Capital Markets Day | nové střednědobé cíle; Citi čeká jejich snížení | [Quartr](https://web.quartr.com/m/events/683576) |
 | 27. 11. 2026 | makro | Francie flash CPI (listopad) | oček. 3,8 % – ECB, #france-fiscal | Simply Wall St 23. 11. |
 | 29. 11. 2026 | makro | OPEC+ (7 zemí s dobrovolnými škrty) | VTS +, TUI1 − při prodloužení škrtů | [OPEC](https://www.opec.org/pr-detail/2033620-1-november-2026.html) |
 | ~29. 11. 2026 | lock-up | TNEK – uvolnění 1M lock-upů | free float 31 % → 47 % [Odhad] | Eugene IPO report, 7. 10. 2026 |
-| do 30. 11. 2026 | earnings | SMSH – výsledky Q3 2026 | [Odhad] izraelská lhůta; Q2 vyšly 25. 8. | MAYA – ověřit |
+| do 30. 11. 2026 | earnings | SMSH – výsledky Q3 2026 | [Odhad] izraelská lhůta; Q2 vyšly 25. 8.; k 26. 11. na Bizportalu ještě nejsou (akcie 25. 11. −4,5 % na 1 311 ag.) | MAYA – ověřit |
 | do 30. 11. 2026 | restrukturalizace | TKCC – nový návrh k francouzské jednotce pro úřad práce (po zrušeném prodeji Mutares) | malé, test správy portfolia | ad-hoc-news, 20. 11. 2026 |
 | 1. 12. 2026 | makro | Flash HICP eurozóny (listopad), US ISM výroba | ECB 17. 12. | [ECB](https://www.ecb.europa.eu/press/calendars/statscal/ges/html/sthicp.en.html) |
 | 1. 12. 2026 | konference | MU – UBS Global Technology and AI Conference | | [Quartr](https://web.quartr.com/m/events/801563) |
