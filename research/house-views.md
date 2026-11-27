@@ -9,6 +9,14 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Téma | Instituce | Pohled | Od | Zdroj (log) |
 |---|---|---|---|---|
+| Čína (akcie) | SG (Benzimra, Asia 2027) | **OW → Neutral** (pozitivní od 6/2024): zisky zaostávají, emise rostou, odkupy padají, stimul à la 9/2024 nepřijde; offshore AI tituly zranitelné vůči restrikcím, FCF AI platforem zhroucený capexem; preferuje onshore tech (velké firmy), HK jen value; MSCI China 69 (+8 %), CSI300 4 300 | 26. 11. 2026 | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
+| Asie ex JP / Japonsko | SG (Benzimra, Asia 2027) | Asie blízko kapitulace, ale bez signálu k nákupu (downgrady EPS 15–20 %); MXASJ 1 065 (+14 %), Nikkei 62 500 (+11 %); OW TWSE a Topix, UW ASEAN; obrat toků až s vrcholem Fedu a USD (~2Q27); BoJ ještě 3 hiky, 10Y JGB 3,2 % | 26. 11. 2026 | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
+| Japonsko – AI korekce | GS (Kirk) | Korekce Nikkei −20 % možná u dna, ale riziko dalšího AI výprodeje vysoké (positioning ještě není čistý); preferuje AI s vysokou kvalitou zisků, kyberbezpečnost, yuutai + dividenda | 26. 11. 2026 | log 2026-11 · GS 26. 11. (Japan Equity Views) |
+| Globální akcie – režim | Gavekal-IS (Darcet) | **Risk-off potvrzen** (akcie ≤ 20 %, beze změny proti 12. 11.): ekonomika ve špatném zdraví, v tom režimu je nadvýnos MSCI World záporný i při vysokém VIX. **Rozpor** s pravidlem „VIX > 30 = nákup“ (SG Kabra, Alpine Giorgi) | 26. 11. 2026 | log 2026-11 · Gavekal 26. 11. (Stress And Economic Health) |
+| Francie – volby 2027 | Gavekal (Gemehl) | Le Penová favoritka (1. kolo ~33 %, 2. kolo 68 % proti Mélenchonovi), ale průzkumy 5 měsíců předem trefily oba finalisty jen ve 4 z 8 voleb; výsledek nebrat jako hotový. **Rozpor** se SG (66 % RN) a JPM (base case Le Penová) | 26. 11. 2026 | log 2026-11 · Gavekal 26. 11. (France's Election) |
+| EU rozpočet / CEE | Gavekal (Gudmundsson) | MFF 2028–34: tradiční transfery z ~63 % na 44 % rozpočtu, východní Evropa z 3,2 % na 2,1 % HDP (při škrtu 400 mld. EUR až 1,7 %); nejvíc ohrožené PL/HU/SK (dluh k ~100 % HDP do 2036), peníze se přesouvají k průmyslu a výzkumu (plus pro velké průmyslové země) | 26. 11. 2026 | log 2026-11 · Gavekal 26. 11. (EU Transfer Spending) |
+| AI akcie – taktika | JPM (Panigirtzoglou) | Positioning v AI „připomíná kapitulaci“, čeká odraz v prosinci a lednu; nejvíc se otočily nejlepší subsektory Q1–Q3 (paměti), nejodolnější AI power | 25. 11. 2026 | log 2026-11 · JPM 25. 11. (Flows & Liquidity) |
+| EEMEA | MS (Nguyen) | Konstruktivně selektivně: MSCI EEMEA 290 YE27 (+16 %, bull 330 / bear 210); **SAE EW → OW**, **J. Afrika OW → EW**; OW Řecko, Maďarsko, Egypt; EW Polsko (opatrnost od 2H27 kvůli volbám, OW spotřeba), Turecko, Saúdská Arábie, **Česko** (nejméně těží z deeskalace) | 23. 11. 2026 | log 2026-11 · MS 23. 11. (2027 EEMEA Outlook) |
 | US akcie (S&P 500) | SG (Kabra) | **Epic de-rating:** fwd P/E 23,5 → 16,5× (největší 12M de-rating); taktický odraz teď (VIX >30 → +22 % za 12 M, hit rate 87 %), velké přecenění až po posledním hiku Fedu (**březen 2027**); scénáře **base 7 300–8 900**, downside 6 000, upside 10 000; EPS 2027 400 USD (+11 %) vs. ulice +18 %, ex semis +6 %; long S&P EW / short R2000, long Utilities/Consumers/Industrials, short regionální banky | 23. 11. 2026 | log 2026-11 · SG 23. 11. (Epic de-rating) |
 | Globální alokace 2027 (house view) | BCA (Editors) | **Akcie > dluhopisy v 2027**, býčí trh má ještě prostor, ale AI bust přijde a vrchol trhu může být už v 2027 (zkrátit horizont); US OW do francouzských voleb (duben), pak neutral–UW; většina stratégů OW Japonsko; IG OW, HY neutral. **Rozpor uvnitř BCA** s Berezinem (akcie 12M UW) a Budaghyanem (avoid) | 23. 11. 2026 | log 2026-11 · BCA 23. 11. (Outlook 2027) |
 | Positioning cross-asset | SG (GAA, HFW) | SG MARI −0,4 (z extrému risk-on v únoru), vstupní úrovně lepší; S&P bez excesů, Nasdaq dlouhodobě net long; AM nakupují 10Y UST nad 5 % | 23. 11. 2026 | log 2026-11 · SG 23. 11. (Hedge Fund Watch) |
@@ -45,8 +53,8 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | EM (MSCI EM) | MS | EW, cíl 1 760 (z 1 800); Korea OW před Tchaj-wanem, Čína EW | 15. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | Brazílie | MS (LatAm) | **UW** (z EW), fiskál | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | Indie | GS | **OW** potvrzeno, NIFTY 28 500 konec 2027; „čistý AI diverzifikátor“ | 18. 11. 2026 | log 2026-11 · GS 18. 11. |
-| Indie | SG | Pozitivní, rotace z AI trhů (Korea/Tchaj-wan) do Indie | 18. 11. 2026 | log 2026-11 · SG 18. 11. |
-| Korea (KOSPI) | SG | **Dno zatím není**: downgrady zisků, retail prodává (rozpor s GS OW 7 500) | 18. 11. 2026 | log 2026-11 · SG 18. 11. |
+| Indie (NIFTY) | SG (Benzimra, Asia 2027) | **Neutral → OW**, cíl 28 000 (+9 %); druhá fáze rotace z tech do ne-tech trhů; banky, staples, IT služby | 26. 11. 2026 | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
+| Korea (KOSPI) | SG (Benzimra, Asia 2027) | **Neutral**, cíl 4Q27 5 155 (+6 %), bear 3 525 / bull 6 710; long Tchaj-wan / short Korea; konsenzus staví na korejské tech marži 53 % (2027), SG čeká 39 % růst EPS vs. 53 %; návrat do Kospi s holubičím obratem Fedu (konec 1Q / 2Q27). Posun proti 18. 11. („dno zatím není“) | 26. 11. 2026 | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
 | Asijský průmysl / capex | MS | Strukturální superfáze; AI korekce = vstupní bod | 12. 11. 2026 | log 2026-11 · MS 12. 11. |
 | Čína – akcie | UBP | **UW** (ze 3 na 2 z 5), nejslabší růst zisků od pandemie | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
 | US / Evropa akcie | UBP | US OW (4), Tech OW (4); Evropa UW (2), Francie „nemocný muž“ | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
@@ -79,6 +87,8 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Téma | Instituce | Pohled | Od | Zdroj (log) |
 |---|---|---|---|---|
+| EU obrana – sezónnost | MS (EEMEA) | Sezónní rally evropské obrany od pol. 4Q do 1Q; čeká výrazné zrychlení německých zakázek ke konci roku, i když annualizované zakázky 2026 (~80–85 mld. EUR) jsou hluboko pod cíli 2026/27 (~118 / ~140 mld.). **Rozpor** se SG (short ITA, backlogy) | 23. 11. 2026 | log 2026-11 · MS 23. 11. (2027 EEMEA Outlook) |
+| AI infrastruktura | Alpine Macro (Ramos) | Takticky opatrně, strategicky býčí: preferuje power/grid (č. 1), hyperscalery s vlastním křemíkem, optiku; opatrně na paměti (zdvojnásobený capex, riziko převisu nabídky); 2027 shakeout neocloudů (dluhopisy CoreWeave pod 80 centy) | 25. 11. 2026 | log 2026-11 · Alpine Macro 25. 11. (TomorrowX) |
 | Tech / AI řetězec | BCA (Editors) | Snížit „krumpáče a lopaty“ AI; preferovat software a hyperscalery, polovodiče max. neutral, **UW neocloudy a paměti/hardware**; takticky ale čeká prudký odraz čipů a pamětí | 23. 11. 2026 | log 2026-11 · BCA 23. 11. (Outlook 2027) |
 | Čína offshore internet | BCA (Editors) | Na desetiletých minimech relativního ocenění, nejvíc vydělá na obratu politiky (do roka, ale až po dalším zhoršení); RMB ~8 % podhodnocený | 23. 11. 2026 | log 2026-11 · BCA 23. 11. (Outlook 2027) |
 | Evropa – AI adopce | MS (Kim, Zavolock) | Nový koš Europe AI 50; vítězové Capital Goods, A&D, banky, semis, MedTech, logistika, farma; poražený IT služby; luxus „limited“ (pomáhá jen bohatství z AI); výprodej AI enablerů přehnaný (P/E cca 37× → 22×) | 22. 11. 2026 | log 2026-11 · MS 22. 11. (BluePaper Europe AI) |
@@ -158,6 +168,9 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Téma | Instituce | Pohled | Od | Zdroj (log) |
 |---|---|---|---|---|
+| Globální dluhopisy 2027 | JPM (Panigirtzoglou) | Bilance poptávky a nabídky +0,4 bil. USD (čistá nabídka 4,9 → 4,3 bil.), z toho Global Agg výnos −20 bp v 2027. **Rozpor** s JPM Diamond (UST 10Y 5,05 % ve 2Q27) | 25. 11. 2026 | log 2026-11 · JPM 25. 11. (Flows & Liquidity) |
+| Bitcoin | JPM (Panigirtzoglou) | Kapitulační signály: mNAV MSTR 0,88 (rekordní minimum), odlivy z IBIT, BTC pod 60 tis. USD vs. náklady těžby ~87 tis. | 25. 11. 2026 | log 2026-11 · JPM 25. 11. (Flows & Liquidity) |
+| EM FX | GS (Alves, Fang) | EM ~10 % podhodnocené vůči USD, carry slabé; BRL levná, ale bez lokálního katalyzátoru krátkodobě underperformer; MXN až po jestřábím Banxicu; dál short ILS; KRW nejodolnější; CZK −2 % vs. USD v souladu s modelem; long BUX+ASE vs. short PX | 25. 11. 2026 | log 2026-11 · GS 25. 11. (EM FX Selloff) |
 | UST / EGB 2027 | JPM (Diamond) | UST 10Y ~5,05 % ve 2Q27, Bund 3,05 %; bias long EUR sazby vs. UST, 2s/5s UST flattener; front-end US může nacenit až ~100 bp hiků; Francie: base case Le Penová, spread FR–DE (151 bp, ~40 bp politická prémie) po volbách užší | 24. 11. 2026 | log 2026-11 · JPM 24. 11. |
 | USD – positioning | SG (GAA, HFW) | FX positioning extrémně long USD (FXPI −1,7) → momentum dolaru historicky odeznívá; EUR, JPY, GBP extrémně medvědí | 23. 11. 2026 | log 2026-11 · SG 23. 11. (Hedge Fund Watch) |
 | USD / zlato / dluhopisy | BCA (Editors) | USD silný 3–4 měsíce, po 1Q27 medvědí bias; zlato stranou do vrcholu dolaru (pak ~5 000 USD); takticky vyšší výnosy, cyklicky neutral durace, Fed ~3 hiky jako trh; OW gilty, EGB ex Francie, Kanada, Austrálie, UW JGB | 23. 11. 2026 | log 2026-11 · BCA 23. 11. (Outlook 2027) |
@@ -313,6 +326,10 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
 |---|---|---|---|---|
+| 26. 11. 2026 | SG (Benzimra) | Čína (akcie) | **OW → Neutral**; preferuje onshore tech, HK jen value | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
+| 26. 11. 2026 | SG (Benzimra) | Indie (NIFTY) | **Neutral → OW**, cíl 28 000 | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
+| 26. 11. 2026 | SG (Benzimra) | Korea (Kospi) | 18. 11. „dno zatím není“ → formálně Neutral, cíl 5 155, long TW / short KR, návrat s pivotem Fedu | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
+| 23. 11. 2026 | MS (EEMEA) | SAE / Jižní Afrika | EW → **OW** / OW → **EW** (Česko a Polsko EW beze změny) | log 2026-11 · MS 23. 11. (2027 EEMEA Outlook) |
 | 25. 11. 2026 | SG (A. Edwards) | US akcie / likvidita | medvědí potvrzeno, nově rámec „Great Unwind“ (USD a deficit BÚ jako zesilovač) | log 2026-11 · SG 25. 11. (Great Unwind) |
 | 24. 11. 2026 | Alpine Macro (Giorgi) | US akcie – taktika | negativní (MOM od podzimu) → **býčí**, přidávat AI compute, Industrials, hyperscalery, měď; defenzivy jako zdroj | log 2026-11 · Alpine Macro 24. 11. (Full Leather Jacket) |
 | 24. 11. 2026 | GS (Commodities) | Kapacita US DC | konec 2027 90 → 92 GW; nově 2028 +52 GW | log 2026-11 · GS 24. 11. (Power Analyst) |

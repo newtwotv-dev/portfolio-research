@@ -1,23 +1,22 @@
 {
   "schema_version": 1,
   "research_inbox": {
-    "last_processed_at": "2026-11-25T17:05:42Z",
-    "last_run": "2026-11-26",
+    "last_processed_at": "2026-11-26T10:40:46Z",
+    "last_run": "2026-11-27",
     "last_run_stats": {
-      "plne_extrakty": 7,
-      "z_toho_gmail_reportu": 6,
+      "plne_extrakty": 13,
+      "z_toho_gmail_reportu": 12,
       "z_toho_outlook": 1,
+      "z_toho_kratke_zaznamy_znovuzaslani": 2,
       "jen_titulek": 0,
-      "bez_extraktu_zalogovano": 3,
+      "bez_extraktu_zalogovano": 0,
       "zahozeno": 0,
-      "gmail": "9 nových vláken (25. 11. 07:50 – 17:05 UTC, reporty z 24.–25. 11., FW od martinec@jtfg.com): Alpine Giorgi (Full Leather Jacket), GS Power Analyst (DC power do 2028), Gavekal Dragonomics (Batson, Pivot Point), Gavekal Daily (Denyer, Financial Conditions for AI Capex), SG Albert Edwards (Great Unwind), MS Gapen (How far would equities have to fall?); Miton AI Newsletter, Simply Wall St Weekly Picks a Fiscal.ai Black Friday jen řádek v logu",
-      "outlook": "Hawkeye Daily 24. 11. (přišel 25. 11. 06:03) zpracován; Hawkeye za 25. 11. do 05:25 UTC 26. 11. nepřišel; žádný výpis T212",
-      "okno": "2026-11-23 00:00 až 2026-11-26 05:25 UTC",
-      "poznamka": "Vše v hlavní session. Všechna PDF pod 12 MB, needs_pdf žádné. Nové štítky témat žádné. Prune processed_thread_ids: 21 vláken starších 5. 11. Grafy prohlédnuty u GS Power (s. 2), SG Edwards (s. 2–3), Alpine (s. 3, 7)."
+      "gmail": "12 nových vláken (26. 11. 09:27 – 10:40 UTC, FW od martinec@jtfg.com; po 10:40 UTC 26. 11. nic nového – Thanksgiving): SG Asia 2027 Outlook (Čína OW→N, Indie N→OW), GS Kirk Japan Equity Views, Gavekal Ideas (Gudmundsson, EU transfery), Gavekal Daily (Gemehl, Francie), Gavekal-IS (Darcet), JPM Flows & Liquidity (Panigirtzoglou), GS EM FX Selloff, Alpine TomorrowX (Ramos), Alpine US Bond Visuals (jen obálka → needs_pdf), MS 2027 EEMEA Outlook (report 23. 11.); znovuzaslání: SG Kabra Epic de-rating (totožné s 23. 11.) a MS BluePaper China Emerging Frontiers (16. 11., doplněna kap. US restrikcí) – krátké záznamy",
+      "outlook": "Hawkeye Daily 25. 11. (přišel 26. 11. 06:03) zpracován; Hawkeye za 26. 11. (Thanksgiving) do 05:30 UTC 27. 11. nepřišel; žádný výpis T212",
+      "okno": "2026-11-25 17:05 až 2026-11-27 05:30 UTC",
+      "poznamka": "Extrakty přes 3 pomocné agenty (A: MS/SG, B: GS/JPM/Alpine, C: Gavekal), zkontrolovány a sloučeny v hlavní session; Hawkeye v hlavní session. Všechna PDF pod 12 MB. Prune processed_thread_ids: 3 vláken starších 6. 11. Kandidáti na nové štítky (#eu-budget, #cybersecurity, #eu-elections-2027) zatím jen v themes.md jako kandidáti. Přímé zmínky zapsány do dossierů MU, BABA (+ RHM sektorově)."
     },
     "processed_thread_ids": [
-      "1a1ab83be544ae22",
-      "1a1ac9ee00b64062",
       "1a1b11a5c1269465",
       "1a1b7be356cbd7a6",
       "1a1b979e1b58578d",
@@ -78,7 +77,6 @@
       "1a1ea9a75d9b3d40",
       "1a1cf0cb9db754bc",
       "1a1cd2bd9636de26",
-      "1a1ac2426471aeee",
       "1a1ea67a5b44f33f",
       "1a1eab526902f93e",
       "1a1cf681081d7ba1",
@@ -206,7 +204,19 @@
       "1a213276865e78d0",
       "1a2120ad888586aa",
       "1a211b430170bcd1",
-      "1a211aeef0d76663"
+      "1a211aeef0d76663",
+      "1a21771cc7f14a86",
+      "1a2176f6adb2fae4",
+      "1a2176d23d104649",
+      "1a2176bf7b8cd057",
+      "1a2176b4631c14f2",
+      "1a217696486dfc18",
+      "1a217629f101aff6",
+      "1a217328679f9f1b",
+      "1a21731f31e5deac",
+      "1a21731d1294919a",
+      "1a21730ab0d6222d",
+      "1a2172e3ee5b17f1"
     ],
     "processed_note": "Mazat ID starší 21 dní podle data mailu (datum lze odvodit: int(id,16)>>20 = ms od epochy). Nejstarší ID z 4. 11. 2026 smazat 26. 11., zbytek průběžně do 16. 12. 2026.",
     "backlog": [],
@@ -225,7 +235,8 @@
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI1pwEDwAAAA==",
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI1pwEDgAAAA==",
       "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI10GlyAAAAA==",
-      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI2QVx-wAAAA=="
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI2QVx-wAAAA==",
+      "AQMkADAwATNiZmYAZC0wNWNmLTQ5OGQtMDACLTAwCgBGAAAD23IGHoKpaEe5272gtXCgPgcAQDtv_2m2pU_VVEzk9dr5YQAAAgEdAAAAQDtv_2m2pU_VVEzk9dr5YQAI2ZzjRwAAAA=="
     ],
     "outlook_note": "Hawkeye Terminal (newsletter@hawkeyeterminal.com) potvrzen Tomášem 19. 11. jako zdroj 'mailů z terminálu', zapsáno v config/sources.yaml.",
     "portfolio_mismatch": {
@@ -236,14 +247,22 @@
         "t212_michal"
       ]
     },
-    "needs_pdf": [],
+    "needs_pdf": [
+      {
+        "id": "1a21731d1294919a",
+        "datum_mailu": "2026-11-26",
+        "odesilatel": "Alpine Macro (research@alpinemacro.com), FW martinec@jtfg.com",
+        "titul": "US Bond Strategy: Monthly Visuals On Key U.S. Bond Indicators (25. 11. 2026)",
+        "poznamka": "příloha má jen 2 strany (obálka, obsah, disclaimer), chartbook ~34 s. chybí"
+      }
+    ],
     "needs_pdf_note": "20. 11. 2026: Tomáš nemá PDF k MS Cross-Asset October Recap (4. 11.) ani k plnému SG Commodity Compass (12. 11.) – uzavřeno s extrakty z těla mailu, nevyžadovat."
   },
   "portfolio_tracker": {
-    "last_run": "2026-11-26",
-    "last_window": "2026-11-25 až 2026-11-26",
-    "alert": null,
-    "alert_doc": null,
+    "last_run": "2026-11-27",
+    "last_window": "2026-11-26 až 2026-11-27",
+    "alert": "briefs/alerts/2026-11-27.md",
+    "alert_doc": "https://claude.ai/artifact/BqtUetqURbxSEGg6KmuXWY",
     "onboarded": [
       "GUTS",
       "INTR",
@@ -269,7 +288,7 @@
       "TUI1"
     ],
     "deep_dive": "SOFI v1, TKA v1, AQST v1 (18. 11.), CSG v1 (20. 11.), LIME v1 (24. 11., https://claude.ai/artifact/AZNH3RisbnWTyrLQcEawUq) na povel; NU v1 (26. 11., z fronty, https://claude.ai/artifact/4bd5LE66A6hFaCHC3eRcwU)",
-    "last_run_note": "Bez alertu (žádné výsledky, změna signálu, pohyb ≥8 % u držené firmy ani ≥15 % od weekly 23. 11.; BNP downgrade MU už v alertu 25. 11.). Ceny 25. 11. v prices.json (pomocný agent, web). Tomáš 137 457 CZK (+0,5 % vs. 25. 11., +4,1 % vs. weekly 132 040), Michal 15 718 CZK (−0,1 % / +2,8 %). Pohyby 25. 11.: MU −4,53 % (vnitrodenně −9,7 %, TrendForce snížila výhled DRAM, chystaná cla), INTR +5,3 % (jediný zdroj), NU +4,2 %, SMSH −4,5 % (Q3 zatím nevyšly), TNEK (tier B, nedrženo) −10,0 % s KOSPI −6,2 %. Makro: core PCE 3,3 % r/r (odhad 3,2 %), HDP Q3 +4,3 %, Reuters: chystaná cla na 16 partnerů (EU strop 15 %, Čína 20 %). Quartr: nic nového od 24. 11. (MU proxy už zapsáno). Dossier MU aktualizován (Deník změn, broker zmínky), signály beze změny. Biotech (IOVA, AQST, GUTS) bez zpráv. Tier B mimo pondělí nekontrolován. Fronta deep dive přeřazena podle vah 25. 11. (NU 5,7 % předběhl IOVA 5,6 %, TKMS 3,6 % předběhl MC). Deep dive NU v1 (z fronty; RHM blokován do CMD 27. 11.): 🟡 držet, přikupovat pod ~11,4 USD; scénáře 7,96/17,10/26,26 USD (25/50/25 %), vážený ~17,6 % p. a. vs. požadovaných 14–18 %; Tomáš 5,7 % v rámci 4–6 %, Michal 3,6 % nad rámcem 2–3 %. NU zařazen do refresh_queue (trigger 9. 12. po Investor Day). Další ve frontě: RHM (od 28. 11.), pak IOVA."
+    "last_run_note": "Alert: SMSH výsledky Q3 (26. 11.) – tržby 17,7 mil. USD (+119 %), hrubá marže 59 %, čistý zisk 6,2 mil., výhled 2026 52–54 mil., první objednávka z IDIQ; backlog 51,6 → ~41,4 mil., nové zakázky Q3 7,7 mil.; akcie +24,6 % na ~1 633 ag. (Globes; Bizportal 1 514 – rozpor). Signál SMSH 🟡 → 🟢. Ceny 26. 11. (EU/TASE/KOSDAQ, pomocný agent, web; US zavřeno – Thanksgiving) v prices.json; CSG 26. 11. nedohledán. Tomáš 139 574 CZK (+1,5 % vs. 26. 11., +5,7 % vs. weekly 132 040), Michal 15 678 CZK (−0,3 % / +2,5 %). RHM 26. 11. +4,1 % (765,70), RBC cíl 1 600 → 1 300 EUR (Outperform); CMD 27. 11. od 10:00 SEČ – cíle v době běhu (06:50 SEČ) nevyšly, zpracovat zítra. TNEK (tier B) 26. 11. +5,8 %, 27. 11. vnitrodenně +13,9 % bez zprávy. Quartr: žádné nové dokumenty od 25. 11., nadcházející události beze změny. Biotech (IOVA, AQST, GUTS) bez zpráv. Tier B mimo pondělí nekontrolován (TNEK jen z cen). Deep dive neproběhl (alert). Další ve frontě RHM (od 28. 11.)."
   },
   "market_brief": {
     "last_run": "2026-11-23T07:45:00Z",
@@ -392,7 +411,7 @@
     }
   },
   "watchlist_snapshot": {
-    "as_of": "2026-11-25",
+    "as_of": "2026-11-27",
     "quartr_ids": [
       16403,
       14505,
@@ -445,7 +464,7 @@
       "ref": "state/calendar.md"
     }
   ],
-  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny. 20. 11.: Tomáš nahrál PDF k BCA HTE, BCA G10 FX, MS Oil Manual a SG (Curve & Carry Monitors) – extrakty nahrazeny plnými verzemi vč. grafů. Nové pokyny: řádek „Z grafů“ v extraktech, krok 9b deep dive (co píšou analytici), dotaz na téma v tasks/on-demand.md, seznam needs_pdf. 21. 11.: přecenění k 20. 11. – MC (3,7 %) předběhla TKMS (3,6 %) ve frontě deep dive. Onboarding fronta prázdná. 24. 11.: Tomáš rozhodl – RHM deep dive až po CMD 27. 11. (zůstává první ve frontě, spustit od 28. 11.), mezitím LIME v1 na povel. Lock-up LIME opraven na 7.–9. 12. 2026. 25. 11.: watchlist beze změny (20 firem). Ceny 24. 11. dohledány přes pomocného agenta (web), MU downgrade ověřen ve 4 zdrojích. VST close 23. 11. podle trefis 123,87 (v prices zůstává 124,80, ověřit). TKCC close 23. 11. zřejmě 23,06, ne 22,26. 26. 11.: bez alertu → deep dive NU v1 (RHM čeká na CMD 27. 11. podle pokynu 24. 11.); fronta přeřazena podle vah 25. 11. (NU 5,7 % > IOVA 5,6 %, TKMS 3,6 % > MC 3,6 %).",
+  "notes": "Deep dive fronta podle velikosti pozice od největší po nejmenší (pokyn Tomáše 18. 11. 2026): nejdřív Tomášovy pozice podle váhy z tools/portfolio.py, pak pozice jen u Michala (TUI1, VST, COIN), nakonec nedržené firmy (TNEK). Nové firmy z watchlistu se řadí podle váhy, ne na začátek. Onboarding fronta stejně. Pořadí deep dive po přecenění k 18. 11. beze změny. 19. 11.: Tomáš potvrdil Hawkeye Terminal jako terminál; GS/JPM PDF obsahují doložky o zákazu vkládání do AI bez souhlasu – Tomáš upozorněn (zpracování GS/JPM je jeho rozhodnutí z 18. 11.). 20. 11.: ceny 19. 11. dohledávány přes web s různou kvalitou zdrojů (viz prices.json notes); Research Inbox i onboarding paralelně přes pomocné agenty, výstupy zkontrolovány a sloučeny. 20. 11.: Tomáš nahrál PDF k BCA HTE, BCA G10 FX, MS Oil Manual a SG (Curve & Carry Monitors) – extrakty nahrazeny plnými verzemi vč. grafů. Nové pokyny: řádek „Z grafů“ v extraktech, krok 9b deep dive (co píšou analytici), dotaz na téma v tasks/on-demand.md, seznam needs_pdf. 21. 11.: přecenění k 20. 11. – MC (3,7 %) předběhla TKMS (3,6 %) ve frontě deep dive. Onboarding fronta prázdná. 24. 11.: Tomáš rozhodl – RHM deep dive až po CMD 27. 11. (zůstává první ve frontě, spustit od 28. 11.), mezitím LIME v1 na povel. Lock-up LIME opraven na 7.–9. 12. 2026. 25. 11.: watchlist beze změny (20 firem). Ceny 24. 11. dohledány přes pomocného agenta (web), MU downgrade ověřen ve 4 zdrojích. VST close 23. 11. podle trefis 123,87 (v prices zůstává 124,80, ověřit). TKCC close 23. 11. zřejmě 23,06, ne 22,26. 26. 11.: bez alertu → deep dive NU v1 (RHM čeká na CMD 27. 11. podle pokynu 24. 11.); fronta přeřazena podle vah 25. 11. (NU 5,7 % > IOVA 5,6 %, TKMS 3,6 % > MC 3,6 %). 27. 11.: alert SMSH (Q3, +25 %), signál 🟡 → 🟢; v alertu návrh předřadit SMSH v deep dive frontě – rozhodnutí na Tomášovi (fronta zatím beze změny). RHM CMD 27. 11. proběhne po běhu – zítřejší běh zpracuje cíle a pak deep dive RHM. Ceny TKMS a TUI1 26. 11. nejisté, TKCC close 25. 11. byl 22,08 (ne 21,24).",
   "refresh_queue": [
     {
       "ticker": "CSG",

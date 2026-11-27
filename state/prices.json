@@ -1,39 +1,39 @@
 {
-  "as_of": "2026-11-25 (závěry 25. 11. kde dohledáno, jinak starší – viz notes.close_25_11); kurzy ČNB 25. 11. 2026",
+  "as_of": "2026-11-26 (EU/TASE/KOSDAQ závěry 26. 11.; US beze změny – close 25. 11., 26. 11. Thanksgiving); kurzy ČNB 26. 11. 2026",
   "fx_to_czk": {
-    "USD": 22.329,
-    "EUR": 24.435,
-    "DKK": 3.269,
-    "ILS": 6.614,
-    "KRW": 0.0166
+    "USD": 22.283,
+    "EUR": 24.455,
+    "DKK": 3.272,
+    "ILS": 6.695,
+    "KRW": 0.01658
   },
   "prices": {
     "BABA": 86.25,
     "SOFI": 13.08,
     "PFE": 28.55,
     "VTS": 14.29,
-    "MC": 391.0,
-    "TKA": 10.26,
-    "RHM": 735.8,
+    "MC": 401.05,
+    "TKA": 10.705,
+    "RHM": 765.7,
     "INTR": 4.01,
-    "TKMS": 74.3,
+    "TKMS": 75.9,
     "AQST": 3.78,
     "CSG": 8.9,
     "GUTS": 0.82,
     "LIME": 19.69,
     "NU": 12.36,
-    "TKCC": 21.24,
-    "SPYY": 280.83,
+    "TKCC": 22.04,
+    "SPYY": 276.7,
     "CSPX": 774.95,
     "COIN": 103.72,
     "TUI1": 6.82,
     "IOVA": 7.13,
     "MU": 601.25,
     "VST": 120.7,
-    "SMSH": 13.11,
+    "SMSH": 16.33,
     "IBKR": 74.71,
-    "NOVO": 274.3,
-    "TNEK": 10960
+    "NOVO": 278.75,
+    "TNEK": 11600
   },
   "notes": {
     "zdroje_close_20_11": "US tituly financialcontent / chroniclejournal (oficiální close 20. 11.); CSG Euronext Amsterdam 8,50 (npinvestor, investing; Praha 217 CZK −6,1 %); RHM tradingeconomics/Xetra-Schluss; TKMS, TKCC finanznachrichten Xetra 17:35; TKA finanzen.at Xetra (−7,99 %); TUI1 onvista Xetra; MC tradingeconomics; NOVO npinvestor; SMSH Bizportal 1 450 ILA (čas neuveden; TASE od 1/2026 obchoduje po–pá); TNEK investing.com 13 320 KRW (−16,8 %); FX ČNB 20. 11. přes kurzy.cz",
@@ -43,6 +43,7 @@
     "weekly_23_11": "Týdenní souhrn 23. 11. použil ceny k close 20. 11. (od té doby EU/US neobchodovaly). TNEK 23. 11. vnitrodenně 12 220 KRW (−7,8 %, StockHub 14:35 KST; StockHub uvádí předchozí close 13 250 vs. kokstock 13 320) – v prices zůstává close 20. 11. CSPX a SPYY close 20. 11. dál nedohledány.",
     "close_23_11": "Tracker 24. 11.: potvrzené close 23. 11.: SOFI 13,09 (Yahoo), INTR 3,69, COIN 108,78, PFE 27,40, AQST 3,78, BABA 86,04 (Yahoo), MU 707,70 (+19,04 %, Fool), RHM 725,20 (Xetra, aktiencheck), TKMS 73,30 (Xetra aukce, boerse.de), MC 388,80 (abcbourse 17:38), NOVO 266,35 DKK (ProInvestor). Nepotvrzené: NU ~11,80 (Robinhood), VST ~124,80 (+8,3 %, TipRanks + Robinhood), TUI1 ~7,10 (Stuttgart 21:55, Xetra close nenalezen), SPYY 280,83 (Lang & Schwarz), CSG 9,32 EUR = Praha 227,80 CZK / ČNB 24,455 (Amsterdam close nenalezen; Patria bid/ask 9,24/9,45). Beze změny (close 23. 11. nenalezen): VTS, IOVA (MarketBeat: −4,4 % po downgradu Mizuho), GUTS, IBKR, CSPX, TKA (intraday 10,16–10,58), TKCC, SMSH, TNEK. Indexy 23. 11.: S&P 500 7 237,17 (+4,7 %), Nasdaq 24 089,56 (+6,5 %), Dow 49 595,31 (+3,0 %), Russell 2000 +3,4 %, DAX 25 337,27 (+2,15 %), STOXX 600 637,84 (+1,9 %), VIX 26,62, US 10Y ~4,94 %, Brent 89,37 (−3,5 %), zlato 3 649,20 (+3,9 %), BTC ~61,1 tis. LIME 19,69 (+1,65 %, Trendlyne/TipRanks; doplněno při deep dive 24. 11.).",
     "close_24_11": "Tracker 25. 11.: potvrzené close 24. 11.: SOFI 12,86 (−1,76 %, tradingkey), COIN 102,35 (−5,92 %, journalarta), MU 629,79 (−11,01 %, journalarta + stocktitan), RHM 734,50 EUR (+1,28 %, finanzen.net), TKCC 21,24 EUR (Xetra 17:35, finanznachrichten; zdroj uvádí předchozí close 23,06 → −7,89 %, proti našim 22,26 −4,6 % – předchozí close 22,26 zřejmě chybný). Nepotvrzené/odvozené: PFE ~28,55 (+4,2 %, tradingkey market movers), TKMS ~74,70 (Xetra 17:44, onvista), TKA ~9,96 (−3,4 % podle dpa-AFX Xetra-Schluss, cena dopočtena), CSG 9,29 EUR = Praha 227,00 CZK (−0,35 %, Patria 16:24) / ČNB 24,430. Nedohledáno (ponecháno 23. 11.): NU, INTR, VST, VTS, IOVA, AQST, GUTS, BABA (MarketBeat −1,4 % intradenně), LIME, IBKR, TUI1 (intradenně ~6,90–6,97; Xetra close 23. 11. byl 7,09), MC, NOVO (ADR NVO +3,2 %), SMSH, TNEK, SPYY, CSPX. Indexy 24. 11.: S&P 500 7 201,09 (−0,50 %), Nasdaq 23 733,54 (−1,48 %), Dow 50 018,70 (+0,85 %, poprvé nad 50 tis.), DAX 25 017,81 (−1,26 %), STOXX 600 ~632,8 (−0,7 %), US 10Y 4,904 %, BTC ~59,9 tis. USD (−2,3 %), WTI 81,46, zlato 3 552 (vistapglobal, onvista, marketscreener). VST close 23. 11. podle trefis 123,87 (ne 124,80). FX ČNB 24. 11. přes kurzy.cz.",
-    "close_25_11": "Tracker 26. 11. (pomocný agent, web): potvrzené close 25. 11.: NU 12,36 (+4,2 %, Yahoo), COIN 103,72 (+1,3 %, Yahoo + cappnotes), MU 601,25 (−4,53 %, vnitrodenně až −9,7 %; Fool, stocktitan, cappnotes), MC 391,00 (−0,94 %, abcbourse). Pravděpodobné: SOFI 13,08 (+1,7 %, Fool), IOVA 7,13 (−2,7 %, Fox; Fox uvádí předchozí close 7,33 – naše 6,90 bylo staré), BABA 86,25 (+1,6 %, Fool; předchozí 84,86), RHM 735,80 (Xetra, onvista), TKA 10,26 (+2,2 %, finanzen.at), TUI1 6,82 (−1,5 %, finanzen.at), CSG 8,90 EUR (Amsterdam 17:37, Patria), NOVO 274,30 DKK (npinvestor), SMSH 1 311 ag. (−4,5 %, sponser.co.il), TNEK 10 960 KRW (−10,0 %, stockanalysis; 26. 11. vnitrodenně ~11 960, +9 %). Odhady (jediný zdroj): INTR 4,01 (+5,3 %, Fox), IBKR 74,71 (Fox), TKMS ~74,30 (Xetra 16:51, onvista). Nedohledáno (ponecháno): VST (close 24. 11. podle Fox/Fool 120,68–120,72, ne 124,80), VTS, PFE (~28,45 ve 14:46 ET), AQST, GUTS, LIME, TKCC (Stuttgart 13:46 22,02), SPYY, CSPX (NAV 24. 11. 777,74). Indexy 25. 11.: S&P 500 7 182,78 (−0,25 %), Nasdaq 23 585,80 (−0,62 %), Dow 50 182,95 (+0,33 %), DAX 24 702,13 (−1,26 %, nejníž od července), STOXX 600 ~626,0 (−1,1 %), US 10Y ~4,85 % (odhad, −6 bp), BTC ~60,1 tis., Brent ~94,6 (+3,5 %, jediný zdroj), WTI ~83,7. Core PCE říjen +0,3 % m/m, 3,3 % r/r (odhad 3,2 %), HDP Q3 2. odhad +4,3 %. FX ČNB 25. 11. přes kurzy.cz. VST nastaveno na 120,70 = close 24. 11. (Fox/Fool), close 25. 11. nedohledán."
+    "close_25_11": "Tracker 26. 11. (pomocný agent, web): potvrzené close 25. 11.: NU 12,36 (+4,2 %, Yahoo), COIN 103,72 (+1,3 %, Yahoo + cappnotes), MU 601,25 (−4,53 %, vnitrodenně až −9,7 %; Fool, stocktitan, cappnotes), MC 391,00 (−0,94 %, abcbourse). Pravděpodobné: SOFI 13,08 (+1,7 %, Fool), IOVA 7,13 (−2,7 %, Fox; Fox uvádí předchozí close 7,33 – naše 6,90 bylo staré), BABA 86,25 (+1,6 %, Fool; předchozí 84,86), RHM 735,80 (Xetra, onvista), TKA 10,26 (+2,2 %, finanzen.at), TUI1 6,82 (−1,5 %, finanzen.at), CSG 8,90 EUR (Amsterdam 17:37, Patria), NOVO 274,30 DKK (npinvestor), SMSH 1 311 ag. (−4,5 %, sponser.co.il), TNEK 10 960 KRW (−10,0 %, stockanalysis; 26. 11. vnitrodenně ~11 960, +9 %). Odhady (jediný zdroj): INTR 4,01 (+5,3 %, Fox), IBKR 74,71 (Fox), TKMS ~74,30 (Xetra 16:51, onvista). Nedohledáno (ponecháno): VST (close 24. 11. podle Fox/Fool 120,68–120,72, ne 124,80), VTS, PFE (~28,45 ve 14:46 ET), AQST, GUTS, LIME, TKCC (Stuttgart 13:46 22,02), SPYY, CSPX (NAV 24. 11. 777,74). Indexy 25. 11.: S&P 500 7 182,78 (−0,25 %), Nasdaq 23 585,80 (−0,62 %), Dow 50 182,95 (+0,33 %), DAX 24 702,13 (−1,26 %, nejníž od července), STOXX 600 ~626,0 (−1,1 %), US 10Y ~4,85 % (odhad, −6 bp), BTC ~60,1 tis., Brent ~94,6 (+3,5 %, jediný zdroj), WTI ~83,7. Core PCE říjen +0,3 % m/m, 3,3 % r/r (odhad 3,2 %), HDP Q3 2. odhad +4,3 %. FX ČNB 25. 11. přes kurzy.cz. VST nastaveno na 120,70 = close 24. 11. (Fox/Fool), close 25. 11. nedohledán.",
+    "close_26_11": "Tracker 27. 11. (pomocný agent, web): RHM 765,70 (+4,1 %, Xetra, aktiencheck/jkn), TKA 10,705 (+4,3 %, aktiencheck), TKMS ~75,90 (nejisté: aktiencheck 17:30; finanzen.net má close 25. 11. 75,50 místo 74,30), TKCC 22,04 (marketscreener; close 25. 11. byl 22,08, ne 21,24 = 24. 11.), TUI1 ~6,82 (nejisté, Stuttgart 6,81), MC 401,05 (+2,6 %, abcbourse), NOVO 278,75 DKK (+1,6 %, npinvestor), SPYY ~276,70 (Stuttgart, odhad), CSG 26. 11. nedohledán (zůstává 8,90 z 25. 11.), SMSH 1 633 ILA (+24,6 %, Globes; Bizportal kotace 1 514 – rozpor, Globes upřednostněn) po výsledcích Q3, TNEK 11 600 KRW (+5,8 %, etoday), 27. 11. vnitrodenně 13 210 (+13,9 %, StockHub 14:39 KST, bez firemní zprávy). Indexy 26. 11.: DAX 25 215,52 (+2,08 %), KOSPI 4 711,21 (+0,29 %), KOSDAQ 655,71 (+0,78 %), TA-35 +2,3 %, PX 2 563,35 (+0,54 %). FX ČNB 26. 11. přes kurzy.cz."
   }
 }
