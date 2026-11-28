@@ -54,6 +54,9 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Brazílie | MS (LatAm) | **UW** (z EW), fiskál | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | Indie | GS | **OW** potvrzeno, NIFTY 28 500 konec 2027; „čistý AI diverzifikátor“ | 18. 11. 2026 | log 2026-11 · GS 18. 11. |
 | Indie (NIFTY) | SG (Benzimra, Asia 2027) | **Neutral → OW**, cíl 28 000 (+9 %); druhá fáze rotace z tech do ne-tech trhů; banky, staples, IT služby | 26. 11. 2026 | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
+| Indie (akcie) | HSBC (van der Linde, Garg; Bhandari) | **OW** (z Neutral 9. 11., potvrzeno 27. 11.): odolné zisky, FTSE India ~19× fwd (u průměru), AI diverzifikátor, nízký zahraniční positioning; v 2027 potřebuje export + FDI, rizika ropa, inflace, US cla 17–25 %. Teď OW tři domy (HSBC, GS, SG) | 9. 11. 2026 | log 2026-11 · HSBC 27. 11. (India Macro Strategy) |
+| Čína (akcie) | HSBC (equity strategie) | **↓ Neutral** (jen z titulu reportu 9. 11. „India up to overweight, China down to neutral“, detail nemáme); stejný směr jako SG 26. 11., proti GS (H-shares OW) | 9. 11. 2026 | log 2026-11 · HSBC 27. 11. (India Macro Strategy) |
+| Globální akcie 2027 | HSBC (Global Equity Outlook, citováno) | OW US a EM akcie, zvlášť polovodiče. **Rozpor** s BCA Editors (semis max neutral) a SG (semis medvědí); druhotná zmínka, plný report nemáme | 24. 11. 2026 | log 2026-11 · HSBC 27. 11. (India Macro Strategy) |
 | Korea (KOSPI) | SG (Benzimra, Asia 2027) | **Neutral**, cíl 4Q27 5 155 (+6 %), bear 3 525 / bull 6 710; long Tchaj-wan / short Korea; konsenzus staví na korejské tech marži 53 % (2027), SG čeká 39 % růst EPS vs. 53 %; návrat do Kospi s holubičím obratem Fedu (konec 1Q / 2Q27). Posun proti 18. 11. („dno zatím není“) | 26. 11. 2026 | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
 | Asijský průmysl / capex | MS | Strukturální superfáze; AI korekce = vstupní bod | 12. 11. 2026 | log 2026-11 · MS 12. 11. |
 | Čína – akcie | UBP | **UW** (ze 3 na 2 z 5), nejslabší růst zisků od pandemie | 11. 11. 2026 | log 2026-11 · UBP 11. 11. |
@@ -94,6 +97,12 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | Evropa – AI adopce | MS (Kim, Zavolock) | Nový koš Europe AI 50; vítězové Capital Goods, A&D, banky, semis, MedTech, logistika, farma; poražený IT služby; luxus „limited“ (pomáhá jen bohatství z AI); výprodej AI enablerů přehnaný (P/E cca 37× → 22×) | 22. 11. 2026 | log 2026-11 · MS 22. 11. (BluePaper Europe AI) |
 | Asie – utility / power pro DC | MS (Maheshwari) | In-Line; „vzduchová kapsa“ 2027–28 kvůli exportním kontrolám (kapacita DC v JV Asii −15 %, spotřeba 2028 −33 %); preferuje vlastníky aktiv před výrobci zařízení; avoid KEPCO, HD Hyundai Electric, Tata Power, Huaneng | 22. 11. 2026 | log 2026-11 · MS 22. 11. (Powering AI) |
 | US–Čína exportní kontroly | MS (Salvatore) | Riziko vychýlené k dalšímu utahování (NDAA: RASA, MATCH, AI Overwatch, CHIPS Security Act); daň na zámořská DC málo pravděpodobná; klíčové datum konec příměří z Busanu 11. 1. 2027 | 23. 11. 2026 | log 2026-11 · MS 23. 11. (Public Policy) |
+| US–Čína exportní kontroly / DC v JV Asii | Gavekal (Miller) | Huang zpět, ale jestřábi mají navrch: pravidla od 19. 11. přenášejí licence a prověřování zákazníků na zámořská DC (i pro instalované vybavení), Nvidia zastavila dodávky serverů do JV Asie; 32 % kapacity DC v SG/MY/TH/ID napojeno na Čínu (Natixis) → rušení projektů (dluh 48 mld. USD). **Rozpor** uvnitř Gavekalu (Denyer 25. 11.: přesun, ne zrušení) | 27. 11. 2026 | log 2026-11 · Gavekal 27. 11. (Nvidia Aftershock) |
+| EU polovodiče / AI enablery | GS (Duval) | Konstruktivně: adopce AI raná, compute poptávka cca 5× nabídka, úzká hrdla se šíří na paměť, CPU, fotoniku a energii; Buy ASML (CL, PT 2 315 EUR), Infineon (91 EUR), Logitech (99 CHF), Technoprobe (44 EUR) | 27. 11. 2026 | log 2026-11 · GS 27. 11. (AI & Semis Symposium) |
+| Paměti – poptávka (kvalitativně) | GS (Duval, symposium) | Paměť jako budoucí architektonické omezení AI (agentní AI násobí kontext); ASML: silná paměťová litografie 2027/28, EUV na DRAM 1c; Logitech: ceny pamětí tlačí marži. **Rozpor** s TrendForce (25. 11.) a BCA (UW paměti) | 27. 11. 2026 | log 2026-11 · GS 27. 11. (AI & Semis Symposium) |
+| Faktory – US | MS (Quant, Ho) | Beze změny: EPS Up vs. Down Revisions, Low PEG, R&D-to-Market Cap (všechny s AI expozicí); screen mj. WDC č. 3, **PFE č. 11** | 27. 11. 2026 | log 2026-11 · MS 27. 11. (Quant Outlook 2027) |
+| Faktory – Evropa | MS (Quant, Ho) | **Earnings Window Momentum + Trailing Earnings Yield + Low YoY Asset Growth** (nahrazují 3M EPS revize a OCF Yield); Comp Value 8 → 2; režim ERP klesající → rostoucí | 27. 11. 2026 | log 2026-11 · MS 27. 11. (Quant Outlook 2027) |
+| Faktory – Japonsko | MS (Quant, Haraguchi) | Barbell value + momentum: Forward Earnings Yield, Low PEG, **Earnings Window Momentum** (nahrazuje EPS revize); screen č. 1 Kioxia (Top Pick) | 27. 11. 2026 | log 2026-11 · MS 27. 11. (Quant Outlook 2027) |
 | Globální kredit | MS (Patkar) | IG > loans > HY, barbell AA/BBB, UW US single-B; US CCC 1 174 bp (5leté maximum), US IG 96 bp (1leté max., ale jen ~22. percentil za 20 let); CDS AI emitentů na 1letých maximech | 23. 11. 2026 | log 2026-11 · MS 23. 11. (Global Credit) |
 | EU obrana | GS | OW beze změny (~20% růst EPS, PEG < 1, 50% diskont vůči US) | 13. 11. 2026 | log 2026-11 · GS 13. 11. |
 | EU Consumer Products & Services (luxus) | GS | **Neutral** (upgrade) | 13. 11. 2026 | log 2026-11 · GS 13. 11. |
@@ -153,6 +162,7 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | AI capex / výstavba DC | Gavekal (L. Gave vs. Denyer) | **Rozpor uvnitř Gavekalu:** Gave – hyperrůst DC končí z politických důvodů (6. 11.); Denyer – trh hrozby pro AI řetězec přeceňuje, poptávka > nabídka (ceny GPU rostou), lokální restrikce = přesun, ne zrušení; méně vendor financingu Nvidie škodí slabším DC, labům a pamětem (25. 11.; 4. 11.: hrozbou je drahý kapitál) | 25. 11. 2026 | log 2026-11 · Gavekal 25. 11. (Financial Conditions), 4. a 6. 11. |
 | AI capex | BCA (Swift, Timper) | Boom nenarušený, výprodej AI akcií by měl brzy najít dno | 2. 11. 2026 | log 2026-11 · BCA 2. 11. |
 | EU obrana – rozpočty | ING vs. Gavekal (C. Gave) | **Rozpor:** ING – část Evropy může kvůli rozpočtům zpomalit růst obranných výdajů (4. 11.); Gave – NATO je mrtvé, Evropa musí obranu výrazně navýšit na úkor sociálního státu (13. 11.) | 13. 11. 2026 | log 2026-11 · ING 4. 11., Gavekal 13. 11. |
+| Ukrajina – financování EU | Gavekal (Gemehl, Gudmundsson) | Mezera 2027 70 mld. EUR; návrh Komise +45 mld. (20 rozpočet + 25 vojenská) potřebuje jednomyslnost (HU, SK, CZ, BG chtějí výjimky, Merz hrozí vetem MFF); partneři mimo EU 25 mld. nedodají; po 2027 nutný mechanismus odolný vůči Le Penové | 27. 11. 2026 | log 2026-11 · Gavekal 27. 11. (Nvidia Aftershock) |
 | EU defenzivy vs. cykliky | GS | Rotace do defenziv (+14 % od října) přehnaná, nehonit; dál vybrané cykliky (Tech, Retail, A&D). Sektory beze změny (OW obrana, Tech, Utilities; UW Healthcare, Energy) | 20. 11. 2026 | log 2026-11 · GS 20. 11. |
 | Sektory global | BCA (Berezin) | Healthcare 12M strong buy, Staples a Utilities buy; IT 3M neutral / 12M sell, Discretionary a Comm. Services sell | 19. 11. 2026 | log 2026-11 · BCA 19. 11. (Berezin) |
 | Polovodiče | BCA (Berezin) vs. SG | BCA: nově taktický long SOXX (cíl +20 %, stop −5 %), ale IT 12M sell. SG: do 2027 medvědí, SOX −30 % od léta (vedou paměti), opatrně s Koreou | 19.–20. 11. 2026 | log 2026-11 · BCA 19. 11., SG 20. 11. |
@@ -267,9 +277,9 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | ECB | Robeco | Depo 2,75 % v prosinci, 3,00 % v březnu; francouzské spready mohou utahování zastavit | 5. 11. 2026 | log 2026-11 · Robeco 16. 11. |
 | ECB | SG | Hike v prosinci, inflace vrcholí nad 4 %, konec QT zatím ne | 16. 11. 2026 | log 2026-11 · SG 16. 11. |
 | BoE | MS (Skarica) | **Nově** hiky v prosinci a únoru na 4,50 %, hold do 2028, pak 3,75 % | 15. 11. 2026 | log 2026-11 · MS 15. 11. |
-| UST durace | Alpine Macro (Kalirai) | Durace OW, long 2Y / short 10Y | 12. 11. 2026 | log 2026-11 · Alpine Macro 12. 11. |
+| UST durace | Alpine Macro (Kalirai) | Durace OW, long 2Y / short 10Y (beze změny k 26. 11.) | 12. 11. 2026 | log 2026-11 · Alpine Macro 12. 11., 26. 11. |
 | UST term premium | Alpine Macro (McClellan) | Fiskální krize do 2 let nehrozí, term premium strukturálně roste k 100–150 bp | 11. 11. 2026 | log 2026-11 · Alpine Macro 11. 11. |
-| EUR/USD | Alpine Macro (Kalirai) | 1–3M dolů, 9–12M flat; short USD/JPY a EUR/JPY | 12. 11. 2026 | log 2026-11 · Alpine Macro 12. 11. |
+| USD 2027 / EUR/USD | Alpine Macro (Kalirai) | Hegemonie USD neohrožená; dolar podporovaný v 1Q27 (jestřábí Fed, spread FR–DE, slabá Čína), během 2027 možné cyklické oslabení; EUR vs USD 1–3M dolů, 9–12M flat; short USD/JPY & EUR/JPY, short EUR/CHF. **Rozpor uvnitř Alpine** se Zhaem (EUR k paritě) a s MS (DXY 105–106 do 2028) | 26. 11. 2026 | log 2026-11 · Alpine Macro 26. 11. (What Will Drive The Dollar In 2027?), 12. 11. |
 | Francie – OAT | Alpine Macro (Huang) | UW OAT, dokud ECB nevynutí reformy (spread k Bundům 165 bp) | 2. 11. 2026 | log 2026-11 · Alpine Macro 2. 11. |
 | TTF | GS (Carbonomics) | Riziko 2027 nahoru: 1Q27 92 EUR/MWh, stres ~150, příznivý 45 | 11. 11. 2026 | log 2026-11 · GS 11. 11. |
 | Komoditní indexy | SG | Lednový rebalancing: odtok z energií, přítok do drahých kovů (BCOM zlato >3,3 mld. USD) | 12. 11. 2026 | log 2026-11 · SG 12. 11. |
@@ -295,6 +305,10 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | USD/CNY | MS (Xing) | 6,50–6,60 za 12–18 M (**rozpor** se SG 6,90) | 16. 11. 2026 | log 2026-11 · MS 16. 11. (BluePaper) |
 | Zlato | BCA (Ibrahim) | **Strukturální long → stranou** (stop 3 700 USD 19. 11., +113 % od 11/2022); znovu až po vrcholu dolaru | 20. 11. 2026 | log 2026-11 · BCA 20. 11. |
 | Měď / kovy | MS | Washout pozic; měď deficit 2027 platí, kupovat přestřelení (⌀ 2027 13 675 USD/t); hliník opatrně | 18. 11. 2026 | log 2026-11 · MS 18. 11. |
+| Měď | BCA (Ibrahim) | **Neutral 0–3M, do 12M výš:** z mědi odchází AI prémie i sázka na US clo na rafinovanou měď (BCA clo nečeká), zásoby z COMEX (69 % globálních) potečou zpět do LME/SHFE a oživení zbrzdí. **Rozpor** s GS (15 350 USD/t) a Alpine (Zhao long, Giorgi přidávat), částečná shoda s MS | 26. 11. 2026 | log 2026-11 · BCA 26. 11. (Copper's Recovery Faces A Tariff Overhang) |
+| Indie – RBI / INR | HSBC (Tan, Chew) | RBI ještě ≥50 bp na repo 6 %; nový pay 5Y INR NDOIS; **USD/INR 95 konec 2026 / 97 konec 2027** (z 96/98); INR preferovaná carry v Asii | 27. 11. 2026 | log 2026-11 · HSBC 27. 11. (India Macro Strategy) |
+| Brent | HSBC | ⌀ 2027 85 USD; re-eskalace 110–120 USD (dočasně) / mír 60 USD do 4Q27 | 25. 11. 2026 | log 2026-11 · HSBC 27. 11. (India Macro Strategy) |
+| US cla (Section 301) | Gavekal (Miller) | Trhy z cel unavené, dopad mírný (efektivní sazba 7,8 → 9,2 % podle GS); EU strop 15 %, Čína 37,5 → 45 % při prodloužení příměří (bez něj od 10. 1. až 65 %), Vietnam +22,5 p. b., Indie +15 p. b.; riziko je odveta (Čína, Brazílie) v příštích 2–3 měsících; finále do 11. 3. 2027 | 27. 11. 2026 | log 2026-11 · Gavekal 27. 11. (Tariff Fatigue) |
 | Ropa | SG (MAP) vs. MS | SG Brent 101 (1Q27) → 80 USD (4Q27); MS ~100 → 75 USD konec 2027; GS Brent 92 → 80,7 za 12M | 20. 11. 2026 | log 2026-11 · SG 20. 11. (MAP), MS 20. 11., GS 20. 11. |
 | FX / komodity | BCA (Berezin) | USD 3M silný, pak slábne; JPY 12M strong buy, EUR 12M sell; energie 12M sell, zlato 3M sell / 12M buy | 19. 11. 2026 | log 2026-11 · BCA 19. 11. (Berezin) |
 
@@ -310,6 +324,8 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 | MU | MS | OW, PT 1 200 USD (cena v reportu 690); ve screenu Quality Cyclicals | 8. 11. 2026 | log 2026-11 · MS 8. 11., MS 15. 11. |
 | BABA | MS | OW potvrzen (BluePaper, list čínských frontier lídrů), upside 70,8 % ≈ PT 180 USD (cena v reportu 108,07); EPS 2026/27 −18 % / −28 % kvůli capexu, P/E 2027 22× | 16. 11. 2026 | log 2026-11 · MS 16. 11. (BluePaper), MS 8. 11. |
 | BABA | MS (sales) | Cloud guidance +30–45 % FY28 a +50 % FY29, ale MS snížila odhady tržeb a EBITA FY28–29 kvůli US exportním kontrolám; Internet UW (MS China strategie) | 21. 11. 2026 | log 2026-11 · MS (sales) 21. 11. |
+| RHM | RBC / JPM / Jefferies (po CMD) | RBC Outperform 1 300 EUR (cíle 2030 33–37 mld. splnily očekávání, škrt v ceně); JPM Neutral 1 150 (marže ~20 % ambiciózní, nejde o „clearing event“); Jefferies Buy 1 100 (katalyzátor Arminius). **Rozpor** RBC/Jefferies vs. JPM | 27. 11. 2026 | web (ariva/dpa-AFX, finanzen.net) · companies/RHM/dossier.md |
+| PFE | MS (Quant) | Č. 11 v US kvantovém screenu 2027 (Low PEG, R&D/MCap; slabé revize), rating EW. **Rozpor** s GS 13F/HFTM (podvážení, koš shortů) | 27. 11. 2026 | log 2026-11 · MS 27. 11. (Quant Outlook 2027) |
 | RHM | MS | OW (analytik), ale slabé momentum brzdí sektor | 16. 11. 2026 | log 2026-11 · MS 15. 11. (Year-Ahead) |
 | RHM | SG | Podruhé v 2026 snížil cíl tržeb; exekuční riziko backlogu | 9. 11. 2026 | log 2026-11 · SG 9. 11. |
 | BABA | Gavekal (Gave) | Tail risk US sankcí kvůli Megaspeedu (výslovně spekulativní, základ = vyšumí) | 17. 11. 2026 | log 2026-11 · Gavekal 12. a 17. 11. |
@@ -325,6 +341,11 @@ _Odkaz „log 2026-11 · GS 16. 11.“ = záznam v `research/log/2026-11.md` pod
 ## Log změn
 
 | Datum | Instituce | Co | Z → na | Zdroj (log) |
+| 27. 11. 2026 | HSBC (FX, Chew) | USD/INR konec 2026 / konec 2027 | 96 → 95 / 98 → 97 | log 2026-11 · HSBC 27. 11. (India Macro Strategy) |
+| 27. 11. 2026 | HSBC (Rates, Tan) | Indie sazby | nový obchod pay 5Y INR NDOIS | log 2026-11 · HSBC 27. 11. (India Macro Strategy) |
+| 9. 11. 2026 | HSBC (Equity Strategy) | Indie / Čína | Neutral → **OW** / → **Neutral** (zachyceno až 27. 11.) | log 2026-11 · HSBC 27. 11. (India Macro Strategy) |
+| 27. 11. 2026 | MS (Quant) | Faktory Evropa | 3M EPS revize → Earnings Window Momentum; OCF Yield → Trailing Earnings Yield | log 2026-11 · MS 27. 11. (Quant Outlook 2027) |
+| 27. 11. 2026 | MS (Quant) | Faktory Japonsko | EPS revize → Earnings Window Momentum | log 2026-11 · MS 27. 11. (Quant Outlook 2027) |
 |---|---|---|---|---|
 | 26. 11. 2026 | SG (Benzimra) | Čína (akcie) | **OW → Neutral**; preferuje onshore tech, HK jen value | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |
 | 26. 11. 2026 | SG (Benzimra) | Indie (NIFTY) | **Neutral → OW**, cíl 28 000 | log 2026-11 · SG 26. 11. (Asia 2027 Outlook) |

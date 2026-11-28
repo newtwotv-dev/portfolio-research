@@ -1,6 +1,6 @@
 # Nu Holdings (NU) – dossier
 
-_Poslední aktualizace: 26. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [Nu (id 11343)](https://web.quartr.com/m/companies/11343) · IR: [ir.nu](https://www.investidores.nu/en/)_
+_Poslední aktualizace: 28. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [Nu (id 11343)](https://web.quartr.com/m/companies/11343) · IR: [ir.nu](https://www.investidores.nu/en/)_
 _Poslední deep dive: [v1 – 26. 11. 2026](deep-dive-v1.md) ([Claude Doc](https://claude.ai/artifact/4bd5LE66A6hFaCHC3eRcwU)) · valuace [valuation-v1.py](valuation-v1.py)_
 
 ## Signál
@@ -141,6 +141,7 @@ Vážený cíl **17,10 USD → ~17,6 % p. a.** vs. požadovaný výnos **14–18
 | 19. 11. 2026 | Onboarding (rychlý dossier) | Tracker |
 | 19. 11. 2026 | Novinky od 18. 11.: bez nových firemních zpráv. Cena 12,08 USD (−2,03 %, 18. 11.), od skoku 13. 11. zpět o cca 9 % | [Stock Events](https://stockevents.app/th/stock/NU) |
 | 26. 11. 2026 | **Deep dive v1.** Signál 🟡 Sledovat potvrzen (držet, přikupovat pod ~11,4 USD). Scénáře 7,96 / 17,10 / 26,26 USD (25/50/25 %), vážený ~17,6 % p. a. vs. požadovaných 14–18 %. Rámec pozice Tomáš 4–6 % (dnes 5,7 %), Michal 2–3 % (3,6 %). Nové KPI: NPL na IEP, náklady na úvěr vs. portfolio, kapitál, USD/BRL. Doplněna vlastnická struktura (Vélez 74,4 % hlasů), výměna CFO/CTO, sell-side (Itaú BBA, Citi, BofA, Monness), doplněn close dne voleb 26. 10. (−17 %; onboarding uváděl −12 % přes noc) a upřesněny TTM tržby (manažerské 22,3 mld.) | [deep-dive-v1](deep-dive-v1.md) |
+| 28. 11. 2026 | 27. 11. +4,5 % na 12,92 USD (přes den až +11,6 %), od weekly 20. 11. +14,6 %: brazilská rally po jmenování Trabuca (Bradesco) ministrem financí. Cena je nad hranicí pro přikupování (~11,4 USD); signál beze změny, další test Investor Day 8. 12. | [Investing.com](https://www.investing.com/news/stock-market-news/why-is-nu-holdings-stock-rallying-today-93CH-5053610), prices.json |
 
 ## Zdroje
 

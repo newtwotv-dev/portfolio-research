@@ -1,6 +1,6 @@
 # Smart Shooter (SMSH) – dossier
 
-_Poslední aktualizace: 27. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: mimo Quartr · IR: [smart-shooter.com](https://www.smart-shooter.com/press/) · oznámení: [MAYA (TASE)](https://maya.tase.co.il), cenný papír TASE 1237742_
+_Poslední aktualizace: 28. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: mimo Quartr · IR: [smart-shooter.com](https://www.smart-shooter.com/press/) · oznámení: [MAYA (TASE)](https://maya.tase.co.il), cenný papír TASE 1237742_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -135,6 +135,7 @@ SMSH sell-side pokrytí nemá. V logu je jen makro kontext (#israel, #eu-defense
 | 27. 11. 2026 | **Výsledky Q3 (26. 11.)**: tržby 17,7 mil. USD (+119 %), hrubá marže 59 %, čistý zisk 6,2 mil., výhled 2026 52–54 mil., první objednávka z IDIQ; backlog ~41,4 mil. (−10 mil. q/q), nové zakázky 7,7 mil. Akcie +~25 % na ~16,33 ILS. **Signál 🟡 → 🟢.** Aktualizovány Signál, Snapshot, KPI, Poslední výsledky, Guidance, Katalyzátory | [Globes 26. 11.](https://www.globes.co.il/news/article.aspx?did=1001565121), [Globes 26. 11. – trh](https://globes.co.il/news/article.aspx?did=1001565016) |
 | 25.–26. 11. 2026 | 25. 11. −4,5 % na 13,11 ILS bez zprávy (Q3 ještě nevyšly) | Tracker 26. 11. |
 | 20. 11. 2026 | Rozpor ceny 18. 11. vyřešen: Bizportal potvrzuje 1 544 ILA (15,44 ILS, −3,02 %). Close 19. 11. 14,88 ILS (−3,63 %), měsíc −17,3 %, blízko 52W minima. Bez firemních zpráv | [Bizportal](https://www.bizportal.co.il/capitalmarket/quote/generalview/1237742) |
+| 28. 11. 2026 | 27. 11. TASE 1 679 ag. (+2,3 %, Globes/Bizportal; implikovaný close 26. 11. 1 641, ne 1 633), od weekly 20. 11. +15,8 %. Nové oznámení na MAYA nenalezeno. CFO (Bizportal): při tržbách ~20 mil. USD za kvartál čistá marže 25–30 %; hotovost ~57 mil. USD + 27,8 mil. vklady, bez dluhu | [Bizportal](https://www.bizportal.co.il/capitalmarket/news/article/20050287), [sponser](https://m.sponser.co.il/qoute.php?symbol=1237742) |
 
 ## Zdroje
 

@@ -1,6 +1,6 @@
 # CSG (Czechoslovak Group) (CSG) – dossier
 
-_Poslední aktualizace: 21. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [CSG (id 21954)](https://web.quartr.com/m/companies/21954) · IR: [investors.csg.com](https://investors.csg.com/case)_
+_Poslední aktualizace: 28. 11. 2026 · Tier: A · Skupina: Obrana · Quartr: [CSG (id 21954)](https://web.quartr.com/m/companies/21954) · IR: [investors.csg.com](https://investors.csg.com/case)_
 _Poslední deep dive: [companies/CSG/deep-dive-v1.md](deep-dive-v1.md), 20. 11. 2026 ([Claude Doc](https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K))_
 
 ## Signál
@@ -131,6 +131,7 @@ FY 2026: tržby 7,4–7,6 mld. EUR potvrzeny. Adj. operating EBIT marže **cca 2
 | 20. 11. 2026 | Close 19. 11. ~9,32 EUR (−1 %, Amsterdam, nepotvrzený close; Praha 231,20 Kč). Nová zmínka Bernstein: zpochybňuje délku muničního cyklu (3 vs. 10+ let) → přidáno do rizik. Signál beze změny (🟡 s negativním sklonem) | patria.cz, aktiencheck |
 | 20. 11. 2026 | **Deep dive v1**: signál 🟡 (držet, nepřikupovat), IPO teze 🔴; scénáře 35/45/20 → 5,43/12,59/22,26 EUR, vážený výnos ~21 % p. a. vs. 14–18 %; pozice převážená; doplněny teze, scénáře, Potvrdí/Vyvrátí, KPI (book-to-bill Q3 0,6, struktura backlogu), katalyzátory, broker views. Close 20. 11. vnitrodenně ~8,86 EUR (−4,9 %, nové minimum) | [deep-dive-v1](deep-dive-v1.md), [Claude Doc](https://claude.ai/artifact/BKYryLXPMitFSxrbgMBk3K) |
 | 21. 11. 2026 | 20. 11. close 8,50 EUR v Amsterdamu (−8,8 %, na denním minimu; Praha 217 CZK −6,1 %). Nové škrty cílů: Oddo 25 → 14 (Neutral), Kepler 30 → 20 (Buy), Erste 26,1 → 15,6 (Buy, 19. 11.). Signál 🟡 (držet, nepřikupovat) beze změny – spouštěče jsou fundamentální (guidance 2027) | briefs/alerts/2026-11-21.md |
+| 28. 11. 2026 | Read-across z RHM CMD (27. 11.): RHM snížil plánovanou kapacitu SMArt 155 z 1,5 na ~1,1 mil. ks, posouvá mix na ~90 % dlouhý dostřel a uvádí cenu krátkého dostřelu 2 000–2 500 EUR za ránu (dlouhý 5 000–6 000 EUR); továrnu na Ukrajině nejspíš nedokončí, protože Ukrajina si krátký/střední dostřel vyrábí sama. Potvrzuje tlak na standardní munici, kde je CSG silná (riziko pro marži, viz 🔴 podmínky) [Fakt RHM; dopad na CSG Názor]. 26. 11. JV CSG Defence (51 %) + Bochemie (49 %) na chloristan amonný v Bohumíně (~25 mil. EUR). Barclays 24. 11. cíl 19 → 8 EUR (Underweight; titulek, neověřeno). Praha 27. 11. 228,00 CZK (+1,24 %). Signál beze změny | [Quartr RHM CMD](https://web.quartr.com/m/sources/s89773892409182457341025), [fxstreet 26. 11.](https://www.fxstreet.cz/zpravodajstvi-211193.html), [fxstreet 24. 11.](https://www.fxstreet.cz/zpravodajstvi-211002.html), [Patria](https://www.patria.cz/akcie/aa0d57c0-7f3a-4223-bac0-a035bce94c18/czechoslovak-group/online.html) |
 
 ## Zdroje
 

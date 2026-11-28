@@ -1,6 +1,6 @@
 # Alibaba Group (BABA) – dossier
 
-_Poslední aktualizace: 20. 11. 2026 · Tier: A · Skupina: Čína · Quartr: [Alibaba Group (id 3609)](https://web.quartr.com/m/companies/3609) · IR: [alibabagroup.com](https://www.alibabagroup.com/en-US/ir-financial-reports-quarterly-results)_
+_Poslední aktualizace: 28. 11. 2026 · Tier: A · Skupina: Čína · Quartr: [Alibaba Group (id 3609)](https://web.quartr.com/m/companies/3609) · IR: [alibabagroup.com](https://www.alibabagroup.com/en-US/ir-financial-reports-quarterly-results)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -143,6 +143,7 @@ Formální finanční guidance Alibaba nedává. Z FQ1 FY27: růst cloudu má d�
 | 19. 11. 2026 | Novinky od 18. 11.: nové 52W minimum 81,81, close 81,90 USD (−2,93 %, 18. 11.). Aletheia zvedla cíl na 190 USD (Buy). Výsledky FQ2 FY27 19. 11. v době zpracování ještě nebyly zveřejněné | [eToro](https://www.etoro.com/markets/baba), [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/alibaba-stock-aletheia-raises-target-to-190-us-dollars-before-results/70530716), [Quartr](https://web.quartr.com/m/events/736903) |
 | 19. 11. 2026 | Research Inbox: Gavekal (12., 13. a 17. 11.) – role Alibaby v kauze Megaspeed a spekulativní riziko US sankcí; BCA 18. 11.: kontroly čipů se 3–6 měsíců zpřísní, pak obnova příměří US–Čína | log 2026-11 · Gavekal 12./13./17. 11., BCA 18. 11. |
 | 20. 11. 2026 | Výsledky FQ2 FY27: aktualizovány Signál (🟡 beze změny, smíšené), KPI, Poslední výsledky, Guidance, Katalyzátory, cena (oprava close 18. 11. na 84,37) | [Quartr FQ2](https://web.quartr.com/m/events/736903), [Reuters/BR](https://www.brecorder.com/news/40449739/alibaba-tops-revenue-estimates-on-ai-cloud-growth-profit-up-on-investment-gains) |
+| 28. 11. 2026 | 27. 11. ADR ~+4,2 % (close nedohledán, odhad ~89,90 USD): Státní rada vyzvala „národní tým“ ke stabilizaci trhu (HS Tech +6 %, STAR50 +15 %). Inbox: Gavekal (27. 11.) – pravidla pro zámořská DC a blacklist Megaspeedu omezují čínský pronájem computu v JV Asii; cla na Čínu 45 % / bez prodloužení příměří od 10. 1. až 65 %; HSBC Čína Neutral (od 9. 11.). Signál beze změny | [Blockonomi](https://blockonomi.com/alibaba-baba-stock-climbs-as-beijing-rolls-out-new-support-for-chinese-equities), log 2026-11 · Gavekal 27. 11. |
 
 ## Zdroje
 

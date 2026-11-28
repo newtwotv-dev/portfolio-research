@@ -1,6 +1,6 @@
 # TNE Korea (TNEK, 티앤이코리아) – dossier
 
-_Poslední aktualizace: 21. 11. 2026 · Tier: B (plánovaný nákup) · Skupina: Energie (návrh, viz níže) · Quartr: mimo Quartr (search_companies 18. 11. 2026 firmu nenašel) · IR: [IRGO – IR stránka 0053F0](https://m.irgo.co.kr/IR-COMP/0053F0/)_
+_Poslední aktualizace: 28. 11. 2026 · Tier: B (plánovaný nákup) · Skupina: Energie (návrh, viz níže) · Quartr: mimo Quartr (search_companies 18. 11. 2026 firmu nenašel) · IR: [IRGO – IR stránka 0053F0](https://m.irgo.co.kr/IR-COMP/0053F0/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -119,6 +119,7 @@ _Rozpor [Fakt]: **KRW: GS 1 280 vs. SG 1 410.** Silnější KRW by zvedl hodnotu
 | 21. 11. 2026 | 20. 11. close 13 320 KRW (−16,8 %, na denním minimu, pod IPO cenou 15 300); firemní zpráva nedohledána, korejský „černý pátek“ (KOSDAQ −5,7 %). Tier B – plná kontrola v pondělí | briefs/alerts/2026-11-21.md, [investing.com](https://www.investing.com/equities/tne-korea) |
 | 23. 11. 2026 | Týdenní kontrola (tier B): 23. 11. vnitrodenně 12 220 KRW (−7,8 % ve 14:35 KST), pod 52W minimem 12 950 a ~20 % pod IPO cenou 15 300. Firemní zprávy ani oznámení za 20.–23. 11. nenalezeny; tlak slabý KOSDAQ a blížící se 1M lock-up (~29. 11.). StockHub uvádí close 20. 11. 13 250 KRW vs. kokstock 13 320 (rozpor). Signál 🟡 beze změny | [StockHub](https://stockhub.kr/stock/0053F0), [kokstock](https://www.kokstock.com/stock/item.asp?item_cd=0053F0), briefs/portfolio/2026-11-23.md |
 | 27. 11. 2026 | 26. 11. close 11 600 KRW (+5,8 %, etoday), 27. 11. vnitrodenně 13 210 KRW (+13,9 %, StockHub 14:39 KST) bez firemní zprávy – rally nově kotovaných titulů (widedaily). Odraz po −10 % 25. 11. Inbox: SG Asia 2027 drží Kospi Neutral (long TW / short KR), korejské non-tech capex tituly ponechává jako téma; GS: KRW nejodolnější z EM. Uvolnění 1M lock-upů ~29. 11. | [etoday](https://www.etoday.co.kr/market/mkt_stkinfo?varIssCd=0053F0), [StockHub](https://stockhub.kr/stock/0053F0), [widedaily](https://www.widedaily.com/news/articleView.html?idxno=305023), log 2026-11 · SG 26. 11., GS 25. 11. |
+| 28. 11. 2026 | 27. 11. KOSDAQ close 13 030 KRW (+12,3 %, investing.com; judal 12 820) při KOSDAQ +8,1 % (naděje na stabilizační fond) a rally letošních IPO (téma +7,35 %); firemní zpráva ani DART oznámení nenalezeny. Lock-up 1M ~29. 11. | [Wide Daily](https://www.widedaily.com/news/articleView.html?idxno=305023), prices.json |
 
 ## Zdroje
 

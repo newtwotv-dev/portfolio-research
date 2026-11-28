@@ -8,8 +8,8 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | 25. 11. 2026 | makro | US core PCE (říjen), HDP Q3 2. odhad – **proběhlo** | core +0,3 % m/m, **3,3 % r/r** (odhad 3,2 %); HDP Q3 +4,3 % (odhad 3,6 %); FedWatch 97–98 % na hike 9. 12. | [stockanalysis](https://stockanalysis.com/news/us-pce-inflation-october-2026/) |
 | 26. 11. 2026 | makro | TNEK – Bank of Korea, rozhodnutí o sazbách – **proběhlo** | +25 bp na 3,25 % (Gavekal Daily 26. 11.) | Gavekal, 26. 11. 2026 |
 | 26. 11. 2026 | makro | US Thanksgiving (trhy zavřené), zápis ECB; 27. 11. zkrácený obchod do 13:00 ET | | newsquawk / Hawkeye 22. 11. |
-| 27. 11. 2026 | CMD | RHM – Capital Markets Day (Hamburk, webcast od 10:00 SEČ) | nové cíle 2030; konsenzus tržeb ~35,6 mld. EUR vs. dosavadních ~50 mld. (Barclays 35–40 mld. při marži ~19 %, RBC cíl 1 300 EUR) | [Quartr](https://web.quartr.com/m/events/683576) |
-| 27. 11. 2026 | makro | Francie flash CPI (listopad) | oček. 3,8 % – ECB, #france-fiscal | Simply Wall St 23. 11. |
+| 27. 11. 2026 | CMD | RHM – Capital Markets Day – **proběhlo** | cíle 2030 tržby 33–37 mld. EUR, marže ~20 %, cash conversion >50 %; guidance 2027 v 1Q27; akcie +3,3 % na 791,10 EUR (alert 28. 11.) | [Quartr](https://web.quartr.com/m/events/683576) |
+| 27. 11. 2026 | makro | Francie flash CPI (listopad) – **proběhlo** | výsledek v tomto běhu nedohledán (oček. 3,8 %) – ECB, #france-fiscal | Simply Wall St 23. 11. |
 | 29. 11. 2026 | makro | OPEC+ (7 zemí s dobrovolnými škrty) | VTS +, TUI1 − při prodloužení škrtů | [OPEC](https://www.opec.org/pr-detail/2033620-1-november-2026.html) |
 | ~29. 11. 2026 | lock-up | TNEK – uvolnění 1M lock-upů | free float 31 % → 47 % [Odhad] | Eugene IPO report, 7. 10. 2026 |
 | 26. 11. 2026 | earnings | SMSH – výsledky Q3 2026 – **proběhlo** | tržby 17,7 mil. USD (+119 %), hrubá marže 59 %, čistý zisk 6,2 mil., výhled 2026 52–54 mil.; akcie +~25 % (alert 27. 11.) | [Globes](https://www.globes.co.il/news/article.aspx?did=1001565121) |
@@ -60,6 +60,7 @@ _[Odhad] = datum dopočtené, ne oznámené firmou._
 | ~29. 1. 2027 | lock-up | TNEK – uvolnění 3M lock-upů | free float → 69 % [Odhad] | Eugene IPO report |
 | 30. 1. 2027 | lock-up | VST – konec lock-upu 5 mil. akcií Q-Generation | možný převis nabídky | SEC 424B7, 9. 11. 2026 |
 | 1Q 2027 | zakázka | RHM – podpis Arminius (Boxer) | posunuto z 2026 kvůli cenovým auditům | [Quartr Q3](https://web.quartr.com/m/events/535888) |
+| 1Q 2027 | guidance | RHM – guidance 2027 (první rok cesty k cílům 2030) | ohlášeno na CMD 27. 11. | [Quartr](https://web.quartr.com/m/sources/s306872777837547077497) |
 | 2. 2. 2027 | earnings | PFE – výsledky Q4 2026 | | Quartr event 791903 |
 | 3. 2. 2027 | earnings | NOVO – výsledky FY 2026 + guidance 2027 | | Quartr event 728062 |
 | 5. 2. 2027 | AGM | TKA – valná hromada | dividenda | IR kalendář |

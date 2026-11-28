@@ -1,6 +1,6 @@
 # Inter & Co (INTR) – dossier
 
-_Poslední aktualizace: 18. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [14505](https://web.quartr.com/m/companies/14505) · IR: [investors.inter.co](https://investors.inter.co/en/)_
+_Poslední aktualizace: 28. 11. 2026 · Tier: A · Skupina: Fintech · Quartr: [14505](https://web.quartr.com/m/companies/14505) · IR: [investors.inter.co](https://investors.inter.co/en/)_
 _Poslední deep dive: zatím ne_
 
 ## Signál
@@ -114,6 +114,7 @@ Inter je brazilská digitální banka se super appkou: běžné účty, Pix a ka
 |---|---|---|
 | 18. 11. 2026 | Založen dossier (onboarding), signál 🟡 Sledovat, quartr_id 14505 ověřen | [Quartr](https://web.quartr.com/m/companies/14505) |
 | 18. 11. 2026 | Novinky 11.–18. 11.: výsledky 3Q26 (zisk +26 % r/r, EPS mírně pod konsenzem, NPL 90+ 5,3 %) | [Quartr Q3 2026](https://web.quartr.com/m/events/713120) |
+| 28. 11. 2026 | 27. 11. +16,2 % na 4,66 USD (od weekly 20. 11. +29 %): brazilská rally po jmenování předsedy Bradesca L. C. Trabuca ministrem financí (od 2027), trh to čte jako signál fiskální disciplíny; EWZ +9,8 %, Bradesco BBI zvýšil brazilské akcie na OW. Firemní zpráva žádná. Zároveň Gavekal (27. 11.): Brazílie hrozí odvetou za US cla, BÚ 12M −2,3 % HDP. Signál 🟡 beze změny (pohyb je makro, ne fundamenty; přesto posun směrem k 🟢 podmínce „fiskál nevyžene sazby výš“) [Názor] | [StockTitan](https://www.stocktitan.net/articles/stock-market-today-live-november-27-2026), [Longbridge](https://longbridge.com/en/news/307048010), log 2026-11 · Gavekal 27. 11. |
 
 ## Zdroje
 
